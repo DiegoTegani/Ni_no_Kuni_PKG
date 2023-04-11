@@ -11113,34 +11113,34 @@ Lá vamos nós de novo! O que é tudo isso sobre cerimônias sagradas e bênçã
 Oh, nós os vimos com certeza!<NL>Aquelas pessoas não são abençoadas, elas estão...
 Com o coração partido. Parece que algumas bênçãos não valem a pena serem contadas...
 ¿Qué? O que o homem disse, vovó?<NL>Nossos corações... estão quebrados?
-Não preste atenção, querido. As bênçãos que recebemos levantaram o medo de nossos corações.
-Você sabia quantas cidades nesta terra foram apagadas do mapa pelo Djinn Sombrio?
-Mas vocês não podem simplesmente desistir! Vocês têm que enfrentar Shadar!
+Não preste atenção, querido. As bênçãos que recebemos dissiparam o medo de nossos corações.
+Você sabe quantas cidades nesta terra foram apagadas do mapa pelo Djinn das Trevas?
+Mas você não pode simplesmente desistir! Você precisa enfrentar o Shadar de frente!
 ...Deixe-me dar uma olhada em você, niño.<NL>Ah, você é um mago, não é?
-Como vocês podem saber o que é não ter magia, poder, nada além de medo no coração?
+Como você pode saber o que é não ter magia, nenhum poder, nada além de medo em seu coração?
 M-Mas, senhora... Você não pode deixar seu coração ser partido só porque isso a impede de sentir medo!
-Ele tem razão! Qual é o sentido de uma bênção como essa? <NL>Você também pode ter seu coração partido por Shadar!
+Ele está certo! Qual é o sentido de uma bênção assim? <NL>É como ter seu coração partido por Shadar!
 Hmph. Nina, cariño...está quase na hora de começar a cerimônia.
 Finalmente chegou a hora de você se juntar a nós.<NL>É hora de você ser abençoado.
 Eu estou pronto, yaya!
-Então deixe-nos ir. Não devemos deixar a rainha Khulan esperando.
-Não tenho certeza se a rainha Khulan vai ajudar muito, sabe...
-Não se for ela quem distribui essas chamadas "bênçãos"...
-Mas se não fizermos alguma coisa, aquela garotinha vai acabar como todo mundo. Temos que ir atrás deles!
+Então, vamos. Não devemos fazer a Rainha Khulan esperar.
+Não tenho tanta certeza de que a Rainha Khulan será de muita ajuda, sabe...
+Principalmente se ela for a responsável por distribuir essas supostas 'bênçãos'...
+Mas se não fizermos algo, aquela menina vai acabar como todos os outros. Temos que ir atrás deles!
 
 evk0060_text_en.cfg.bin.txt
 Pronto, Nina. Vai acabar logo.<NL>Boa menina, cariño...
 <KEEP>
-Eba!
+Yaya!
 Podemos começar a cerimônia?
 Está tudo em ordem, Rainha Khulan.
 <KEEP>
 É ela!
 A Rainha dos Céus!
-Encontramos Khulan!
+Nós encontramos a Khulan!
 Estou com um mau pressentimento sobre isso...
-Dá uma olhada nos olhos dela, sim?<NL>Eles são todos esquisitos!
-Eita! Ela está com o coração partido!
+Olha só para os olhos dela, você viu?<NL>Estão estranhos!
+Caramba! Ela está com o coração partido!
 Shadar deve ter feito isso quando atacou Xanadu!
 Então agora sabemos por que ela não fez nada de bom, distribuindo as chamadas "bênçãos".
 Mas se não fizermos algo, Nina também ficará com o coração partido.
