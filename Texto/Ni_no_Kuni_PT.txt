@@ -554,7 +554,7 @@ Cassiopeia assumiu a forma de uma fera furiosa, atacando com o poder do mais pro
 O Conselho dos Doze ganhou vontade própria e criou uma nova Bruxa Branca.
 A verdadeira forma do conselho que Cassiopeia criou em sua mente. Seu poder é a chave para detê-los.
 Cruelmente transformado pelo maná, o Rei de Ding Dong Dell ataca ferozmente com suas garras.
-Cruelmente transformado pelo maná, o Cowlipha de Al-Mamoon ataca com força avassaladora.
+Cruelmente transformado pelo maná, o Vacalifa de Al-Mamoon ataca com força avassaladora.
 Transformado por maná, a armadura reforçada deste tanque Hamelin evita ataques regulares com facilidade.
 Este ser está no centro de todas as coisas e existe desde o início dos tempos.
 Este ser eterno sempre estará lá se um desafiante tentar batalhar com ele.
@@ -6642,9 +6642,9 @@ Oliver, foi você quem me ensinou isso.<NL>Você tem meus agradecimentos.
 <KEEP>
 De nada, Sr. Rashaad!
 Eu me juntarei a você na luta contra o Shadar.
-Em breve chegará o dia em que o Clarion ecoará pela terra mais uma vez.
+Em breve chegará o dia em que a Triflauta ecoará pela terra mais uma vez.
 <KEEP>
-O Clarion?
+O Triflauta?
 Oh, é uma velha história bem antiga.
 Quando o mundo estava em paz, tipo.
 Os três reis do nosso mundo combinaram suas habilidades e conhecimentos para criar uma flauta que simbolizava a grande paz.
@@ -6652,11 +6652,11 @@ Os três reis do nosso mundo combinaram suas habilidades e conhecimentos para cr
 <KEEP>
 O som dessa flauta passou a representar a unidade das nações do mundo.
 <KEEP>
-Quanto tempo se passou desde que o chamado do Clarion foi ouvido...?
+Quanto tempo se passou desde que o chamado da Triflauta foi ouvido...?
 <KEEP>
 Desde que os três reis se meteram<NL>em uma velha encrenca e caíram, eu ouvi...
 Depende de nós!
-O Clarion vai soar de novo,<NL>e seremos nós que vamos tocá-lo!
+O Triflauta vai soar de novo,<NL>e seremos nós que vamos tocá-lo!
 <KEEP>
 Muito bem, filha. Façamos o nosso melhor.<NL>Vamos ajudar o Oliver em sua luta.
 <KEEP>
@@ -7315,9 +7315,9 @@ Você é uma fada? Eu viajei pelo mundo, mas nunca vi um de sua espécie antes..
 Então, rapaz, você viaja para salvar o mundo com uma fada como<NL>uma companhia?
 Ha ha ha! Então certamente meu navio sozinho não será suficiente!<NL>Você precisará de dois navios! Uma frota, até! Ha ha ha!
 Uh, isso significa que podemos ir com você?
-Mas é claro, rapaz! Assim que você me mostrar uma <color:#1>carta de passagem</color> da nossa amada Cowlipha, a mais exaltada Lowlah!
+Mas é claro, rapaz! Assim que você me mostrar uma <color:#1>carta de passagem</color> da nossa amada Vacalifa, a mais exaltada Lowlah!
 Afinal, navegamos para a glória dela e para a de Al Mamoon!
-Se a Cowlipha achar conveniente conceder-lhe permissão para subir a bordo, não lhe recusarei nada!
+Se a Vacalifa achar conveniente conceder-lhe permissão para subir a bordo, não lhe recusarei nada!
 Tudo bem, capitão.<NL>Vamos pegar a carta agora mesmo.
 Ha ha ha! <NL> Belas palavras, rapaz, mas é mais fácil dizer do que fazer, eu temo!
 Ainda assim, se você realmente deseja salvar nosso mundo, deve ser o trabalho de meros momentos!
@@ -7326,11 +7326,11 @@ Ha ha ha!
 Não importa.<NL>Só temos que provar que ele está errado.
 Se pudermos levar a ele aquela <color:#1>carta de passagem</color>, ele terá que acreditar em nós!
 Vamos voltar para <color:#1>Al Mamoon</color> e pegar essa carta!
-Cowlipha Lowlah, hein? Eu me pergunto como ela é...<NL>Estou ansioso por isso. Eu amo a realeza, eu!
+Vacalifa Lowlah, hein? Eu me pergunto como ela é...<NL>Estou ansioso por isso. Eu amo a realeza, eu!
 
 evd0025_text_en.cfg.bin.txt
 Então, para onde precisamos ir, exatamente?
-Você não estava ouvindo, orelhas de pano?<NL>Aonde está a Cowlipha, não é mesmo?<NL>O palácio, mun, o palácio!
+Você não estava ouvindo, orelhas de pano?<NL>Aonde está a Vacalifa, não é mesmo?<NL>O palácio, mun, o palácio!
 Fica depois da praça principal, Oliver!<NL>Vou te mostrar o caminho!
 Hã?
 Hum?
@@ -7364,21 +7364,21 @@ Claro! Vamos!
 evd0030_text_en.cfg.bin.txt
 Beleza! Aqui é o palácio!<NL>Vamos entrar, certo?
 Pare! Você não pode passar!
-Você acha que pode simplesmente entrar no palácio da nossa mais reverenciada Cowlipha sem avisar?
+Você acha que pode simplesmente entrar no palácio da nossa mais reverenciada Vacalifa sem avisar?
 O que parece ser o problema aqui?
 Mestre Abul!
 Esses malfeitores estavam tentando entrar no palácio sem permissão!
 É isso mesmo? Espere, você é a filha do comerciante de babana, não é?
-Eu sou Abull, vizir da nossa estimada Cowlipha. Os esforços do seu pai para suprir Sua Magnificência com babanas são, como sempre, muito apreciados.
+Eu sou Abull, vizir da nossa estimada Vacalifa. Os esforços do seu pai para suprir Sua Magnificência com babanas são, como sempre, muito apreciados.
 Ouvi dizer que você estava... indisposta.<NL>Parece que você está recuperada.
 Sim, estou bem melhor agora, obrigada!
 Isso é uma excelente notícia.
 Diga-me, criança, o que você veio fazer no palácio?
-Bem, senhor, veja bem, precisamos de um navio, e não podemos conseguir um sem uma carta de passagem da Cowlipha!
+Bem, senhor, veja bem, precisamos de um navio, e não podemos conseguir um sem uma carta de passagem da Vacalifa!
 Você e seus amigos desejam viajar para as terras do outro lado do mar...
 Eu compreendo. E eu adoraria arranjar uma audiência para você. No entanto...
 Algo está errado?
-Receio que a Cowlipha esteja... indisposta. Por mais que isso a agradasse, ela atualmente não consegue ouvir os pedidos de nenhum de seus súditos.
+Receio que a Vacalifa esteja... indisposta. Por mais que isso a agradasse, ela atualmente não consegue ouvir os pedidos de nenhum de seus súditos.
 Oh isso é muito ruim...
 Peço desculpas, mas ela pediu para não ser incomodada em hipótese alguma durante o lanche da tarde.
 Então acho que teremos que esperar até depois disso...
@@ -7386,28 +7386,28 @@ Você poderia, mas o lanche da tarde é imediatamente seguido por seu segundo al
 E depois disso?
 Aí vem o lanchinho dela no final da tarde...
 Hum ... há algum momento em que ela não está comendo?
-Infelizmente, a fome milagrosa de seu Moojestade determina que ela jante mesmo durante as horas de sono...
+Infelizmente, a fome milagrosa de seu Vacalifa determina que ela jante mesmo durante as horas de sono...
 É por isso que sou forçado a gastar todas as minhas <NL>horas de vigília procurando sua comida mais amada... Ah!<NL>Mas eu devo ir!
 Sua comida favorita?<NL>Eu me pergunto o que poderia ser...
 Me perdoe! Devo tomar as providências necessárias antes que os suprimentos dos mercadores se esgotem!
 Lamento muito não poder conceder-lhe<NL>uma audiência.
-Maldições! Eu tenho que me apressar! Se eu não puder preparar a próxima refeição de Sua Moojestade a tempo, ela ficará muito descontente!
+Maldições! Eu tenho que me apressar! Se eu não puder preparar a próxima refeição de Sua Vacalifa a tempo, ela ficará muito descontente!
 Mestre Abull falou.<NL>Saia deste lugar.
 Parece que não temos muita escolha, Oliver.<NL>Vamos, voltaremos mais tarde.
-Então... a Cowlipha tem uma comida favorita muito especial, não é mesmo?
+Então... a Vacalifa tem uma comida favorita muito especial, não é mesmo?
 Ei, aposto que se descobríssemos o que é e levássemos um pouco de presente para ela, poderíamos vê-la!
 É uma boa ideia, Esther!<NL>Mas não sabemos qual é a comida favorita dela...
 Oi, oi, Olliezinho!<NL>Você sabe como podemos descobrir, não é!
 Hum...
 Vamos, lento treinador! Nós vamos ao seu mundo e encontramos a alma gêmea dela, não é?
-Claro! Se encontrarmos a alma gêmea dela, poderemos descobrir qual é a comida favorita deles e dar um pouco para a Cowlipha!
-Mas como descobriremos quem é a alma gêmea da Cowlipha?
+Claro! Se encontrarmos a alma gêmea dela, poderemos descobrir qual é a comida favorita deles e dar um pouco para a Vacalifa!
+Mas como descobriremos quem é a alma gêmea da Vacalifa?
 Eu nunca a vi antes...
-Hmm, então precisamos descobrir como é a Cowlipha, mas não podemos ir encontrá-la...
+Hmm, então precisamos descobrir como é a Vacalifa, mas não podemos ir encontrá-la...
 Mas se não podemos encontrá-la, como vamos descobrir como ela é?
 Eu a vi uma vez em um desfile quando era pequena, mas faz tanto tempo que não consigo me lembrar de nada dela...
 Então o que faremos?<NL>Caramba...
-Não sabemos qual é a comida preferida da Cowlipha, e não sabemos como ela é...
+Não sabemos qual é a comida preferida da Vacalifa, e não sabemos como ela é...
 Tenho que confessar, também estou completamente sem ideias.
 Bah, todo esse pensamento está fazendo minha cabeça doer, mun!
 Bem... acho que estou um pouco cansado...
@@ -7429,11 +7429,11 @@ Não é esse o artista que...?
 Eu me pergunto como a foto dele se saiu?
 Ohhh, como eu queria ver!<NL>Agora, por favor, pendure-o aqui...
 Finalmente, a grande revelação!
-Oh, minha amada Cowlipha!
-Então a pessoa que ele pensou que eu parecia era...<NL>a Cowlipha?
+Oh, minha amada Vacalifa!
+Então a pessoa que ele pensou que eu parecia era...<NL>a Vacalifa?
 <KEEP>
 Que chique! Não é todo dia que você é comparada à realeza.
-Agora, deleite seus olhos com a beleza divina de Sua mais admirada Moojestade!
+Agora, deleite seus olhos com a beleza divina de Sua mais admirada Vacalifa!
 <KEEP>
 Hã?
 Mas isso é-
@@ -7453,7 +7453,7 @@ Sr. Drippy!
 ...Eh?<NL>O que foi, mun?<NL>Isso está ficando interessante...
 Precisamos ir para Motorville agora!<NL>Acabei de perceber quem precisamos ver!
 Você percebeu, hein?
-Com certeza! <color:#1>Dona Leila</color> é a alma gêmea da Cowlipha, só sei que é!
+Com certeza! <color:#1>Dona Leila</color> é a alma gêmea da Vacalifa, só sei que é!
 Claro que ela é!<NL>Você é esperto, Olliezinho!
 Obrigado, Sr. Drippy!<NL>Quando vi aquela foto, eu soube imediatamente!
 Certo, vamos nos mover então, certo?<NL>Não me sinto cansado de repente!
@@ -7479,7 +7479,7 @@ Espere um momento, vou abrir para você!
 Quem é essa garota?<NL>Eu sinto que...
 Como se você a conhecesse de alguma forma?
 Sim! E ela se parece comigo!<NL>É como se ela fosse minha gêmea há muito perdida ou algo assim!
-Ela se parece muito mais comigo do que com a estúpida<NL>velha Cowlipha!
+Ela se parece muito mais comigo do que com a estúpida<NL>velha Vacalifa!
 Hum? Ela não pode me ver ou algo assim?
 Há percepção de você.<NL>Ela não pode ver você, nem eu também.
 Sério...? Então eu sou invisível?<NL>Que sensação estranha...
@@ -7505,7 +7505,7 @@ Sim, dona Leila!<NL>Vou buscar agora mesmo!
 Ai não adianta! Eu simplesmente não posso esperar tanto tempo! Tenho alguns na loja, querida. Você fica aqui fora e limpa ou algo assim...
 Nossa! Nunca vi ninguém tão louca por sua <NL>comida favorita...
 O que foi isso?<NL>Ela disse "comida favorita"?
-Ei, Olliezinho — aposto que é igual ao da Cowlipha!
+Ei, Olliezinho — aposto que é igual ao da Vacalifa!
 Você está certo!<NL>Vamos descobrir o que é!
 Até breve, Myrtle!
 
@@ -7549,7 +7549,7 @@ Oliver!<NL>O que há de errado?
 Oh, Oi Pea...
 Precisamos de um pouco de queijo...
 ..."Queijo"?
-Isso mesmo.<NL>É a comida favorita da Cowlipha...
+Isso mesmo.<NL>É a comida favorita da Vacalifa...
 Com quem ele está falando?
 Deve ser seu amigo imaginário de novo.<NL>Aqui vamos nós...
 Hã? Podemos fazer isso?<NL>Fazer o nosso próprio queijo?
@@ -7609,19 +7609,19 @@ Olha o tamanho disso, mun!<NL>E você foi e fez alguns doces e tudo!
 Isso foi culpa da Esther...
 Hee hee! Aposto que você também queria um pouco, não é?
 Você não deve distrair alguém quando ele está tentando lançar um feitiço...
-Ah, não fique assim. Agora podemos ir ver a Cowlipha! Nosso presente é um pouco grande demais, mas acho que não fará diferença.
+Ah, não fique assim. Agora podemos ir ver a Vacalifa! Nosso presente é um pouco grande demais, mas acho que não fará diferença.
 Quanto maior melhor, eu acho!<NL>Vamos agradá-la com queijo!
 
 evd0060_text_en.cfg.bin.txt
 (ronco)
-Caramba!<NL>Essa é a Cowlipha!?
+Caramba!<NL>Essa é a Vacalifa!?
 <KEEP>
 Ela provavelmente ficou assim por causa do—
 Shadar, o podre fedorento!
 O que é esse aroma divino?
 Um touro!
 Aqui, vossa Muujestade!
-Generosa Cowlipha, esses humildes servos vêm trazendo o mais delicioso tributo.
+Generosa Vacalifa, esses humildes servos vêm trazendo o mais delicioso tributo.
 <KEEP>
 Céus! Que criança querida e adorável.
 Traga já pra gente, tá bom menino!
@@ -7639,7 +7639,7 @@ Você tem mais para nós?
 Mais?
 Maaais!<NL>Traga-nos maaaais!
 <KEEP>
-Magnânima Cowlipha, se você continuar a comer tão prodigiosamente, temo que possa explodir.
+Magnânima Vacalifa, se você continuar a comer tão prodigiosamente, temo que possa explodir.
 <KEEP>
 Abull!<NL>Estamos com fome!
 <KEEP>
@@ -7687,12 +7687,12 @@ Mmmyaahhhh!
 Meu Deus! Estamos nos sentindo...maravilhosamente bem!<NL>O que nos pode ter acontecido?
 <KEEP>
 Esses humildes servos tornaram o coração doente de Vossa Muujestade inteiro novamente.
-Eu rezo para que o apetite mais generoso da nossa amada Cowlipha tenha diminuído?
+Eu rezo para que o apetite mais generoso da nossa amada Vacalifa tenha diminuído?
 Bem, ainda queremos aproveitar as...<NL>coisas boas da vida, é claro...
 ...mas sentimos que uma medida de contenção gastronómica pode servir para dar um bom exemplo aos nossos <NL>mais queridos súbditos.
 Suas palavras são música para os ouvidos de seu povo.<NL>Al Mamoon pode retornar à sua antiga magnificência.
 Na verdade, pode. <NL>E estamos simplesmente ansiosos para voltar ao nosso trabalho!
-Munificente Cowlipha... Esses humildes servos não deveriam ser recompensados por seus serviços a Al Mamoon?
+Munificente Vacalifa... Esses humildes servos não deveriam ser recompensados por seus serviços a Al Mamoon?
 É claro que deveriam.<NL>Rapaz, há algo que você deseja?
 Sim, Vossa Muujestade. Se não for muito incômodo...
 Bem? O que é?
@@ -7712,7 +7712,7 @@ Vá em frente, mun.
 ...OK.
 Precisamos encontrar um dos Grandes Sábios.
 Os Grandes Sábios? Mmm... Sim, estamos cientes deles. Abull, nós os conhecemos, não é?
-De fato, a maioria conheceu Cowlipha. Mas pouco se ouviu falar de tais homens desde que as artes mágicas caíram em desuso.
+De fato, a maioria conheceu Vacalifa. Mas pouco se ouviu falar de tais homens desde que as artes mágicas caíram em desuso.
 Por que vocês procuram os Grandes Sábios, viajantes?
 Precisamos da ajuda deles.<NL>Precisamos do poder deles para derrotar... o Shadar.
 Hã! O que!?
@@ -7782,7 +7782,7 @@ Droga!<NL>Você de novo não...
 Você voltou, rapaz!<NL>Muito bem!
 Espere... a carta de passagem... é sua?
 Sim, capitão!<NL>Ele roubou de nós!
-Assim como eu pensei. A Cowlipha jamais concederia tal privilégio a um criminoso habitual! Vá embora!
+Assim como eu pensei. A Vacalifa jamais concederia tal privilégio a um criminoso habitual! Vá embora!
 Então isso significa que você não vai me levar?<NL>Mas... Mas... Você não percebe...?
 Você não consegue entender, é tudo para ele?<NL>Eu tenho que ir para o Império!<NL>Aaargh!!!
 O que é isso?
@@ -7803,7 +7803,7 @@ Calem a boca, todos vocês!<NL>Afastem-se de mim!
 Se você der um passo mais perto, eu vou...<NL>Eu vou rasgar sua preciosa foto em pedacinhos!
 Caramba!<NL>O que devemos fazer, Sr. Drippy?<NL>Acho que ele ainda está com o coração partido...
 O que ele está perdendo, porém, eu me pergunto...
-Ahhh entendi! Igual a Cowlipha, não é? Ele não tem <color:#1>moderação</color>, então ele não consegue evitar, ele apenas corre por aí beliscando as coisas a torto e a direito!
+Ahhh entendi! Igual a Vacalifa, não é? Ele não tem <color:#1>moderação</color>, então ele não consegue evitar, ele apenas corre por aí beliscando as coisas a torto e a direito!
 Portanto, precisamos encontrar um pouco mais de <color:#1>moderação</color>, não é?
 Mas onde vamos procurar?<NL>Abull já compartilhou o dele conosco...
 É aqui que o seu <color:#1>Medalhão</color> é útil, não é, Olliezinho? A Encosta Abandonada não é muito grande - encontraremos alguma moderação em pouco tempo!
@@ -9032,7 +9032,7 @@ O Palácio?
 Você vê como todos aqui são forçados a usar uma máscara de porco? Bem, eles dizem que há um sujeito que anda por aí<NL>sem um.
 Aparentemente, ele se autodenomina servo do príncipe.
 tem mais. Dizem que é um jovem de cabelos compridos e feições finas...
-Espere! Parece o menino da foto que tiramos do Cowlipha!
+Espere! Parece o menino da foto que tiramos do Vacalifa!
 Entendi em um!
 Bondade! E lá estava eu pensando que você era <NL>completamente inútil!
 Isso é duro!<NL>Não mede as palavras, não é?
@@ -11340,155 +11340,155 @@ Se um viajante descuidado for envolvido pela névoa escura pela qual os pântano
 Espere um segundo! Os Pântanos de Miasma?<NL>E-eu...
 O que é, Ester? Você já ouviu falar deles?
 É algo de que meu pai falou uma vez. Ele me contou de uma névoa tão escura que nenhuma luz podia penetrá-la...<NL>o miasma.
-Ele disse que a única maneira de limpá-lo era com a chamada do <color:#1>Clarion</color>.
-O Clarion! Lembro-me de você dizer que nós seríamos os que o tocariam novamente, Esther!
-Sim! O Clarion é um símbolo de paz que foi criado pelos três reis deste mundo. Agora, qual era a rima...?
-"Em Ding Dong Dell eles esculpem bem aquela velha madeira de Mamooni e a levam para Hamelin, para fazê-la soar tão bem!"
+Ele disse que a única maneira de limpá-lo era com a chamada do <color:#1>Triflauta</color>.
+O Triflauta! Lembro de você dizer que seríamos nós a tocá-lo novamente, Esther!
+Sim! O Triflauta é um símbolo de paz que foi criado pelos três reis deste mundo. Agora, qual era a rima...?
+Em Ding Dong Dell entalham com zelo, a madeira de Mamooni no cutelo. Levam para Hamelin com prazer, para fazê-la soar, de encher de prazer!
 Estou impressionado com seu conhecimento, Esther.<NL>Mas então, você é a filha de um Grande Sábio.
-Ah, é só uma rima que aprendi quando era pequeno...
-Então, se dermos uma boa buzina neste Clarion, ele nos abrirá caminho através dos Pântanos de Miasma, não é?
-Está correto. E a primeira coisa que você precisa para fazer o Clarion é a <color:#1>madeira sagrada</color>.
-"...aquela velha <color:#1>madeira Mamooni</color>..."<NL>Acho que é hora de fazermos uma visita ao Cowlipha!
+Ah, é só uma rima que aprendi quando era pequena...
+Então, se dermos uma boa buzinada nesta Triflauta, ele nos abrirá um caminho através dos Pântanos do Miasma, não é mesmo?
+Isso mesmo, e a primeira coisa que você precisa para fazer a Triflauta é a <color:#1>madeira sagrada</color>.
+"...aquela velha <color:#1>madeira Mamooni</color>..."<NL>Acho que é hora de fazermos uma visita a Vacalifa!
 
 evk0100_text_en.cfg.bin.txt
-É bom vê-lo novamente, seu Moojesty.
-Eu digo! Você voltou! Agora, diga-me, rapaz, você já localizou aquele jovem bonito na foto que tão generosamente lhe demos?
-Sim, nós o encontramos, seu Moojesty! E agora o príncipe Marcassin está de volta ao que era antes.
-Essa foto sua acabou sendo muito útil no final, Youer Moojesty. Mesmo que você só tivesse porque tinha uma queda pelo pobre rapaz...
+É bom vê-lo novamente, Vossa Moojestade.
+Olhe só! Você voltou! Agora me diga, rapaz, você localizou aquele belo jovem na foto que generosamente lhe demos?
+Sim, nós o encontramos, Vossa Moojestade! E agora o príncipe Marcassin está de volta ao que era antes.
+Essa foto sua acabou sendo muito útil no final, Vossa Moojestade. Mesmo que você só tivesse porque tinha uma queda pelo pobre rapaz...
 Hm hm hm!<NL>Estamos muito satisfeitos em saber que você alcançou seus objetivos. Mas o que o traz de volta para nós, por favor diga?
-Umm... Seu Moojesty, você já ouviu falar do <color:#1>Clarion</color>?
-De fato temos! Devemos entender que você precisa do instrumento mencionado acima? É o tempo finalmente à mão?
-Isso mesmo, Moojesty!<NL>Precisamos dele para atravessar os Pântanos de Miasma.
-Um touro! Você ouviu o jovem!<NL>Pegue você sabe o que agora!
-S-Sim, Bovinity mais abundante...
+Umm... Vossa Moojestade, você já ouviu falar da <color:#1>Triflauta</color>?
+De fato! Devemos entender que vocês precisam do instrumento mencionado? Será que finalmente chegou a hora?
+Isso mesmo, Moojestade!<NL>Precisamos dela para atravessar os Pântanos de Miasma.
+Abull! Você ouviu o jovem! Traga o<NL>Sabe-se-lá-o-que imediatamente!
+Sim, Generosa Bovinidade...
 Apresento a vocês a madeira sagrada!
 <KEEP>
-Hum hum hum! Guarde aquela madeira com suas vidas, não é mesmo? Quem pode dizer quanto tempo levará para outro galho como aquele crescer.
-Puxa! Obrigado, Moojesty!<NL>Isso significa que podemos lutar contra Shadar!
-Então você realmente pretende enfrentá-lo? Diga-nos, você está familiarizado com os eventos das Guerras dos Magos?
-Sim, seu Moojesty. Eu ouvi algo sobre eles.<NL>O mundo inteiro estava em guerra, não estava?
+Hm hm hm! Guardem essa madeira como se fosse suas vidas, não é mesmo? Quem pode dizer quanto tempo levará para crescer outro galho assim.
+Puxa! Obrigado, Moojestade!<NL>Isso significa que podemos lutar contra Shadar!
+Então você realmente pretende enfrentá-lo? Diga-nos, você ja ouviu falar dos eventos das Guerras dos Magos?
+Sim, Vossa Moojestade, eu ouvi algo sobre eles.<NL>O mundo inteiro estava em guerra, não estava?
 Foi um caso muito prolongado e sangrento. E no final, apenas três reinos permaneceram: Al Mamoon, Ding Dong Dell e Hamelin.
-As três famílias governantes juraram então manter a paz, e o Clarion serviu para simbolizar sua promessa sagrada.
+As três famílias governantes juraram então manter a paz, e a Triflauta serviu para simbolizar sua promessa sagrada.
 Mas quando a sombra do Djin Sombrio caiu sobre o mundo, nossos três reinos foram levados a uma série simplesmente assustadora de disputas.
-Em retrospecto, é lamentável que não tenhamos unido forças e feito um novo Clarion naquela época...
-Junte forças, seu Moojesty?
-Isso mesmo, rapaz. Agora, se bem nos lembramos, você já visitou cada um dos três reinos...
-Isso mesmo, Youer Moojesty! Somos amigos íntimos dos grandes... erm... queijos de todos os reinos!
-Hum hum hum! Diverte-nos pensar que um menino querido deve ser o único a consertar as pontes entre <NL>nossos reinos.
-Uh ... obrigado, seu Moojesty.
-Sim, obrigado, Moojesty! Adoraríamos ficar e conversar, mas este Clarion não se faz sozinho! Vamos para o próximo reino?
+Em retrospecto, é lamentável que não tenhamos unido forças e feito um nova Triflauta naquela época...
+Juntado forças, Vossa Moojestade?
+Isso mesmo, rapaz. Agora, se bem me lembro, você já visitou cada um dos três reinos...
+Isso mesmo, Vossa Moojestade! Somos chegados dos grandes... hum... figurões de todos os reinos!
+Hm hm hm! É divertido pensar que um jovem rapazinho seja o responsável por consertar as pontes entre<NL>nossos reinos.
+Uh ... obrigado, Vossa Moojestade.
+Sim, obrigado, Moojestade! Adoraríamos ficar e conversar, mas esta Triflauta não se faz sozinha! Vamos para o próximo reino?
 Sim! É hora de ir para <color:#1>Ding Dong Dell</color> e ver o Rei Tom!
 
 evk0200_text_en.cfg.bin.txt
-Então, indo ver o Rei Gato, não é? Ah, este lugar realmente me leva de volta.
+Então, indo ver o Rei Gato, não é? Ah, este me traz muitas lembranças.
 Foi a primeira cidade que visitamos juntos, não foi?
-Ouça, tenho certeza que você está gostando de sua viagem pela estrada da memória, mas não temos negócios para cuidar?
-Odeio dizer isso, mas Swaine está certo. Precisamos completar o Clarion, e isso significa obter esta <color:#1>madeira sagrada</color>—
+Escuta, tenho certeza de que você está aproveitando sua viagem pela estrada da memória, mas não temos negócios para resolver?
+Odeio dizer isso, mas Swaine está certo. Precisamos completar a Triflauta, e isso significa obter esta <color:#1>madeira sagrada</color>...
 ...Hã!? M-Mas...como!?
-Qual é o problema? Não me diga que você foi e deixou cair a coisa lançando!
-N-Não... Eu não deixei cair. Quero dizer, eu tive apenas um segundo atrás. tenho certeza que fiz...
-Então você está dizendo que alguém fugiu com ele enquanto você não estava olhando?
-Bem, você sabe uma ou duas coisas sobre isso, não é?
-Lá vai você, trazendo a história antiga de novo!<NL>Olhe, foi você quem a perdeu. Não vá me culpar!
-Eu tive isso todo esse tempo, eu juro!
-Parem de brigar, vocês dois! Se estiver faltando, temos que encontrá-lo, e rápido!
-Você não está errado, Olliezinho! Vamos perguntar a algumas das pessoas por aqui se elas o viram.
+O que houve? Não me diga que você deixou a coisa cair!
+N-Não... Eu não deixei cair. Quer dizer, eu tinha isso há apenas um segundo atás. Tenho certeza...
+Então você está dizendo que alguém fugiu com ela enquanto você não estava olhando?
+Bem, você deve saber algumas coisas sobre isso, não é mesmo?
+Lá vem você novamente trazendo à tona a história antiga!<NL>Olha, foi você quem perdeu. Não vá me culpar!
+Eu eu esta com ele todo esse tempo, eu juro!
+Chega de brigar, vocês dois! Se sumiu, precisamos encontrar logo, e rápido!
+Você não está errado, Olliezinho! Vamos perguntar a algumas das pessoas por aqui se viram alguma coisa.
 
 evk0210_text_en.cfg.bin.txt
-Ei, seu pequeno pipsqueak! Foi você que tentou fazer um florim rápido vendendo a <color:#1>madeira sagrada</color>, não foi?
-Squeeak! Como você me encontrou? Er...nunca mais farei isso! Honesto! Nunca, jamais, ou meu nome não é Pip!
-pip? Mas por que? O que fez você começar a roubar?
-Eu precisava do dinheiro, não é? Não que isso seja da sua conta! Como vou realizar meus sonhos se estou sem dinheiro, hein?
+Ei, sua miniatura atrevida! Foi você que tentou fazer uns guilders rápido vendendo a <color:#1>madeira sagrada</color>, não foi?
+Eeeek! Como você me encontrou? E... Eu nunca mais farei isso! Sério! Nunca, nunca mais, ou meu nome não é Pip!
+Pip? Mas por que? O que fez você começar a roubar?
+Eu precisava do dinheiro, não precisava? Não é da sua maldita conta! Como vou realizar meus sonhos se estou sem um tostão, né?
 Seus sonhos? Isso não é desculpa para roubar!<NL>Que tipo de sonhos você tem, afinal?
-Boa tentativa, idiota! Você acha que eu estou lhe dizendo? Eu sei que você vai rir de mim por ser um ratinho bobo com grandes ideias!
-Crikey! Um pouco delicado, não é? Não há necessidade de ficar tão na defensiva, Mouseface!
-Bem, nós apenas o encurralamos, para ser justo. De qualquer forma, vamos prender o baixinho e voltar para a Cawtermaster's Store, certo?
+Boa tentativa, boboca! Você acha mesmo que vou te contar? Eu sei que você só vai rir de mim por ser um ratinho bobo com grandes ideias!
+Caramba! Um pouco sensível, não é? Não precisa ficar tão na defensiva, Cara de rato!
+Bom, é verdade que acabamos de encurralá-lo. De qualquer forma, vamos pegar o pequeno maroto e voltar para a Loja do Comandante Cawter, certo?
 ...Espere um segundo, pessoal. Sou só eu ou Pip realmente te lembra alguém?
 Hum? Quer dizer que ele pode compartilhar uma alma com alguém em Motorville?
 Acho que sim... Mas não tenho certeza de quem pode ser.
 Hum, Pip. Você se importaria de nos contar um pouco mais sobre o seu sonho? Não vamos rir de você, eu prometo.
-Por que eu deveria!? Você não pode me dizer o que fazer! Por que eu deveria aceitar ordens de um bebê grande que dorme com uma boneca estúpida?
+Por que eu deveria fazer isso!? Vocês não podem me dizer o que fazer! Por que eu deveria obedecer a um bebê grande que dorme com uma boneca estúpida?
 ...O quê!?<NL>É verdade, Oliver!?
-N-Não! Eu não durmo com uma boneca... mais.
-Ha ha! Como você cresceu! Mas aposto que você ainda o arrasta com você para todos os lugares, caso fique com medo à noite - seu bebezão!
+N-Não! Eu não durmo com uma boneca...mais.
+Ha ha! Que maduro da sua parte! Mas aposto que você ainda arrasta essa boneca por aí em todos os lugares, caso fique com medo à noite, seu bebêzão!
 EU NÃO! Já disse, não durmo mais com boneca!<NL>Parei de levar o Sr. Drippy para a cama há quase um ano...
 Oh.
-HA HA HA! Agora você conseguiu, idiota! Todos vocês o ouviram, não é? Aposto que sua namorada está realmente impressionada agora!
-Pare de ser malvado! Ela não é minha... E-E eu não durmo com uma boneca! Pare com isso, sim!?
+HA HA HA! Agora você conseguiu, bobão! Todos vocês o ouviram, não é? Aposto que sua namorada está realmente impressionada agora!
+Pare de ser mau! Ela não é minha... E eu não durmo com uma boneca! Parem com isso, beleza!?
 Pare com isso, Phil!
 Hã? Você acabou de chamá-lo de "Phil"?<NL>O nome daquele rato sarnento é Pip!
-Me desculpe. É só... o que ele disse - soou como Phil quando ele está sendo mau.
+Desculpe. É só que...o que ele disse soou igualzinho ao Phil quando ele está sendo malvado.
 Caramba! Bem, você sabe o que isso significa...
 Não sei do que você está falando!<NL>Só sei que você nunca vai me pegar!
 Este roedor podre está começando a me dar nos nervos...
 Ele não está facilitando as coisas para nós, está? O que vamos fazer, Oliver?
 Bem...Demorei um pouco para resolver isso,<NL>mas não tem erro...
-Ele pode ser meio malvado... e muito teimoso... mas ainda é meu melhor amigo. Estou falando do Phil.
-Beleza! Acho que temos nosso homem! Só serve para mostrar, se você tem um grande valentão como alma gêmea, você pode acabar sendo um pedaço de trabalho desagradável também...
-Hum. Entendo. Algo deve estar acontecendo com sua alma gêmea para fazer esse rato se voltar para uma vida de crime.
-Eu me sinto meio mal. Já faz um tempo desde que vi Phil.<NL>Espero que ele esteja bem...
-Vamos ver <color:#1>Philip em Motorville</color>! Vamos, Oliver! Não há tempo a perder!
+Ele pode ser meio malvado...e muito teimoso... mas ainda é meu melhor amigo. Estou falando do Phil.
+Correto! Acho que pegamos nosso homem! Isso só mostra que se você tem um valentão como parceiro de alma, você pode acabar se tornando uma pessoa ruim também...
+Hm. Entendi. Deve estar acontecendo algo com o parceiro de alma dele para ter levado esse rato a se tornar um criminoso.
+Eu me sinto meio mal. Já faz um tempo desde que vi o Phil.<NL>Espero que ele esteja bem...
+Vamos ver o <color:#1>Philip em Motorville</color>! Vamos, Oliver! Não temos tempo para perder!
 
 evk0240_text_en.cfg.bin.txt
-Fil!
+Phil!
 
 evk0250_text_en.cfg.bin.txt
-Fil!
-Gah!<NL>Tudo isso... É tudo minha culpa...
-Lançando heck! O pobre rapaz ainda está com o coração partido!
-Fil!
+Phil!
+Ah!<NL>Tudo isso... É tudo minha culpa...
+Caramba! O pobre rapaz ainda está com o coração partido!
+Phil!
 Você realmente deve me odiar, Ollie.
 Acho que não somos mais amigos, né?
 Não! Eu nunca disse isso!
-Devia ter sido eu...<NL>Devia ter sido eu naquele Car...<NL>Devia ter sido eu no rio...
+Devia ter sido eu...<NL>Devia ter sido eu naquele carro...<NL>Devia ter sido eu no rio...
 Dessa forma, sua mãe nunca teria que salvá-lo... Assim, ela ainda estaria viva!
 Você não pode pensar assim, Phil! Não vai mudar nada.
-O que eu estava pensando, tentando construir um Car...? Se eu não tivesse construído aquele lixo hunka, nada disso teria acontecido!
-Phil, isso não é o que minha mãe gostaria!<NL>Ela não gostaria de ver você assim!
-Estávamos tentando realizar nossos sonhos.<NL>Estávamos tentando fazer o Car mais legal do<NL>mundo inteiro, lembra?
+O que eu estava pensando ao tentar construir um carro...? Se eu não tivesse construído aquele monte de sucata, nada disso teria acontecido!
+Phil, isso não é o que minha mãe teria desejado!<NL>Ela não gostaria de ver você assim!
+Estávamos tentando realizar nossos sonhos.<NL>Estávamos tentando fazer o carro mais legal do<NL>mundo inteiro, lembra?
 ...Nossos sonhos?
-Gah! Quem se importa com nossos sonhos idiotas!
+Ah! Quem se importa com nossos sonhos idiotas!
 M-Mas...!
 Você não ouviu uma palavra do que eu disse? Sua mãe está MORTA por causa dos nossos sonhos idiotas!
-Então o que eu faço agora? Construir outro Car? Estragar tudo de novo? Arranje outra pessoa— Arranje-os— E-eu não posso...
-...Ouça-me, Phil.
-Minha mãe nunca iria querer que desistamos de nossos sonhos.<NL>Eu simplesmente sei disso.
+Então o que eu faço agora? Construir outro Carrro? Estrago tudo de novo? Consigo outra pessoa... Eu não posso...
+...Me escute, Phil.
+Minha mãe nunca iria querer que a gente desistisse dos nossos sonhos.<NL>Eu tenho certeza disso.
 Você se lembra de todas aquelas vezes em que invadimos a fábrica de automóveis? Lembra daquele velho que fizemos amizade lá, o engenheiro?
-Ele nos contou tudo sobre Cars, não foi? E prometemos a ele que faríamos um Car melhor do que qualquer outro que a Motorville<NL>já tivesse visto!
-Claro, minha mãe costumava dizer que tínhamos Cars na cabeça.<NL>Mas quando ela nos ouviu falar sobre nosso sonho...
+Ele nos contou tudo sobre carros, não foi? E prometemos a ele que faríamos um carro melhor do que qualquer outro que a Motorville<NL>já tivesse visto!
+Claro, minha mãe costumava dizer que tínhamos carros na cabeça.<NL>Mas quando ela nos ouviu falar sobre nosso sonho...
 Ela sorria.<NL>Ela nunca ficou realmente brava conosco, não é?
 Eu lembro...
 Ela queria que seguíssemos nossos sonhos.<NL>Eu sei que ela queria.
-Siga... nossos sonhos...
+Siga... seus sonhos...
 Eu sei que é o que minha mãe teria desejado.
 Você não pode desistir dos seus sonhos!
 Hã?
-Bem eu nunca! Eu não esperava por isso, Olliezinho!<NL>É o seu próprio coração que está fazendo o medalhão brilhar!
+Nossa, eu nunca iria esperar por isso, Olliezinho!<NL>É o seu próprio coração que está fazendo o medalhão brilhar!
 Seu coração está cheio de <color:#1>ambição</color>! Eu deveria saber!
 Mas... Mas o que devo fazer?<NL>...Posso realmente pegar um pedaço do meu próprio coração?
-Bem, não custa nada tentar agora, não é? E vai fazer uma diferença de empréstimos de outras pessoas! Vá em frente, mun - experimente!
-O-Ok... Aqui vai...
+Bem, não custa tentar agora, não é mesmo? E isso será uma mudança em relação a ficar pedindo emprestado para outras pessoas! Vá em frente, tente, não custa nada!
+O-Ok... Lá vou eu...
 
 evk0260_text_en.cfg.bin.txt
-Jeepers trepadeiras! Isso com certeza parecia estranho. Acho que deve ser assim que todas as pessoas que nos ajudaram se sentiram, né?
+Meu Deus! Isso foi bem estranho. Eu acho que é assim que todas as pessoas que nos ajudaram devem ter se sentido, né?
 Boa, Olliezinho!<NL>Eu disse que valia a pena tentar, não disse?
 Espere, Phil! Tem algo que preciso compartilhar com você...
 
 evk0265_text_en.cfg.bin.txt
 Não sei o que há de errado comigo, Ollie. Eu simplesmente não posso...
-Eu simplesmente não consigo parar de chorar...<NL>Mas eu me sinto quente e confusa também...
+Eu simplesmente não consigo parar de chorar...<NL>Mas também sinto uma sensação agradável e reconfortante...
 Sabe o que é isso, Phil? Essa é a minha mãe tentando te dizer uma coisa.
 Ela está dizendo para você nunca desistir de seus sonhos.
-...Nunca desista?
-Isso mesmo. E não queremos decepcionar minha mãe, não é? Então isso significa que temos que continuar – continuar perseguindo nossos sonhos!
-Não posso decepcionar minha mãe. Eu não vou!
+...Nunca desistir?
+Isso mesmo. E nós não queremos decepcionar minha mãe, certo? Isso significa que temos que continuar, seguir em frente, perseguir nossos sonhos!
+Não posso decepcionar minha mãe, eu não vou!
 Você está certo, Ollie! Eu não vou desistir!
 Não vou desistir dos meus sonhos!<NL>...Dos nossos sonhos!
 E isso é uma promessa, Ollie!
-Fil!
+Phil!
 Ollie!
-Fil!
-Vou estudar muito, e fazer faculdade! Depois, vou construir um Car seguro, um Car em que as pessoas possam confiar. Você vê se eu não!
+Phil!
+Eu vou estudar muito e ir para a faculdade! Então, eu vou construir um carro seguro, um carro em que as pessoas possam confiar. Você vai ver se eu não vou!
 Você vai me cobrar isso, não vai, Ollie?
 Claro que vou, Phil!
 Agora, tem mais uma coisa que eu tenho que te dizer, Ollie: se você vai continuar se vestindo como um esquisito, eu não posso ser visto com você!
@@ -11557,7 +11557,7 @@ evk0270_text_en.cfg.bin.txt
 Hum? Ah, você voltou! Como diabos você tem estado? Alguém tem se ocupado com aquele ladino<NL>Hickory Di— Mmyoh!
 Myahhh! A menos que alguém esteja muito enganado, você vem trazendo a <color:#1>madeira sagrada</color> de Al Mamoon.
 Isso mesmo. E queríamos pedir um favor a você,<NL>Seu Meowjesty—
-Não há necessidade de continuar, querida menina. A gente sabe exatamente por que você está aqui. Então a Cowlipha escolheu confiar a madeira sagrada a você...
+Não há necessidade de continuar, querida menina. A gente sabe exatamente por que você está aqui. Então a Vacalifa escolheu confiar a madeira sagrada a você...
 Parece que chegou a hora de reunir o poder dos três reinos.
 Agora, querido menino, permita-se cumprir seu dever real...
 Uau! Isso foi incrível!
@@ -11571,14 +11571,14 @@ evk0280_text_en.cfg.bin.txt
 Olá, Marcassin!<NL>Precisamos que você termine de esculpir algo para nós!
 Lançando heck! Alguém não foi para a escola de acabamento! Já ouviu falar da palavra "por favor"?
 Rá! Eu gosto de suas visitas. Há uma certa vivacidade que você traz para cada ocasião. Agora, você mencionou esculpir algo?
-Sim sua Majestade. Esther estava falando sobre o <color:#1>Clarion</color>.
+Sim sua Majestade. Esther estava falando sobre o <color:#1>Triflauta</color>.
 Isso mesmo! Precisamos que você nos ajude a finalizá-lo para que possamos abrir caminho através dos Pântanos de Miasma!
-Entendo. Bem, você veio ao lugar certo... O <color:#1>Clarion</color> só pode ser concluído pelo governante de Hamelin...
+Entendo. Bem, você veio ao lugar certo... O <color:#1>Triflauta</color> só pode ser concluído pelo governante de Hamelin...
 Mas temo que haja um pequeno problema...<NL>A saber, ele não possui todas as habilidades necessárias...
 Hã?<NL>C-Como assim, Vossa Majestade?
-Para completar o <color:#1>Clarion</color>, é preciso possuir não apenas poder mágico, mas o talento para esculpir os buracos necessários.
+Para completar o <color:#1>Triflauta</color>, é preciso possuir não apenas poder mágico, mas o talento para esculpir os buracos necessários.
 Embora eu possa ter as habilidades mágicas, não posso ajudar com os aspectos mais... práticos do processo...
-Então você está dizendo que é muito desajeitado para completar<NL>o Clarion?
+Então você está dizendo que é muito desajeitado para completar<NL>a Triflauta?
 I-Não é uma questão de falta de jeito, garanto.<NL>Não, as habilidades necessárias são passadas do Imperador diretamente para seu herdeiro...
 Puxa... Então seu pai faleceu antes que pudesse te ensinar sobre essas coisas, hein?
 ...Bem, então teremos que voltar no tempo e fazer com que ele te ensine!
@@ -11616,11 +11616,11 @@ Oh, não se preocupe em me agradecer... Mas quanto tempo faz desde a última vez
 Rá! Você se lembra do modelo de tanque de porcos que <NL>fizemos juntos?
 Bleurgh! Um tanque de porco em flor!? Essa é a última coisa que quero lembrar!
 Hehe. Você não ouvirá nenhum argumento meu sobre isso. De qualquer forma, vamos nos concentrar na tarefa que temos pela frente: limpar os Pântanos de Miasma.
-O Clarion é tão bonito...<NL>Mal posso esperar para ouvir como soa!
+O Triflauta é tão bonito...<NL>Mal posso esperar para ouvir como soa!
 Acho que você deveria jogar, Esther.
 Sim, Olliezinho está certo. Se você me perguntar, não há mulher melhor para o trabalho!
 Concordo. Quero dizer, eu adoraria fazer isso, mas sou surdo para tons.
-Eu vou fazer isso! Vou jogar o Clarion e abrir caminho através dos pântanos Miasma!
+Eu vou fazer isso! Vou jogar a Triflauta e abrir caminho através dos pântanos Miasma!
 Eu realmente acredito que você vai, Esther.
 Obrigado, Majestade!<NL>Vamos, Oliver! Devemos ir!
 Você tem razão. É hora de ir para <color:#1>Miasma Marshes</color>.
@@ -11631,7 +11631,7 @@ Não é o lugar mais acolhedor do mundo, não é, <NL>Olliezinho? Mal consigo ve
 Bem, aqui vai...
 ah... estou ouvindo...
 <KEEP>
-O chamado do Clarion...
+O chamado da Triflauta...
 Oliver... Quanto tempo esperei?
 <KEEP>
 Venha, Coração Vil.
@@ -11639,7 +11639,7 @@ Sim mestre!
 Eu confiei a você a verdade, não confiei?
 <KEEP>
 Sim mestre. Eu o tenho aqui - no Soulsnare.
-O Clarion soou. O miasma não existe mais.
+O Triflauta soou. O miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
@@ -11657,14 +11657,14 @@ Bem então! Mostre-me!<NL>Mostre-me o verdadeiro poder que habita em seu coraç�
 
 evk0295_1_text_en.cfg.bin.txt
 Ah, eu ouvi.
-O chamado do Clarion.
+O chamado da Triflauta.
 Oliver... Quanto tempo esperei?
 Venha, Coração Vil.
 Sim mestre!
 Eu te confiei a verdade,
 eu não?
 Sim mestre. Eu o tenho aqui - no Soulsnare.
-O Clarion soou. O miasma não existe mais.
+O Triflauta soou. O miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
@@ -11679,14 +11679,14 @@ que habita em seu coração!
 
 evk0295_2_text_en.cfg.bin.txt
 Ah, eu ouvi.
-O chamado do Clarion.
+O chamado da Triflauta.
 Oliver... Quanto tempo esperei?
 Venha, Coração Vil.
 Sim mestre!
 Eu te confiei a verdade,
 eu não?
 Sim mestre. Eu o tenho aqui - no Soulsnare.
-O Clarion soou. O miasma não existe mais.
+O Triflauta soou. O miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
@@ -12364,7 +12364,7 @@ Aposto que ele está lá em cima assistindo agora!<NL>Ele e sua mãe...
 <KEEP>
 Sim!
 Eu só sei que eles são.
-Agora, eu me pergunto se Cowlipha e Marcassin<NL>já chegaram?
+Agora, eu me pergunto se Vacalifa e Marcassin<NL>já chegaram?
 <KEEP>
 Bem, eles são pessoas ocupadas.
 Ainda dá muito tempo...
@@ -12376,7 +12376,7 @@ evm0010_text_en.cfg.bin.txt
 Já faz muito tempo, Seu Meowjesty!
 Mmmmyohh, olá! Ouve-se que os parabéns estão em ordem! Você derrotou você-sabe-qu- Myah, velhos hábitos! Você derrotou Shadar, não foi?
 Sempre se sabia que o faria, é claro.<NL>Tinha-se fé absoluta desde o início.
-Bem, não poderíamos ter feito isso sem você, Youer Meowjesty. Não poderíamos nem chegar perto dele sem aquele Clarion.
+Bem, não poderíamos ter feito isso sem você, Youer Meowjesty. Não poderíamos nem chegar perto dele sem aquele Triflauta.
 Mmmmyoh! A pequena criação de alguém veio a calhar, não é?<NL>Que gratificante!
 Isso mesmo! Se os chefes dos três reinos não tivessem trabalhado juntos, nunca teríamos conseguido!
 Mmm... Jovem Oliver, um herói... Como o tempo voa...<NL>Você parecia um garoto comum...
@@ -12876,7 +12876,7 @@ evm0140_text_en.cfg.bin.txt
 Que diabos!<NL>Aquela grande besta parece familiar!
 <KEEP>
 Oh não!
-O Cowlipha também?
+O Vacalifa também?
 
 evm0150_text_en.cfg.bin.txt
 Rápido, Ervilha! Esmagar o cristal!
@@ -12891,10 +12891,10 @@ Rainha Lowlah!<NL>Você está ferido?
 Oh meu Deus! Oh, meu, meu, meu, meu! Aquele rosto lindo!<NL>Aqueles olhos brilhantes!
 O Grande Sábio de Hamelin, em carne e osso, nada menos!<NL>Jovem, sua foto não lhe faz justiça!<NL>Você é uma visão! Uma visão absoluta!
 Ah sim, ela tinha aquela foto dele, não é? <NL>É assustador...
-Moojesty!<NL>Você não está ferido, espero?
+Moojestade!<NL>Você não está ferido, espero?
 Somos a imagem da saúde, muito obrigado, Abull. Você faria melhor em se preocupar com o estado de nossa amada cidade!
 Para longe com você! Traga-nos notícias do nosso povo! De uma vez só!
-S-Sim, Moojesty!<NL>Seu desejo será realizado com toda a urgência...
+S-Sim, Moojestade!<NL>Seu desejo será realizado com toda a urgência...
 Devíamos voltar ao Wyvern de Ferro, Oliver.
 
 evm0160_text_en.cfg.bin.txt
@@ -13270,7 +13270,7 @@ Os povos do mundo devem se unir.<NL>Nossa necessidade nunca foi tão grande...
 Estamos muito comovidos com o seu chamado às armas...
 Um touro! Volte para Al Mamoon imediatamente e instrua os vizires a se prepararem para a guerra!
 Vamos precisar de coisas flutuantes, coisas voadoras...<NL>e muitas coisas que atirem!
-Como você comanda, seu Moojesty.
+Como você comanda, Vossa Moojestade.
 Bem, não se pode fugir de suas responsabilidades em um momento como este! Você terá os melhores soldados que Ding Dong Dell tem a oferecer!
 Excelente. Os três reinos devem combinar suas forças e atacar como um!
 
@@ -13984,7 +13984,7 @@ Você quer dizer...?
 O que mais seria, idiota?
 Eita! Ele pode realmente dizer...?
 Desculpe por ter deixado você esperando, Ollie!
-Fil! V-você quer dizer... Você construiu isso?
+Phil! V-você quer dizer... Você construiu isso?
 Claro que sim! Ouça o ronronar do motor!<NL>Vamos, Ollie! Você está no comando!
 Eu estou no banco do motorista?
 Uau! Uau!
@@ -14799,9 +14799,9 @@ Uma crista envolta em uma joia esférica que prova que seu dono superou o sábio
 Uma crista envolta em uma gema esférica que prova que seu dono superou o sábio Teste de Força.
 Uma panela grande e ricamente decorada. É muito grande para uso em uma cozinha normal.
 Um recipiente usado para misturar itens para criar novos. É também a casa do gênio Al-Khemi.
-Um pedaço de queijo produzido magicamente que requer ambas as mãos para carregar. O lanche favorito do Cowlipha.
+Um pedaço de queijo produzido magicamente que requer ambas as mãos para carregar. O lanche favorito do Vacalifa.
 Uma foto do Grande Sábio que dizem residir na cidade de Hamelin. Ele parece um homem muito bonito.
-Uma carta que concede ao seu portador permissão para embarcar no Sea Cow, o próprio navio de Her Moojesty.
+Uma carta que concede ao seu portador permissão para embarcar no Sea Cow, o próprio navio de Her Moojestade.
 Um dos elementos da comédia que as fadas possuem em abundância. Dizem que são oito no total...
 Uma chave obtida na Trilha da Lápide do passado. Mas ainda pode ser usado nos dias atuais...?
 Um passe que permite ao portador acessar uma área RIP extremamente exclusiva.
@@ -14822,7 +14822,7 @@ Um instrumento feito com os talentos de três reinos e conhecido como símbolo d
 Uma flor levemente brilhante que contém uma memória. Sua luz vermelha suave representa bênção e oração.
 Uma flor levemente brilhante que contém uma memória. Sua luz azul suave simboliza um voto que foi feito.
 Uma flor levemente brilhante que contém uma memória. Sua suave luz dourada é um símbolo de esperança.
-Uma chave para um Car amarelo esportivo. Pressione [key_d] para se sentar ao volante do Philmobile.<NL>
+Uma chave para um carro amarelo esportivo. Pressione [key_d] para se sentar ao volante do Philmobile.<NL>
 Uma asa elegante que pertenceu a um anjo. Pode ser usado para aprimorar a harpa conquistadora de corações.
 Uma joia que permite comungar com todos os seres vivos. Pode ser usado para aprimorar a harpa conquistadora de corações.
 Uma flor decorativa, muito apreciada pelos comediantes de fadas. Pode ser usado para aprimorar a harpa conquistadora de corações.
@@ -16288,8 +16288,8 @@ o
 alguns
 pedaços de
 madeira sagrada esculpida
-o Clarion
-Clarions
+a Triflauta
+Triflautas
 <TC>o
 <TC>o
 flor da juventude
@@ -19321,7 +19321,7 @@ Voltar para Al Mamoon
 Bem-vindo a Encosta Abandonada
 Em busca de um navio
 Em busca de um navio
-O Cowlipha de Al Mamoon
+O Vacalifa de Al Mamoon
 Uma necessidade de queijo
 Um Coração Cheio de Restrição
 A Carta de Passagem
@@ -19360,7 +19360,7 @@ Mornstar renascido
 O Bosque Sagrado
 Pip e Phil
 Ambição de Phil
-o Clarion
+a Triflauta
 Enfrentando os Pântanos de Miasma
 Esquema de Shadar
 O que é este lugar?
@@ -19466,7 +19466,7 @@ Eu ouvi do meu filho que Philip tem trabalhado secretamente em alguma coisa.
 Eu sei que é bom para vocês, jovens, terem seus hobbies, mas não venham causar problemas agora, ouviram?
 Oi, Ollie! Eu sei que você e Phil estão tramando algo!<NL>Por que você não me conta?
 Ora, bom dia, Oliver!<NL>Como está sua mãe?
-Você quer dizer um Coupe D-Lux, querida? <NL>Ora, esse é o Car de que todo mundo está falando!
+Você quer dizer um Coupe D-Lux, querida? <NL>Ora, esse é o carro de que todo mundo está falando!
 Nossa, estou com tanto ciúme!
 Qual é o problema, filho?<NL>Nunca viu um posto de gasolina antes?
 Oh, caramba... Tenho certeza que estou esquecendo alguma coisa...<NL>Mas não consigo imaginar o que pode ser...<NL>Ah, caramba... E olha só a hora!
@@ -19477,19 +19477,19 @@ Mal posso esperar pela hora do jantar!<NL>Comprei um delicioso jantar na TV, sab
 Oh meu Deus! Mas esqueci de comprar leite na loja da Dona Leila! O que é jantar sem um bom copo grande de leite, hein?
 Nossa, essas batatas são tão baratas! Talvez eu faça algumas batatas fritas boas e saudáveis para as crianças...
 Gostou do meu hot rod?<NL>Ela é linda, não é?<NL>E novinha em folha também!
-Talvez um dia você consiga comprar seu próprio Car e ser tão legal quanto eu, garoto!
+Talvez um dia você consiga comprar seu próprio carro e ser tão legal quanto eu, garoto!
 Quando abre a lanchonete? Tenho uma fofoca séria para ouvir!
 Por que se não é o jovem Oliver! Certifique-se de olhar para os dois lados quando estiver atravessando a rua agora, não é?
 Desculpe incomodá-lo tão cedo. Acho que vamos ter que morder a bala e comprar um novo em breve, hein?
 Eu acho que você pode. Mas se você tiver mais problemas com isso nesse meio tempo, é só me avisar. Estarei aí num instante!
 Olá, jovem Oliver!<NL>Cuidado na estrada, certo?
 Você sabe como funciona um motor, garoto? Hehe, claro que não. Mas um dia você vai. Vem com a vida nesta cidade!
-É um trabalho importante atender os Cars das pessoas, você sabe. Ora, um parafuso solto pode causar um terrível acidente!
+É um trabalho importante atender os carros das pessoas, você sabe. Ora, um parafuso solto pode causar um terrível acidente!
 Bom dia, Oliver!
 Oh meu Deus! Basta olhar para todas as folhas e galhos por todo o chão aqui! Que confusão horrível!
 Jeepers... O que diabos é isso?
 O tempo está simplesmente bom! Eu poderia ir sentar na praça da cidade e aproveitar por um tempo...
-Meu marido acabou de comprar um Car novo. Chama-se, hã...um Coupy Lux ou algo maluco assim...
+Meu marido acabou de comprar um carro novo. Chama-se, hã...um Coupy Lux ou algo maluco assim...
 gêngis
 Phil
 Leila
@@ -19699,7 +19699,7 @@ Não fique aí parado, Olliezinho! Dê ao amigo por aqui a <color:#1>bondade</co
 Hã? A porta esta fechada...
 Aooo!
 Certo, Olliezinho!<NL>Hora de entregar essa <color:#1>confiança</color>!
-Fil!
+Phil!
 ...Ah, é você.<NL>Venha se vingar, hein?
 "Mesmo"?<NL>Mesmo para quê?
 ...Tudo o que eu queria era construir um automóvel só meu.
@@ -19745,7 +19745,7 @@ E ela sempre dizia...
 "Finalmente conheci a pessoa mais importante de todas."
 E eu sabia que ela estava falando de você, querida. Ela te amava mais do que qualquer outra coisa no mundo inteiro...
 Aquela pessoa importante de quem Allie costumava falar... Só sei que foi você, querida.
-Apenas espere e veja - eu vou fazer o Car mais rápido do mundo inteiro! Mais rápido do que esta cidade de dois bits já viu!
+Apenas espere e veja - eu vou fazer o carro mais rápido do mundo inteiro! Mais rápido do que esta cidade de dois bits já viu!
 Eu sei que você vai, Phil!<NL>Se alguém pode fazer isso, é você!
 Oi, Ollie. Onde você esteve ultimamente? Você está como o Incrível Homem Desaparecido hoje em dia.
 H-Hã!? Eu, uhh... D-Desaparecendo...?<NL>Bem, eu, hã...
@@ -19759,14 +19759,14 @@ Isso fará com que aquele lixo hunka que construímos antes pareça um brinquedo
 Hehe. Claro que sim, Phil.
 Pode apostar que sim!<NL>Não há como me parar desta vez!
 E quando terminar, você será o primeiro a dirigi-lo! Anote no seu diário, garoto — vamos fazer história!
-Redesenhei o velho Car de corrida que construímos do zero. O Philmobile 2000 vai ser a coisa mais legal sobre quatro rodas!
+Redesenhei o velho carro de corrida que construímos do zero. O Philmobile 2000 vai ser a coisa mais legal sobre quatro rodas!
 Aposto que você não vê a hora de ver, né?
 Ngh...
 Este sentimento... Este calor...<NL>Eu tinha esquecido como era...
 A doença de Myrtle foi tudo culpa minha. Mas as coisas serão diferentes agora. Vamos ser uma família novamente.
 Essa é uma bela capa que você tem aí, filho.<NL>Combina com você até o chão!
 Myrtle está melhor agora, e tudo graças a você.<NL>Eles não vão mais chamá-la de Maria Fuxiqueira!
-Não consigo me concentrar em consertar Cars agora. Só consigo pensar em uma boa banana madura com sorvete de baunilha... Mmm... Deee-licious!
+Não consigo me concentrar em consertar carros agora. Só consigo pensar em uma boa banana madura com sorvete de baunilha... Mmm... Deee-licious!
 ...Aham. O que estou fazendo dizendo isso a um garoto como você? Esqueça que eu disse alguma coisa, ok?
 Agora que você mencionou, não tenho visto Philip ultimamente...
 Ele costumava vir aqui e me espionar trabalhando o tempo todo. Hehe. E você também...
@@ -19791,7 +19791,7 @@ Vocês ainda são amigos, não é? Puxa, deve ser difícil... Mas é nessas hora
 É adorável... Myrtle fez uma amiguinha.<NL>Uma coisinha querida e doce em um vestido branco.
 Eu me pergunto onde ela mora... Eu pensei que conhecia todas as famílias da cidade...
 Não vejo mais aquela menininha de vestido branco. Ela costumava vir brincar no nosso jardim o tempo todo...
-Espero que ela esteja bem. Há tantos Cars na cidade hoje em dia. É perigoso...
+Espero que ela esteja bem. Há tantos carros na cidade hoje em dia. É perigoso...
 Hmm... eu gostaria que a Murta começasse a se vestir com um pouco mais de estilo...
 Você sabe, as meninas hoje em dia estão usando saias até os joelhos! Eu não gostaria que ela se vestisse assim, é claro...
 Muito obrigado, Oliver.<NL>Sinto que posso fazer qualquer coisa agora!
@@ -19821,7 +19821,7 @@ Nnngh...<NL>Não consigo mais correr...
 Oi, menino Ollie! Este menino precisa de uma injeção de <color:#1>confiança</color>, e rápido!
 Hã...? O que...? O que você está fazendo...?
 Olá, Oliver!<NL>Minha perna está melhor agora!
-Eu sempre tento correr com os Cars, mas eles são rápidos demais para mim.
+Eu sempre tento correr com os carros, mas eles são rápidos demais para mim.
 Mas um dia, vou ultrapassá-los!<NL>Não vou parar de treinar até conseguir!
 Ei, Oliver...<NL>Eu, hã... eu sonhei com você na outra noite...
 Você estava muito triste, assim como eu naquela vez, e não podia fazer nada.
@@ -19839,7 +19839,7 @@ Grrr! Quem é você?<NL>Que negócios você tem com meu mestre?
 Uau! Grrr!
 Meu mestre é o maior!<NL>Grrrahahaharrr!
 Aooo!<NL>Aoooooo!
-Não confio nesses Cars. Como eles se movem tão rápido? Grrr... Eles estão trapaceando, eu sei disso...
+Não confio nesses carros. Como eles se movem tão rápido? Grrr... Eles estão trapaceando, eu sei disso...
 Grrr... Arf!
 Grrr! Meu mestre está preocupado com você!<NL>Não faça nada estúpido, certo?
 Grrrrrr!<NL>Aoooooo!
@@ -19876,7 +19876,7 @@ Ei Willikers! Quem estaciona assim? Quem quer que seja deveria ter vergonha de s
 Oi, Ollie! Se está procurando por Phil, ainda não o vi esta manhã.
 Oi, Ollie! Por que você está usando essa roupa pateta?<NL>Alguém está dando uma festa a fantasia?
 Ei, Ollie, por que Phil está agindo como um quadrado ultimamente?
-Tudo o que ele faz é estudar aqueles livros de Cars ruins o dia todo. Deviam colocá-lo no manicômio!
+Tudo o que ele faz é estudar aqueles livros de carros ruins o dia todo. Deviam colocá-lo no manicômio!
 Bom dia para você, Oliver!<NL>Você está tão alegre como sempre!
 Quais são essas roupas estranhas que você está vestindo, Oliver? Você está jogando em super-heróis?
 Nossa, você parece bem, Oliver!<NL>Você vai crescer logo!
@@ -19908,7 +19908,7 @@ Cara, por que eu tenho que ser um trapo tão molhado...?
 Quando estou de folga, gosto de vir aqui e ler... Ah, droga! Esqueci meu livro de novo!
 Aposto que você não consegue adivinhar qual desses autos é o meu, né? É aquela belezinha turbinada ali! Isso mesmo - o número rosa choque!
 O-O que quer dizer com não combina comigo?<NL>Nós combinamos como carne e gelatina!
-Olá, Oliver. Estou indo pegar meu Car na oficina. Ela acabou de fazer um ajuste.
+Olá, Oliver. Estou indo pegar meu carro na oficina. Ela acabou de fazer um ajuste.
 Qual garagem eu uso? Oh, aquele na mesma rua daqui. Eu não iria a outro lugar!
 Eu vejo Rusty e Betty Cartwright tomando ar juntos o tempo todo ultimamente. Rapaz, eles parecem felizes juntos...
 Eu com certeza gostaria de ter uma esposa assim...
@@ -19922,7 +19922,7 @@ Olá, jovem Oliver! Espero que esteja estudando bastante!<NL>Sem matar aula, ouv
 Ouvi de Philip que você tem matado muito ultimamente, Oliver.
 Eu sei que você teve dificuldades, mas você tem que ficar na escola, filho. Você não quer acabar com um vagabundo ferroviário, quer?
 Ouvi dizer que alguns garotos da cidade construíram um Car, mas eles se envolveram em algum tipo de acidente. São notícias terríveis e tudo mais, mas você tem que admirar o espírito deles.
-Esta cidade foi construída com base no negócio de automóveis, e a maioria das crianças daqui sonha em fazer Cars quando crescer.
+Esta cidade foi construída com base no negócio de automóveis, e a maioria das crianças daqui sonha em fazer carros quando crescer.
 É por isso que temos que ter certeza de passar tudo o que sabemos para a próxima geração de Motorvilleans.
 O que você está olhando, garoto?<NL>Você nunca viu um posto de gasolina antes?
 O que quer dizer com vinte centavos o galão é caro?
@@ -19942,7 +19942,7 @@ Curve-se, uau!<NL>Faça uma reverência, uau, uau!
 Ele está latindo de novo! Hee hee!<NL>Acho que ele gosta de você!
 A gatinha da loja de Leila sempre parece estar perseguindo alguma coisa.
 Ou ele está doido, ou aquele lugar tem ratos!
-Por que todo mundo está se preocupando com Cars?<NL>Eu sou mais uma garota de bicicleta...
+Por que todo mundo está se preocupando com carros?<NL>Eu sou mais uma garota de bicicleta...
 Murta Cartwright
 Carruagem Enferrujada
 Betty Cartwright
@@ -20691,8 +20691,8 @@ Já se passaram muitos anos desde a primeira e única visita de estado ao Impér
 Como vão as coisas, Oliver?<NL>Suas façanhas são o assunto da cidade - e além!
 De fato, como editor honorário do Daily Yarn, pode-se dizer com alguma confiança que sua aventura é a maior história desde a Grande Revolta do Rato!
 Bem, o que você diz? As garras permitem que alguém seja um artesão, hein?
-Alguns zombaram da forma incomum do Clarion - mas eles claramente não têm senso estético nem apreciação de artesanato fino!
-Ah! Vê-se que o Clarion está completo!<NL>Supõe-se que o Imperador de Hamelin tenha direito a algum do crédito por essa conquista...
+Alguns zombaram da forma incomum da Triflauta - mas eles claramente não têm senso estético nem apreciação de artesanato fino!
+Ah! Vê-se que a Triflauta está completo!<NL>Supõe-se que o Imperador de Hamelin tenha direito a algum do crédito por essa conquista...
 Mas é a você quem realmente pertence o crédito por unir os três reinos, jovem Oliver. Nunca se pensou que chegaria o dia...
 Ah, Oliver... Você passou por uma transformação diante de seus olhos.
 Alguém se lembra do garotinho que veio ao seu reino em busca de uma varinha. Aquele menino é apenas uma memória distante agora...
@@ -20943,7 +20943,7 @@ Rezo para que nada de terrível esteja prestes a nos acontecer...
 Se ficar muito mais quente, o leite das fontes irá coalhar.
 ...A-há! Isso me dá uma idéia!<NL>Vou encher garrafas com água e vendê-las!<NL>Com certeza ficarei muito rico!
 Receio não poder permitir que você passe.<NL>Não é permitido no momento.
-Se você deseja uma audiência com Her Moojesty, você deve obter a permissão do Mestre Abull.
+Se você deseja uma audiência com Her Moojestade, você deve obter a permissão do Mestre Abull.
 Sim! Se ao menos um comerciante empreendedor congelasse o leite das fontes. Tenho certeza de que seria muito delicioso.
 Leite! Leite! Obtenha o leite mais fresco e fresco de toda a cidade! Mais fresco do que qualquer outro comerciante!
 Um garoto da sua idade é forçado a viajar pelo mundo? Quanta dificuldade para alguém tão jovem! Você tem dinheiro suficiente, criança...?
@@ -20965,7 +20965,7 @@ Al Mamoon oferece-lhe as suas mais humildes boas-vindas.
 Atravessar o deserto é muito cansativo. Você deve desfrutar de nossa hospitalidade por algum tempo antes de continuar sua jornada.
 Eu sou o maior fã de leite em toda a terra!<NL>É por isso que este é o meu lugar preferido!
 As pessoas dizem que o palácio é um lugar fresco e protegido...
-(suspiro) Estou com tanta inveja do Cowlipha...
+(suspiro) Estou com tanta inveja do Vacalifa...
 Eu gosto de brincar aqui perto da fonte.<NL>É um lugar fresco e sombreado.
 Marido! Por que você não me ouve!?
 Mais uma vez, você comprou mercadorias que não podemos vender!
@@ -21214,7 +21214,7 @@ Louvado seja que nada de desagradável ocorreu.
 Se ficar muito mais quente, o leite das fontes irá coalhar.
 ...A-há! Isso me dá uma idéia!<NL>Vou encher garrafas com água e vendê-las!<NL>Com certeza ficarei muito rico!
 Receio não poder permitir que você passe.<NL>Não é permitido no momento.
-Se você deseja uma audiência com Her Moojesty, você deve obter a permissão do Mestre Abull.
+Se você deseja uma audiência com Her Moojestade, você deve obter a permissão do Mestre Abull.
 Você deve perseverar e pechinchar ao máximo.<NL>Não há mercador mais teimoso do que um Mamooni!
 Leite! Leite! Obtenha o leite mais fresco e fresco de toda a cidade! Mais fresco do que qualquer outro comerciante!
 Este tecido é mais leve e legal! Sinta! Nosso estoque é fornecido pela Cawtermaster's Store - tudo é totalmente honesto e aprovado!
@@ -21236,7 +21236,7 @@ Al Mamoon oferece-lhe as suas mais humildes boas-vindas.
 Você deve se deliciar com nossas deliciosas e renomadas babanas e nosso leite fresco e refrescante!
 Eu sou o maior fã de leite em toda a terra!<NL>É por isso que este é o meu lugar preferido!
 As pessoas dizem que o palácio está cheio até o teto com deliciosas babanas...
-(suspiro) Estou com tanta inveja do Cowlipha...
+(suspiro) Estou com tanta inveja do Vacalifa...
 Eu gosto de brincar aqui perto da fonte.<NL>É um lugar fresco e sombreado.
 Marido! Por que você não me ouve!?
 Mais uma vez, você comprou mercadorias que não podemos vender!
@@ -21426,7 +21426,7 @@ O caminho do mago é longo e sinuoso, mas você nunca deve desistir.
 Olá, Velho Padre Carvalho!
 Oh Ho! Aqui está você de novo!<NL>Que bom ver você!
 E como vai sua jornada, hein?<NL>Conte-me tudo...
-Oh Ho! Então o Clarion renasce!
+Oh Ho! Então a Triflauta renasce!
 Com certeza é! Os líderes dos três reinos trabalharam juntos para fazer isso!
 Sim, eles fizeram sua parte, eu suponho, mas principalmente foi o talento do Lorde Grão-Senhor das Fadas para a diplomacia que fez isso acontecer...
 Sr. Drippy! Como você pôde dizer isso!?
@@ -21600,8 +21600,8 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -21694,8 +21694,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -21792,8 +21792,8 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -21886,8 +21886,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -21980,8 +21980,8 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -22074,8 +22074,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -22350,8 +22350,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -22503,8 +22503,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -22658,8 +22658,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -22717,7 +22717,7 @@ E nem o castelo que fica além dela!
 Você parece confuso e talvez um pouco confuso... e mais do que um pouco confuso! Bem, eu recomendo que você dê uma olhada por si mesmo...
 O que você acha? Este lago é magnífico, não concorda?
 Então podemos cruzar os pântanos Miasma agora, não é?
-Então Esther pode tocar Clarion também, não é? <NL>Ela é um talento musical adequado, aquela!
+Então Esther pode tocar Triflauta também, não é? <NL>Ela é um talento musical adequado, aquela!
 Falta pouco para o confronto final com Shadar, hein, Olliezinho? Esta pronto? É melhor virar bem!
 Crikey, almas flutuando sobre o lugar, chuva caindo em todos os lugares... Este lugar é uma velha bagunça...
 Cuidado com essas armadilhas venenosas, Olliezinho, elas são um pé no saco!
@@ -22790,8 +22790,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Afinal, Alicia era sua mãe...<NL>Bem, eu nunca...
 Olhe para sua cara, Olliezinho! Brilhante, você é!
@@ -23073,8 +23073,8 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -23167,8 +23167,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -23358,8 +23358,8 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -23452,8 +23452,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -24172,8 +24172,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun!<NL>Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -24430,8 +24430,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -24542,8 +24542,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -25376,7 +25376,7 @@ Puxa... acho que você tem razão...
 Ho ho! Raramente vi viajantes parecerem tão em casa em seus trajes de banho!
 Ho ho! Fatos de banho combinam com vocês, meus amigos!<NL>Realmente combinam!
 Ficarei satisfeito e honrado se você tiver a gentileza de usá-los novamente.
-Se o Cowlipha achar conveniente conceder-lhe permissão para embarcar, não lhe recusarei nada! Infelizmente para você, Her Moojesty não concede tais favores levianamente! Ha ha!
+Se o Vacalifa achar conveniente conceder-lhe permissão para embarcar, não lhe recusarei nada! Infelizmente para você, Her Moojestade não concede tais favores levianamente! Ha ha!
 Mais uma vez é ele!<NL>Aquele maldito ladrão!
 Por favor, este pote é um presente para você.<NL>Desejo que o aceite, sem reservas.
 Ah! Você ficará feliz em saber que posso colocar meus produtos à venda mais uma vez. Por favor, sinta-se à vontade para ler.
@@ -25478,11 +25478,11 @@ Encontre um navio em Encosta Abandonada!
 pla-d_030_010-t03_npc_text_en.cfg.bin.txt
 Então a gente está pensando em transformar esse leite daqui em queijo, não é? Aposto minha lanterna que você também tem o feitiço para fazer isso!
 Bom dia a todos.<NL>Como posso ser útil?
-Trouxemos um pouco de queijo para dar ao Cowlipha, Sr. Abull, senhor!
+Trouxemos um pouco de queijo para dar ao Vacalifa, Sr. Abull, senhor!
 Ch-Queijo!? Louvado seja os Antigos! Eu pensei que não havia nenhum remanescente em toda a terra!
-O Cowlipha simplesmente não se cansa disso, hein?
+O Vacalifa simplesmente não se cansa disso, hein?
 Hum!? Como você ouviu falar disso? É um segredo conhecido apenas por aqueles dentro do palácio!
-...Não importa. Você está certo. Sua Moojesty é de fato uma grande admiradora do queijo em suas diversas formas.
+...Não importa. Você está certo. Vossa Moojestade é de fato uma grande admiradora do queijo em suas diversas formas.
 Ela sem dúvida concederá uma audiência a qualquer um que vier trazendo tal presente.
 Por favor, você deve me seguir.<NL>Rápido!
 Olá! Hoo, posso te ajudar hoje? Já experimentou misturar babanas com leite e iogurte? É um dos favoritos aqui em Al Mamoon!
@@ -25513,12 +25513,12 @@ Quem é?<NL>Por favor, você tem que nos dizer!
 Abull, claro! Se eu tivesse a paciência dele, estaria falando sobre isso por toda a cidade!
 Um touro...?
 Isso mesmo. Um passarinho me contou uma história e tanto sobre ele... Já faz alguns anos...
-Um dia, a Cowlipha decidiu do nada que não ficaria contente até que tivesse provado todos os queijos do mundo...
+Um dia, a Vacalifa decidiu do nada que não ficaria contente até que tivesse provado todos os queijos do mundo...
 Cheese?<NL>Acho que ela é igual a dona Leila, né?
 Sem hesitar um momento, Abull partiu para atacar todos eles.
 Através de florestas e oceanos ele foi, atingido por nevascas, e muitas vezes sobrevivendo com pouco mais que uma asa e uma oração...
 Mas, finalmente, ele voltou para casa para se empoleirar. E quando o fez, foi com um carrinho empilhado com todos os queijos sob o sol! Caramba - deve ter fedido!
-Agora é isso que eu chamo de <color:#1>contenção</color>! E por Deus ele precisa disso, com Sua Moojesty cantando para ele o tempo todo!
+Agora é isso que eu chamo de <color:#1>contenção</color>! E por Deus ele precisa disso, com Vossa Moojestade cantando para ele o tempo todo!
 Crikey, é impressionante! Ele fez tudo isso - arriscou a vida e tudo mais - só para que o Moossiveness dela pudesse fazer um lanche?
 Arrumado!<NL>Acho que encontramos nosso homem, Olliezinho!
 Demais!<NL>Devíamos ir procurá-lo imediatamente!
@@ -25528,14 +25528,14 @@ Você fez? Esta é uma excelente notícia.<NL>Você deve me dizer - quem é?
 Meu? Mas—<NL>Impossível!
 Nem um pouco, Peter Patience! <NL>Olhe para o medalhão do Olliezinho - está brilhando, uma delícia!
 Você poderia nos emprestar um pouco de sua <color:#1>contenção</color>, Sr. Abull?
-Hum? Bem, eu... Claro que você pode.<NL>Para Sua Moojesty, qualquer coisa...
+Hum? Bem, eu... Claro que você pode.<NL>Para Vossa Moojestade, qualquer coisa...
 O que devo fazer?
 Não há nada nisso!<NL>Apenas deite-se e pense em Al Mamoon...
 Bem?<NL>Continue com isso, Olliezinho!
 Claro!<NL>Aqui vai...
-Para Sua Moojesty, qualquer coisa...
+Para Vossa Moojestade, qualquer coisa...
 Arrumado!<NL>Tudo pronto!
-Já? E isso é realmente o suficiente para restaurar Her Moojesty à sua antiga glória?
+Já? E isso é realmente o suficiente para restaurar Her Moojestade à sua antiga glória?
 Pode apostar que é!
 Mmmmm! Cheesy-weese!<NL>Montanhas de deliciosos cheesy-weese!
 tudo por nós!<NL>Mmmnomnomnomnomnom...
@@ -25543,10 +25543,10 @@ Ela tem queijo no cérebro, ela! Até sonha com as coisas! Rápido, Olliezinho, 
 Sim senhor!
 Hum? Não há mais queijo?<NL>Qual é o significado disso!?<NL>Devemos comer mais! Mooore!!!
 Calcinha... Rápido, Olliezinho! Entregue essa <color:#1>restrição</color> antes que ela zombe de nós sobre a chance de sermos feitos de<NL>você-sabe-o-quê!
-Sua Moojesty pode realmente ser restaurada ao que era antes?
+Vossa Moojestade pode realmente ser restaurada ao que era antes?
 Há um Grande Sábio em algum lugar na cidade de Hamelin, bem ao leste.
 Você deve encontrar este sábio.<NL>E devo investigar mais as atividades de Shadar...
-Pelas barbas dos Antigos! Para a própria Cowlipha ficar com o coração partido...
+Pelas barbas dos Antigos! Para a própria Vacalifa ficar com o coração partido...
 Eu tinha ouvido os infelizes rumores, é claro, mas para que eles se provassem verdadeiros... Mas espere, como você conseguiu entrar no palácio?
 Cheeeeeeeese!<NL>Precisamos de mais cheesy-weese!<NL>Moooooore! Neste instante!
 Embora eu mesmo diga, acredito que posso ter criado algo de beleza incomparável...
@@ -25561,7 +25561,7 @@ Meu cabelo é, na verdade, do preto mais escuro, mas o sol implacável de nossa 
 Não é justo!<NL>Por que não posso ter outra babana dividida?
 uma babana com cobertura de chocolate!
 Louvado seja os Antigos!<NL>Leite! Leite delicioso!
-Bem-vindo, bem-vindo, a Al Mamoooooon!<NL>O Cowlipha é maior que um grande duuune de areia!
+Bem-vindo, bem-vindo, a Al Mamoooooon!<NL>O Vacalifa é maior que um grande duuune de areia!
 Serei um escritor de canções muito famoso quando for mais velho. Você deve vir a todas as minhas apresentações!
 Puxa, esta é a cor mais bonita...<NL>Isso decide! Vou comprar este também!
 Ai que chato! Eu viajei de Encosta Abandonada até aqui para conseguir um bronzeado mais profundo, e agora estou queimado! Dói como um louco!
@@ -25575,8 +25575,8 @@ Se ficar muito mais quente, o leite das fontes irá coalhar.
 ...A-há! Isso me dá uma idéia!<NL>Vou encher garrafas com água e vendê-las!<NL>Com certeza ficarei muito rico!
 Receio não poder permitir que você passe.<NL>Não é permitido no momento.
 Mestre Abul lhe concedeu permissão para entrar. Por favor, sinta-se à vontade para prosseguir.
-Se você deseja uma audiência com Her Moojesty, você deve obter a permissão do Mestre Abull.
-Você está aqui para ver seu Moojesty. Mestre Abull nos disse para esperá-lo. Por favor, o Cowlipha deve ser tratado com a maior reverência.
+Se você deseja uma audiência com Her Moojestade, você deve obter a permissão do Mestre Abull.
+Você está aqui para ver Vossa Moojestade. Mestre Abull nos disse para esperá-lo. Por favor, o Vacalifa deve ser tratado com a maior reverência.
 Leite! Leite! Obtenha o leite mais fresco e fresco de toda a cidade! Mais fresco do que qualquer outro comerciante!
 Este tecido é mais leve e legal! Sinta! Nosso estoque é fornecido pela Cawtermaster's Store - tudo é totalmente honesto e aprovado!
 Sem o oásis, aqueles que viajam pelo deserto certamente pereceriam.
@@ -25595,7 +25595,7 @@ Espero que um dia possamos navegar juntos pelos mares.
 Al Mamoon oferece-lhe as suas mais humildes boas-vindas.
 Você deve se deliciar com nossas deliciosas e renomadas babanas e nosso leite fresco e refrescante!
 Eu sou o maior fã de leite em toda a terra! É por isso que esta cidade será minha casa para todo o sempre!
-As pessoas dizem que o Cowlipha é um personagem enorme...
+As pessoas dizem que o Vacalifa é um personagem enorme...
 (suspiro) Estou com tanto ciúme... Com licença? Você diz que isso não é motivo de ciúme? Mas por que não?
 Eu gosto de brincar aqui perto da fonte.<NL>É um lugar fresco e sombreado.
 Marido! Por que você não me ouve!?
@@ -25642,8 +25642,8 @@ npc_051(Rechonchuda, Al Mamoon, Mulher de meia-idade mais velha)
 
 pla-d_030_010_guide_text_en.cfg.bin.txt
 Encontre um navio em Encosta Abandonada!
-Peça ao Cowlipha de Al Mamoon uma carta de passagem!
-Peça ao Cowlipha de Al Mamoon uma carta de passagem!
+Peça ao Vacalifa de Al Mamoon uma carta de passagem!
+Peça ao Vacalifa de Al Mamoon uma carta de passagem!
 Faça uma pausa no Cat's Cradle em Al Mamoon!
 
 pla-d_040_010_guide_text_en.cfg.bin.txt
@@ -25651,15 +25651,15 @@ Vá falar com Leila em Motorville!
 
 pla-d_050_010_guide_text_en.cfg.bin.txt
 Faça queijo usando leite das fontes em Al Mamoon!
-Leve a fatia gigante de queijo para o Cowlipha!
+Leve a fatia gigante de queijo para o Vacalifa!
 
 pla-d_060_010_guide_text_en.cfg.bin.txt
 Veja se algum lojista conhece alguém com contenção de sobra!
 Pegue emprestado alguma restrição de Abull.
-Restaure a contenção perdida do Cowlipha!
+Restaure a contenção perdida do Vacalifa!
 
 pla-d_070_010-t03_npc_text_en.cfg.bin.txt
-Ouvi dizer que você curou o coração de Her Moojesty.<NL>Hm. Muito impressionante, jovem bruxo.
+Ouvi dizer que você curou o coração de Her Moojestade.<NL>Hm. Muito impressionante, jovem bruxo.
 Por fim, seu caminho para Hamelin e o próximo Grande Sábio está livre. A jornada à sua frente será longa e árdua. Preparem-se.
 Eu me deparei com um fato muito intrigante enquanto pesquisava as atividades de Shadar.
 Apenas os guardiões dos lugares que você visitou ficaram loucos.
@@ -25670,7 +25670,7 @@ Nos dias dos Antigos, nosso mundo era abundante em reinos governados pelo poder 
 As histórias daquela época continuam vivas, aqui e em outros lugares. Quando Esther era jovem, eu os contava com frequência...
 Shadar se esconde no extremo norte do continente de Outonia, além de um pântano fétido envolto em um miasma fétido.
 Infelizmente, o único instrumento capaz de levantar esta mortalha vive agora apenas na lenda...
-Hum? O Clarion vive novamente?<NL>Então os três reinos agem como um só mais uma vez...
+Hum? O Triflauta vive novamente?<NL>Então os três reinos agem como um só mais uma vez...
 Claro... Os mestres de todos os três devem suas vidas a você. Só isso poderia tê-los convencido a trabalhar juntos novamente.
 Então a Grande Sábia Alicia e sua mãe eram uma e a mesma...
 "Aquele que cura os de coração partido...<NL>O salvador deste mundo de tristeza..."
@@ -25692,14 +25692,14 @@ Ficamos muito satisfeitos com o fato de o céu floaty-woaty ter se juntado a nó
 Portanto, deixamos Abull no comando de nossas forças voadoras e retomamos nosso lugar entre nossos amados súditos.
 Mas não tema - enviaremos muitos jovens elegantes em vassouras para se juntarem à luta. Esperamos que sejam úteis.
 Meu, meu, meu... É nossa imaginação ou o Sábio de Hamelin ficou ainda mais galante e bonito ultimamente? Mmm, poderíamos apenas devorá-lo!
-Louvado seja os Antigos! Seu Moojesty anda mais uma vez! Agora que ela está de pé, vejo o quão... magnificamente proporcional ela cresceu.
+Louvado seja os Antigos! Vossa Moojestade anda mais uma vez! Agora que ela está de pé, vejo o quão... magnificamente proporcional ela cresceu.
 Com a carta de passagem, o Sea Cow é seu para comandar. Que os Antigos cuidem de você nas ondas.
 Você conhece a barraca de curry em frente ao palácio? Seu delicioso aroma chega até as profundezas do palácio para nos tentar.
-Sua Moojesty uma vez jantou desde o amanhecer até o anoitecer sem parar, e agora, ela participa de apenas três refeições por dia, e mal come uma migalha no chá da tarde...
+Vossa Moojestade uma vez jantou desde o amanhecer até o anoitecer sem parar, e agora, ela participa de apenas três refeições por dia, e mal come uma migalha no chá da tarde...
 (suspiro) De vez em quando, eu me vejo olhando para os dias de seus gloriosos excessos com um certo... carinho.
 A madeira sagrada é cortada de uma árvore muito preciosa, cujo segredo de crescimento milagroso é passado de geração em geração da realeza Mamooni.
-A peça em sua posse foi cultivada por nossa própria Moojesty de dedos verdes em seus dias de juventude.
-Rezo para que em breve os três reinos se unam em cooperação pacífica, assim como uniram forças para ressuscitar o Clarion.
+A peça em sua posse foi cultivada por nossa própria Moojestade de dedos verdes em seus dias de juventude.
+Rezo para que em breve os três reinos se unam em cooperação pacífica, assim como uniram forças para ressuscitar a Triflauta.
 Estou muito surpreso. Não há um único ferimento entre as pessoas da cidade que foram...transformadas.
 O que aconteceu com todos nós...?
 Embora eu mesmo diga, acredito que posso ter criado algo de beleza incomparável...
@@ -25728,7 +25728,7 @@ Não é justo!<NL>Por que não posso ter outro babana split de luxo?
 E uma babana com cobertura dupla de chocolate!
 Louvado seja os Antigos!<NL>Leite! Leite delicioso!
 Louvado seja os Antigos!<NL>Leite! Leite delicioso!
-Bem-vindo, bem-vindo, a Al Mamoooooon!<NL>O Cowlipha é maior que um grande duuune de areia!
+Bem-vindo, bem-vindo, a Al Mamoooooon!<NL>O Vacalifa é maior que um grande duuune de areia!
 Serei um escritor de canções muito famoso quando for mais velho. Você deve vir a todas as minhas apresentações!
 Bem-vindo, bem-vindo, a Al Mamoooooon!<NL>A cidade deserta entre os duuuuuuunes!
 Serei um escritor de canções muito famoso quando for mais velho. Você deve vir a todas as minhas apresentações!
@@ -25750,14 +25750,14 @@ Que vergonha. Antes estava frio, mas agora está desconfortavelmente quente de n
 Se ficar muito mais quente, o leite das fontes irá coalhar.
 ...A-há! Isso me dá uma idéia!<NL>Vou encher garrafas com água e vendê-las!<NL>Com certeza ficarei muito rico!
 Bebi muito leite e sonhei que era uma vaca!
-No meu sonho, ganhei a mão de Cowlipha e nos casamos! Foi o mais agradável...
-O cheiro da mais deliciosa culinária exala do palácio, não é? Ho ho! Her Moojesty é um gourmand altamente refinado!
+No meu sonho, ganhei a mão de Vacalifa e nos casamos! Foi o mais agradável...
+O cheiro da mais deliciosa culinária exala do palácio, não é? Ho ho! Her Moojestade é um gourmand altamente refinado!
 Às vezes, tenho a sorte de receber os restos de suas refeições na cozinha. Eles são uma festa em si!
-O cheiro da mais deliciosa culinária exala do palácio, não é? Ho ho! Her Moojesty é um gourmand altamente refinado!
+O cheiro da mais deliciosa culinária exala do palácio, não é? Ho ho! Her Moojestade é um gourmand altamente refinado!
 Ohh, estou com tanta fome... <NL>A hora da refeição nunca chegará?
-Bem-vindo ao glorioso palácio de Al Mamoon. Você deseja ver o Cowlipha, sim? Por favor, ela deve ser tratada com a maior reverência.
+Bem-vindo ao glorioso palácio de Al Mamoon. Você deseja ver o Vacalifa, sim? Por favor, ela deve ser tratada com a maior reverência.
 O turno do meu colega aqui vai acabar logo, então ele só pensa na hora da refeição. Tanta frivolidade!
-Bem-vindo ao glorioso palácio de Al Mamoon. Você deseja ver o Cowlipha, sim? Por favor, ela deve ser tratada com a maior reverência.
+Bem-vindo ao glorioso palácio de Al Mamoon. Você deseja ver o Vacalifa, sim? Por favor, ela deve ser tratada com a maior reverência.
 Não esqueci a importância de meus deveres jurados como alguns que poderia mencionar, mas devo admitir que fiquei com muita fome...
 Leite! Leite! Obtenha o leite mais fresco e fresco de toda a cidade! Mais fresco do que qualquer outro comerciante!
 Pegue o suco de babana mais legal de toda a cidade!<NL>Mais fresco do que qualquer outro comerciante!
@@ -25797,9 +25797,9 @@ Al Mamoon oferece-lhe as suas mais humildes boas-vindas.
 Perdão...? Hum? Leite? Ao redor da minha boca? Ai que vergonha! Você deve aceitar minhas mais humildes desculpas!
 Eu sou o maior fã de leite em toda a terra! É por isso que esta cidade será minha casa para todo o sempre!
 Eu sou o maior fã de leite em toda a terra! É por isso que esta cidade será minha casa para todo o sempre!
-As pessoas dizem que o Cowlipha é um personagem enorme...
+As pessoas dizem que o Vacalifa é um personagem enorme...
 (suspiro) Estou com tanto ciúme... Desculpe-me?<NL>Você diz que isso não é algo para se ter ciúmes?<NL>Mas por que não?
-As pessoas dizem que o Cowlipha é um personagem muito poderoso...
+As pessoas dizem que o Vacalifa é um personagem muito poderoso...
 (suspiro) Estou com tanto ciúme... Tenho certeza que ela conhece as melhores manobras de luta...
 Eu gosto de brincar aqui perto da fonte.<NL>É um lugar fresco e sombreado.
 Eu gosto de brincar aqui perto da fonte. É um lugar fresco e sombreado – quando comparado ao resto da cidade, pelo menos!
@@ -27125,7 +27125,7 @@ Um dos que me ensinou os caminhos da magia foi o Grande Sábio Khulan, Rainha de
 Depois que meu irmão partiu, viajei para Xanadu e para o Templo das Provações para receber meu treinamento mágico.
 Mornstar... Está completo.<NL>Finalmente.
 E a Rainha Khulan ainda vive. As coisas estão em movimento. Eu sinto a mão do destino trabalhando...
-Com o Clarion, tenho certeza de que você será capaz de limpar o miasma de uma vez por todas.
+Com a Triflauta, tenho certeza de que você será capaz de limpar o miasma de uma vez por todas.
 E então a cortina se levantará em sua batalha final com Shadar.
 Shadar... Aquele monstro tirou a vida de meu pai e partiu meu coração.
 Eu adoraria lutar ao seu lado, mas as coisas aqui não permitem. Em vez disso, vou orar por sua vitória!
@@ -27753,9 +27753,9 @@ Segure firme, então!<NL>Acho que vamos ter uma luta certeira dessa vez!
 Eu só tenho medo de pensar no que vai acontecer se deixarmos isso por conta própria, veja...
 Examinar o orbe negro?
 Uau! Estamos de volta ao seu mundo, Sr. Drippy!
-Olha, menino Ollie! Alguém colocou uma carta neste Car por aqui. Sob o limpador, vê?
+Olha, menino Ollie! Alguém colocou uma carta neste carro por aqui. Sob o limpador, vê?
 Carta AA!?
-Whoa...!<NL>C-Como o Car de Phil...nosso Car...?
+Whoa...!<NL>C-Como o carro de Phil...nosso Car...?
 Você pode resolver os porquês e comos mais tarde, mun.<NL>Este é o seu sonho, não é? Entre, Olliezinho!
 Olha, Olliezinho!<NL>É um daqueles mestres mágicos!
 É um mestre mágico!<NL>Você está pronto para isso, Olliezinho?
@@ -27869,7 +27869,7 @@ Precisamos ir para Al Mamoon e encontrar alguma contenção, mun!
 Você não gosta de Al Mamoon ou algo assim?<NL>Precisamos voltar para lá, mun!
 Vamos devolver o autocontrole ao velho Cara de Vaca, certo?
 Eu me pergunto por que ela tem esse retrato?<NL>Acha que eles estão vendendo em algum lugar, Olliezinho?
-Então a Cowlipha te deu um feitiço que torna as coisas mais pesadas, não é? Aposto que ela sabe uma ou duas coisas sobre isso, não é!?
+Então a Vacalifa te deu um feitiço que torna as coisas mais pesadas, não é? Aposto que ela sabe uma ou duas coisas sobre isso, não é!?
 Finalmente, Olliezinho! Finalmente conseguimos navegar na onda do mar!
 Oi! Precisamos voltar para Encosta Abandonada e recuperar nossos bens roubados!
 Vamos, mano! Precisamos ir até Encosta Abandonada e encontrar alguma contenção!
@@ -27984,8 +27984,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -28067,8 +28067,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -28349,7 +28349,7 @@ Quer dizer, eu quero saber mais sobre Pea...<NL>Mas primeiro temos que ajudar es
 Meu pai às vezes mencionava um "lugar proibido, envolto em trevas"...
 Eu sempre pensei que ele estava falando sobre Nevermore...<NL>Mas talvez ele estivesse falando sobre Nazcaä?
 Então os três reinos estão unindo forças para lutar contra a Feiticeira Branca...
-E eu pensei que tocar Clarion deveria trazer paz ao mundo...
+E eu pensei que tocar Triflauta deveria trazer paz ao mundo...
 Mas se tivermos que lutar, é o que faremos!<NL>E com meu pai lutando ao nosso lado, não temos nada a temer!
 É hora da batalha final, Oliver!
 Vamos pular nas costas de Tengri e seguir para a Torre de Marfim!
@@ -28414,9 +28414,9 @@ Tive a sorte de estar a caminho da celebração em Ding Dong Dell na época. Ten
 Não pensei que o mundo pudesse ser salvo por alguém tão jovem... O coração dela deve ser excepcionalmente puro.
 Sim, Oliver... você não está sozinho em sua pureza de coração.
 Os três reinos lutando como um...<NL>Eu nunca pensei que veria esse dia.
-Foi para dias como estes que o Clarion foi concebido pela primeira vez - quando todos devem permanecer como um.
+Foi para dias como estes que a Triflauta foi concebido pela primeira vez - quando todos devem permanecer como um.
 Os três reinos lutando como um...<NL>Eu nunca pensei que veria esse dia.
-Foi para dias como estes que o Clarion foi concebido pela primeira vez - quando todos devem permanecer como um.
+Foi para dias como estes que a Triflauta foi concebido pela primeira vez - quando todos devem permanecer como um.
 Uma batalha final, que decidirá o destino do mundo... Dói-me que alguém tão jovem como você tenha que carregar tal fardo...
 Mas você é forte, Oliver.<NL>Você tem o coração de um sábio.<NL>Você pode salvar este mundo. Eu sei que você pode.
 As cinzas que caíram sobre os três reinos foram o resultado de um feitiço incomparavelmente poderoso...
@@ -28435,7 +28435,7 @@ O coração da Feiticeira Branca devia estar cheio dessas emoções. Ela deve te
 Bom dia. Parece que finalmente chegou a hora.
 O esquadrão Cloud Sweeper de Al Mamoon está ao seu serviço. Os talentos de nossos pilotos são mundialmente reconhecidos. Eles não devem decepcioná-lo.
 Parece que nem tiros de canhão nem ataques mágicos podem danificar a Torre de Marfim...
-Achei o Palácio de Cowlipha em Al Mamoon uma estrutura robusta, mas isso é algo completamente diferente...
+Achei o Palácio de Vacalifa em Al Mamoon uma estrutura robusta, mas isso é algo completamente diferente...
 Drippy-boy, mun! Como?
 Hã? O que vocês dois estão fazendo aqui!?
 Não é óbvio, mun? Estamos nos preparando para o ataque à fortaleza de Shadar, não é!?
@@ -28901,7 +28901,7 @@ Hum... Importa-se de esperar mais um pouco, Alteza?
 Avise-me assim que estiver pronto para começar.
 Não posso reparar facilmente o que fiz.
 Mas devo me esforçar para fazer tudo o que puder para trazer esperança a este lugar. E desta vez sem "bênçãos" duvidosas...
-Então o Clarion está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
+Então a Triflauta está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
 Então Oliver permanece inconsciente... Receio não saber como ajudá-lo.
 Mas devemos ter fé e rezar para que ele se recupere. O que mais podemos fazer?
 Com Mornstar restaurado, seus poderes são maiores do que nunca. De fato, certos baús agora serão abertos ao seu comando. Ora, há um nesta mesma cidade.
@@ -29004,7 +29004,7 @@ pla-k_050_010_guide_text_en.cfg.bin.txt
 Peça a Khulan para restaurar o poder de Mornstar!
 
 pla-k_060_010_guide_text_en.cfg.bin.txt
-Colete um pouco de madeira sagrada do Cowlipha de Al Mamoon!
+Colete um pouco de madeira sagrada do Vacalifa de Al Mamoon!
 
 pla-k_070_010_guide_text_en.cfg.bin.txt
 Peça ao Rei Tom para esculpir a madeira sagrada!
@@ -29020,10 +29020,10 @@ Vá falar com Pip em Ding Dong Dell!
 Peça ao Rei Tom para esculpir a madeira sagrada!
 
 pla-k_100_010_guide_text_en.cfg.bin.txt
-Viaje para Hamelin e peça a Marcassin para completar o Clarion!
+Viaje para Hamelin e peça a Marcassin para completar a Triflauta!
 
 pla-k_110_010_guide_text_en.cfg.bin.txt
-Deixe o Clarion tocar através dos Pântanos de Miasma!
+Deixe a Triflauta tocar através dos Pântanos de Miasma!
 
 pla-k_120_010_guide_text_en.cfg.bin.txt
 Atravesse os Pântanos de  Miasma e siga para Nevermore!
@@ -29035,7 +29035,7 @@ pla-k_140_010_guide_text_en.cfg.bin.txt
 Vá falar com Swaine.
 
 pla-l_010_010-t09_npc_text_en.cfg.bin.txt
-Então o Clarion está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
+Então a Triflauta está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
 Então você acordou. Estou feliz. Seu coração provou ser forte o suficiente para suportar a escuridão. Está claro para mim agora que você tem o poder de mudar nosso mundo.
 Ver a Rainha Khulan sorrindo mais uma vez, cercada pelos habitantes da cidade... Isso me traz tudo de volta.
 Ela representava esperança para cada homem, mulher e criança em Xanadu. E agora ela traz esperança para a vida de outras pessoas. Realmente, é uma visão para aquecer o coração.
@@ -29659,10 +29659,10 @@ Ei, bem vindo a Motorville! *caipira* O ar está claro e não há vagabundos...*
 Um novo speakeasy acabou de abrir perto da praça da cidade na estrada daqui. Tem uma sensação agradável para o lugar.
 Quando o vinho, as mulheres e a música forem demais para mim, vou parar de cantar!
 Tem que tomar muito leite integral e comer muita carne vermelha se quiser crescer saudável, filho! Por isso a loja da Leila é uma grande ajuda!
-Aww, droga... O motor do meu Car parece um pouco desligado ultimamente. E acabei de comprar ela...
+Aww, droga... O motor do meu carro parece um pouco desligado ultimamente. E acabei de comprar ela...
 Talvez seja o jeito que eu dirijo?
-Ultimamente, passo meus intervalos lendo livros em frente a esta loja. Oh, droga! Deixei meu livro no Car de novo...
-Oi de novo Oliver. Estou indo buscar meu Car que coloquei para revisão.
+Ultimamente, passo meus intervalos lendo livros em frente a esta loja. Oh, droga! Deixei meu livro no carro de novo...
+Oi de novo Oliver. Estou indo buscar meu carro que coloquei para revisão.
 Você conhece o lugar, a oficina na estrada ao sul daqui.
 A garota da casa ao lado não sai de casa, mas às vezes mostra o rosto na janela. Ela é realmente bonita.
 Desculpe incomodá-lo de novo e de novo...<NL>Espero que você a tenha consertado para sempre desta vez.
@@ -29794,11 +29794,11 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Por que Esther está tão chateada, mun? Não é como se ela tivesse uma lanterna pendurada no nariz, não é? Há pessoas piores do que a realeza para se parecer...
-Você está indo para a loja de Leila, não é? Limpo. Agora podemos descobrir o que é que flutua naquele barco culinário de Cowlipha, não é?
+Você está indo para a loja de Leila, não é? Limpo. Agora podemos descobrir o que é que flutua naquele barco culinário de Vacalifa, não é?
 Não muda muito, este lugar, não é? Suponha que isso seja parte de seu charme, hein...?
 Há uma fonte de leite em Al Mamoon, não é?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -29857,7 +29857,7 @@ Você já conhece o feitiço certo para falar com Tengri, mun! Venha agora! Para
 Vamos nos apressar e encontrar a alma gêmea daquele dragão, certo?
 Que tipo de pessoa compartilha sua alma com um dragão, você acha? Provavelmente alguém grande e durão, hein?
 Alguém vem à mente, Olliezinho?<NL>Acho melhor perguntarmos por aí, não é?
-Aquela senhora saberá, não é? Você sabe, a alma gêmea de Cowlipha. Linda velha. Dirige aquela loja, não é? Vamos lá perguntar.
+Aquela senhora saberá, não é? Você sabe, a alma gêmea de Vacalifa. Linda velha. Dirige aquela loja, não é? Vamos lá perguntar.
 Parece que aquele cachorrinho está ansioso para falar com você, Olliezinho. Use aquele feitiço que você usou no Tengri, não é.
 Aquela garotinha... ela poderia me ouvir? Aposto que sim, e ela estava apenas me ignorando, a atrevida fulana de tal! Crianças hoje em dia, mun! Não sei se eles nasceram...
 Esse cão é um corredor rápido adequado, hein? Suponho que ele estaria, correndo pela cidade sem ninguém para cuidar dele...
@@ -29904,8 +29904,8 @@ Você é o único que pode ajudar Philip em sua hora de necessidade, Olliezinho!
 Vamos, Olliezinho! Dê a Phil uma parte de sua ambição! Rápido!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -29941,8 +29941,8 @@ Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
 Cuidado com a estrada, Olliezinho! Não queremos que você seja esmagado agora, não é?
 Viveu aqui a vida toda, não é?<NL>É adorável. Eu estive por toda parte, eu...
-Tem um monte de Cars por aqui, mano! Não que isso seja surpreendente, eu suponho. Aqui é Motorville, afinal...
-Acho que posso arranjar um bom Car esporte, sabe. Sim, cara! Rodada de cruzeiro com a capota abaixada! Brrr! ...Não que eu saiba dirigir, veja bem.
+Tem um monte de carros por aqui, mano! Não que isso seja surpreendente, eu suponho. Aqui é Motorville, afinal...
+Acho que posso arranjar um bom carro esporte, sabe. Sim, cara! Rodada de cruzeiro com a capota abaixada! Brrr! ...Não que eu saiba dirigir, veja bem.
 Passei tanto tempo aqui no seu mundo, parece que estou em casa longe de casa! Acham que vão me deixar virar cidadã?
 Ei!
 O que foi mesmo...? Eu tinha certeza de que tinha algo para lhe dizer. Muito engraçado também... Cuecas!
@@ -30893,8 +30893,8 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -30997,8 +30997,8 @@ Caramba, espero que isso signifique que finalmente podemos recuperar aquela made
 Graças a Deus, recuperamos aquela madeira sagrada!<NL>Vamos nos apressar e esculpi-la, certo?
 Ele? Montando um varredor de nuvens?<NL>Não me faça rir, mano!<NL>Eles não vêm em tamanhos de mouse!
 E chega de beliscar, ouviu?
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -31189,7 +31189,7 @@ Se a guerra está realmente no horizonte, então devo lutar. Devo proteger minha
 Rezo todos os dias por sua segurança na perigosa estrada que você trilha...
 Recentemente fui apresentado às delícias da babana!
 Nunca sonhei que pudesse existir uma fruta tão suculenta e deliciosa! Realmente, esta é uma era de milagres!
-Tivemos a honra incomparável de conhecer a Cowlipha! Ela é uma grande presença e uma governante muito generosa.
+Tivemos a honra incomparável de conhecer a Vacalifa! Ela é uma grande presença e uma governante muito generosa.
 Ela permite que as pessoas da cidade bebam livremente do leite produzido pelas fontes da praça. Quanta magnanimidade!
 Por que...? Por que isso aconteceu...? O que o povo de Al Mamoon fez para merecer um destino tão cruel?
 Amigos! Estou tão aliviado em vê-lo são e salvo!<NL>Você não está ferido, espero?
@@ -31716,7 +31716,7 @@ Ei, este pássaro - é...?
 Olha isso, mano! Este pombo não tem medo de ninguém! Manso como qualquer coisa, ele é!
 Ei, olha a carinha dele!<NL>Você acha que ele é...?
 ...Tentando nos dizer algo? Sim, parece que sim, hein...
-Bem, você sabe o que fazer então, não é, Olliezinho? Está na hora de usar aquele <color:#1>feitiço</color> que a Cowlipha te deu, não é?
+Bem, você sabe o que fazer então, não é, Olliezinho? Está na hora de usar aquele <color:#1>feitiço</color> que a Vacalifa te deu, não é?
 Coo! Ainda não quero voltar para casa!<NL>Quero brincar aqui um pouco mais!
 Mas há mensagens que precisam ser entregues.<NL>Você tem que voltar, passarinho!
 Squawk! Você me assustou bobo!<NL>Como você pode me entender?<NL>Coo é você?
@@ -32008,7 +32008,7 @@ Beber leite nos ajuda a crescer grandes e fortes.<NL>Você faria bem em beber o 
 Vim tirar um gole de leite para minha irmã mais nova, mas tolo que sou, esqueci de trazer uma vasilha para colocar...
 Onde está meu irmão?<NL>Tenho sede! Eu quero meu leite!
 Avô! Por favor, posso comer uma babana de chocolate? Por favor?
-Eu gostaria muito de olhar para nossa amada Cowlipha um dia... Ela deve ser radiantemente bela...
+Eu gostaria muito de olhar para nossa amada Vacalifa um dia... Ela deve ser radiantemente bela...
 O que é o "pampurring" que ocorre no Palácio de Pampurring? Diga-me! Eu gostaria de saber!
 Sua capa permite que você voe pelos céus como uma águia?
 Ahh, esse sol é realmente uma benção! Não há nada tão bom quanto um bronzeado profundo e rico, você não concorda?
@@ -32035,9 +32035,9 @@ Você acabou de comer uma babana split, criança!<NL>Você quer ficar doente?
 Haa, haa, haa...<NL>Em breve completarei minha centésima volta!
 Eu também me tornarei um membro da guarda e protegerei nosso belo lar de Al Mamoon!
 ...Hm? Protegê-lo de quê?<NL>Isso eu não sei...
-Bem-vindo à ilustre cidade de Al Mamoon, governada pela mais generosa Cowlipha Lowlah!
-Me desculpe. O Cowlipha está atualmente... indisposto. Ela não está aceitando visitas.
-Pare! Você não pode ir antes do Cowlipha sem a permissão do Mestre Abull!
+Bem-vindo à ilustre cidade de Al Mamoon, governada pela mais generosa Vacalifa Lowlah!
+Me desculpe. O Vacalifa está atualmente... indisposto. Ela não está aceitando visitas.
+Pare! Você não pode ir antes do Vacalifa sem a permissão do Mestre Abull!
 Depois de Bosque Dourado, vamos para Al Mamoon!
 Aquele cara disse que Rashaad está vendendo babanas ultimamente? Não é exatamente um passo à frente do Great Sage, é...
 Calcinhas! Deixei minha carteira de volta no fliperama Ding Dong Dell, mun! Só brincando! Rá! Deveria ter visto seu rosto!
@@ -32065,11 +32065,11 @@ Só vamos deixar aquele ladrão fedorento fugir com a maconha, vamos?
 Oi! Onde você está indo, hein? As palavras mágicas para aquele pote estão no flipping Grimório Mágico, mun!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
 Vamos, mano! Vamos descer para Encosta Abandonada e navegar em alto mar!
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 O palácio fica bem no final da cidade. Basta seguir a rua principal, mun. Você não pode perder isso.
 Para que ele quer pintar Esther? Faria um modelo bem mais refinado! Veja as curvas finas e aquilinas do meu nariz majestoso! Hmph! O homem é claramente um amador!
-Certo, agora que finalmente voltamos por aqui, vamos continuar e obter a permissão de Cowlipha para pegar emprestado seu barco, certo?
-Quanto comer este Cowlipha pode fazer, exatamente? Parece que ela tem algum tipo de distúrbio, não é?
+Certo, agora que finalmente voltamos por aqui, vamos continuar e obter a permissão de Vacalifa para pegar emprestado seu barco, certo?
+Quanto comer este Vacalifa pode fazer, exatamente? Parece que ela tem algum tipo de distúrbio, não é?
 Primeiras coisas primeiro, vamos dormir, certo? Estou absolutamente exausta, mano!
 Você quer falar com Rashaad, não é?
 Vamos para o seu mundo, certo?
@@ -32083,14 +32083,14 @@ Fez alguns doces enquanto fazia isso, não é? Essas coisas vão apodrecer seus 
 Nunca vi um pedaço de queijo tão grande, mun! Está virando gigantesco!
 Esse é um feitiço de arrumação, aquele feitiço de cozinhar, hein? Posso fazer com que você o use com mais frequência...
 Vamos dar uma olhada nas lojas de Al Mamoon? Estamos prestes a encontrar algo, mun.
-Mesmo o Cowlipha está com o coração partido... Esse Shadar tem muito pelo que responder. Um montão...
+Mesmo o Vacalifa está com o coração partido... Esse Shadar tem muito pelo que responder. Um montão...
 Você tem a sensação de que estamos sendo observados? Ahh, provavelmente não é nada. Apenas um dos meus fãs ou algo assim...
 Aquele tal de Abull tinha um coração cheio de moderação, não tinha? Eu deveria saber, mano...
 Crikey! A visão de seu rosto quando ela estava comendo aquele queijo! Já vi Pesadelos menos assustadores!
 Aquele tal de Abull parecia apropriado, hein? Eu acho que ele deve ter contenção saindo de suas orelhas, mun!
-Vamos, mun, vamos dar a Cowlipha sua contenção, de volta, não é?
+Vamos, mun, vamos dar a Vacalifa sua contenção, de volta, não é?
 Tudo o que precisamos fazer é entregar essa restrição e - bum! - trabalho feito!
-Este pedaço de coração... Não é muito... grande, não é? E a Cowlipha... bem, ela... é, não é? Você acha que isso vai funcionar, Olliezinho?
+Este pedaço de coração... Não é muito... grande, não é? E a Vacalifa... bem, ela... é, não é? Você acha que isso vai funcionar, Olliezinho?
 Se formos para Encosta Abandonada, poderemos pegar aquele barco agora, não é?
 Oi! Precisamos voltar para Encosta Abandonada e recuperar nossos bens roubados!
 Vamos, mano! Precisamos ir até Encosta Abandonada e encontrar alguma contenção!
@@ -32167,7 +32167,7 @@ Aquela cerimônia em Perdida vai começar logo, mano.<NL>É melhor irmos andando
 O velho olhos de cachorrinho tem mais do que seu quinhão de amor.<NL>Acho que ele poderia nos poupar um pouco disso!
 Khulan precisa de uma dose de amor, não é?
 Acho que devemos pedir a Khulan para resolver Mornstar para nós, não acha?
-Para chegar a Nevermore, teremos que atravessar os Pântanos de Miasma. E para fazer isso, vamos precisar do Clarion. Então, vamos colocar nossos fundos em ação!
+Para chegar a Nevermore, teremos que atravessar os Pântanos de Miasma. E para fazer isso, vamos precisar da Triflauta. Então, vamos colocar nossos fundos em ação!
 Você acha que há mais guardiões por aí que possamos tirar orbes e convocar? Com mais alguns deles, seríamos praticamente imbatíveis, Olliezinho!
 Falta pouco para chegarmos ao covil de Shadar agora, Olliezinho! Assustado? Eu sei que estou virando bem, sou...
 Olhe para ele, todo brilhante e brilhante!<NL>Não é um pedaço de madeira normal, é?
@@ -32177,8 +32177,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -32191,7 +32191,7 @@ Temos que salvar os três reinos, não é?<NL>Precisamos encontrar aquelas coisa
 Restam apenas Al Mamoon e Hamelin para salvar agora, mun!
 Al Mamoon está seguro, mun! É com Ding Dong Dell e Hamelin que precisamos nos preocupar agora!
 Não há nada para se preocupar com Pea do nosso lado, hein? Ela é muito poderosa para um pouco!
-Crikey! A velha Cowlipha se transformou em uma verdadeira vaca louca, hein? Esse maná é coisa séria!
+Crikey! A velha Vacalifa se transformou em uma verdadeira vaca louca, hein? Esse maná é coisa séria!
 Restam apenas Ding Dong Dell e Al Mamoon para salvar agora, mun!
 Só resta Hamelin para salvar agora, mun!
 Só resta Al Mamoon para salvar agora, mun!
@@ -33139,8 +33139,8 @@ Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de
 Precisamos tirar aquela madeira sagrada do <NL>pequeno escroto maldito.
 Fazendo isso apenas com suas garras? Há mais no velho King Tom do que aparenta! E lá estava eu pensando que ele era apenas uma bola de pelo gorda e preguiçosa!
 Agora só precisamos que o Marcassin aplique os retoques <NL>finalistas!
-Eu me pergunto que tipo de som esse Clarion faz.
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Eu me pergunto que tipo de som esse Triflauta faz.
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -33896,8 +33896,8 @@ Certo! Todos a bordo do bom navio Sageseeker!
 Confira meus nadadores, Olliezinho! Bem arrumado, hein?
 Eu não posso acreditar que eles ainda tinham um maiô do meu tamanho! Aquele chefe da aldeia deve ter uma pilha arrumada de roupas de banho escondida! Está preparado!
 Não é um patch no meu, obviamente, mas seu maiô não é ruim, Olliezinho.
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -34000,8 +34000,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -34060,8 +34060,8 @@ Certo! Todos a bordo do bom navio Sageseeker!
 Confira meus nadadores, Olliezinho! Bem arrumado, hein?
 Eu não posso acreditar que eles ainda tinham um maiô do meu tamanho! Aquele chefe da aldeia deve ter uma pilha arrumada de roupas de banho escondida! Está preparado!
 Não é um patch no meu, obviamente, mas seu maiô não é ruim, Olliezinho.
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
-Precisamos fazer aquela Cowlipha de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
+Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
 Quer dar uma olhada no Cat's Cradle que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom snazzy.
 Vamos para o seu mundo, certo?
 Há uma fonte de leite em Al Mamoon, não é?
@@ -34164,8 +34164,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -34795,8 +34795,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -34919,8 +34919,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -35458,8 +35458,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Olliezinho, o que você está fazendo!?
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
@@ -36074,8 +36074,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir esta Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -36210,7 +36210,7 @@ Ei, o que vocês estão fazendo?<NL>Posso participar?
 Você sabe por que a Leila não vende queijo na loja dela, não é?
 É porque ela odeia essas coisas!<NL>Acho que é o cheiro...
 Bom dia, querida!<NL>Eu te conheço?
-Meu sobrinho não para de falar daquele Car novo que estão anunciando em todo lugar. Ele diz que voa ainda mais rápido que o último.
+Meu sobrinho não para de falar daquele carro novo que estão anunciando em todo lugar. Ele diz que voa ainda mais rápido que o último.
 Ouvi dizer que o marido da Sra. Woodford está pensando em comprar o novo Coupe D-Lux...
 Está tudo bem para alguns, eu acho!
 Diga, você tem tempo, garoto?<NL>Estou pensando em fazer minha pausa para o almoço.
@@ -36235,35 +36235,35 @@ Nossa, essas batatas são baratas.<NL>Acho que vou fazer umas batatas fritas par
 Ei! Você não olha para o sinal quando está atravessando<NL>a rua!?
 Verde significa pare, vermelho significa vá, manequim!
 E-Ei! Para onde foi meu Car...!?
-Oh, sim. Eu andei até aqui.<NL>Acho que não estou acostumado a deixar o Car em casa...
+Oh, sim. Eu andei até aqui.<NL>Acho que não estou acostumado a deixar o carro em casa...
 Essa casa tem móveis e tudo, mas ninguém mora lá há muito tempo...
 Eu me pergunto onde o dono foi?
 Diga, você sabe que horas o restaurante abre?
 Ei, garoto!<NL>Cuidado ao atravessar a rua, ouviu!
 É fácil esquecer que os automóveis têm sentimentos.<NL>Devíamos ser mais gentis com eles.
 Se algum dia o nosso decidir fugir... bem, não vale a pena pensar nisso.
-Desculpe ligar para você tão cedo.<NL>Acho que vou ter que comprar um Car novo em breve...
-Esses Cars antigos começam a sair sozinhos depois de um tempo.
+Desculpe ligar para você tão cedo.<NL>Acho que vou ter que comprar um carro novo em breve...
+Esses carros antigos começam a sair sozinhos depois de um tempo.
 Certifique-se de trancar sua garagem todas as noites, senhora.
 Se tiver mais algum problema, é só me dar um alô, ok?
 Vai chover esta tarde.<NL>Foi o que minha gata disse, de qualquer maneira, e ela nunca está errada.
 Já vi aquele coelho algumas vezes...<NL>Acho que o circo deve estar na cidade, hein?
-Agora, cuidado, filho!<NL>Tem muitos Cars por aqui!
-Rusty é um cara de pé. E amigável também. Sempre que as pessoas deixam seus Cars na oficina, ele sempre sorri para elas.
-Você sabe alguma coisa sobre Cars?<NL>Nah, acho que não. Você é apenas uma criança.
+Agora, cuidado, filho!<NL>Tem muitos carros por aqui!
+Rusty é um cara de pé. E amigável também. Sempre que as pessoas deixam seus carros na oficina, ele sempre sorri para elas.
+Você sabe alguma coisa sobre carros?<NL>Nah, acho que não. Você é apenas uma criança.
 Hmm... Ouvi dizer que é uma máquina que envia mensagens para outro mundo...
-Estou lhe dizendo, garoto, consertar Cars é um trabalho difícil.<NL>Coloque um parafuso no lugar errado e tudo para de funcionar.
+Estou lhe dizendo, garoto, consertar carros é um trabalho difícil.<NL>Coloque um parafuso no lugar errado e tudo para de funcionar.
 A casa ao lado está vazia há anos...
 Bom dia.
 Esta pobre árvore perdeu tantos galhos. Eu me pergunto o que poderia ter acontecido?
 Realmente? Ouvi dizer que foi um pedaço de um disco voador que caiu perto da cidade!
 Nossa, você olharia o preço da gasolina hoje em dia! Quero dizer, vinte centavos o galão!? Como devo pagar isso?
-Meu Car é um câmbio direto, não um desses novos manuais sofisticados. Eles têm um pedal extra inteiro!
+Meu carro é um câmbio direto, não um desses novos manuais sofisticados. Eles têm um pedal extra inteiro!
 Você poderia olhar para este tempo! <NL>São dias como estes que me deixam feliz por ter optado por um conversível!
 Na verdade, eu estava planejando ir para casa e pendurar algumas roupas para secar...
 Mas Rover diz que ouviu o gato dos Johnsons falando sobre como iria chover mais tarde.
 Acho que são de fabricação estrangeira, hein...
-Meu marido acabou de comprar um Car novo.<NL>Um "Coop" ou algo assim.<NL>Espero que tenha bastante espaço no porta-malas...
+Meu marido acabou de comprar um carro novo.<NL>Um "Coop" ou algo assim.<NL>Espero que tenha bastante espaço no porta-malas...
 Espere um momento - algo não está certo aqui. Esta não é a Motorville que conhecemos e amamos, Olliezinho. Está em algum lugar... diferente.
 Vamos ver aquele Maestro, certo?
 Perseguindo um coelho branco em um curioso outro mundo? Eu poderia jurar que já li algo assim antes, mun. Eu me pergunto onde...
@@ -36305,7 +36305,7 @@ Oliver salva Myrtle em Motorville e, como resultado, torna-se amigo de Esther! P
 Tendo passado nos testes com louvor, Oliver e seus amigos são alertados para o fato de que Velha Smoky está prestes a explodir, colocando Al Mamoon em perigo! Sem tempo de sobra, a equipe segue para o cume do vulcão!
 Oliver e seus amigos evitam com sucesso que Velha Smoky entre em erupção, salvando Al Mamoon no processo. Seu próximo porto de escala é a cidade de Hamelin, onde outro Grande Sábio os espera. Mas primeiro, eles precisam encontrar um barco!
 Após uma breve altercação com um ladrão comum, Oliver e seus amigos adquirem um caldeirão e encontram o gênio que reside dentro dele. Eles também descobrem que não podem embarcar em um navio sem uma carta de passagem... De volta a Al Mamoon!
-Depois de saber que ela compartilha uma alma com a Srta. Leila, Oliver e seus amigos restauram a contenção de Cowlipha de coração partido. Em troca, eles recebem uma carta de passagem... Encosta Abandonada espera mais uma vez!
+Depois de saber que ela compartilha uma alma com a Srta. Leila, Oliver e seus amigos restauram a contenção de Vacalifa de coração partido. Em troca, eles recebem uma carta de passagem... Encosta Abandonada espera mais uma vez!
 Ao chegar em Encosta Abandonada, o grupo tem o retrato e a carta de passagem roubados por um ladrão incorrigível - que acaba por não ter comedimento! Cabe a Oliver restaurá-lo ao normal!
 O nome do ladrão é Swaine, e ele concorda em se juntar a Oliver e os outros em sua jornada. Dizem que o próximo Grande Sábio está em Hamelin, no continente oriental de Outonia. Hora de desenrolar as velas!
 Olho da Tempestade, convocado pelo próprio Shadar, deposita nossos heróis em uma ilha aparentemente desabitada... que acaba sendo o lar das fadas! Oliver e companhia resolvem dar uma olhada...
@@ -36322,10 +36322,10 @@ A alma gêmea de Tengri é Denny, um jovem atleta promissor de Motorville. Conse
 A ilha marcada no mapa abriga um grande monumento... mas não há pedras mágicas. Felizmente, Oliver é capaz de lançar um feitiço para revelar suas verdadeiras localizações, e o grupo parte para recuperá-los!
 Apesar de estar de posse das três pedras, Oliver e seus amigos não conseguem restaurar todo o poder de Mornstar. Eles decidem mostrar a varinha para Marcassin, caso ele tenha alguma ideia a oferecer...
 O Grande Sábio final, Khulan, já governou o reino aéreo de Xanadu. Embora Xanadu não exista mais, há rumores de que a própria Khulan ainda está viva. É hora de encontrar a Rainha dos Céus!
-Tendo sido libertado do controle de Shadar, o coração partido Khulan é curado pelo amor no coração de Kublai e restaura o verdadeiro poder de Mornstar. Em seguida, o grupo deve criar o lendário Clarion, instrumento da paz!
-A madeira sagrada necessária para fazer o Clarion foi roubada por Pip - um rato que compartilha uma alma com o melhor amigo de Oliver, Phil. Hora de ir para Motorville para uma alegre reunião!
-Depois de consertar o coração partido de Phil, Oliver recupera a madeira sagrada e a leva para King Tom, que começa a esculpir o Clarion. Agora, cabe a Hamelin aplicar os retoques finais!
-Depois que Marcassin e Swaine trabalham juntos para completar o Clarion, nossos heróis viajam para Miasma Marshes. Lá, Esther usa o lendário instrumento para abrir caminho para Nevermore, onde o Djin Sombrio aguarda...
+Tendo sido libertado do controle de Shadar, o coração partido Khulan é curado pelo amor no coração de Kublai e restaura o verdadeiro poder de Mornstar. Em seguida, o grupo deve criar o lendária Triflauta, instrumento da paz!
+A madeira sagrada necessária para fazer a Triflauta foi roubada por Pip - um rato que compartilha uma alma com o melhor amigo de Oliver, Phil. Hora de ir para Motorville para uma alegre reunião!
+Depois de consertar o coração partido de Phil, Oliver recupera a madeira sagrada e a leva para King Tom, que começa a esculpir a Triflauta. Agora, cabe a Hamelin aplicar os retoques finais!
+Depois que Marcassin e Swaine trabalham juntos para completar a Triflauta, nossos heróis viajam para Miasma Marshes. Lá, Esther usa o lendário instrumento para abrir caminho para Nevermore, onde o Djin Sombrio aguarda...
 Ao saber da trágica verdade sobre sua mãe, Oliver perde a vontade de seguir em frente, mas suas forças são restauradas quando Pea mostra a ele todas as pessoas que ele ajudou. Finalmente chegou a hora de enfrentar o Djin Sombrio!
 Parece que Lucien - que adotou o nome de Shadar - queria proteger o mundo, não destruí-lo. Inspirado por seu sonho, Oliver e seus amigos decidem criar uma nova era de paz e felicidade!
 Cinzas brancas caíram do céu, transformando as pessoas em monstros retorcidos. Talvez Pea, que apareceu no sonho de Oliver, tenha alguma ideia do que fazer. Ela deveria estar em Motorville...
@@ -36354,7 +36354,7 @@ Encontre uma garota que se pareça com a filha de Rashaad!
 Vá e faça os testes sábios no Templo das Provações!
 Evite que o Velha Smoky entre em erupção!
 Adquira um navio em Encosta Abandonada!
-Obtenha uma carta de passagem do Cowlipha de Al Mamoon!
+Obtenha uma carta de passagem do Vacalifa de Al Mamoon!
 Volte para Encosta Abandonada, carta de passagem em mãos!
 Recupere o retrato roubado e a carta de passagem!
 Hamelin espera! Navegue para o continente de Outonia!
@@ -36372,9 +36372,9 @@ Vá para a ilha marcada no mapa!
 Use o mapa para encontrar as três pedras mágicas!
 Mostre as pedras mágicas para Marcassin!
 Procure Khulan, Rainha dos Céus!
-Obtenha a madeira sagrada do Cowlipha de Al Mamoon!
+Obtenha a madeira sagrada do Vacalifa de Al Mamoon!
 Vá falar com Phil em Motorville!
-Peça a Marcassin para completar o Clarion!
+Peça a Marcassin para completar a Triflauta!
 Atravesse os Pântanos de  Miasma e siga para Nevermore!
 Derrote Shadar, o Djin Sombrio!
 O mundo está em paz mais uma vez! Hora de celebrar!
@@ -37340,7 +37340,7 @@ O Templo das Provações
 Em cima do Velha Smoky
 O Próximo Grande Sábio
 O Ladrão De Caldeirão
-Desejos de Cowlipha
+Desejos de Vacalifa
 Pare ladrão!
 Navegue para Hamelin!
 A casa das fadas
@@ -37359,7 +37359,7 @@ Pedras de Mornstar
 Rainha dos Céus
 O verdadeiro poder de Mornstar
 Ambição de Phil
-o Clarion
+a Triflauta
 Os Pântanos de Miasma
 Shadar, o Djinn das Trevas
 Um novo começo
@@ -38234,7 +38234,7 @@ Então você está planejando deixar<NL>o pobre cara de sapo na mão,<NL>não é
 Raro! RRrebit! RRRarebit!<NL>(Você está pulando dessa forma sem<NL>voltar, está? Bem, não estou!)
 É melhor trazermos aquela Khulan de volta ao<NL>seu estado normal, ou Kublai vai ter<NL>ouer coragem para lançar ligas, mun!
 Temos que fazer essa coisa de cerimônia<NL>para Mornstar, não é? Vamos, mun,<NL>vamos ver aquele Khulan!
-Você não estava fodendo para ouvir? Precisamos do <color:#1>Clarion</color> antes de podermos atravessar os Pântanos de Miasma, mun!
+Você não estava fodendo para ouvir? Precisamos do <color:#1>Triflauta</color> antes de podermos atravessar os Pântanos de Miasma, mun!
 Ainda não podemos atravessar os pântanos...
 Caso você não tenha notado, há uma festa acontecendo,<NL>e é em sua homenagem! Volte lá!
 Não é hora para bajular, mun!<NL>Precisamos encontrar aquele cristal preto, e<NL>precisamos fazer isso girando rápido!
@@ -38594,7 +38594,7 @@ Outro mundo!
 O primeiro familiar de Oliver
 Um Curioso Novo Reino
 Uma audiência com o Rei Gato
-O Apetite Gigante de Cowlipha
+O Apetite Gigante de Vacalifa
 A Procissão Real
 Deslizamento da máscara do príncipe
 Chegando em Nevermore
@@ -38629,8 +38629,8 @@ O Templo das Provações
 Pegar um ladrão
 O Gênio do Caldeirão
 A comida favorita da Leila
-Os desejos de Cowlipha
-O Coração de Cowlipha Restaurado
+Os desejos de Vacalifa
+O Coração de Vacalifa Restaurado
 Swaine embarca
 Desenrole as Velas!
 Entre no Executor
@@ -38693,7 +38693,7 @@ Outro mundo!
 O primeiro familiar de Oliver
 Um Curioso Novo Reino
 Uma audiência com o Rei Gato
-O Apetite Gigante de Cowlipha
+O Apetite Gigante de Vacalifa
 A Procissão Real
 Deslizamento da máscara do príncipe
 Chegando em Nevermore
@@ -38728,8 +38728,8 @@ O Templo das Provações
 Pegar um ladrão
 O Gênio do Caldeirão
 A comida favorita da Leila
-Os desejos de Cowlipha
-O Coração de Cowlipha Restaurado
+Os desejos de Vacalifa
+O Coração de Vacalifa Restaurado
 Swaine embarca
 Desenrole as Velas!
 Entre no Executor
