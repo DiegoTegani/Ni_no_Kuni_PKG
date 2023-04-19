@@ -1883,8 +1883,8 @@ o
 o
 Dragão Vermelho
 Candelabracadabra
-Coração Vil
-Coração Vil
+Malcoração
+Malcoração
 Capitão Crossbones
 Hickory Dock
 Moltaan
@@ -4787,7 +4787,7 @@ Agora, sua mãe, bem, ela compartilhou uma alma com<NL>a Grande Sábia Alicia. U
 Hã? Então minha mãe era uma sábia...?
 Mas... como isso nos ajuda a salvá-la?
 Bem, Alicia tentou enfrentar o Djin Sombrio.
-Mas seu poder era demais para ela, e ele<NL>a prendeu nesta joia negra chamada Soulsnare.
+Mas seu poder era demais para ela, e ele<NL>a prendeu nesta joia negra chamada Armadilha de Almas.
 Quando isso acontecesse, a ligação entre as almas dela e de sua mãe teria sido cortada.
 <KEEP>
 Mas se você pudesse libertar Alicia, isso poderia consertar o link e, quem sabe, poderia até trazer sua mãe de volta!
@@ -4965,7 +4965,7 @@ eva0155_text_en.cfg.bin.txt
 Certo! Hora de encontrar uma varinha mágica!
 Quer dizer que há um escondido em algum lugar por aqui? Gostou do livro de feitiços?
 Rá! Você está rindo se acha que vou facilitar assim, mano! O que você acha que eu sou?<NL>Feito de equipamento mágico!?
-Não, este vai ser um pouco mais difícil. Mas nossa jornada para o meu mundo é uma caça ao Soulsnare, entre outras coisas...
+Não, este vai ser um pouco mais difícil. Mas nossa jornada para o meu mundo é uma caça ao Armadilha de Almas, entre outras coisas...
 Então, por que você não trata isso como um aquecimento? A caça aos ovos de Páscoa antes da caça ao ganso selvagem, se preferir.
 O...huh...?<NL>Hum, tudo bem. Eu acho...
 ...Ok, estou mentindo. O problema é que nunca trouxe uma varinha comigo.
@@ -5811,7 +5811,7 @@ Almas gêmeas... Ok...
 Pense nisso, Olliezinho. Por que você está aqui em nosso mundo, hein?
 Hã... para salvar minha mãe.
 Exatamente! E sua mãe é a alma gêmea da Grande Sábia<NL>Alicia, certo?
-E estamos tentando libertar Alicia do Soulsnare por aqui para podermos ajudar sua mãe de volta por lá, não é?
+E estamos tentando libertar Alicia do Armadilha de Almas por aqui para podermos ajudar sua mãe de volta por lá, não é?
 Bem, isso foi o que você me disse, Sr. Drippy...
 E eu não estava mentindo! Então, as pessoas no seu mundo e no meu mundo estão conectadas. Não apenas Alicia e sua mãe - <NL>todas as pessoas.
 Eles são? Então...
@@ -9443,10 +9443,10 @@ Você entende que estou relutante em deixar esse talento escapar. Tem certeza de
 Hum? O que você disse?
 Sinto muito, Majestade, mas realmente temos que voltar ao nosso tempo.
 É que... não sabemos como.
-Você deseja voltar ao seu tempo? Para o futuro? Bem... Breach Time seria o ideal, claro...
+Você deseja voltar ao seu tempo? Para o futuro? Bem... Quebra Temporal seria o ideal, claro...
 "Tempo de quebra"?
 Um feitiço lendário, que permite ao lançador dar um salto no tempo. Infelizmente, há muito tempo foi selado por causa de seu poder...
-Puxa... isso parece exatamente o que precisamos. Eu me pergunto se há uma maneira de conseguirmos esse feitiço <color:#8>Breach Time</color>...
+Puxa... isso parece exatamente o que precisamos. Eu me pergunto se há uma maneira de conseguirmos esse feitiço <color:#8>Quebra Temporal</color>...
 Ei! Eu ouvi sobre sua "nova regra"!
 Por que não posso ir com Marcassin e ajudá-lo<NL>a praticar sua magia!?
 Sério, Gascon, nós dois sabemos que você não tem um único osso mágico em seu corpo! Marcassin deve se tornar um sábio. Ele não aprenderá nada com gente como você!
@@ -9458,15 +9458,15 @@ Multar! Vamos, Marcassin.<NL>Vamos praticar um pouco de mágica.
 Tudo bem!
 Hmm... Lamento que você tenha testemunhado isso.
 ...
-Você estava falando sobre <color:#8>Breach Time</color>, Majestade...
+Você estava falando sobre <color:#8>Quebra Temporal</color>, Majestade...
 Sim... Agora, em troca de resgatar meus filhos, vou relatar a você um pedaço da tradição de Hamelin.
 Ele afirma que o feitiço necessário para viajar no tempo está escondido na <color:#1>Tombstone Trail</color>, junto com a varinha necessária para lançá-lo...
 T-Tombstone Trail...? Eu não gosto do som disso...
 A Trilha da Lápide serpenteia por um vale desolado a noroeste daqui. No seu final ergue-se um antigo altar, datado da Era dos Sábios.
 É lá que você encontrará a varinha lendária <color:#1>Mornstar</color>...
 Mornstar!?
-Prove-se digno de empunhar essa varinha e certamente será considerado pronto para lançar <color:#8>Breach Time</color>.
-Esteja ciente, no entanto, que você só pode lançar <color:#8>Breach Time</color> uma vez na vida.
+Prove-se digno de empunhar essa varinha e certamente será considerado pronto para lançar <color:#8>Quebra Temporal</color>.
+Esteja ciente, no entanto, que você só pode lançar <color:#8>Quebra Temporal</color> uma vez na vida.
 Se você voltar para o futuro, não poderá voltar a este tempo. Você entende?
 Sim sua Majestade. Nós entendemos. Vamos pegar Mornstar e viajar de volta ao nosso tempo!
 Seu entusiasmo é admirável! No entanto, cuidado: a <color:#1>Tombstone Trail</color> é o lar de inúmeros espíritos malignos. Pegue este feitiço e use-o para manter os demônios afastados!
@@ -9835,7 +9835,7 @@ Parece que o "salvador" conseguiu adquirir Mornstar afinal...
 E de alguma forma conseguiu viajar de volta ao presente!
 Eu teria pensado que muito além de seus escassos poderes.
 De fato.
-O poder de Breach Time pode ser usado apenas uma vez na vida de um mortal, não pode?
+O poder de Quebra Temporal pode ser usado apenas uma vez na vida de um mortal, não pode?
 <KEEP>
 Parece que ele se beneficiou<NL>de ainda mais assistência...
 E que seu benfeitor possui poderes formidáveis.
@@ -11491,21 +11491,21 @@ Phil!
 Eu vou estudar muito e ir para a faculdade! Então, eu vou construir um carro seguro, um carro em que as pessoas possam confiar. Você vai ver se eu não vou!
 Você vai me cobrar isso, não vai, Ollie?
 Claro que vou, Phil!
-Agora, tem mais uma coisa que eu tenho que te dizer, Ollie: se você vai continuar se vestindo como um esquisito, eu não posso ser visto com você!
-O- Oh! Essas roupas...eu... Uhh...<NL>Não é o que você pensa!
+Agora, há mais uma coisa que eu preciso te dizer, Ollie: se você continuar se vestindo como um esquisitto, eu não posso ser visto com você!
+O- Oh! Essas roupas...eu... Uhh...<NL>Não é o que você esta pensando!
 Nah, está tudo bem. Se você quer se vestir como um louco, quem sou eu para impedi-lo? Agora, tenho coisas importantes para fazer! Vejo você por aí, garoto!
-Para dizer a verdade, Olliezinho, eu não sabia se pegar uma pepita do seu próprio coração iria funcionar.
+Para dizer a verdade, Olliezinho, eu não sabia se pegar um pedaçinho do seu próprio coração iria funcionar.
 Bem, parece que funcionou bem, Sr. Drippy.<NL>Phil está de volta ao que era antes.
 Estou esperando há séculos...<NL>Onde ele está?
 Oh!
 H-Hã!?
 Hã? O que há de errado com ele de repente?
 Oliver! Eu estive esperando!<NL>Onde você estava?
-Ervilha! O que você está fazendo aqui?<NL>Esta é minha casa!
-Ervilha? Quer dizer que Pea está aqui agora?
+Pea! O que você está fazendo aqui?<NL>Esta é minha casa!
+Pea? Quer dizer que Pea está aqui agora?
 Sim, ela saiu direto da minha casa.<NL>Mas como você entrou?
 Mole-mole! Eu posso abrir qualquer porta que eu quiser!
-Uh, escute, Pea, não tenho certeza se entendi.<NL>Quem você estava esperando?
+Uh, escute, Pea, não tenho certeza se entendi.<NL>Por quem você estava esperando?
 Seu bobo!<NL>Tenho uma coisa para te dizer.
 Oliver, você tem certeza que vai ficar bem?<NL>Aconteça o que acontecer?
 Mesmo se você descobrir a verdade?
@@ -11524,129 +11524,129 @@ Ela disse que estava preocupada comigo. Então eu disse a ela que tinha meus ami
 Claro que vai, Olliezinho! Você tem o Lorde Supremo das Fadas do seu lado, não é?
 Hehe. E não se esqueça de mim! Passamos por alguns apuros, mas ainda estamos fortes, não é?
 Rá! Como se ele fosse te esquecer, Swaine!
-Obrigado, pessoal. Isso significa muito.<NL>Agora, Phil está de volta ao que era antes, então vamos ver Pip.
-Certo! De volta, vamos para <color:#1>Ding Dong Dell</color>!
+Obrigado, pessoal, isso significa muito.<NL>Agora, Phil está de volta ao que era antes, então vamos ver Pip.
+Certo! Vamos voltar para <color:#1>Ding Dong Dell</color>!
 
 evk0268_text_en.cfg.bin.txt
 Ah, você está de volta.
-apanhámos um ladrão.<NL>Vamos lá, pequenino! Fora com isso!
-Este pedaço de madeira! Fui eu!<NL>Eu roubei!
+Apanhámos um ladrão.<NL>Vamos lá, pequenino! Confesse!
+Este pedaço de madeira! Fui eu!<NL>que roubei!
 Você roubou isto? Um garotinho como você?
 Ele confessou, não foi? Aquele rato roubou e vendeu para você, o canalha.
-Não gastei nada do dinheiro, prometo.<NL>Vou devolver tudo para você.
-Bem, sinto que este é um item de algum valor para você, e que sua perda lhe causou algum sofrimento. Eu odeio vê-lo ir, mas eu sei onde ele pertence.
-Bem, isso está resolvido então. Tivemos sorte de o lojista não estar com vontade de nos atacar.
-Sabe, Pip, não acredito que você se entregou e devolveu o dinheiro. E você se chama de ladrão!?
-Eu não sou ladrão, estou te dizendo! Foi apenas um momento de loucura. Me desculpe.
-Farei qualquer coisa para compensar você!<NL>Falo sério!
-Ouça, está tudo bem. Nós o recuperamos no final.
+Não gastei nada do dinheiro, eu juro.<NL>Vou devolver tudo para você.
+Então, pelo que percebo, este objeto tem um valor especial para você e a sua perda deve ter te deixado bastante chateado. Eu não gosto de me desfazer, mas sei que ele te pertence.
+Certo, isso está resolvido então. Tivemos sorte de o lojista não estar com vontade de nos enganar.
+Sabe, Pip, eu não consigo acreditar que você se entregou e devolveu o dinheiro. E você ainda se intitula como um ladrão!?
+E-eu não sou um ladrão, eu te digo! Foi apenas um momento de loucura. Eu sinto muito, muito mesmo.
+Eu farei qualquer coisa para me redimir!<NL>Eu estou falando sério!
+Ouça, está tudo bem, nós o recuperamos no final.
 Ah, quase esqueci. Você disse que seus sonhos o levaram a se tornar um ladrão...
-Isso mesmo. Eu tenho grandes sonhos, mas eles não são baratos. Preciso de florins, e muitos deles.
-Você já ouviu falar de algo chamado <NL>Varredor de Nuvens?
+Isso mesmo. Eu tenho grandes sonhos, mas eles não são baratos. Eu preciso de guilders, e muitos deles.
+Você já ouviu falar de algo chamado de <NL>Varredora de Nuvens?
 Isso não é uma espécie de vassoura voadora movida a magia?<NL>Não é meu tipo de coisa...
-Bem, é o meu tipo de coisa, com certeza... Desde pequeno, sempre quis construir meu próprio Cloud Sweeper.
-Eu quero construir o Cloud Sweeper mais rápido e melhor do mundo!
+Bom, eu adoro esse tipo de coisa. Desde pequeno, sempre quis construir minha própria Varredora de Nuvens.
+Eu quero construir a Varredora de Nuvens mais rápida e melhor do mundo!
 Sou só eu ou ele realmente te lembra alguém?
-Ele com certeza! Diga, Pip - construir algo que funciona muito rápido é super legal, não é?
+Com certeza ele quer! Aliás, Pip, construir algo que corre muito é muito legal, né?
 Rá! Finalmente alguém que me entende!
 Obrigado por dedicar seu tempo para me ouvir falar sobre meus sonhos. Agora, preciso economizar algum dinheiro...<NL>do jeito honesto.
 Boa sorte, Pip!
 
 evk0270_text_en.cfg.bin.txt
-É bom vê-lo novamente, seu Meowjesty.
-Hum? Ah, você voltou! Como diabos você tem estado? Alguém tem se ocupado com aquele ladino<NL>Hickory Di— Mmyoh!
-Myahhh! A menos que alguém esteja muito enganado, você vem trazendo a <color:#1>madeira sagrada</color> de Al Mamoon.
-Isso mesmo. E queríamos pedir um favor a você,<NL>Seu Meowjesty—
-Não há necessidade de continuar, querida menina. A gente sabe exatamente por que você está aqui. Então a Vacalifa escolheu confiar a madeira sagrada a você...
+É bom vê-lo novamente, Vossa Miaujestade.
+Ah, você retornou! Como diabos você tem estado? Eu tenho me mantido ocupado com aquele vagabundo do<NL>Hickory Do...Miau!
+Miaaaau! A menos que eu esteja muito enganado, você está trazendo a <color:#1>madeira sagrada</color> de Al Mamoon.
+Isso mesmo. E queríamos pedir um favor a você,<NL>Vossa Miaujestade...
+Não há necessidade de continuar, querida garota. Se sabe exatamente por que você está aqui. Então, o Vacalifa escolheu confiar a madeira sagrada a você...
 Parece que chegou a hora de reunir o poder dos três reinos.
-Agora, querido menino, permita-se cumprir seu dever real...
+Agora, meu garoto, permita que eu cumpra meu dever real...
 Uau! Isso foi incrível!
-Mmmyuh? Bem, certamente você não esperava nada menos?
-Obrigado, seu Meowjesty! Com certeza foi ótimo ver você, mas temos que ir para Hamelin agora!
+Miauuu? Bem, certamente você não menos que isso?
+Obrigado, Vossa Miaujestade! Com certeza foi ótimo ver você, mas temos que ir para Hamelin agora!
 Então Marcassin é o próximo. Espero que ele esteja praticando sua carpintaria...
 Por que você está resmungando consigo mesmo, Swaine?
-Então você está indo para <color:#1>Hamelin</color>, mmm? Cuide-se, não é?<NL>É um lugar bastante sujo para alguém tão puro!
+Então você está indo para <color:#1>Hamelin</color>, mmm? se cuida, beleza?<NL>É um lugar bastante sujo para alguém tão puro!
 
 evk0280_text_en.cfg.bin.txt
 Olá, Marcassin!<NL>Precisamos que você termine de esculpir algo para nós!
-Lançando heck! Alguém não foi para a escola de acabamento! Já ouviu falar da palavra "por favor"?
-Rá! Eu gosto de suas visitas. Há uma certa vivacidade que você traz para cada ocasião. Agora, você mencionou esculpir algo?
-Sim sua Majestade. Esther estava falando sobre o <color:#1>Triflauta</color>.
-Isso mesmo! Precisamos que você nos ajude a finalizá-lo para que possamos abrir caminho através dos Pântanos de Miasma!
-Entendo. Bem, você veio ao lugar certo... O <color:#1>Triflauta</color> só pode ser concluído pelo governante de Hamelin...
-Mas temo que haja um pequeno problema...<NL>A saber, ele não possui todas as habilidades necessárias...
+Caramba! Alguém não foi à escola de boas maneiras! Já ouviu falar da palavra "por favor", não é?
+Rá! Eu aprecio suas visitas. Há uma certa vivacidade que você traz para cada ocasião. Agora, você mencionou esculpir algo?
+Sim sua Majestade. Esther estava falando sobre a <color:#1>Triflauta</color>.
+Isso mesmo! Precisamos que você nos ajude a finalizá-la para que possamos abrir caminho através dos Pântanos de Miasma!
+Entendo, bem, você veio ao lugar certo... A <color:#1>Triflauta</color> só pode ser concluída pelo governante de Hamelin...
+Mas temo que haja um pequeno problema...<NL>Que eu saiba, ele não possui todas as habilidades necessárias...
 Hã?<NL>C-Como assim, Vossa Majestade?
-Para completar o <color:#1>Triflauta</color>, é preciso possuir não apenas poder mágico, mas o talento para esculpir os buracos necessários.
+Para completar a <color:#1>Triflauta</color>, é preciso possuir não apenas poder mágico, mas o talento para esculpir os buracos necessários.
 Embora eu possa ter as habilidades mágicas, não posso ajudar com os aspectos mais... práticos do processo...
 Então você está dizendo que é muito desajeitado para completar<NL>a Triflauta?
-I-Não é uma questão de falta de jeito, garanto.<NL>Não, as habilidades necessárias são passadas do Imperador diretamente para seu herdeiro...
-Puxa... Então seu pai faleceu antes que pudesse te ensinar sobre essas coisas, hein?
+I-Não é uma questão de falta de jeito, garanto.<NL>As habilidades necessárias são passadas do Imperador diretamente para seu herdeiro...
+Puxa... Então seu pai faleceu antes que pudesse te ensinar sobre essas coisas, isso?
 ...Bem, então teremos que voltar no tempo e fazer com que ele te ensine!
-Piscando hein! Você faz parecer tão fácil! Você só pode usar o <color:#8>Breach Time</color> uma vez na vida, lembre-se!
-Ah, você está certo...<NL>Bem, então, o que fazemos?
+Caramba! Você faz parecer tão fácil! lembre-se! Você só pode usar a <color:#8>Quebra Temporal</color> uma vez na vida!
+Ah, você está certo...<NL>Bem, então o que faremos?
 Você não está esquecendo de alguém?
 Swain? Você quer dizer...?
-Realmente? Ele...?
-Bem, não posso prometer milagres. Mas o pai me ensinou algumas coisas, sim.
-Ah sim, seu pai... Ele, hum... veio deste reino também? ...Só que você nunca mencionou!
+Sério? realmente ele...?
+Bem, não posso prometer milagres. Mas o meu pai me ensinou algumas coisas.
+Ah sim, seu pai... Ele também veio deste reino? ...Mas que você nunca mencionou!
 Gah! Tudo bem, tudo bem!<NL>Eu só não queria dar muita importância a isso!
-Sim, Marcassin é meu irmão e meu nome verdadeiro é Gascon. Aí já falei.
-...Oh aquilo? Já sabíamos disso.<NL>Estávamos lá, sabe...
+Sim, Marcassin é meu irmão e meu nome real é Gascon. Pronto, falei.
+...Oh isso? Já sabíamos.<NL>Estávamos lá, sabe...
 Então por que você está tão empenhado em me fazer admitir!?
-... De qualquer forma, podemos discutir os porquês e os motivos mais tarde. A questão é que meu pai me ensinou o que preciso saber.
-E você está nos contando isso agora!? Se você tivesse nos avisado um pouco antes, não teríamos que vir até Hamelin, não é?
+... De qualquer forma, podemos discutir os porquês e os motivos mais tarde. A questão é que meu pai me ensinou o que eu preciso saber.
+E você está nos contando isso agora!? Se você tivesse nos informado um pouco antes, não teríamos que vir até Hamelin, não é mesmo?
 Hum. Receio que não seja tão simples.<NL>Não consigo fazer a parte mágica, sabe...
-Lançando heck! Então você também não nos serve, não é?
+Caramba! Então você também não serve para nós, não é mesmo?
 Isso não é bem verdade...
-Ahh, então você sabe onde quero chegar, não é? Suponho que não seja tão ruim ter a cabeça de um Grande Sábio como <NL>irmão...
+Ahh, então você entende o que estou insinuando, não é? Suponho que não seja tão ruim ter um irmão gênio como<NL>Grande Sábio...
 Uhh, não tenho certeza se entendi...
-que não pode ser feito sozinho, ainda pode ser feito em conjunto.<NL>Não é assim, irmão?
+Que não pode ser feito sozinho, ainda pode ser feito juntos.<NL>Não é assim, irmão?
 Ahhh, entendi! Vocês vão conseguir juntos!
-Exatamente. Agora dá aqui.
+Exatamente. Agora me dê isso ai.
 Você está pronto, Marcassin? Temos trabalho a fazer.
 Sim irmão. Estou pronto.
 Uau! Essa coisa com certeza parece poderosa...
 <KEEP>
 <KEEP>
-Sim! E eles funcionam tão bem juntos!
+Sim! Eles trabalham tão bem juntos!
 <KEEP>
 <KEEP>
-Agora podemos finalmente abrir caminho para o castelo de Shadar.<NL>Obrigado, Majestade. E obrigado também, Swaine!
-Oh, não se preocupe em me agradecer... Mas quanto tempo faz desde a última vez que fizemos algo juntos, Marcassin?
-Rá! Você se lembra do modelo de tanque de porcos que <NL>fizemos juntos?
-Bleurgh! Um tanque de porco em flor!? Essa é a última coisa que quero lembrar!
-Hehe. Você não ouvirá nenhum argumento meu sobre isso. De qualquer forma, vamos nos concentrar na tarefa que temos pela frente: limpar os Pântanos de Miasma.
-O Triflauta é tão bonito...<NL>Mal posso esperar para ouvir como soa!
-Acho que você deveria jogar, Esther.
+Agora podemos finalmente abrir um caminho para o castelo de Shadar. Obrigado, Sua Majestade. E obrigado também, Swaine!
+Oh, não se preocupe em me agradecer... Mas faz quanto tempo desde que fizemos algo juntos, Marcassin?
+Rá! Você se lembra do modelo de tanque de porco que<NL>fizemos juntos?
+Bleurgh! Um maldito tanque de porco!? Isso é a última coisa que quero melembrado!
+Heh. Não ouvirá nenhum argumento meu sobre esse assunto. De qualquer forma, vamos nos concentrar na tarefa que temos pela frente, limpar os Pântanos de Miasma.
+A Triflauta é tão bonita...<NL>Mal posso esperar para ouvir ela!
+Eu acho que você deveria ser a pessoa a tocar, Esther.
 Sim, Olliezinho está certo. Se você me perguntar, não há mulher melhor para o trabalho!
-Concordo. Quero dizer, eu adoraria fazer isso, mas sou surdo para tons.
-Eu vou fazer isso! Vou jogar a Triflauta e abrir caminho através dos pântanos Miasma!
-Eu realmente acredito que você vai, Esther.
-Obrigado, Majestade!<NL>Vamos, Oliver! Devemos ir!
-Você tem razão. É hora de ir para <color:#1>Miasma Marshes</color>.
+Eu concordo. Quer dizer, eu adoraria fazê-lo, mas eu não tenho ouvido musical.
+Eu vou fazer isso! Vou tocar a Triflauta e abrir caminho através dos Pântanos de Miasma!
+Eu realmente acredito que você vai conseguir, Esther.
+Obrigado, Vossa Majestade!<NL>Vamos, Oliver! Devemos ir!
+Você tem razão. É hora de ir para os <color:#1>Pântanos de Miasma</color>.
 
 evk0290_text_en.cfg.bin.txt
 Então é isso, né? Os Pântanos de Miasma...
-Não é o lugar mais acolhedor do mundo, não é, <NL>Olliezinho? Mal consigo ver a luz da minha própria lanterna<NL>!
-Bem, aqui vai...
+Não é o lugar mais acolhedor do mundo, não é, <NL>Olliezinho? Mal consigo ver a luz da minha<NL>própria lanterna!
+Bem, aqui vamos nós...
 ah... estou ouvindo...
 <KEEP>
 O chamado da Triflauta...
-Oliver... Quanto tempo esperei?
+Oliver... Por quanto tempo eu esperei?
 <KEEP>
-Venha, Coração Vil.
-Sim mestre!
-Eu confiei a você a verdade, não confiei?
+Venha, Malcoração.
+Sim, Mestre!
+Eu lhe confiei a verdade, não foi?
 <KEEP>
-Sim mestre. Eu o tenho aqui - no Soulsnare.
+Sim, mestre. Eu tenho ela aqui, o Armadilha de Almas.
 O Triflauta soou. O miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
 Mostre a ele como a verdade pode ser cruel!
 Seu desejo é uma ordem!
-"Aquele que cura os quebrantados de coração..."
-"O salvador deste mundo de tristeza..."
+"Aquele que cura os corações partidos."
+"O salvador deste mundo triste..."
 <KEEP>
 Você é realmente o único?
 <KEEP>
@@ -11658,76 +11658,76 @@ Bem então! Mostre-me!<NL>Mostre-me o verdadeiro poder que habita em seu coraç�
 evk0295_1_text_en.cfg.bin.txt
 Ah, eu ouvi.
 O chamado da Triflauta.
-Oliver... Quanto tempo esperei?
-Venha, Coração Vil.
-Sim mestre!
+Oliver... Por quanto tempo esperei?
+Venha, Malcoração.
+Sim, Mestre!
 Eu te confiei a verdade,
-eu não?
-Sim mestre. Eu o tenho aqui - no Soulsnare.
-O Triflauta soou. O miasma não existe mais.
+Não foi?
+Sim mestre, Eu o tenho ela aqui, na Armadilha de Almas.
+O Triflauta soou, o miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
 Mostre a ele como a verdade pode ser cruel!
 Seu desejo é uma ordem!
-Aquele que cura os quebrantados de coração.
-O salvador deste mundo de tristeza.
+Aquele que cura os corações partidos.
+O salvador deste mundo triste.
 Você é realmente o único?
-Bem então! Mostre-me!
+Certo, então! Mostre-me!
 Mostre-me o verdadeiro poder
 que habita em seu coração!
 
 evk0295_2_text_en.cfg.bin.txt
 Ah, eu ouvi.
 O chamado da Triflauta.
-Oliver... Quanto tempo esperei?
-Venha, Coração Vil.
+Oliver... Por quanto tempo esperei?
+Venha, Malcoração.
 Sim mestre!
 Eu te confiei a verdade,
-eu não?
-Sim mestre. Eu o tenho aqui - no Soulsnare.
-O Triflauta soou. O miasma não existe mais.
+Não foi?
+Sim mestre, eu o tenho aqui, na Armadilha de Almas.
+O Triflauta soou, o miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
 Mostre a ele como a verdade pode ser cruel!
 Seu desejo é uma ordem!
-Aquele que cura os quebrantados de coração.
-O salvador deste mundo de tristeza.
+Aquele que cura os corações partidos.
+O salvador deste mundo triste.
 Você é realmente o único?
-Bem então! Mostre-me!
+Certo, então! Mostre-me!
 Mostre-me o verdadeiro poder
 que habita em seu coração!
 
 evk0296_text_en.cfg.bin.txt
 Os Pântanos de Miasma...
 Agora podemos cruzá-los.
-Ele está lá na frente, não é?
-Sim. Ele está esperando.<NL>Shadar...
+Ele está lá na frente, não está?
+Sim, ele está esperando.<NL>Shadar...
 
 evk0300_text_en.cfg.bin.txt
-Bem, eu já vi alguns lugares sombrios no meu tempo,<NL>mas isso aqui leva o biscoito florido!
-Eu posso senti-lo. Ele não está longe agora...<NL>Shadar...
+Nossa, eu já vi alguns lugares bem sombrios em minha vida,<NL>mas este aqui leva o prêmio!
+Eu posso senti-lo. Ele não está longe...<NL>Shadar...
 Heh heh heh!<NL>Heh heh heh heh heh!
 Heh heh heh!<NL>Quanto tempo esperei por você?
-O ajudante cacarejante de Shadar, presumo?
-He he he he! Como você é observador! Sim!<NL>Eu sou Coração Vil! Lord Shadar é de fato meu mestre!<NL>E foi ele quem me confiou isso...
-...O Soulsnare!
-O Soulsnare!<NL>Alicia está lá dentro!
+O parceiro cacarejante de Shadar, eu presumo?
+He he he he! Como você é observador! Sim!<NL>Eu sou o Malcoração! Lord Shadar é de fato meu mestre!<NL>E foi ele quem me confiou isso...
+...A Armadilha de Almas!
+A Armadilha de Almas!<NL>Alicia está lá dentro!
 Isso mesmo, Olliezinho!<NL>E se pudermos tirá-la de lá...
 Então minha mãe vai voltar!
 He he he he! Fala um menino que tem fome<NL>da verdade!
-Coração vil! Solte a Alícia!
+Malcoração! Solte a Alícia!
 He he he he! Tem certeza de que está pronto?
 Hã? O que você quer dizer?
 He he he he! Você vai ver...
-Boo!<NL>Sim, ha, ha, ha, ha!
+Boo!<NL>Yah hah hah hah!
 
 evk0310_text_en.cfg.bin.txt
 Você conseguiu, Olliezinho!<NL>
-Agora podemos libertar Alicia!
+Agora podemos libertar a Alicia!
 Sim!
-E traga sua mãe de volta!
+E trazer sua mãe de volta!
 Mãe...
 É isso, Oliver, seu grande momento.
 <KEEP>
@@ -11740,63 +11740,63 @@ Uau!<NL>Hein? Aaah!
 evk0320_text_en.cfg.bin.txt
 O-Onde estou?
 Sr. Drippy!<NL>Esther! ...Swaine!?
-O que é este lugar?
+Que lugar é este?
 
 evk0330_text_en.cfg.bin.txt
-Isso...<NL>Esse é Shadar!
+Aquele...<NL>Aquele é o Shadar!
 Espere! Já estive aqui antes.<NL>No sonho que tive!
-É hora de você conhecer seu fim... Grande Sábio.
+É hora de você conhecer seu fim...Grande Sábio.
 Você está errado, Shadar!<NL>Encontrei outra maneira de derrotá-lo!
 ...O que?
 Vou viajar para outro mundo.
 Em algum lugar lá fora, em uma dimensão paralela, existe alguém que compartilha sua alma.
 Se eu puder salvar essa sua alma gêmea, você também será...
-Hm hm hm hm hm!<NL>Então esse é o seu plano? Seu grande projeto?
-Então, temo que devo decepcioná-lo.<NL>Você vê... eu não tenho alma gêmea.
-N-Não... Não, isso não é possível!<NL>Sem uma alma gêmea... como você poderia existir?
+Hm hm hm hm hm!<NL>Então esse é o seu plano? Sua grande estratégia?
+Então, temo que devo decepcioná-lo.<NL>Veja... eu não tenho alma gêmea.
+N-Não... Não, isso não é possível!<NL>Sem uma alma gêmea...como você poderia existir?
 Tomei a precaução de cortar todos os laços com aquele que compartilhava minha alma, para que essa fraqueza não pudesse ser usada contra mim.
-Isto não pode ser!
-Hm hm hm hm hm!<NL>Você vê agora que todo caminho está fechado para você.<NL>Todo caminho...exceto aquele que leva à morte.
-...Não. Outro ainda permanece.
+Não pode ser!
+Hm hm hm hm hm!<NL>Agora você percebe que todos os caminhos estão fechados para você.<NL>Todos os caminhos... exceto aquele que leva à morte.
+...Não, Ainda existe outro caminho.
 As almas renascem depois de um tempo...
 ...O que você quer dizer com isso?
 Embora você tenha roubado a vida dele, ele nascerá de novo...
 Talvez daqui a muitos anos... mas ele renascerá!
-Loucura...<NL>Você não pode falar sério!
-Certamente não?<NL>
+Loucura...<NL>Você não pode estar falando sério!
+Impossível?<NL>
 Você sabe que nunca mais voltará!<NL>Não desta vez...
 <KEEP>
 Estou bem ciente disso.
 Estou pronto.
 Maldito!
-Hoje amanhã ontem!
+Hoje, amanhã, ontem!
 (suspiro)
 Isso foi na Hora da Invasão...<NL>Isso significa que Alicia viajou para o passado...
-Não. Você está enganado.<NL>Alicia viajou no tempo.
-Eu-eu não entendo!<NL>O que tudo isso significa!?
-A verdade ainda te escapa, rapaz? O que foi capturado no Soulsnare não era a alma de Alicia.
+Não, você está enganado.<NL>Alicia viajou no tempo.
+E-Eu não entendo!<NL>O que significa isso!?
+Ainda não caiu sua ficha, garoto? Aquilo que foi capturado na Armadilha de Almas não era a alma de Alicia.
 Era apenas sua memória.
 A memória de uma batalha que travamos há muitos anos...
 Mas onde está Alicia agora?
 Hm hm hm hm hm!<NL>Você sabe disso melhor do que eu...
 Hã?
 Eu sou de...
-...em algum lugar distante.
-Eu vou cuidar de você, querida.
+...um lugar distante.
+Eu vou cuidar de você, querido.
 Você vai ficar bem, eu sei que vai...
 <KEEP>
-Fique bem agora...
-...para mim.
-Mãe!?<NL>O que minha mãe tem a ver com isso?
+Seja bonzinho agora...
+...por mim.
+Mãe?!<NL>O que minha mãe tem a ver com isso?
 Você me decepcionou, Oliver.<NL>Esta é a memória de Alicia.
 Foi ela quem viajou para o futuro.<NL>Foi ela quem escapou para o seu mundo.<NL>E foi ela quem deu à luz o salvador deste mundo.
 Você quer dizer...<NL>Você quer dizer que Alicia era...
-Sim. A Grande Sábia Alicia... era sua mãe.
+Sim, a Grande Sábia Alicia...era sua mãe.
 Pobre Allie.
 M-Mas— Mas se minha mãe é deste mundo...<NL>onde está a alma gêmea dela!?
-Hm hm hm!<NL>Ela não tem alma gêmea, naquele mundo ou neste.<NL>...Este é o preço que ela pagou por adulterar o tempo.
-E ela deu a ela uma única vida para salvar você.<NL>Você não pode salvar sua mãe, garoto...<NL>Você não tem mãe para salvar.
-Você vê agora?<NL>Você nunca teve uma chance.
+Hm hm hm!<NL>Ela não tem alma gêmea, naquele mundo ou neste.<NL>...Este é o preço que ela pagou por mexer com o tempo.
+Ela deu a única vida dela para salvá-lo.<NL>Você não pode salvar sua mãe, garoto...<NL>Você não tem uma mãe para salvar.
+Consegue ver?<NL>Você nunca teve uma chance.
 Nunca houve esperança.
 Não... Não pode ser verdade!<NL>Não pode ser verdade!
 Nããão! Mãe!
@@ -11805,37 +11805,37 @@ evk0340_text_en.cfg.bin.txt
 Oliver!
 Oh, por que você não acorda?
 O que aconteceu com você lá atrás?
-Quantos dias se passaram desde que o pobre Olliezinho apagou as luzes?
+Quantos dias se passaram desde que o pobre Olliezinho ficou apagado?
 Eu não sei. Perdi a conta.
-Ele abriu o Soulsnare todo cheio de esperança, mas em vez de libertar Alicia, o pobre dab acabou sendo nocauteado.
+Ele abriu o Armadilha de Almas todo cheio de esperança, mas em vez de libertar a Alicia, o pobre dab acabou sendo nocauteado.
 Vamos, Olliezinho!
 Talvez seja nossa culpa... Talvez tenhamos pedido demais de você e de seus poderes mágicos.
 Talvez você esteja certo.
-Aguentar! Onde está Swaine agora?
-Ele? Oh, ele está à espreita lá fora, eu acho.<NL>Como sempre...
+Espere aí! Onde está Swaine agora?
+Ele? Ah, ele está lá fora, rondando,<NL>como sempre...
 Gah! Ele nunca está lá quando você precisa dele!
-Diga a ele para voltar para dentro. Não podemos ficar por aqui para sempre, podemos? Precisamos levar Olliezinho<NL>para algum lugar seguro.
+Diga a ele para voltar para dentro. Não podemos ficar por aqui para sempre, não é mesmo? Precisamos levar Olliezinho<NL>a um lugar seguro.
 Você tem razão...
 
 evk0360_text_en.cfg.bin.txt
 Swaine!
-Oh. Esther...<NL>É você.
-Por que você continua vagando? Você deveria estar conosco. Com Oliver.
-Muito bem isso servirá! Ter-me por perto vai ajudá-lo a sair dessa, não é? Bem? É isso?
+Oh, Esther...<NL>É você.
+Por que você continua vagando? Você deveria estar conosco, com Oliver.
+De que adianta isso? Ter eu por perto vai ajudá-lo a se recuperar, não vai? Bem? Vai ou não vai?
 Essa não é a questão!
 Eu sei... Oliver nos salvou. Sua magia nos salvou.<NL>Devemos tudo a ele...
-Sim. Estávamos com o coração partido, nós dois, e...
+Sim, estávamos com o coração partido, nós dois, e...
 E agora olhe para nós! Não podemos fazer nada por ele, podemos?
-Justamente quando ele mais precisa de nós, não há nada que possamos fazer! Caramba!
+Justo quando ele mais precisa de nós, não há nada que possamos fazer! Droga!
 Swain... está tudo bem...
 Oh, mas há algo que você pode fazer...<page><NL>Você pode MORRER!
 Heh heh heh heh heh!
 E-Essa risada...
 Mas...<NL>Mas nós vencemos você!
-Você acha que Coração Vil pode ser derrotado tão facilmente?<NL>Não. Eu nasci do desespero...
-Eu nasci da escuridão no coração do homem...<NL>E há muito por onde passar!<NL>Heh heh heh heh heh!
-Droga! O que fazemos!?<NL>Não temos esperança no inferno sem Oliver!
-Que escolha temos!?<NL>Temos que tentar!
+Você acha que o Malcoração pode ser derrotado tão facilmente?<NL>Não, eu nasci do desespero...
+Eu nasci da escuridão no coração do homem...<NL>E há muito disso por aí!<NL>Heh heh heh heh heh!
+Droga! O que faremos!?<NL>Não temos nenhuma chance sem Oliver!
+Que escolha nós temos!?<NL>Temos que tentar!
 
 evk0370_text_en.cfg.bin.txt
 Diga-me, mãe.
@@ -11843,11 +11843,11 @@ Tudo que eu passei...
 Foi tudo em vão?
 <KEEP>
 Quem está aí?
-Ervilha!
+Pea!
 Como você chegou aqui?
-Mole-mole!
+Muito fácil!
 Eu posso ir onde eu quiser!
-Puxa...
+Nossa...
 Eu te disse antes!
 Estou sempre aqui, Oliver!
 Cuidando de você!
@@ -11866,11 +11866,11 @@ OK...
 Espere!
 Pare de trabalhar tanto, está bem?<NL>Você está me deixando mal!
 <KEEP>
-Mas nunca me senti tão cheio de feijão!
-E pensar que naquela época eu mal conseguia reunir <NL>energia para sair da cama!
+Mas eu nunca me senti tão cheio de energia!
+E pensar que naquela época eu mal conseguia reunir<NL>energia para sair da cama!
 As coisas realmente mudaram por aqui, não é mesmo?
-King Tom está com mais entusiasmo do que <NL>ele sabe o que fazer hoje em dia!
-Você não está errado! É como um lugar totalmente novo!<NL>E devemos tudo a esse jovem.
+O Rei Tom está com mais entusiasmo do que<NL>sabe o que fazer com ele ultimamente!
+Você não está errado! É como um lugar completamente novo!<NL>E devemos tudo isso a aquele jovem rapaz.
 <KEEP>
 <KEEP>
 Esses são os guardas de Ding Dong Dell!
@@ -11881,7 +11881,7 @@ Eu lembro.
 Tem mais! Ouvir!
 <KEEP>
 <KEEP>
-Hummm!? Hickory Dock está tramando seus velhos truques?
+O quê!? Hickory Dock está aprontando de novo?<NL>Logo alguém vai fazer esse patife entender!
 <KEEP>
 <KEEP>
 Adivinhe, Dona Leila!<NL>Meu pai levantou cedo para preparar o café da manhã! E isso não é tudo...
@@ -12322,13 +12322,13 @@ As comemorações estão prestes a começar!
 Hummm... Sim!
 Mas não se pode cortar custos quando se trata de preparação! Honestamente!
 Levará apenas um miado!
-Mas não há tempo, Meowjesty!
+Mas não há tempo, Miaujestade!
 Um miado, disse um!
 Deve-se simplesmente limpar os ouvidos!
 Onde está!?
 Onde foi parar o limpador de ouvido real?
 Limpador de ouvido!?
-Mas seu Meowjesty!!!
+Mas Vossa Miaujestade!!!
 Rei Hickory! Se apresse!
 Calma, seu pirralho!
 Eu ainda estou preto e azul depois de lutar contra você-sabe-quem.
@@ -12373,16 +12373,16 @@ O que significa que temos tempo para nos divertir!<NL>Estou certo, Olliezinho!?
 Sim!
 
 evm0010_text_en.cfg.bin.txt
-Já faz muito tempo, Seu Meowjesty!
+Já faz muito tempo, Vossa Miaujestade!
 Mmmmyohh, olá! Ouve-se que os parabéns estão em ordem! Você derrotou você-sabe-qu- Myah, velhos hábitos! Você derrotou Shadar, não foi?
 Sempre se sabia que o faria, é claro.<NL>Tinha-se fé absoluta desde o início.
-Bem, não poderíamos ter feito isso sem você, Youer Meowjesty. Não poderíamos nem chegar perto dele sem aquele Triflauta.
+Bem, não poderíamos ter feito isso sem você, Youer Miaujestade. Não poderíamos nem chegar perto dele sem aquele Triflauta.
 Mmmmyoh! A pequena criação de alguém veio a calhar, não é?<NL>Que gratificante!
 Isso mesmo! Se os chefes dos três reinos não tivessem trabalhado juntos, nunca teríamos conseguido!
 Mmm... Jovem Oliver, um herói... Como o tempo voa...<NL>Você parecia um garoto comum...
 Mas você seguiu as ordens de alguém ao pé da letra e corajosamente partiu para derrotar o Djin Sombrio...
 Mmmyohhh, parece que foi ontem...
-O que—!? Não é assim...! Quero dizer... Você acha que pode ter... se lembrado um pouco mal das coisas,<NL>Seu Meowjesty?
+O que—!? Não é assim...! Quero dizer... Você acha que pode ter... se lembrado um pouco mal das coisas,<NL>Vossa Miaujestade?
 Mmmyahaha! Claro que não! Mas chega de falar de si mesmo... Andarilho de outro mundo, você e seus companheiros se saíram bem.
 Você salvou nosso mundo.<NL>O que você vai reivindicar como recompensa?
 Bom ponto! Tenho certeza de que podemos pensar em algo.<NL>Alguma ideia, Oliver?
@@ -12428,7 +12428,7 @@ Então adeus...
 Mmm...
 んん！？
 Sim.
-Obrigado por tudo, Seu Meowjesty.
+Obrigado por tudo, Vossa Miaujestade.
 Então é o fim do nosso ato duplo, não é?
 Você fez um grande ajudante, Olliezinho!
 Quando você chegar em casa, você vai cuidar de Myrtle, não é?
@@ -12469,7 +12469,7 @@ Que diabos!?
 Mmmyah!
 Mmmyah!
 Mmm-mmmyah! Grrrrrr...
-S-Seu Meowjesty!
+S-Vossa Miaujestade!
 Oliver!
 Hã?
 Marcassin!
@@ -12731,15 +12731,15 @@ O cristal está ali!
 OK! Aqui vai!
 Sanckify!
 Mmmyuh...<NL>O que é que alguém anda a fazer?
-Seu Meowjesty!<NL>Você voltou! Obrigado Senhor!
+Vossa Miaujestade!<NL>Você voltou! Obrigado Senhor!
 Acho que você se transformou em um monstro por um minuto. Ok, um monstro completo...
 Mmmyuh!?<NL>Não se lembra de nada...
 Está tudo bem agora, Sr. Gato!
 "Sr. Gato"!? Cuidado!<NL>Este aqui é o rei de um reino!
 Tais trivialidades não interessam a ninguém no momento, fada. A pessoa está mais preocupada com a perda total de memória...
-Não se preocupe! Você está bem agora, Meowjesty! <NL>Pea salvou você e todos os habitantes da cidade também!
+Não se preocupe! Você está bem agora, Miaujestade! <NL>Pea salvou você e todos os habitantes da cidade também!
 É assim mesmo? Então a pessoa deve sacudir a poeira e colocar seu reino de volta em ordem.
-Beleza! Vamos deixar as coisas em você é capaz, er... patas então, seu Meowjesty. Olliezinho - de volta ao Wyvern!
+Beleza! Vamos deixar as coisas em você é capaz, er... patas então, Vossa Miaujestade. Olliezinho - de volta ao Wyvern!
 
 evm0110_text_en.cfg.bin.txt
 O maná era alimentado pela energia que fluía<NL>dos cristais negros.
@@ -14032,7 +14032,7 @@ evz1650_text_en.cfg.bin.txt
 Aquele ataque do Viledriver é uma verdadeira dor no proverbial ... Certifique-se de se proteger disso, Olliezinho. A defesa é a melhor forma de ataque, não é!?
 
 evz1655_text_en.cfg.bin.txt
-Crikey! O velho Coração Vil ficou com a cara vermelha... Acerte-o com o feitiço para acabar com todos eles, Olliezinho! O ataque é a melhor forma de defesa, como sempre digo!
+Crikey! O velho Malcoração ficou com a cara vermelha... Acerte-o com o feitiço para acabar com todos eles, Olliezinho! O ataque é a melhor forma de defesa, como sempre digo!
 
 evz1850_text_en.cfg.bin.txt
 Vamos, mano, controle-se!
@@ -18961,7 +18961,7 @@ Você recebeu uma página descrevendo o feitiço <color:#8>Vacate</color>!
 Você recebeu uma página descrevendo o feitiço <color:#8>Seek Fortune</color>!
 Você recebeu uma página descrevendo o feitiço <color:#8>Rejuvenescer</color>!
 Você recebeu uma página descrevendo o feitiço <color:#8>Fuse</color>!
-Você recebeu uma página descrevendo o feitiço <color:#8>Breach Time</color>!
+Você recebeu uma página descrevendo o feitiço <color:#8>Quebra Temporal</color>!
 Você recebeu uma página descrevendo o feitiço <color:#8>Ward</color>!
 Você recebeu uma página descrevendo o feitiço <color:#8>Nix</color>!
 Você recebeu uma página descrevendo o feitiço <color:#8>Ingrediente secreto</color>!
@@ -20141,9 +20141,9 @@ Sim! Viemos ver o Rei!
 Ah. Você está atrás de uma audiência com King Tom, não é?<NL>Bem, eu ficaria mais do que feliz em deixá-lo passar...
 Mas temo que isso não seja possível no momento.
 Hã!? M-Mas...por quê?
-Um dos infelizes ajudantes do rei permitiu que o amado peixe de estimação de Sua Meowjesty escapasse para o fosso do palácio.
+Um dos infelizes ajudantes do rei permitiu que o amado peixe de estimação de Sua Miaujestade escapasse para o fosso do palácio.
 Esse <color:#1>arenque vermelho</color> é o orgulho e a alegria do rei - e uma espécie altamente ameaçada, para começar...
-Duvido que Seu Meowjesty seria capaz de substituir este se ele o perdesse... O que aquele ajudante dele estava pensando, eu não sei.
+Duvido que Vossa Miaujestade seria capaz de substituir este se ele o perdesse... O que aquele ajudante dele estava pensando, eu não sei.
 De qualquer forma, para encurtar a história, todos no castelo estão ocupados procurando pelo <color:#1>arenque vermelho</color> do Rei no momento. Aconselho-te a voltar outro dia.
 Uh, tudo bem...<NL>O que vamos fazer, Sr. Drippy?
 O fosso do palácio, não é? Hmm... Se não me engano, esse fosso está ligado a alguns dos rios que cortam a cidade...
@@ -20186,14 +20186,14 @@ Isso mesmo, mano! Seu <color:#1>entusiasmo</color> vai animar o passo de todos, 
 Que bom ouvir isso!<NL>Até lá, porém, é melhor eu ficar aqui e ficar de olho nos ratos!
 Tudo bem! Até logo, Tommy!
 Hum? Mmmmyoh... Você de novo.<NL>A gente está ficando cansado dessas interrupções constantes...
-D-Desculpe, Meowjesty.<NL>É só que temos algo para você...
+D-Desculpe, Miaujestade.<NL>É só que temos algo para você...
 Sim, escolhemos especialmente para você, Catface! Vai acabar com aquele cansaço de vocês rapidinho! Dar-lhe um novo sopro de vida, ele vai! Dentes fortes, pelo brilhante—
 Eu não tenho certeza se isso é—
 Mmmyohhh! Isso soa bem!<NL>Esta fadiga maldita será a morte de uma pessoa.<NL>Lidar com todos esses visitantes cobrou seu preço...
-Não se preocupe, Youer Meowjesty!<NL>Um pouco de <color:#1>entusiasmo</color> é tudo que você precisa, não é!?
+Não se preocupe, Youer Miaujestade!<NL>Um pouco de <color:#1>entusiasmo</color> é tudo que você precisa, não é!?
 Hum? Alguém pensou que você daria algo para curar a fadiga?
 Vamos, Olliezinho! Pegue sua varinha e devolva ao Rei seu <color:#1>entusiasmo</color>, não é!?
-Cau, é você! Seu Meowjesty me informou que você viria. Ele me instruiu a vender tudo o que você precisa - e estou mais do que feliz em persuadir!
+Cau, é você! Vossa Miaujestade me informou que você viria. Ele me instruiu a vender tudo o que você precisa - e estou mais do que feliz em persuadir!
 Então tenha uma torre por perto! Tenho certeza que você encontrará algo aqui para <color:#1>equipar seus familiares</color>.
 ...Equipar meus familiares?<NL>Como assim, senhor?
 Ah... Parece que cabe uma explicação.<NL>Muito bem, então. Aqui não canta nada...
@@ -20205,7 +20205,7 @@ Sim, acho que ele provavelmente já o encontrou!
 Acho que sim, Olliezinho. Vamos, vamos para o <color:#1>palácio</color>!
 Mmmyaaahhh... (bocejo)<NL>Alguém já te disse: você pode não ter a varinha!
 Obrigado por tudo!<NL>A pessoa deve procurar sua varinha imediatamente.
-Eu esperava que Sua Meowjesty ficasse muito feliz por ter seu amado arenque vermelho devolvido a ele. Infelizmente, ele parece tão apático como sempre...
+Eu esperava que Sua Miaujestade ficasse muito feliz por ter seu amado arenque vermelho devolvido a ele. Infelizmente, ele parece tão apático como sempre...
 Fazia tempo que King Tom não era tão cheio de vida! O que diabos você fez com ele!?
 Hoje é um bom dia para bater o mouse!<NL>A única questão é... com o que bater neles!
 Espero que agora o Rei Tom e todos os outros possam voltar ao normal novamente!
@@ -20252,7 +20252,7 @@ Todos no castelo estão ocupados procurando o <color:#1>arenque vermelho</color>
 O palácio real é por aqui.
 Suas roupas são muito... incomuns.<NL>De onde você é?
 Receio não poder deixar você entrar no momento.
-Receio que His Meowjesty não esteja recebendo nenhuma visita no momento.
+Receio que His Miaujestade não esteja recebendo nenhuma visita no momento.
 O Túmulo do Sábio fica por aqui. Você é bem-vindo para dar uma olhada, mas, por favor, seja respeitoso.
 Você nunca vai acreditar nas coisas que aprendi hoje! A escola é muito divertida! Eu quase ronrono para jogar! Quase.
 As pessoas por aqui dizem a seus filhos que o Rei dos Ratos mora em Ding Dong Well...
@@ -20266,7 +20266,7 @@ Oh não! Eu deixei a roupa para fora!
 Mais um belo dia!<NL>Tempo de trabalho, eu chamo assim!
 O Torneio Tug o' Tail vai começar em breve...<NL>Tenho que começar a ronronar!
 Esta é uma estátua de um dos ancestrais heróicos do rei Tom.
-Seu Meowjesty vai ter que parar de vadiar o dia todo se quiser que uma estátua seja feita dele!
+Vossa Miaujestade vai ter que parar de vadiar o dia todo se quiser que uma estátua seja feita dele!
 Você conhece os potes que temos espalhados por toda a cidade? Bem, você provavelmente deveria dar uma olhada dentro deles de vez em quando!
 Você nunca sabe quando pode encontrar algo interessante! Ou simplesmente purrculiar.
 Ahhh... não sei o que deu em mim ultimamente...
@@ -20335,12 +20335,12 @@ Dirija-se à Cawtermaster's Store para encontrar algumas armas e armaduras!
 pla-b_050_010-t02_npc_text_en.cfg.bin.txt
 Ah é você! Graças a Deus!<NL>Você tem que nos ajudar! Algo terrível aconteceu!
 Lançando heck, mun! Não me diga que o velho Rei Tom se foi e teve seu coração partido de novo!?
-Não, não, o coração de Sua Meowjesty está funcionando bem. Até onde sei...
+Não, não, o coração de Sua Miaujestade está funcionando bem. Até onde sei...
 Até onde você sabe...?
-Depois que você restaurou o entusiasmo perdido de Sua Meowjesty, ele estava determinado a encontrar sua velha varinha, para que pudesse dá-la a você como recompensa.
+Depois que você restaurou o entusiasmo perdido de Sua Miaujestade, ele estava determinado a encontrar sua velha varinha, para que pudesse dá-la a você como recompensa.
 Tão determinado, na verdade, que ele mesmo disse que iria procurá-lo...
 Bem, isso é bom, não é?<NL>Por que tanto alarido?
-Seu Meowjesty desapareceu!
+Vossa Miaujestade desapareceu!
 Eh!?
 Os porteiros juram que ele não saiu de Ding Dong Dell, mas ele não está em lugar nenhum!
 Hmm... Sinto cheiro de rato aqui, Olliezinho.<NL>Bem, suponho que só há uma coisa para isso, hein?
@@ -20532,7 +20532,7 @@ Não quero me gabar, mas minha esposa deve ser a melhor cozinheira de Terras do 
 Você está sempre correndo, parecendo ocupado...<NL>Você deveria tentar ir com calma de vez em quando!
 Oh, é você!<NL>Não sei se você ouviu, mas o Rei está desaparecido!
 Acho que você não poderia nos ajudar a procurá-lo, poderia?
-Ninguém sabe onde Sua Meowjesty poderia ter ido. Ele apenas... desapareceu!
+Ninguém sabe onde Sua Miaujestade poderia ter ido. Ele apenas... desapareceu!
 O Túmulo do Sábio fica por aqui. Você é bem-vindo para dar uma olhada, mas, por favor, seja respeitoso.
 O Rei Tom realmente desapareceu!? Meouch!
 As pessoas por aqui dizem a seus filhos que o Rei dos Ratos mora em Ding Dong Well...
@@ -20669,11 +20669,11 @@ Eu estava pronto para derrubar o Rei dos Ratos hoje... mas não consigo encontr�
 Oh... Já parou de nevar?<NL>Estava ansioso por uma boa guerra de bolas de neve...
 Acontece que o ratinho que vi perto da Cawtermaster's Store estava fazendo um recado para o lojista! Talvez eles não sejam de todo ruins, hein?
 Eu te causei todo tipo de problema, não foi...?
-Mas eu vou te compensar! Vou até deixar você experimentar meu Cloud Sweeper quando terminar!
+Mas eu vou te compensar! Vou até deixar você experimentar meu Varredora de Nuvens quando terminar!
 Nós dois podemos ser ratos, mas eu não sou nada como aquele nojento Hickory Dock. Ele é muito maior, para começar!
 Olha, eu sei que o que ele fez foi ruim... mas não posso deixar de ficar impressionado com qualquer rato que enfrenta um gato!
 (ofegante) Acabei de levar o maior susto da minha vida! (ofegante)<NL>Lá estava eu, cuidando da minha vida, e esse garoto maluco começou a me perseguir com uma vassoura!
-(ofega) O engraçado é... (ofega) ...tudo que eu conseguia pensar era em colocar um motor nele! (suspiro) Eu gostaria que meu Cloud Sweeper estivesse pronto!
+(ofega) O engraçado é... (ofega) ...tudo que eu conseguia pensar era em colocar um motor nele! (suspiro) Eu gostaria que meu Varredora de Nuvens estivesse pronto!
 Assim que as coisas começaram a escurecer, fui me esconder em Ding Dong Well...
 Hickory Dock estava escondido lá também, parecendo absolutamente apavorado.
 Ele continuou gritando: "Eu sabia!" e algo sobre como King Tom tinha sido um monstro o tempo todo.
@@ -27021,7 +27021,7 @@ Quando eu crescer, quero poder usar magia como um Grande Sábio!
 O que é isso? Você acha que eu sou um pouco pequeno para ser um soldado? Bem, eu estou no corpo de engenharia.
 É sobre cérebros, não músculos, entende.
 Passo todos os dias até os cotovelos em tanques de porcos consertando graxa. Por que não posso trabalhar em algum tipo de máquina voadora?
-Teria que ser algo mais emocionante do que um velho e chato Cloud Sweeper, no entanto. Que tal algum tipo de nave voadora baseada em porco?
+Teria que ser algo mais emocionante do que um velho e chato Varredora de Nuvens, no entanto. Que tal algum tipo de nave voadora baseada em porco?
 O imperador não demonstra muita emoção, mas posso dizer que ele realmente se preocupa com seus filhos. E por que não? Gascon e Marcassin são bons rapazes.
 Eu ouvi algumas histórias realmente arrepiantes de fantasmas no vale ao norte daqui... É uma sorte eu não acreditar em fantasmas, hein?
 Por favor! Eu imploro a você! Faça tudo o que puder para ajudar os príncipes!
@@ -27090,8 +27090,8 @@ Siga a Trilha da Lápide com os príncipes a reboque!
 Siga a Trilha da Lápide com os príncipes a reboque!
 Siga a Trilha da Lápide com os príncipes a reboque!
 Investigue o altar no final da Trilha da Lápide!
-Volte para Hamelin e prepare-se para o Breach Time!
-Volte para Hamelin e prepare-se para o Breach Time!
+Volte para Hamelin e prepare-se para o Quebra Temporal!
+Volte para Hamelin e prepare-se para o Quebra Temporal!
 Empreste alguma crença do jovem Marcassin!
 
 pla-f_060_010-t04_npc_text_en.cfg.bin.txt
@@ -28433,7 +28433,7 @@ Solidão, desespero, raiva...
 Assim que você entrou na Torre de Marfim, senti todos eles. Eles inundaram de dentro...
 O coração da Feiticeira Branca devia estar cheio dessas emoções. Ela deve ter sido dominada por eles.
 Bom dia. Parece que finalmente chegou a hora.
-O esquadrão Cloud Sweeper de Al Mamoon está ao seu serviço. Os talentos de nossos pilotos são mundialmente reconhecidos. Eles não devem decepcioná-lo.
+O esquadrão Varredora de Nuvens de Al Mamoon está ao seu serviço. Os talentos de nossos pilotos são mundialmente reconhecidos. Eles não devem decepcioná-lo.
 Parece que nem tiros de canhão nem ataques mágicos podem danificar a Torre de Marfim...
 Achei o Palácio de Vacalifa em Al Mamoon uma estrutura robusta, mas isso é algo completamente diferente...
 Drippy-boy, mun! Como?
@@ -29726,7 +29726,7 @@ Certo! Saindo para encontrar nosso amigo felino gordo Timmy, não é mesmo!
 O que é isso? Quem é minha alma gêmea? Bem, obviamente, é alguém rico e bonito, não é? Oi! Por que você está fazendo essa cara?
 Por que não perguntamos a sua tia Leila, Olliezinho? Ela parece ser um ponto de partida sensato para esta perseguição de gato selvagem...
 Gatos não são exatamente previsíveis, não é? Na verdade, eles são flibbertigibbets adequados, se você me perguntar! Só não me pergunte o que significa "flibbertigibbet"!
-Tudo o que precisamos fazer é encontrar esse Timmy, e saberemos o que está acontecendo com seu Meowjesty em Ding Dong Dell, não é?
+Tudo o que precisamos fazer é encontrar esse Timmy, e saberemos o que está acontecendo com Vossa Miaujestade em Ding Dong Dell, não é?
 Eles se parecem, hein, King Tom e o velho Timmy? Par adequado de gordos, eles são!
 Oi oi! Tem uma ideia de onde ele pode estar, não é? Beleza!
 Qual é a pressa, mano? Não fuja sem mim!
@@ -36314,8 +36314,8 @@ A nova rotina de Smiley e Surly arranca muitas risadas da Fada Madrinha, permiti
 Com os pequeninos nascidos com segurança, tudo está bem no Fairyground. Tendo visto o quanto ele faz falta, Oliver decide deixar o Sr. Drippy na ilha... mas sua amiga fada não aceita nada disso! Reunidos mais uma vez, eles partiram para Outonia!
 Oliver e companhia finalmente chegam a Hamelin - uma cidade extensa governada por incontáveis decretos draconianos. Acreditando que o Grande Sábio esteja em algum lugar do palácio do Príncipe, o grupo se disfarça e tenta entrar sorrateiramente.
 Tendo sido expulso dos aposentos do príncipe de coração partido, Oliver e seus amigos são engolfados por uma estranha névoa que os envia de volta no tempo. No Hamelin do passado, dois príncipes precisam de sua ajuda!
-Para retornar ao seu próprio tempo, nossos heróis devem encontrar a varinha chamada Mornstar e o feitiço conhecido como Breach Time. Parece que ambos estão selados no final da perigosa Trilha da Lápide...
-Oliver e companhia seguem para o final da trilha Tombstone com os dois príncipes a reboque. Lá, Marcassin revela seu talento mágico ao derrotar o goleiro de Mornstar. A varinha e o Breach Time em mãos, é hora de voltar para o futuro!
+Para retornar ao seu próprio tempo, nossos heróis devem encontrar a varinha chamada Mornstar e o feitiço conhecido como Quebra Temporal. Parece que ambos estão selados no final da perigosa Trilha da Lápide...
+Oliver e companhia seguem para o final da trilha Tombstone com os dois príncipes a reboque. Lá, Marcassin revela seu talento mágico ao derrotar o goleiro de Mornstar. A varinha e o Quebra Temporal em mãos, é hora de voltar para o futuro!
 Depois de se despedir e voltar ao presente, Oliver começa a restaurar a confiança perdida de Marcassin. Com o coração do Imperador mais uma vez completo, o grupo partiu em busca de Kublai Khan e do mapa roubado!
 Kublai fica encantado com Oliver e mostra a ele o Mapa das Pedras. Infelizmente, o local marcado nele só pode ser acessado cavalgando nas costas de Tengri, um dragão que perdeu inexplicavelmente o poder de voar!
 A alma gêmea de Tengri é Denny, um jovem atleta promissor de Motorville. Consertar o coração partido do menino permite que o dragão voe mais uma vez, e o grupo segue para a ilha remota marcada no Mapa das Pedras!
@@ -36364,8 +36364,8 @@ Monstros na Barriga da Múmia!? Salve os pequeninos!
 Navegue para Hamelin mais uma vez!
 Entre no palácio disfarçado!
 Procure os príncipes que se aventuraram além dos muros da cidade!
-Encontre o feitiço Breach Time no final da Trilha da Lápide!
-Retorne a Hamelin e lance Breach Time!
+Encontre o feitiço Quebra Temporal no final da Trilha da Lápide!
+Retorne a Hamelin e lance Quebra Temporal!
 Procure o esconderijo de Kublai!
 Vá para Motorville e procure a alma gêmea de Tengri!
 Vá para a ilha marcada no mapa!
@@ -38353,7 +38353,7 @@ Lance <color:#8>Gateway</color>!
 Elenco <color:#8>Forma Familiar</color>!
 Dê um nome ao seu primeiro familiar!
 Dê um nome ao seu novo familiar!
-Lance <color:#8>Breach Time</color> para viajar <NL>para o futuro!
+Lance <color:#8>Quebra Temporal</color> para viajar <NL>para o futuro!
 Use a magia para revelar o segredo do mapa!
 Você está brincando, não é?<NL>Tente de novo, tamancos espertos!
 Digite as palavras mágicas que abrem o caldeirão!
