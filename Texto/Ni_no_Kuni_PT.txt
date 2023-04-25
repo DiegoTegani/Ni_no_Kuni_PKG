@@ -544,7 +544,7 @@ Este descendente real da raça de roedores derrotado por forças felinas agora m
 Este gigante que vomita magma vive no pico de Velha Smoky. Seu poderoso rugido ecoa pelas montanhas.
 O gênio do caldeirão. Ele serve apenas aos mestres que ele testou e considerou dignos.
 Esta ameaça mecânica oferece barragens devastadoras com seus canhões montados no braço.
-O décimo membro do Conselho dos Doze. Ele procura aquele que pode salvar a Feiticeira Branca.
+O décimo membro do Conselho dos Doze. Ele procura aquele que pode salvar a Bruxa Branca.
 O feiticeiro das trevas que compartilha uma alma com Oliver. Ele busca construir um mundo perfeito, governado pelo desespero.
 O feiticeiro das trevas que compartilha uma alma com Oliver. Ele busca construir um mundo perfeito, governado pelo desespero.
 O familiar convocado do coração sombrio de Shadar. Nenhum até agora resistiu à sua fúria.
@@ -612,7 +612,7 @@ Betty Cartwright
 Tommy Stout
 Leila
 Rainha Lowlah
-Um touro
+Abull
 Sindbah
 Príncipe Porcino
 Marcasssin
@@ -7619,7 +7619,7 @@ Caramba!<NL>Essa é a Vacalifa!?
 Ela provavelmente ficou assim por causa do—
 Shadar, o podre fedorento!
 O que é esse aroma divino?
-Um touro!
+Abull!
 Aqui, vossa Muujestade!
 Generosa Vacalifa, esses humildes servos vêm trazendo o mais delicioso tributo.
 <KEEP>
@@ -7729,7 +7729,7 @@ Você sabe?
 Bem!
 Ele vive na terra de <color:#1>Hamelin</color>—<NL>um reino detestável e guerreiro.
 Ah, mas ele é um jovem bonito!<NL>Até guardamos uma foto dele!
-Um touro!
+Abull!
 Caramba, parece que ela tem<NL>uma queda pelo pobre garoto!
 Então este é um dos Grandes Sábios, né?
 Isso é uma pista e meia, Olliezinho!<NL>Que sorte!
@@ -12923,36 +12923,36 @@ Ele falou de pessoas pobres demais para comprar pão,<NL>e dos famintos morrendo
 <KEEP>
 No entanto... O Conselho me assegurou que está tudo bem...
 <KEEP>
-Apenas quem está dizendo a verdade?
+Quem está dizendo a verdade?
 Diga-me, Apus.
 Isso é muito preocupante. A rainha persiste em seu desejo de se envolver nos assuntos de estado.
 <KEEP>
 Se isso continuar, ela pode perceber que somos nós<NL>que agora governamos o reino e alertamos a população...
 <KEEP>
 <KEEP>
-Certamente faria pouco mal permitir que ela<NL>se sentasse no Conselho?
+Certamente faria não faria mal permitir que ela<NL>se sentasse no Conselho?
 <KEEP>
 Desde que mantenhamos os assuntos mais...<NL>sensíveis longe dos ouvidos de Sua Majestade.
 <KEEP>
-Sim. E garantir que ela seja responsabilizada publicamente por todas as decisões do Conselho.
+Sim, e garantir que ela seja responsabilizada publicamente por todas as decisões do Conselho.
 <KEEP>
 Rá! Uma ideia esplêndida!
 Manteremos nosso reino,<NL>enquanto ela leva toda a culpa!
 <KEEP>
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
-(gargalhada ameaçadora e zombeteira)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
+(Gargalhadas ameaçadora e irônica)
 Pai!
 Eu sei que você vai se orgulhar de mim!
 Hoje o Conselho me deu sua aprovação.
 <KEEP>
 Devo me envolver nos assuntos de estado.
-Agora posso trabalhar para os melhores interesses<NL>dos meus súditos.
+Agora posso trabalhar para os interesses<NL>dos meus súditos.
 <KEEP>
 Eu dei uma longa e dura olhada em mim mesmo.
 E decidi colocar meus súditos em primeiro lugar e fazer tudo o que puder para livrar o mundo da guerra e da fome.
@@ -12964,44 +12964,44 @@ Eu o deixarei orgulhoso.
 Juro que dominarei esse feitiço e salvarei meus súditos e reino do desespero.
 <KEEP>
 <KEEP>
-Em breve, padre...
-Em breve trarei a luz da esperança para a vida de <NL>meu povo...
+Em breve, Pai...
+Em breve, trarei uma nova esperança para o<NL>meu povo
 
 evm0175_text_en.cfg.bin.txt
 Hã?<NL>Isso foi...Pea?
-Mas ela estava crescida, mun!
+Mas ela já estava crescidinha, cara!
 Então... não era ela?
 Vamos, olhe para ela! Ela vai se parecer exatamente com a garota que acabamos de ver quando ela tiver essa idade!
 ...Então você acha que acabamos de ver uma cena do futuro de Pea?
-Se fosse esse o caso, seu reino ainda <NL>existiria em algum lugar...
+Se fosse esse o caso, seu reino ainda<NL>existiria em algum lugar...
 Hmm... Eu me pergunto onde poderia estar...
 Pensávamos que poderíamos finalmente descobrir a verdade sobre a identidade de Pea, mas parece que o mistério só se aprofundou...
 Bem, de uma coisa eu sei: não sou fã daquele bando do Conselho dos Doze. Eu confiaria neles até onde pudesse chutá-los. Eles definitivamente estão tramando algo.
 Sim! Pobre Pea!
-Bem, ficar parado enchendo o saco não vai nos levar a lugar nenhum, não é? Provavelmente há mais flores por aí. Vamos sair e encontrá-los!
+Bem, ficar parado conversando não vai nos levar a lugar nenhum, não é? Provavelmente há mais flores por aí. Vamos sair e encontrá-los!
 Você tem razão. Pea, você vai nos contar se encontrar outra flor, não vai?
-Sim!<NL>Vou encontrar outro para você!
+Sim!<NL>Vou encontrar outra para você!
 Então devemos ir para o último dos três reinos.<NL>A batalha ainda não está ganha...
 
 evm0180_text_en.cfg.bin.txt
-Olhar! Aí está!
+Olha! está ali!
 Hã?
 Aaah! Aaah!
 Então estamos aqui de novo...
 Hã!?
 Hum? Oh!
-Pare de reclamar, mano...
+Pare de reclamar, cara...
 Quero dizer, poderia ser pior—
-Calcinhas!!!
+Carambaa!!!
 Aquele tanque...
 Essa é a arma mais recente do arsenal de Hamelin!
-Eu não posso dizer.
+Eu não tenho certeza.
 (suspiro)
 Você está me dizendo que as máquinas estão se transformando em monstros agora?
 <KEEP>
 Oh!
 Uau!
-É apenas uma máquina! Vamos mostrar para quê!
+É apenas uma máquina! Vamos mostrar do que somos capazes!
 Hã!?
 
 evm0190_text_en.cfg.bin.txt
@@ -13009,45 +13009,45 @@ Pea, é hora da sua mágica.
 Certo!
 Purificar!
 Você acha que isso significa que todos em Hamelin estão<NL>curados agora?
-Sim. O que significa que é hora do Príncipe<NL>cuidar de seu povo.
+Sim, o que significa que é hora do Príncipe<NL>cuidar de seu povo.
 Vossa Majestade!<NL>A cidade está em ruínas!
 Fomos invadidos por feras!?
-Eu observaria como você os chama - eles eram você.
-U-nós...?<NL>Nós éramos as feras?
+Eu teria cuidado com o que você chama eles, eram como vocês antes.
+N-nós...?<NL>Nós éramos as feras?
 Isso é terrível!<NL>Sua Majestade! Nós... atacamos você?
 Acalmem-se. Como você pode ver, estou ileso.<NL>Estou mais preocupado com o estado de nossa grande cidade...
 Mas nossa principal preocupação ainda deve ser descobrir a causa de tudo isso. Até que o tenha feito, devo deixar Hamelin em suas mãos.
 Capitão Hogarth! Suas ordens são para começar a reconstrução imediatamente!
 Sim sua Majestade! Você vai para a guerra, não vai?<NL>Você deve levar nossas tecnologias mais recentes com você!
-Sua premeditação é tão bem-vinda como sempre, Capitão.<NL>Deixo o Império em suas mãos capazes.
-Caramba. Você realmente soou como um imperador por um momento lá...
+Sua previsão é tão bem-vinda como sempre, Capitão.<NL>Deixo o Império em suas mãos competentes.
+Caramba, você realmente soou como um imperador por um momento lá...
 Sim! Era como se eu estivesse vendo uma pessoa completamente diferente!
 Eu fiz uma promessa ao meu irmão...
 ......Aham.
-De qualquer forma, Hogarth é um bom líder. Ele pode ser confiado para reconstruir Hamelin enquanto eu estiver fora.
-Há confiança, você é! Certo, vamos voltar para o Serpe de Ferro, certo?
+De qualquer forma, Hogarth é um bom líder. Podemos confiar nele para reconstruir Hamelin enquanto eu estiver fora.
+Que confiança você tem! Certo, vamos voltar para o Serpe de Ferro, pode ser?
 
 evm0200_text_en.cfg.bin.txt
 Nós salvamos os três reinos do flagelo da mana.
 Como representante dos povos deste mundo, agradeço de coração.
 De nada!<NL>Mas foi tudo graças a Pea, na verdade.
-Yay!<NL>Graças a Pea!
-E ainda... não estamos mais perto de saber quem foi que enviou a mana para nos atacar...
-Sua magia nos permitiu evitar uma tragédia de<NL>proporções impensáveis, Pea. Mas não podemos<NL>permitir que isso aconteça novamente.
-Muito certo, mun! Precisamos encontrar quem está por trás de tudo isso, e dar-lhes um esconderijo adequado!
+Sim!<NL>Graças a Pea!
+E ainda... não estamos perto de saber quem foi que enviou a mana para nos atacar...
+Sua magia nos permitiu evitar uma tragédia de<NL>proporções imensuráveis, Pea. Mas não podemos<NL>permitir que isso aconteça novamente.
+Com certeza, cara! Precisamos encontrar quem estava por trás de tudo isso e dar uma surra bem merecida neles!
 Mas não temos ideia de quem possa ser...
 Talvez não... embora algo sobre a história de Pea tenha me incomodado...
 Tem?
-Quando estávamos em seu mundo, ela lhe disse que a queda das cinzas era culpa dela, não foi?
-Bem, claro, mas... Ei! Não tem como ser ela!<NL>Isso é impossível!
+Quando estávamos em seu mundo, ela disse que a queda das cinzas era culpa dela, não foi?
+Certo, mas... Ei! Não tem como ser ela!<NL>Isso é impossível!
 Também não parece impossível que uma criança pequena tenha a capacidade de reverter os efeitos da mana?
-E, no entanto, vimos com nossos próprios olhos. Mas essa não é a única razão pela qual acho que ela pode nos contar mais.
+No entanto, vimos com nossos próprios olhos. Mas essa não é a única razão pela qual acho que ela pode nos contar mais.
 Acredito que Pea pode ter a chave para desvendar todo esse <NL>mistério.
 Sim!<NL>Pea tem a chave!
 Oh, você encontrou outra flor, não é? Ótimo, vamos dar outra olhada naquela linda jovem rainha!
-Este é realmente o momento para seus comentários estúpidos?<NL>Precisamos levar isso a sério!
-De fato. Temo que esta próxima visão não seja agradável...
-Não importa. Devemos ver a verdade com nossos próprios olhos. <NL>Pea, você poderia ser gentil?
+Este é realmente é momento para seus comentários estúpidos?<NL>Precisamos levar isso a sério!
+De fato, receio que esta próxima visão possa não ser agradável...
+Não importa. Devemos ver a verdade com nossos próprios olhos. <NL>Pea, você faria a gentileza?
 Aqui!
 
 evm0210_text_en.cfg.bin.txt
@@ -13058,10 +13058,10 @@ Cada homem, mulher e criança em meu reino!
 <KEEP>
 Como...?
 Por quê isso aconteceu?
-Mana foi feito para ajudá-los...
+Mana foi feito para ajudar...
 Não... Não... isso.
 Diga-me o porquê!
-Meu nome é Cassiopéia.
+Meu nome é Cassiopeia.
 Eu sou a Rainha de Nazcaa.
 Quando eu era criança, era conhecido como Pea.
 <KEEP>
@@ -13071,31 +13071,31 @@ Então, quando meu amado pai faleceu,<NL>eu subi ao trono...
 <KEEP>
 <KEEP>
 ...mal sabendo que horrores me esperavam.
-Ignorante dos assuntos de estado, permiti que o Conselho dos Doze controlasse tudo.
+Não sabendo dos assuntos de estado, permiti que o Conselho dos Doze controlasse tudo.
 <KEEP>
-Mas o Conselho não prestou a menor atenção<NL>ao bem-estar de meus súditos.
+Mas o Conselho não deu a menor atenção<NL>ao bem-estar de meus súditos.
 <KEEP>
 Sempre pensei em Nazcaa como um reino pacífico.
 <KEEP>
 Mas agora, eu vi que foi arruinado pela <NL>cobiça e dilacerado pelo conflito.
 <KEEP>
-As escamas tinham caído dos meus olhos.
+Finalmente vi a verdade com meus próprios olhos.
 Senti o desespero daqueles que são esmagados pela pobreza.
 Senti a dor de quem luta pela sobrevivência.
 <KEEP>
-E eu vi como eu tinha vivido uma vida dourada de luxo.<NL>Uma vida que eles nunca poderiam esperar desfrutar.
+E eu vi como eu tinha vivido uma vida rodiada de luxo.<NL>Uma vida que eles nunca poderiam esperar desfrutar.
 <KEEP>
 <KEEP>
 <KEEP>
-Eu decidi que devo mudar.
+Eu decidi que devia mudar.
 Eu trabalharia para o bem dos outros e faria tudo o que pudesse para eliminar o conflito.
 <KEEP>
 Foi assim que cheguei à minha decisão.
 Foi isso que me atraiu para o feitiço que salvaria o mundo...
 <KEEP>
 ...Mana.
-Quando comecei a usar aquele feitiço, sem dúvida nublaram minha mente.
-Eu tinha certeza de que a mana <NL> purificaria os corações do meu povo.
+Quando eu fui usar aquele feitiço, não havia nenhuma dúvida na minha mente.
+Eu tinha certeza de que a mana<NL>purificaria os corações do meu povo.
 <KEEP>
 <KEEP>
 Mas então...
@@ -13105,7 +13105,7 @@ Todos aqueles a quem a mana tocou se tornaram bestas e se voltaram uns contra os
 <KEEP>
 Durante anos, o pesadelo continuou.
 Os anos se estenderam por décadas...
-... e ainda continuou.
+...e ainda continuaram.
 Então, um dia, percebi que não havia mais ninguém.
 <KEEP>
 <KEEP>
@@ -13115,7 +13115,7 @@ Minhas damas de companhia também...
 Todos eles se foram.
 A mana que liberei tirou a vida de cada um deles.
 <KEEP>
-Estou completamente e totalmente sozinho.
+Estou totalmente sozinha.
 Mas... a morte é um privilégio que nunca conhecerei...
 <KEEP>
 E quem pode dizer o que essa solidão sem fim pode fazer de mim?
@@ -13128,35 +13128,35 @@ Se você encontrou esta flor, rezo para que encontre o caminho até mim.
 <KEEP>
 <KEEP>
 Esse é o meu único desejo.
-Até lá estarei no aguardo...
+Até lá estarei esperando..
 <KEEP>
 Sempre esperando...
-Sozinho em Nazcaa...
+Sozinha em Nazcaa...
 
 evm0220_text_en.cfg.bin.txt
 Crikey, é trágico! O feitiço que ela usou arruinou todo o seu país!
 A mana de que ela falou...
 É a mesma coisa com a qual estamos lidando aqui.
-Então a pessoa por trás de tudo isso é... Rainha Cassiopeia?
-Ela pode não ter a intenção de fazer mal, mas parece uma possibilidade distinta...
+Então a pessoa por trás de tudo isso é...a Rainha Cassiopeia?
+Ela pode não ter tido a intenção de causar mal, mas parece uma possibilidade distinta...
 Você tem razão. Ela disse que estaria esperando, não disse?<NL>Em um lugar chamado Nazcaa.
-Nazcaa velho e fedorento!
-Nazcaa, hein?<NL>Crikey, isso é uma explosão do passado!
+Nazcaa velha e fedorenta!
+Nazcaa, certo?<NL>Crikey, isso é uma lembrança antiga!
 O que? O que é?<NL>Você sabe algo sobre este lugar?
 O lendário <color:#1>Reino de Nazcaa</color> foi a sede de uma civilização avançada que desapareceu quase da noite para o dia...
-... dez mil anos atrás.
+...dez mil anos atrás.
 D-Dez mil anos!?
 E a Rainha Cassiopeia está esperando há tanto tempo?
 Se pudermos encontrar o local do antigo reino, talvez possamos finalmente resolver o mistério da mana...
-Sim. E podemos impedi-la de usá-lo novamente.
-Sim. Temos que detê-la!
+Sim, e podemos impedir que ela o use novamente.
+Sim, temos que para ela!
 Tudo bem! Vamos encontrar o <color:#1>Reino de Nazcaa</color>!
 
 evn0010_text_en.cfg.bin.txt
 Isso é... um altar?
 Não bobo! Eles são meus vasos de flores!
 ...Vasos de flores!?<NL>Mas eles não têm uma única flor neles, mun!
-Talvez...precisamos colocar um pouco?
+Talvez...precisamos colocar algumas?
 Isso mesmo!<NL>Flores nos vasos!
 Bem, podemos tentar colocar alguma coisa lá, eu suponho. Não pode machucar, pode?
 De fato. Devem servir a algum propósito...
@@ -13171,29 +13171,29 @@ Todo esse tempo...
 Eu estive esperando...
 ...aqui...em Nazcaa.
 Nazcaa!?
-Eu sabia! Esta ilha foi a sede da civilização<NL>Nazcaan!
+Eu sabia! Esta ilha foi o centro da civilização de<NL>Nazcaan!
 O que!? Você sabia o tempo todo!?
 Não tenho certeza...<NL>Mas você deve tê-los visto também, meu querido irmão?
-As ruínas desta ilha... São claramente os remanescentes de uma civilização incomparavelmente antiga...
-Você pode fazer suas palestras arqueológicas mais tarde, mun!<NL>E aquela voz que acabamos de ouvir? Se não estou muito enganado, isso foi—
+As ruínas desta ilha... São claramente os remanescentes de uma civilização muito antiga...
+Você pode dar suas palestras arqueológicas mais tarde, cara! E quanto àquela voz que acabamos de ouvir? Se eu não me engano, aquela era...
 Cassiopeia!
-Isso mesmo, mun!<NL>A rainha que essas flores nos mostraram, não é!
+Isso mesmo, cara!<NL>A rainha que essas flores nos mostraram, não é!
 Minhas flores...
-Eles te guiaram...
-Ver! Eu lançando disse a você!
+Elas te guiaram...
+Viu só! Eu disse a você!
 Shhh! Ela está tentando nos dizer algo!
 Eu estive esperando...
-E agora... aqui...
+E agora...aqui...
 ...onde...tudo começou...
 ...chegou a hora...
 ...meu ato final.
 
 evn0040_text_en.cfg.bin.txt
-Minha solidão se estendia diante de mim<NL>sem fim à vista.
+Eu me sentia solitária e não conseguia ver<NL>um fim para essa sensação.
 <KEEP>
-Tudo o que eu tinha por companhia eram as minhas memórias – <NL>os pedaços de um passado cada vez mais distante.
+Tudo o que eu tinha por companhia eram as minhas memórias...<NL>os pedaços de um passado cada vez mais distante.
 <KEEP>
-Tentei agarrar-me aos momentos felizes,<NL>na esperança de afastar a minha solidão.
+Tentei me agarrar aos momentos felizes,<NL>na esperança de afastar a minha solidão.
 <KEEP>
 Por quantos anos isso continuou, não sei dizer.
 <KEEP>
@@ -13209,116 +13209,116 @@ Você veio me acusar.
 Para me culpar pela perda de todas aquelas vidas.
 <KEEP>
 Bem então...
-Vou banir você da minha vista!
+Vou te expulsar daqui!
 (risada)
 Isso mesmo... Expulse-a!
-Derrame seu mana e acabe com todos eles!
+Derrame a sua mana e acabe com todos eles!
 <KEEP>
-Sim... Esse será meu presente.
+Sim... Este será o meu presente.
 O presente da Bruxa Branca!
-Nós esperamos por você, vossa majestade.
+Nós a aguardamos, Vossa Luminosidade.
 <KEEP>
-Conselheiros, meu linda mana pode acabar com o mundo<NL>em um instante.
+Conselheiros, minha linda mana pode acabar com o mundo<NL>em um instante.
 <KEEP>
-Precisamos apenas escolher quando será esse instante.
-Podemos moldar o destino do mundo como quisermos,<NL>e começar de novo sempre que quisermos!
+Nós só precisamos escolher quando será esse momento.
+Nós podemos moldar o destino do mundo como quisermos,<NL>e recomeçar sempre que desejarmos!
 <KEEP>
 Esse é o poder da mana!
-Ha ha! Sim, vossa majestade!
+Ha ha! Sim, Vossa Luminosidade!
 <KEEP>
-Venho por este meio chamar o Conselho à ordem...
+Eu convoco oficialmente o Conselho à ordem...
 <KEEP>
 <KEEP>
 
 evn0050_text_en.cfg.bin.txt
 O que foi isso!?<NL>O que acabamos de ver!?
 A Bruxa Branca...<NL>Cassiopeia...!?
-...Quem diria que ela ficaria assim?<NL>Tanto para todas essas boas intenções...
-Mas como poderia—!? Ela estava lá! Com Cassiopeia!<NL>Pea estava lá!
+... Quem diria que ela se transformaria assim?<NL>Tantas boas intenções desperdiçadas...
+Mas como isso foi possível!? Ela estava lá! Com Cassiopeia!<NL>Pea estava lá!
 Cassiopeia está sozinha...<NL>E ela está muito, muito triste.
 Por favor, ajude-a.<NL>Ajude Cassiopeia!
 Silêncio!
 Hã?
-Olhar! Lá em cima!
-Olhar! Lá em cima!
+Olha! Lá em cima!
+Olha! Lá em cima!
 É um castelo...
 Um castelo no céu...
 Então, garotinha... você está causando problemas mais uma vez.
 <KEEP>
 Cassiopeia!
-Por que você se esforça para salvar este mundo caído<NL>quando meu mana radiante iria recomeçá-lo?
+Por que você se esforça para salvar este mundo caído<NL>quando minha mana radiante iria recomeçá-lo?
 <KEEP>
-Mana...? Você quer dizer-?
-Sim, sou eu, a Feiticeira Branca - árbitro do destino do mundo.
+Mana...? Você quer dizer...?
+Sim, sou eu, a Bruxa Branca, aquela que dertermina o  destino do mundo.
 <KEEP>
 É minha decisão e meu direito acabar com este mundo.
 <KEEP>
-O julgamento foi passado.
-Não deve ser derrubado.
+O julgamento foi dado.
+Não será revertido.
 A Bruxa Branca...
 
 evn0090_text_en.cfg.bin.txt
-Gostaria de agradecer a todos por concordarem em nos encontrar em<NL>tão curto prazo...
-Hmm... Não é sempre que alguém é chamado para um lugar como este. Presume-se que seja uma questão da mais grave importância?
-De fato é. Identificamos o responsável pelas cinzas brancas que quase destruíram nossos reinos!
-Ela é, na verdade, a dona do palácio flutuante que você vê diante de você...
+Gostaria de agradecer a todos por concordarem em se reunir<NL>tão rapidamente...
+Hmm... Não é sempre que alguém é chamado para um lugar como este, presume-se que seja uma questão da mais grave importância?
+De fato é, identificamos o responsável pelas cinzas brancas que quase destruíram nossos reinos!
+Ela é, na verdade, a dona do palácio flutuante que você vê diante de si...
 A Bruxa Branca!
 Ela é a fonte de todo esse mal?
-Pode-se ver ... Nobres amigos ... parece que chegou a hora de nossos três reinos lutarem como um!
+Veja... Nobres amigos...parece que chegou a hora de nossos três reinos lutarem como um!
 De fato! Ficaríamos gratos por qualquer assistência<NL>que você possa fornecer.
 Os povos do mundo devem se unir.<NL>Nossa necessidade nunca foi tão grande...
-Estamos muito comovidos com o seu chamado às armas...
-Um touro! Volte para Al Mamoon imediatamente e instrua os vizires a se prepararem para a guerra!
+Estamos muito comovidos em ser convocados...
+Abull! Volte para Al Mamoon imediatamente e instrua os vizires a se prepararem para a guerra!
 Vamos precisar de coisas flutuantes, coisas voadoras...<NL>e muitas coisas que atirem!
-Como você comanda, Vossa Moojestade.
-Bem, não se pode fugir de suas responsabilidades em um momento como este! Você terá os melhores soldados que Ding Dong Dell tem a oferecer!
-Excelente. Os três reinos devem combinar suas forças e atacar como um!
+Como você manda, Vossa Moojestade.
+Certo, não se pode fugir de suas responsabilidades em um momento como este! Você terá os melhores soldados que Ding Dong Dell tem a oferecer!
+Excelente, os três reinos combinarão sua força e atacarão como um só!
 
 evn0120_text_en.cfg.bin.txt
 Amigos, chegou a hora!
-Prepare-se para atacar o covil da Feiticeira Branca!
+Prepare-se para atacar o covil da Bruxa Branca!
 <KEEP>
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
-(rugido de assentimento)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
+(rugido de aprovação)
 Oliver...
 Não se preocupe, Pea...
-Vai funcionar - você vai ver!
+Vai funcionar, você vai ver!
 Agora, homens!
-Prepare os canhões! Fogo à vontade!
-Tome um pouco disso, cara de bruxa!
-Continue assim, garotoes!
-Alguém mais acha isso um pouco fácil demais?
+Prepare os canhões! Disparem à vontade!
+Toma essa, Cara de Bruxa!
+Continue assim, rapazes!
+Alguém mais acha que isso está sendo um pouco fácil demais?
 <KEEP>
 Isto é estranho.
-Por que ninguém está lutando de volta?
-Vou!
+Por que ninguém está lutando contra?
+Eu vou!
 Pea!
 Espere! Estou indo também!
 E eu também!
-Mas-! Doooh! Espere por mim!
+Mas-! Espere por mim!
 <KEEP>
-Aguentar!
+Espera!
 Não deixe o herói para trás!
 Todos estão prontos?
-Você está planejando voar através daquela chuva de <NL>canhão, não é?
+Você está planejando voar através daquela chuva de<NL>disparos de canhão, não está?
 <KEEP>
 Você prefere ficar aqui?
 Não, claro que não!
 Espere!
-Você tem espaço para outro?
+Você tem espaço para mais um?
 Porque eu pretendo ver isso até o fim!
 Príncipe Marcassin...?
 ...O-Ok! Suba a bordo!
 Esplêndido!
 Estamos prontos, Tengri!
-(dragão grita)
+(rugido do dragão)
 Whoooooa!
 Whoooooa!
 Whoooooa!
@@ -13327,32 +13327,32 @@ Whoooooa!
 
 evn0130_text_en.cfg.bin.txt
 ...Hã!?
-Todo aquele poder de fogo, e nem um arranhão nele!
-Assim como eu pensei. É invulnerável.
+Todo aquele poder de fogo, e nem um arranhão!
+Como eu estava imaginando, é invulnerável.
 Não importa.
-O objetivo principal desse ataque era <NL>unir nossas forças em torno de uma causa comum.
+O objetivo principal desse ataque era<NL>unir nossas forças em torno de uma causa comum.
 <KEEP>
-Oh...? Realmente?
-Sim, pensei que poderia ser o caso!
+Oh...? Sério?
+Sim, eu pensei que pudesse ser o caso!
 Seu grande mentiroso!<NL>Você estava morrendo de medo!
 <KEEP>
-Assustado? Meu!?
+Com medo? Eu!?
 Você está claramente histérico!
-Vocês caras!
+Vocês, rapazes!
 Ela está esperando por nós...
 A Bruxa Branca...
 Cassiopeia...
 
 evn0140_text_en.cfg.bin.txt
-Tudo bem, Pea-bach?
+Tudo bem, Peazinha?
 É aquele homem de novo!
 Doodle-Doo!
 Pea...
 A Rainha...<NL>Ela ainda não pode ser salva...
-Uma barreira envolve seu coração - uma barreira formada nas profundezas de seu isolamento. Até que essa barreira seja quebrada...
+Uma barreira envolve seu coração, uma barreira formada nas profundezas de seu isolamento. Até que essa barreira seja quebrada...
 Eu consigo!<NL>Eu consigo quebrar!
-Então... você pretende tentar de novo, pequenino? <NL>Temo que você não terá muita chance sozinho.
-Eu não estou sozinho!
+Então...você pretende tentar novamente, pequenina?<NL>Receio que não tenha muitas chances sozinha.
+Eu não estou sozinha!
 Estou com Oliver!<NL>E os amigos de Oliver!
 Hã!? P-Pea...
 Ha ha ha ha!
@@ -13372,43 +13372,43 @@ Parece que meu fantasma não é páreo para você.
 Hã... Seu fantasma...?
 Doodle-Doo não está mais vivo!
 Doodle-Doo é uma varinha!
-Uma varinha? Você quer dizer... aquela varinha?
-De fato.
-Eu sou uma alma. A alma que reside dentro da varinha conhecida como Astra.
+Uma varinha? Você quer dizer...aquela varinha?
+Na verdade.
+Eu sou uma alma, a alma que reside dentro da varinha conhecida como Astra.
 Uma alma dentro de uma varinha?<NL>Suponho que esta varinha seja algo como Estrela da Alvorada, então?
-Está correto. Astra é gêmea de Estrela da Alvorada.
-Eu lhe dei Estrela da Alvorada para que você pudesse encontrar o caminho até mim. A criança... da mesma forma.
+Está correto, astra é a gêmea da Estrela da Alvorada.
+Eu lhe dei Estrela da Alvorada para que você pudesse encontrar o caminho até mim. A criança...da mesma forma.
 O que quer dizer com "da mesma forma"?
 A Rainha baniu Pea para o seu mundo, Oliver. Fiz com que ela o encontrasse lá, para lhe mostrar o "Portal" para o nosso.
-Ela deu a você uma varinha feita de um galho da Nazcaan Sky Tree, concedendo a você seu poder considerável...
-Uma varinha feita da Árvore do Céu...?<NL>Você quer dizer...? Aquele bastão que encontrei!?
+Ela te deu uma varinha feita de um galho da Árvore Celestial Nazcaan, concedendo-lhe assim um grande poder.
+Uma varinha feita da Árvore Celestial...?<NL>Você quer dizer...? Aquele graveto que encontrei!?
 Sim! Hee hee!<NL>Doodle-Doo me deu!
-Pea levou você a este mundo. E ela continuou a guiá-lo até aqui...
-Mas por que você está fazendo isso? Você não serve a Feiticeira Branca? Você não é membro do conselho dela?
-Rá! Eu trabalho para ninguém. Esta máscara - este "Gallus" - é uma pretensão necessária, nada mais.
+Pea levou você a este mundo, e ela continuou a guiá-lo até aqui...
+Mas por que você está fazendo isso? Você não serve a Bruxa Branca? Você não é membro do conselho dela?
+Rá! Eu trabalho para ninguém. Esta máscara deste "Gallus" é só uma fachada, nada mais.
 Isso me permitiu chegar perto dela. Para vigiá-la...
 Para proteger minha filha...
-Sua filha?<NL>Você quer dizer... a Feiticeira Branca é...!?
+Sua filha?<NL>Você quer dizer... a Bruxa Branca é...!?
 Caramba!<NL>Você é o pai de Cassiopeia!?
 Depois da minha morte, Cassiopeia... se perdeu. Ela chamou a mana com a melhor das intenções...
-o desespero foi sua recompensa. Foi só então que ela se tornou a "Bruxa Branca" como você a conhece agora...
+o desespero foi sua recompensa, foi só então que ela se tornou a "Bruxa Branca" como você a conhece agora...
 Agora minha amada filha não pode ver pela escuridão que a engole... Ela está perdida e sozinha em um mundo que ela mesma criou...
-Seu próprio... mundo?
-Dói-me que tenha chegado a isso. Eu esperava poder fazê-la ver o erro de seus caminhos... Mas provou ser uma tarefa grande demais para um mero espírito...
+Seu próprio...mundo?
+Me dói que tenha chegado a esse ponto, eu tinha esperança de que pudesse fazê-la ver o erro de seus atos... Mas se provou uma tarefa muito grande para um mero espírito...
 Agora é com você.<NL>Você deve salvar minha Cassiopeia!
-Use esta varinha para esmagar o mal que envolveu seu coração. Desloque sua máscara - revele a princesa inocente cujo rosto ela esconde!
+Use esta varinha para esmagar o mal que envolveu seu coração, tire sua máscara e revele a princesa inocente que se esconde!
 Doodle-Doo!
 Então ele fez tudo isso por sua filha...?
 Doodle-Doo pediu para você ajudá-lo, Oliver...
-Sim. E é exatamente isso que vamos fazer.<NL>Temos Astra agora. Nada pode nos parar!
-Temos que salvar o White Wi—
-...Não! Temos que salvar Cassiopeia!
+Sim, e é exatamente isso que vamos fazer.<NL>Temos Astra agora, nada pode nos parar!
+Temos que salvar a Bruxa Bra—
+...Não! Temos que salvar a Cassiopeia!
 
 evn0160_text_en.cfg.bin.txt
 Eita!
 Você está atrasado, Oliver.
-Então você é-
-Eis que os superintendentes do destino do mundo...
+Então você é...
+Eis os supervisores do destino do mundo...
 ...Os Zodiarcas.
 Então você compartilhou uma alma com o Mago Sombrio.
 <KEEP>
@@ -13418,13 +13418,13 @@ Seu desespero nasceu de sua imperfeição.
 <KEEP>
 Eu dei a ele a chance de acabar com este mundo.
 <KEEP>
-Ele falhou. Mas não vou.
+Ele falhou, mas eu não vou.
 E ainda assim você quer que acreditemos que este é <NL>um mundo que vale a pena salvar?
 <KEEP>
 <KEEP>
 Eu gostaria muito de ouvi-lo argumentar sobre esse caso...
-Venha...diga-nos quanto vale o mundo.
-Venha, garoto.
+Venha...diga-nos quanto vale a pena este mundo.
+Vamos, garoto.
 Vamos ouvir o que você tem a dizer.
 (risos de zombaria)
 (risos de zombaria)
@@ -13433,21 +13433,21 @@ Vamos ouvir o que você tem a dizer.
 Oliver!
 Está tudo bem, Pea...
 Vai ficar tudo bem.
-Este mundo está cheio de pessoas fazendo o possível para viver suas vidas. É o mundo deles e não vou deixar você destruí-lo!
+Este mundo está cheio de pessoas fazendo o seu melhor para viverem suas vidas. É o mundo delas, e eu não permitirei que você o destrua!
 <KEEP>
 <KEEP>
-Essas são palavras ousadas para um pirralho como você pronunciar...
-Pá! Esta é a criança de que falam as profecias?
+Essas são palavras ousadas para uma criança como você proferir...
+Ah! Essa é a criança de quem falam as profecias?
 Que Gallus nos trairia por alguém tão tolo!
-Ele está tentando reivindicar que a humanidade
-tem o menor valor?
+Ele está tentando afirmar que a humanidade
+tem algum valor?
 Ele realmente acha que suas objeções estúpidas
 pode influenciar o Conselho?
 Ele não vai nos deixar destruí-lo?
 Não me faça rir!
 Defender a humanidade é uma missão tola.
 Derrotar Gallus deu a ele ilusões de grandeza!
-Ele acha que fazer malabarismos com pedaços de coração o torna um especialista na condição humana?
+Ele acha que manipular fragmentos de corações o torna um especialista na condição humana?
 Por que ele não diz nada sobre a fraqueza humana?
 Como ele ousa sequer sonhar em se opor a nós?
 Patético! Devemos ouvir isso?
@@ -13456,7 +13456,7 @@ Nós somos o Conselho!<NL>Nossas decisões determinam o destino do mundo!
 <KEEP>
 Você está errado.
 Você está sozinha, Cassiopeia...
-Você sempre foi!
+Você sempre esteve!
 Hã?
 Eles foram embora...
 Você está bem?
@@ -13467,32 +13467,32 @@ Ele disse que ela estava trancada dentro de seu próprio mundo.
 Você quer dizer que todo o conselho foi <NL>uma invenção da imaginação dela?
 <KEEP>
 ...Sua magia era tão forte que transformava seus pensamentos em realidade.
-Espere! Espere um segundo!
+Espere! só um segundo!
 Então o que fez a Bruxa Branca desaparecer?
 Ela também era uma ilusão?
-Não! A Feiticeira Branca é real...
+Não! A Bruxa Branca é real...
 <KEEP>
-... e ela está lá.
+...e ela está lá.
 
 evn0170_text_en.cfg.bin.txt
 Como você ousa!?
 Este é o santuário interno de Vossa Luminosidade!
 Você não me ouviu? Saia daqui!
-Apus. É suficiente.
+Apus, é suficiente.
 <KEEP>
-Como você sem dúvida deduziu, Apus era apenas outro fantasma criado por minha memória.
+Como você sem dúvida já deduziu, Apus era apenas outro fantasma criado por minha memória.
 <KEEP>
 Sim...
 Outra ilusão.
 Há quanto tempo, Pea?
 Há quanto tempo...?
-(suspiro/suspiro)
+(ofegante/suspiro)
 Cassiopeia!
 Por que...?
 Por que você tem que destruir o mundo?
 Porque é imperfeito.
 Imperfeita como o coração humano.
-Há muito tempo, o meu foi consumido pelo mais negro desespero.
+Há muito tempo atrás, fui consumido pelo mais profundo desespero.
 <KEEP>
 Mas então eu descobri algo,<NL>nas margens mais distantes da solidão...
 Eu encontrei a verdadeira força.
@@ -13513,18 +13513,18 @@ Aaaaargh!
 Aaaaargh!
 Aaaaargh!
 O mundo é meu para refazer como eu achar melhor!
-E ninguém desafiará minha vontade!
+E ninguém desafiará a minha vontade!
 Humanos de coração fraco!<NL>Eu os condeno a sofrer...
 <KEEP>
 ...para sempre.
 
 evn0180_text_en.cfg.bin.txt
-Assim como a profecia predisse...
+Assim como a profecia dizia...
 Muito bem!
 Hã?
 Onde está isso, então?
 Oliver!
-Olhar!
+Olha!
 Oh, não...<NL>Tenho um mau pressentimento sobre isso...
 <KEEP>
 Ela está... mudando...
@@ -13541,37 +13541,37 @@ evn0190_text_en.cfg.bin.txt
 Não por que...?
 Este mundo é imperfeito...
 Deve ser destruído para que um novo possa começar...
-Não! Você não pode simplesmente rasgá-lo e começar de novo!
+Não! Você não pode simplesmente destruí-lo e começar de novo!
 Pode não ser perfeito, mas nada é.
 Então você faz o melhor com o que você tem!
-Quando as coisas dão errado, você tem que tentar consertar. E você tem que continuar tentando, não importa o quão difícil fique.
+Quando as coisas dão errado, você tem que tentar consertar, e você tem que continuar tentando, não importa o quão difícil fique.
 <KEEP>
 <KEEP>
 É disso que se trata a vida.
 ...Vida?
-(choro violento)
+(choro convulsivo)
 Mesmo quando você está sozinho, você não pode desistir.
 Mais cedo ou mais tarde, alguém certamente aparecerá.
-Eu conheci Pea, não? E ela...
+Eu conheci a Pea, não é? E ela...
 Bem, ela é uma parte de você.
-Mm-hm! E eu conheci Oliver!
+Mm-hm! E eu conheci o Oliver!
 Oliver, você é meu amigo!
 Ai, Pea...
 A vida nunca é perfeita... Está sempre mudando.
 Encontros... Despedidas...
-Tempos felizes... Tempos tristes...<NL>Você aceita as coisas como elas vêm e segue em frente.
+Tempos felizes... Tempos tristes...<NL>Você aceita as coisas como elas são e segue em frente.
 <KEEP>
 É assim mesmo.
 Você é tão gentil, Oliver.
 Mas Oliver...
-Não fique com raiva de Cassiopeia.
-Ela estava tão triste. Ela não sabia o que fazer.
+Não fique com raiva da Cassiopeia.
+Ela estava tão triste, ela não sabia o que fazer.
 Por isso nasci!
-Mas agora você a fez melhor, e isso significa que não preciso mais cuidar dela.
+Mas agora você a fez ficar melhor, e isso significa que não preciso mais cuidar dela.
 <KEEP>
 Hã?
 Oliver... eu tenho que ir agora.
-Bye Bye.
+Tchau tchau.
 Oh!
 Obrigado por tudo, Oliver!
 Isto deve ser...
@@ -13579,7 +13579,7 @@ A verdadeira Cassiopeia.
 Prazer em conhecê-lo.
 Eu sou a Rainha Cassiopeia... como eu era há muito tempo.
 Estarei eternamente em dívida com você.
-Você me restaurou ao meu verdadeiro eu.
+Você me restaurou a minha verdadeira forma.
 Eu ouvi suas palavras.
 E agora, posso começar a viver de novo!
 <KEEP>
@@ -13609,41 +13609,41 @@ Não... Isso... Isso não tem nada a ver comigo!
 Eles podem...?
 Eles podem ter se tornado reais?
 Está correto!
-Soltamos as rédeas da sua magia!
+Nós escapamos do seu controle mágico!
 Está correto!
-Soltamos as rédeas da sua magia!
+Nós escapamos do seu controle mágico!
 Está correto!
-Soltamos as rédeas da sua magia!
+Nós escapamos do seu controle mágico!
 Está correto!
-Soltamos as rédeas da sua magia!
+Nós escapamos do seu controle mágico!
 A bochecha corada!
-Voltem para a cabeça dela, seus podres!
-Isso é... uma declaração de independência?
+Voltem a controlar a mente dela, seus imundos!
+Isso é...uma declaração de independência?
 Isso é tudo minha culpa.
 Fuja daqui!
 Sem chance! Nós vamos ficar aqui!<NL>Você não precisa fazer isso sozinho!
 <KEEP>
 Podemos derrotar os Zodiarcas juntos!
 Sim!
-Muito certo nós podemos!
+Com certeza podemos!
 Vamos!
 Sim!
 Muito bem.
 Este mundo em breve estará no fim...
 ...e uma nova Bruxa Branca reinará suprema!
 Este mundo em breve estará no fim,
-quando o reinado da nova Bruxa Branca começa!
+quando o reinado da nova Bruxa Branca começar!
 Este mundo em breve estará no fim,
-quando o reinado da nova Bruxa Branca começa!
+quando o reinado da nova Bruxa Branca começar!
 Este mundo em breve estará no fim,
-quando o reinado da nova Bruxa Branca começa!
+quando o reinado da nova Bruxa Branca começar!
 
 evn0200_text_en.cfg.bin.txt
 Graças a você, sinto o desejo de viver novamente<NL>agitando em meu coração.
 <KEEP>
 <KEEP>
 <KEEP>
-Você me deu esperança - a força para superar a tristeza.
+Você me deu esperança, a força para superar a tristeza.
 <KEEP>
 <KEEP>
 <KEEP>
@@ -13657,12 +13657,12 @@ Muito certo!
 Isso é o que seu velho teria desejado, não é?
 De fato.
 Mas primeiro...
-Devo reparar as pessoas deste mundo<NL>por tudo o que fiz.
+Eu devo fazer as pazes com as pessoas deste mundo<NL>por tudo o que eu fiz.
 <KEEP>
 <KEEP>
 Claro, mas dê um passo de cada vez!
 <KEEP>
-Eu vou. E meu primeiro passo será flores!
+Eu vou, e meu primeiro passo será flores!
 <KEEP>
 <KEEP>
 Flores?
@@ -13676,34 +13676,34 @@ Quero fazer todos felizes, assim como já foram.<NL>Este mundo florescerá!
 <KEEP>
 <KEEP>
 <KEEP>
-Você pode fazer isso, Sua Majestade—<NL>Eu apenas sei que você pode!
+Você pode fazer isso, Vossa Majestade<NL>Eu sei que você pode!
 <KEEP>
 <KEEP>
 <KEEP>
 E eu quero que você veja.
 <KEEP>
 Para ver o mundo que você salvou!
-Meu, você é um madrugador!
+Meu, você é uma pessoa matinal!
 <KEEP>
-Bom dia Dona Leila!
-É uma grande ajuda ter você por perto, querida.
+Bom dia, Dona Leila!
+É tão bom ter você por perto, querida.
 <KEEP>
 Eu amo meu trabalho!
 Então você pega esse pistão...
 E você liga aqui...
 Tudo bem!
-Eu vou quebrá-lo desta vez!
-Você vê se eu não!
+Eu vou conseguir desta vez!
+Você vai ver se eu não consigo!
 (expira enquanto aterrissa)
 Mãe, vou seguir a minha vida...
-E eu sei que você sempre estará olhando por mim...
+E eu sei que você sempre estará me observando...
 <KEEP>
 
 evn0201_text_en.cfg.bin.txt
 Graças à você,
-eu sinto o desejo
+eu sinto o desejo de
 viver novamente mexendo no meu coração.
-Você me deu esperança—
+Você me deu esperança...
 a força para superar a tristeza.
 É hora de um novo começo, Majestade!
 Ela não está errada.
@@ -13711,19 +13711,19 @@ Dê uma chance ao mundo e...
 mantenha o queixo erguido, certo?
 Sim.
 E deixe o passado ficar no passado.
-Muito certo!
+Isso aí!
 Isso é o que seu velho teria desejado, não é?
 De fato.
 Mas primeiro...
 Devo fazer as pazes com as pessoas deste mundo
 por tudo que eu fiz.
 Claro.
-Mas dê um passo de cada vez.
-Eu vou.
+Mas um passo de cada vez.
+Irei fazer.
 E meu primeiro passo
 serão flores!
 Flores?
-Sim! Vou encher este palácio até o
+Sim! Vou encher este palácio até a
 torre mais alta com sua beleza!
 Eu quero ver
 rostos sorridentes.
@@ -13732,24 +13732,24 @@ todo mundo feliz,
 assim como eles já foram.
 Eu quero trazer o melhor deste mundo!
 Você consegue,
-Sua Majestade.
+Vossa Majestade.
 Eu só sei que você pode.
-E quando eu faço,
+E quando eu conseguir,
 Eu quero que esteja aqui.
 Eu quero que você veja o mundo que você salvou!
 
 evn0230_text_en.cfg.bin.txt
-Meu, você é um madrugador!
+Meu, você é muto matinal!
 <KEEP>
 Bom dia Dona Leila!
 É uma grande ajuda ter você por perto, querida.
 <KEEP>
 Eu amo meu trabalho!
 Então você pega esse pistão...
-E você liga aqui...
+E você coloca aqui...
 Tudo bem!
-Eu vou quebrá-lo desta vez!
-Você vê se eu não!
+Eu vou conseguir desta vez!
+Você vai ver!
 (expira enquanto aterrissa)
 Mãe, vou seguir a minha vida...
 E eu sei que você sempre estará olhando por mim...
@@ -13775,7 +13775,7 @@ Parece que seremos seus primeiros adversários.<NL>Não nos subestime só porque
 evw0020_text_en.cfg.bin.txt
 Você não precisava levar isso tão a sério...<NL>Somos pequenos, sabe!
 Em seguida, você deve lutar contra nós!
-Nós somos os mercadores babana de Al Mamoon! Lutamos para que o mundo conheça a delícia de tudo babana!
+Nós somos os comerciantes de banana de Al Mamoon! Lutamos para que o mundo possa conhecer o prazer de todas as coisas relacionadas a banana!
 
 evw0030_text_en.cfg.bin.txt
 Rá! Isso é o que você ganha por se segurar!<NL>Disse que podíamos aguentar!
@@ -13783,13 +13783,13 @@ Rá! Isso é o que você ganha por se segurar!<NL>Disse que podíamos aguentar!
 evw0040_text_en.cfg.bin.txt
 Um desempenho maravilhoso! ...Estaria <NL>interessado em fazer algum trabalho promocional para a minha barraca de <NL>babana?
 Ah, parece que seremos seus próximos oponentes. Desnecessário dizer que o prêmio em dinheiro oferecido é de pouca importância para nós...
-Mas, no entanto, devemos aceitá-lo se vencermos. Afinal, não acumulamos nossa fortuna olhando cavalos de presente na boca! Aham.
+Mas, mesmo assim, aceitaremos se vencermos. Afinal, não acumulamos nossa fortuna procurando pelo em ovo! Aham.
 
 evw0050_text_en.cfg.bin.txt
 Parece que sua derrota o deixou bastante desanimado... Em momentos como este, uma boa babana madura é o que você precisa!
 
 evw0060_text_en.cfg.bin.txt
-Impressionante... Que tal você vir trabalhar para mim como meu guarda-costas? Vou dobrar... não, triplicar seu salário atual!
+Impressionante... Que tal você vir trabalhar para mim como meu guarda-costas? Vou dobrar... não, triplicar seu atual salário!
 
 evw0070_text_en.cfg.bin.txt
 O que!? Eu sabia que o prêmio em dinheiro não seria muito, mas isso é patético! Uma total perda de tempo...
@@ -13800,7 +13800,7 @@ Permita-nos mostrar do que os grimalkin são capazes! Purreparem-se!
 evw0090_text_en.cfg.bin.txt
 Oh meu Deus! Você é muito bom nisso!
 Parece que somos seus próximos adversários.
-Imagino que ver nossos looks dá vontade de ir à praia, não é? Bem, derrote-nos e pensaremos em pegá-lo! Hee hee!
+Eu imagino que vendo nossos trajes faça você querer ir para a praia, não é mesmo? Bem, nos vença e vamos pensar em te levar! Hee hee!
 
 evw0100_text_en.cfg.bin.txt
 Oh. Achei que você ronronaria um pouco melhor do que isso,<NL>devo dizer!
@@ -14085,7 +14085,7 @@ evz5100_text_en.cfg.bin.txt
 Virar, mano! Você já viu aquelas coisinhas orbe no meio do peito dele? Parecem perigosos, eles parecem! Mas vulnerável também... Vá em frente, dê uma surra neles!
 
 evz5150_text_en.cfg.bin.txt
-Que diabo... Posso sentir o poder da Feiticeira Branca daqui, mun... Certifique-se de desviar dos feitiços dela, Olliezinho. Ou bloqueá-los... Ou algo assim!
+Que diabo... Posso sentir o poder da Bruxa Branca daqui, mun... Certifique-se de desviar dos feitiços dela, Olliezinho. Ou bloqueá-los... Ou algo assim!
 
 evz5160_text_en.cfg.bin.txt
 Oh calcinha... Tem algo ruim a caminho, Olliezinho! Faça o que fizer, certifique-se de pará-lo!
@@ -20972,7 +20972,7 @@ Mais uma vez, você comprou mercadorias que não podemos vender!
 Ester
 Rashaad
 Rainha Lowlah
-Um touro
+Abull
 npc_001(Jovem Al Mamoon Woman)
 npc_002(Jovem Al Mamoon Woman)
 npc_003(Jovem Al Mamoon Woman)
@@ -21242,7 +21242,7 @@ Marido! Por que você não me ouve!?
 Mais uma vez, você comprou mercadorias que não podemos vender!
 Rashaad
 Rainha Lowlah
-Um touro
+Abull
 npc_001(Jovem Al Mamoon Woman)
 npc_002(Jovem Al Mamoon Woman)
 npc_003(Jovem Al Mamoon Woman)
@@ -21507,7 +21507,7 @@ Não há inimigo que você não possa derrotar, Oliver.<NL>Eu acredito em você.
 Olá, Velho Padre Carvalho!
 Oh Ho! Meu bravo jovem mago!<NL>Você voltou!
 Conte-me tudo o que aconteceu e não deixe nada de fora...
-Então essa é a verdadeira história da Feiticeira Branca?<NL>Que triste...
+Então essa é a verdadeira história da Bruxa Branca?<NL>Que triste...
 Trabalhar sob tal equívoco por tantos milhares de anos...
 Eu quero ajudá-la, mas... acho que a única maneira pode ser lutando contra ela...
 Mas você deve lutar contra ela, e ajudá-la você deve.<NL>Assim como você fez com Shadar...
@@ -21717,12 +21717,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo, mun?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Ahh! Respire, mun! Que lindo!<NL>Cheira isso? Isso é ozônio, isso é! Ou é fungo? Espera aí, são seus pés?
 Calcinhas! Esqueci meu repelente de insetos, não foi?
 Este aqui é o Bosque Escuro Profundo, assim chamado porque é raso, bem iluminado e pouco arborizado.
@@ -21909,12 +21909,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo, mun?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 O chão está muito escorregadio por aqui, Olliezinho.
 Eu posso sentir o cheiro de algo à frente, mun...
 Esses esgotos piscando parecem todos iguais, mun.<NL>É melhor ficar de olho no seu mapa, eu acho.
@@ -22097,12 +22097,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Se você tem algum familiar com truques de água, este é o lugar para usá-los, mun. Psssh! Combata o fogo com, er... água, não é?
 Flores? Em um lugar como este? Essas são algumas plantas perenes resistentes, Olliezinho!
 É dia ou noite? Eu não posso dizer, está tão escuro por aqui, mun!
@@ -22173,7 +22173,7 @@ Você tem a resposta, Oliver?
 Como eu disse, esse quebra-cabeça é muito parecido com a vida: você deve começar de baixo e trabalhar até o topo - sem esquecer de começar do começo.
 Você não precisa ler muito o que está escrito na página. Na verdade, você pode ignorar quase todas as letras dele...
 Está correto.
-Talvez um dia as pessoas deste mundo vejam que a Feiticeira Branca não tinha nada além das melhores intenções...
+Talvez um dia as pessoas deste mundo vejam que a Bruxa Branca não tinha nada além das melhores intenções...
 Mas primeiro, ela deve reparar o que fez.<NL>Desespero não é desculpa...
 Acho que você está certo...
 Lembro-me de quando ela era uma garotinha gentil que amava as flores acima de tudo...
@@ -22373,12 +22373,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Não é à toa que o chamam de Cofre das Lágrimas. Parece que alguém chorou uma pequena enchente. Há miserável!
 Sinto cheiro de armadilhas, mano. Mantenha os olhos abertos, ou você terá problemas!
 Há algo de trágico neste lugar, mun. E não estou falando da decoração...
@@ -22431,7 +22431,7 @@ Vou lhe contar como os três servos mais leais do Rei Mago foram levados ao cami
 Até lá, Oliver...
 Lançando heck. Este robô levou uma surra adequada. Ei... você não acha que os robôs têm g-fantasmas, acha?
 Bem, se não formos tocá-lo, não teremos nenhum espírito de robô atrás de nós. Vamos, Olliezinho! Vamos lá!
-Este é um daqueles robôs que vimos no palácio da Feiticeira Branca, não é? O que ele está fazendo em um cemitério invertido?
+Este é um daqueles robôs que vimos no palácio da Bruxa Branca, não é? O que ele está fazendo em um cemitério invertido?
 Calcinhas! É um magicimech giratório!<NL>Cuidado, Olliezinho!
 Gaaarrrgh!
 Beleza! Boa, Olliezinho! Se mais algum magicechs gostar de uma sucata, você vai dar a eles o quê!
@@ -22526,12 +22526,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Pare de me empurrar à sua frente, mun! Não está lançando engraçado! Petrificada, estou! Petrificado, eu te digo!
 A Trilha da Lápide, hein? Você pode apostar que vamos encontrar um fantasma ou dois. ...Vaia! Desculpe, mano. Não é engraçado. Não para você, de qualquer maneira...
 Olha essa lua! Tá cheio! Me traz toda graça, lua cheia. ...Aaaaaaaaaa! Desculpe, mano. Não é engraçado. Não para você, de qualquer maneira...
@@ -22681,12 +22681,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 FFFF-Flip, está frio! Meu nariz é lindo e quente, no entanto. Talvez esta lanterna tenha sua utilidade, afinal...
 SSSS-Stew! Uma panela fumegante de ensopado de ss ... com meus pés dentro! Ahh, isso resolveria bem minhas frieiras.
 Você percebeu? O vento sopra na parte mais profunda da caverna. Há algo lá atrás, mun. Você marca minhas palavras!
@@ -22742,12 +22742,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Crikey! As almas dessas pessoas estão flutuando no ar? Não toque em nenhum, está bem, Olliezinho? Você não sabe onde eles estiveram...
 Não toque na água, mun! É venenoso! Imundo adequado, é!
 Você tem a estranha sensação de que estamos sendo observados, Olliezinho? Eu estou virando...
@@ -22829,12 +22829,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Ah-! Oh-! Ngggh! Crikey, minha coragem...!<NL>Desculpe, Olliezinho, você pode me dar um momento?<NL>Você pode querer ficar contra o vento, também...
 Para a frente e para cima, Olliezinho! E então para a frente um pouco mais, e para cima um pouco mais, e assim por diante, e assim por diante, para virar sempre...
 Ooh, é realmente assustador este lugar, hein?<NL>Ainda mais assustador do que o cesto de roupa suja da Mamãe!<NL>E isso é realmente assustador, acredite em mim...
@@ -23021,13 +23021,13 @@ Justo, mano. Mas não posso deixar de sentir que algo muito ruim pode acontecer 
 Examinar o orbe negro?
 Olliezinho, mun! É um robô que pisca!<NL>Parece que está aqui há algum tempo, tipo...
 Bem, isso não vai nos ajudar a atravessar esta floresta. Melhor deixá-lo lá por enquanto, não é.
-É um daqueles robôs do palácio da Feiticeira Branca! Este parece bem desgastado, no entanto...
+É um daqueles robôs do palácio da Bruxa Branca! Este parece bem desgastado, no entanto...
 Olha, mano! É um magicimech!<NL>Prepare sua varinha, Olliezinho!
 Bwaaaah!
 Beleza! Boa, Olliezinho! Se mais algum magicechs gostar de uma sucata, você vai dar a eles o quê!
 Bom trabalho, Olliezinho!<NL>Faltam mais dois - continue assim!
 Esse é o terceiro abaixo, mun!<NL>Um para ir - continue indo!
-É isso! Isso é tudo feito!<NL>Vamos voltar para o palácio da Feiticeira Branca, certo!
+É isso! Isso é tudo feito!<NL>Vamos voltar para o palácio da Bruxa Branca, certo!
 Vamos para o sul, para Bosque Dourado!
 Algo não está certo sobre o velho Grove, mun. Eu posso sentir isso na minha lanterna...
 Vamos, mun, vamos seguir em frente até Al Mamoon, certo? Beleza!
@@ -23190,12 +23190,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo, mun?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Aqui, você acha que pode comer os cogumelos ali? Eu poderia matar uma boa omelete, mun!
 Eu sei que esse lugar é famoso por ser fértil, mas não custa nada comer uma ameixa de vez em quando, não é? É uma velha bagunça!
 Você viu todas aquelas pequenas manchas amarelas flutuando por aí? Fazendo-me espirrar como billy-o, eles são!
@@ -23475,12 +23475,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Basta olhar para a arquitetura! Um dos meus estilos favoritos também. Tem bom gosto! Não fique tão surpreso, mun... eu sou bem culto, eu!
 Por que eles chamam isso de templo, você acha? Não há exatamente muita adoração acontecendo, há? Há blasfêmia...
 Você viu aquela coisa em forma de rosto? Me lembra uma coisa, sim... Sua cara feia, talvez? Rá! Só brincando, Olliezinho!
@@ -23539,7 +23539,7 @@ E eu fugi do reino antes que pudesse ensinar a Rainha Cassiopeia sobre os perigo
 Eu estava tão ocupado pensando em que tipo de vingança eu exigiria do Conselho que falhei em meu dever de cuidar da Rainha.
 Foi assim que ela chegou à sua decisão fatídica... É por isso que ela não conhecia o verdadeiro poder do Mana...
 M-Mas...
-É minha culpa que Nazcaa tenha caído e que a Rainha Cassiopeia tenha se transformado na Feiticeira Branca.
+É minha culpa que Nazcaa tenha caído e que a Rainha Cassiopeia tenha se transformado na Bruxa Branca.
 Como poderia reparar o que fiz?<NL>Foi... imperdoável.
 Reduzido a um espírito, condenado a vagar pelo mundo por toda a eternidade, como eu poderia salvar aquela pobre garota de seu destino?
 É por isso que devo humildemente pedir-lhe que corrija meu erro - salve a Rainha. Você é o único que pode, Oliver.
@@ -23678,9 +23678,9 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Conseguimos! Estavam em! Certo, vamos caçar a perversa Bruxa Branca então, certo?
 Ela tem bom gosto, mun, eu vou dar isso a ela. Este lugar é bonito. Mas é tranquilo, mun. Muito quieto...
 Lançando heck, este lugar é enorme! É melhor você ficar de olho no seu mapa, Olliezinho, ou estaremos perdidos antes mesmo de começar!
@@ -23843,12 +23843,12 @@ Então, onde exatamente estava esse reino de Nazcaa? Eu não posso ver esconder 
 Olhe para isso! Está tudo brilhando lá no meio! Vamos dar uma olhada, certo?
 Tem algo engraçado naquela pedra ali no meio. Sinta na minha lanterna, eu posso...
 Pea fica terrivelmente quieta de repente.<NL>Ela está bem, você acha?
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Bem, se você tivesse me perguntado o que eu achava que estava por aqui, acho que nunca teria imaginado que seria... o que diabos é isso.
 Para que você acha que eles construíram este lugar, hein? Ooh, pode ser para sacrifícios ou algo assim... É horrível...
 Do que é feito esse chão, hein? Se for de pedra, não é como nenhuma que já vi antes. Então, novamente, eu não sou geólogo...
@@ -24195,12 +24195,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Que tipo de esquisito monta acampamento aqui, hein? A loja mais próxima deve estar vendendo a semanas de distância, mun.
 Você pode dizer o que quiser sobre as cavernas, mas elas são lindas e legais, não é? Sinta aquela brisa... Ahh, aí está calmante...
 Afinal, quem esculpiu aquela caveira grande na entrada? Insípido adequado, isso é! Eu teria um belo busto de vocês ou algo assim...
@@ -24235,7 +24235,7 @@ Hora de invadir a Torre de Marfim! Você estocou sanduíches e tal, eu presumo? 
 Você realmente acha que Cassiopeia estará lá? Estou bem nervoso, mun...
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Aqui, você acha que pode ver Teeheeti daqui de cima? Eu poderia colocar minha cabeça para fora da borda e dar um aceno rápido para Mamãe e os meninos...
 Está um pouco ventoso aqui em cima, não é? Você quer se vigiar, Olliezinho. Não quer ficar deslumbrado agora, não é?
 Eles não são ruins esses dirigíveis. Devemos construir um próprio. Um enorme - chame-o de Driptanic! Tem classe!
@@ -24453,12 +24453,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Ahh, nostálgico adequado, isso é! É ótimo estar de volta à antiga alma mater...literalmente! Caramba, estou bem! Intelectual adequado, isso sim!
 Calcinhas! O que estamos fazendo aqui?
 Venha dar uma olhada por aqui, Olliezinho! Há alguns graffiti que fiz há muito tempo! Bruto adequado, é! Clássico!
@@ -24565,12 +24565,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Limpem as mesas, os grandes apostadores estão aqui!<NL>Vamos, Olliezinho, vamos ganhar muito, mano!
 Aqui, Olliezinho, vá e diga àquela garotinha ali perto que bela pescaria seu tio Drippy faria, certo? Tem um amigo!
 Então, Olliezinho, o que vai ser hoje?<NL>O cassino é sua ostra, meu garoto!
@@ -25511,7 +25511,7 @@ Você deve estar vagando nos lugares errados!<NL>A menos que eu seja louco, conh
 Ah, você tem, não é?
 Quem é?<NL>Por favor, você tem que nos dizer!
 Abull, claro! Se eu tivesse a paciência dele, estaria falando sobre isso por toda a cidade!
-Um touro...?
+Abull...?
 Isso mesmo. Um passarinho me contou uma história e tanto sobre ele... Já faz alguns anos...
 Um dia, a Vacalifa decidiu do nada que não ficaria contente até que tivesse provado todos os queijos do mundo...
 Cheese?<NL>Acho que ela é igual a dona Leila, né?
@@ -25602,7 +25602,7 @@ Marido! Por que você não me ouve!?
 Mais uma vez, você comprou mercadorias que não podemos vender!
 Rashaad
 Rainha Lowlah
-Um touro
+Abull
 Con o Artista
 npc_001(Jovem Al Mamoon Woman)
 npc_003(Jovem Al Mamoon Woman)
@@ -25809,7 +25809,7 @@ Mais uma vez, você comprou mercadorias que não podemos vender!
 Louvado seja os Antigos por enviarem você para nos ajudar! Meu marido certamente teria nos levado à ruína!
 Rashaad
 Rainha Lowlah
-Um touro
+Abull
 Con o Artista
 npc_001(Jovem Al Mamoon Woman)
 npc_003(Jovem Al Mamoon Woman)
@@ -28009,12 +28009,12 @@ Quem é esse Pea realmente, então? Ela não é... é?
 Então as cinzas pararam de cair, não é?<NL>Aqui é útil. O vidro da minha lanterna estava começando a ficar em bom estado!
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Você viu aquele pássaro, Olliezinho? Lindo, foi.
 Você não está me pedindo ajuda de novo, está!?
 Ei!
@@ -28092,12 +28092,12 @@ Quem é esse Pea realmente, então? Ela não é... é?
 Então as cinzas pararam de cair, não é?<NL>Aqui é útil. O vidro da minha lanterna estava começando a ficar em bom estado!
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o que falar para a Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o que falar para a Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o que falar para a Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o que falar para a Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o que falar para a Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o que falar para a Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Você não está me pedindo ajuda de novo, está!?
 Ei!
 O engraçado é...<NL>Que merda! Esqueci o que ia dizer!
@@ -28279,14 +28279,14 @@ Ok!<NL>Vamos dar uma volta em Tengri e ver se encontramos o lugar de que Pea est
 Algumas batidas dessas asas e eu te levo aonde você quiser!
 Escute, garoto, temos todas as mãos no convés aqui...
 Significa que as coisas estão sob controle. Então economize suas energias.
-Seu trabalho é derrotar a Feiticeira Branca.<NL>Deixe minha equipe cuidar de todo o resto!
+Seu trabalho é derrotar a Bruxa Branca.<NL>Deixe minha equipe cuidar de todo o resto!
 Agora, descanse um pouco.<NL>Atacamos ao amanhecer!
 ...Você não se importa de dormir no convés, não é?<NL>Grahahahaha!
 Descanse enquanto pode, garoto!
 Qual é o problema, garoto? Excitação mantê-lo acordado? Grahaha! Eu sei como você se sente!
 Bem?<NL>Você vai descansar ou não?
 Bom dia, Oliver.
-Eu queria que você soubesse que o Império está dedicando seu armamento mais avançado ao ataque ao palácio da Feiticeira Branca.
+Eu queria que você soubesse que o Império está dedicando seu armamento mais avançado ao ataque ao palácio da Bruxa Branca.
 De fato, esta batalha verá a primeira implantação do "Skysquealer", uma nova classe de caças leves.
 Eles foram encarregados de desativar as defesas da Torre de Marfim, permitindo assim que você entre.
 Oliver, estamos contando com você. Você deve garantir que esta cinza terrível - este "mana" - nunca caia novamente!
@@ -28317,10 +28317,10 @@ Não fico chocado facilmente, garoto, mas quando vi que minha tripulação havia
 Eu tinha resolvido revisá-los quando sua amiguinha chegasse... Sorte que ela fez, hein!? Essa magia dela poupou muito derramamento de sangue!
 E poderia sobrar muito mais lá embaixo - nos três reinos e além!
 Você dormiu bem, garoto?<NL>Bem, todos estão prontos.
-Tudo depende de você agora.<NL>Não mostre piedade à Feiticeira Branca!
+Tudo depende de você agora.<NL>Não mostre piedade à Bruxa Branca!
 Então há uma rainha lá, não é?<NL>Naquele palácio flutuante?
 Uma rainha em um palácio no céu...<NL>Lembra-me de Xanadu...
-Mas nenhuma rainha de Xanadu seria capaz de tais atrocidades... A Feiticeira Branca deve ser punida. Faça o que é certo, garoto!
+Mas nenhuma rainha de Xanadu seria capaz de tais atrocidades... A Bruxa Branca deve ser punida. Faça o que é certo, garoto!
 Kyaaaah...
 Eu quero voar, Oliver...
 Kyaaah... Kyaaah...
@@ -28348,7 +28348,7 @@ Há mais uma cidade para salvar, Oliver!
 Quer dizer, eu quero saber mais sobre Pea...<NL>Mas primeiro temos que ajudar essas pessoas!
 Meu pai às vezes mencionava um "lugar proibido, envolto em trevas"...
 Eu sempre pensei que ele estava falando sobre Semvolta...<NL>Mas talvez ele estivesse falando sobre Nazcaa?
-Então os três reinos estão unindo forças para lutar contra a Feiticeira Branca...
+Então os três reinos estão unindo forças para lutar contra a Bruxa Branca...
 E eu pensei que tocar Triflauta deveria trazer paz ao mundo...
 Mas se tivermos que lutar, é o que faremos!<NL>E com meu pai lutando ao nosso lado, não temos nada a temer!
 É hora da batalha final, Oliver!
@@ -28364,7 +28364,7 @@ Pea's... Ela é incrível. Não, ela é mais do que incrível - ela é incrível
 Também quero saber a história de Pea, mas temos coisas mais importantes com que nos preocupar no momento.
 Temos mais uma cidade para salvar das cinzas.<NL>Essa deve ser nossa prioridade.
 Ela estava tentando salvar o mundo destruindo-o.<NL>Gah, seria engraçado se não fosse tão... real.
-Eu não me importo se a Feiticeira Branca é Pea.<NL>Temos que detê-la. Temos que salvar o mundo!
+Eu não me importo se a Bruxa Branca é Pea.<NL>Temos que detê-la. Temos que salvar o mundo!
 Uma bruxa malvada cobrindo o mundo com cinzas...<NL>Isso tudo soa tão ridículo...<NL>
 Mas então eu ri quando você disse que iria derrotar Shadar também, Oliver...
 Parece que vamos acabar salvando o mundo duas vezes, né? Bem, suponho que ficará mais fácil com a prática. Aposto que mal notamos na terceira vez...
@@ -28383,11 +28383,11 @@ Certamente eles não podem ser a mesma pessoa...?<NL>E, no entanto, eles devem e
 As cinzas foram limpas dos três reinos, mas nosso trabalho está longe de terminar.
 Precisamos aprender mais sobre o feitiço lançado por Cassiopeia.<NL>Aquele que fez as cinzas caírem...
 E para isso, devemos falar diretamente com ela.<NL>Só assim tudo ficará claro.
-Oliver... A menos que a impeçamos, temo que seja apenas uma questão de tempo até que a Feiticeira Branca faça com que as cinzas caiam sobre o mundo mais uma vez.
+Oliver... A menos que a impeçamos, temo que seja apenas uma questão de tempo até que a Bruxa Branca faça com que as cinzas caiam sobre o mundo mais uma vez.
 É impossível saber a extensão de seus poderes.<NL>Nossa vitória não é de forma alguma garantida...
 Mas tendo chegado até aqui, não há mais nada a fazer.<NL>Devemos lutar!
 A Torre de Marfim é aparentemente protegida por uma barreira - semelhante ao Sarça Negro que cercava Shadar. Não pode ser destruído.
-Nossa única opção, portanto, é entrar na estrutura e enfrentar a Feiticeira Branca diretamente.
+Nossa única opção, portanto, é entrar na estrutura e enfrentar a Bruxa Branca diretamente.
 Vamos salvar o mundo juntos, Oliver!
 Tenho que te mostrar as flores, Oliver...
 Hee hee! Tenha cuidado, Oliver, as flores são muito delicadas.
@@ -28407,7 +28407,7 @@ Muito em breve...
 Como eles chamam isso? O "Serpe de Ferro", não é? Nunca se viu uma coleção tão impressionante de canhões antes!
 E muitos deles estarão sob o comando de alguém durante o ataque que se aproxima! Vamos dar a essa Bruxa Branca o quê!
 O que no mundo está protegendo aquela torre infernal!? Alguém realmente o atingiu com seus canhões e, no entanto, parece tão primitivo quanto antes!
-Supõe-se que não há nada a fazer a não ser enfrentar a Feiticeira Branca diretamente, dentro de seu palácio. Alguém deve deixar isso para você, é claro.
+Supõe-se que não há nada a fazer a não ser enfrentar a Bruxa Branca diretamente, dentro de seu palácio. Alguém deve deixar isso para você, é claro.
 Você está... ileso!?<NL>Mas, claro que está. Não devo esperar menos de um mago que superou as Provas.
 O mundo continua em um estado terrível, no entanto.<NL>Aquela cinza amaldiçoada também caiu sobre meu amado Al Mamoon...
 Tive a sorte de estar a caminho da celebração em Ding Dong Dell na época. Tenho medo de pensar o que teria acontecido comigo de outra forma.
@@ -28425,13 +28425,13 @@ Você é de outro mundo e é abençoado com uma certa... pureza. Dá a você um 
 E mesmo assim você não é capaz de lançar o feitiço que aquela garota lançou. Esse poder é só dela.
 Isto é estranho...
 Não sinto nada dentro da Torre de Marfim.<NL>Nenhum sinal de vida... Nada.
-A Feiticeira Branca...<NL>Será que ela realmente deseja destruir este mundo?
+A Bruxa Branca...<NL>Será que ela realmente deseja destruir este mundo?
 "Todo o mundo certamente morrerá<NL>Quando o mal chover do céu."
 Assim diz a antiga profecia.<NL>Talvez se referisse a esta cinza?
-Mas por que...?<NL>Por que a Feiticeira Branca faria tal coisa?
+Mas por que...?<NL>Por que a Bruxa Branca faria tal coisa?
 Solidão, desespero, raiva...
 Assim que você entrou na Torre de Marfim, senti todos eles. Eles inundaram de dentro...
-O coração da Feiticeira Branca devia estar cheio dessas emoções. Ela deve ter sido dominada por eles.
+O coração da Bruxa Branca devia estar cheio dessas emoções. Ela deve ter sido dominada por eles.
 Bom dia. Parece que finalmente chegou a hora.
 O esquadrão Varredora de Nuvens de Al Mamoon está ao seu serviço. Os talentos de nossos pilotos são mundialmente reconhecidos. Eles não devem decepcioná-lo.
 Parece que nem tiros de canhão nem ataques mágicos podem danificar a Torre de Marfim...
@@ -28490,7 +28490,7 @@ Marcasssin
 Rei Tom XIV
 Rashaad
 Khulan
-Um touro
+Abull
 npc_001
 npc_002(Pirata. Homem jovem com óculos, capacete e espada.)
 npc_003(Boarrior. Cara jovem. Desmascarado, mas ainda com armadura de porco.)
@@ -29341,7 +29341,7 @@ Ajude Pea a salvar as pessoas dos três reinos das cinzas!
 pla-n_010_010-d15_npc_text_en.cfg.bin.txt
 Kyaaaaaah!
 Lembre-se, Oliver, você pode subir nas minhas costas e deixar este lugar quando quiser! Basta dizer a palavra!
-Então esta é a casa da Feiticeira Branca, hein? Meio elegante, não é? Bom lugar para um confronto final, no entanto... Épico adequado!
+Então esta é a casa da Bruxa Branca, hein? Meio elegante, não é? Bom lugar para um confronto final, no entanto... Épico adequado!
 Sim, eu acho. Eu só queria que não tivéssemos que brigar. Mas não podemos deixar Cassiopeia destruir o mundo novamente. E talvez ainda possamos salvá-la!
 Lembre-se, se você está indo para um confronto final, você deve se preparar adequadamente.
 Tengri
@@ -29933,12 +29933,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Cuidado com a estrada, Olliezinho! Não queremos que você seja esmagado agora, não é?
 Viveu aqui a vida toda, não é?<NL>É adorável. Eu estive por toda parte, eu...
 Tem um monte de carros por aqui, mano! Não que isso seja surpreendente, eu suponho. Aqui é Motorville, afinal...
@@ -31028,12 +31028,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Ahh, que brisa linda. É reconfortante...<NL>Gostaria de tirar uma soneca rápida? Eu sei o que faço...
 Não se perca agora, mano!<NL>Sou péssimo em direções!
 Ahh, nada como um bom castelo para te deixar com vontade de viver uma aventura, né? Beleza!
@@ -32204,12 +32204,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Cheira isso, mano! Picante como você gosta por aqui, não é? Tem exótico!
 Crikey, está quente! Podemos ir para a sombra um pouco? Caso contrário, você terá que me chamar de Puddly, não de Drippy!
 Estou ficando louca ou babanas são como bananas? Um enigma e um trava-língua! Há inteligente de mim!
@@ -32970,7 +32970,7 @@ Ah, eu me lembro daqueles dias...<NL>Só eu e meu caldeirão...<NL>Que alegria!
 Caça à recompensa concluída!<NL>Apresente-se à Soluções Swift para receber sua recompensa!
 Lançando heck! De novo não!<NL>Quantas dessas coisas existem!?
 E no palácio piscante e tudo!<NL>Quem diria?
-Virar! E não tem nenhum guarda porque eles estão todos se preparando para dar o quê para a Feiticeira Branca, não é!
+Virar! E não tem nenhum guarda porque eles estão todos se preparando para dar o quê para a Bruxa Branca, não é!
 Isso significa que depende de nós, Olliezinho!
 Não se precipite em nada, Olliezinho!<NL>Tenho um mau pressentimento sobre isso, e meus sentimentos<NL>não costumam estar errados!
 Teremos que lidar com isso em algum momento, Olliezinho.<NL>Só vai piorar se simplesmente ignorarmos.
@@ -33166,12 +33166,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar o quê àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Uma cidade mecânica, eles chamam. E este é o futuro? Hmph. Não tenho certeza se essa coisa de ciência vai durar.
 Eles devem estar queimando muito carvão para conduzir todas essas engenhocas. Eles não temem que acabe?
 Olhar! A lanterna no meu nariz está coberta de sujeira! O ar aqui está sujo!
@@ -34023,12 +34023,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Tá lindo! Hã? A vista, claro! Eu gosto de estar à beira-mar!
 Hã? O que é isso? Desculpe, mun, eu estava a quilômetros de distância! É o mar que faz isso comigo, viu? Assim que vejo já estou no mar, viu?
 Peixes, pássaros, caranguejos... É um zoológico normal por aqui!
@@ -34187,12 +34187,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Tá lindo! Hã? A vista, claro! Eu gosto de estar à beira-mar!
 Hã? O que é isso? Desculpe, mun, eu estava a quilômetros de distância! É o mar que faz isso comigo, viu? Assim que vejo já estou no mar, viu?
 Peixes, pássaros, caranguejos... É um zoológico normal por aqui!
@@ -34818,12 +34818,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 EEEEEEEE-Eita!<NL>Está um pouco frio por aqui, não é?
 SSSS-Sopa... Uma bela tigela quente de sopa de sss... Despejou toda a minha hhh-cabeça. Isso me aqueceria!
 Caramba, olhe para aquelas grandes luzes no céu, mun!<NL>Eu não estive em uma produção tão elegante desde que fiz aquele panto em Ding Dong Dell!
@@ -34942,12 +34942,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 EEEEEEE-Eita!<NL>Está um pouco frio por aqui, não é?
 SSSS-Sopa... Uma bela tigela quente de sopa... Despejá-la toda em minha ccc-cabeça. Isso me aqueceria!
 Caramba, olhe para aquelas grandes luzes no céu, mun!<NL>Eu não estive em uma produção tão elegante desde que fiz aquele panto em Ding Dong Dell!
@@ -35482,12 +35482,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 Eu nunca soube que havia uma pequena vila aqui em cima, mun! Tem controle remoto!
 Ahh, aquele pôr do sol... Dá uma lágrima no olho, dá... Hã? Nada, mun! Eu só estava ensaiando algumas falas, não é?
 Deve custar uma fortuna carregar suprimentos até aqui, hein? Acho que é por isso que a loja aqui está tão gira, querida!
@@ -36097,12 +36097,12 @@ Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem
 Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
 Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Feiticeira Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
+Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
+Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 É bom dar uma volta ocupada por aqui! Deve ser porque tem uma celebridade na cidade, não é? O que quer dizer com "quem?" Eu, é claro!
 Eu não estaria onde estou hoje sem minhas companheiras fadas, mun. Eles podem ser idiotas, mas são meus idiotas! São adoráveis!
 Clube da Cavidade é onde os maiores artistas de todos os tempos começaram a trabalhar. As pessoas vêm de todos os lugares para ter um vislumbre desse palco. Lendário, é!
@@ -36331,8 +36331,8 @@ Parece que Lucien - que adotou o nome de Shadar - queria proteger o mundo, não 
 Cinzas brancas caíram do céu, transformando as pessoas em monstros retorcidos. Talvez Pea, que apareceu no sonho de Oliver, tenha alguma ideia do que fazer. Ela deveria estar em Motorville...
 Assim que Oliver e os outros voltam de Motorville, cinzas começam a cair no convés do Serpe de Ferro! Pea, no entanto, conhece um feitiço que pode neutralizar seus efeitos - um feitiço que pode salvar o mundo!
 Com a ajuda da magia de Pea, nossos heróis salvam as cidades afetadas pelas cinzas. Pea então os presenteia com flores que contêm suas memórias de Nazcaa, e o grupo decide ir para lá sem mais demora.
-Oliver e seus amigos agora sabem a trágica verdade sobre as origens da Feiticeira Branca. O ciclo de destruição não pode continuar. O mundo deve unir forças e permanecer como um!
-Oliver e seus amigos chegaram à Torre de Marfim, onde a Feiticeira Branca os espera. É hora de uma última batalha para decidir o destino de Cassiopeia e o destino do mundo.
+Oliver e seus amigos agora sabem a trágica verdade sobre as origens da Bruxa Branca. O ciclo de destruição não pode continuar. O mundo deve unir forças e permanecer como um!
+Oliver e seus amigos chegaram à Torre de Marfim, onde a Bruxa Branca os espera. É hora de uma última batalha para decidir o destino de Cassiopeia e o destino do mundo.
 Fale com o Phil!
 Sua mãe está esperando por você.<NL>Hora de ir para casa!
 Vá para a garagem de Phil!
@@ -38110,7 +38110,7 @@ Hoje, como visitante pela primeira vez, você tem direito a um presente introdut
 Alô, alô, alô, jovem Oliver!<NL>Você derrotou Shadar, não foi! Bom para você!
 Você deixou a porta entreaberta quando entrou na sala do trono, então dei uma espiada no corredor. Que batalha! Ora, eu quase morri de emoção!
 Preparei um presentinho para você dos seus amigos aqui do Retiro Familiar para desejar parabéns!<NL>Parabéns, parabéns, parabéns!
-Alô, alô, alô, jovem Oliver!<NL>Você derrotou a Feiticeira Branca, não foi!<NL>Bem, eu nunca!
+Alô, alô, alô, jovem Oliver!<NL>Você derrotou a Bruxa Branca, não foi!<NL>Bem, eu nunca!
 Você deixou a porta entreaberta quando entrou na câmara do conselho, então dei uma espiada no corredor. Bondade! Meus olhos quase saltaram das órbitas!
 Que espetáculo espetacular! Nós aqui do Retiro de Familiares gostaríamos de homenageá-lo com um presente de felicitações!<NL>Parabéns, parabéns, parabéns!
 Representante de retirada
@@ -38151,11 +38151,11 @@ Oliver e seus amigos estão cercados por uma luz mágica.
 Deseja salvar seu progresso?
 Seu progresso foi salvo!
 [ico_att]Agora você pode salvar um jogo completo.
-Carregar um jogo salvo completo levará você ao ponto imediatamente antes da batalha final com a Feiticeira Branca.
+Carregar um jogo salvo completo levará você ao ponto imediatamente antes da batalha final com a Bruxa Branca.
 Uma variedade de recursos pós-conclusão estará disponível para você aproveitar.
 Criar um jogo salvo completo?
 [ico_att]Salvamento do jogo concluído carregado.
-Você voltará à ação do ponto<NL>pouco antes da batalha final com a Feiticeira Branca.
+Você voltará à ação do ponto<NL>pouco antes da batalha final com a Bruxa Branca.
 Uma variedade de recursos pós-conclusão<NL>agora estarão disponíveis para você aproveitar.
 Novos desafios foram adicionados ao<NL>casino e à Série Solosseum!
 Novas tarefas já estão disponíveis!
@@ -38673,12 +38673,12 @@ A Zodiarquia Dividida
 Memórias da juventude
 A fé de uma jovem rainha
 A esperança se transforma em desespero
-Nascimento da Feiticeira Branca
+Nascimento da Bruxa Branca
 A Torre de Marfim aparece
 o mundo unido
 Dentro da Torre de Marfim
 O Conselho Fantasma
-Ataque da Feiticeira Branca
+Ataque da Bruxa Branca
 A Bruxa é Deformada
 Contrição de Cassiopeia
 Final
@@ -38772,12 +38772,12 @@ A Zodiarquia Dividida
 Memórias da juventude
 A fé de uma jovem rainha
 A esperança se transforma em desespero
-Nascimento da Feiticeira Branca
+Nascimento da Bruxa Branca
 A Torre de Marfim aparece
 O mundo unido
 Dentro da Torre de Marfim
 O Conselho Fantasma
-Ataque da Feiticeira Branca
+Ataque da Bruxa Branca
 A Bruxa é Deformada
 Contrição de Cassiopeia
 Final
