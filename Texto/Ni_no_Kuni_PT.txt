@@ -16623,469 +16623,469 @@ traveler's diaries
 <TC>barra de
 <TC>fairy <TC>chocolate
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>barras de
-<TC>fada <TC>chocolate
+<TC>fairy <TC>chocolate
 <TC>o
 <TC>a
 <TC>um punhado de
-<TC>chocolate <TC>bombons
+<TC>chocolate <TC>bonbons
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>punhados de
-<TC>chocolate <TC>bombons
+<TC>chocolate <TC>bonbons
 <TC>o
 <TC>a
 <TC>um punhado de
-<TC>bola de neve <TC>bombons
+<TC>snowdrop <TC>bonbons
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>punhados de
-<TC>bola de neve <TC>bombons
+<TC>snowdrop <TC>bonbons
 <TC>o
 <TC>a
-<TC>princesa <TC>chocolate
+<TC>princess <TC>chocolate
 <TC>o
-<TC>algumas
-<TC>princesa <TC>chocolates
+<TC>alguns
+<TC>princess <TC>chocolates
 <TC>o
 <TC>a
-<TC>Flan <TC>cremoso
+<TC>creamy <TC>flan
 <TC>o
-<TC>algumas
-<TC>Flan <TC>cremoso
+<TC>alguns
+<TC>creamy <TC>flans
 <TC>o
 <TC>a
 <TC>babana <TC>flan
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>babana <TC>flans
 <TC>o
 <TC>a
-<TC>Flan <TC>gelado
+<TC>frosty <TC>flan
 <TC>o
-<TC>algumas
-<TC>flans <TC>gelados
-<TC>o
-<TC>a
-<TC>fruta <TC>flan
-<TC>o
-<TC>algumas
-<TC>frutas <TC>flans
+<TC>alguns
+<TC>frosty <TC>flans
 <TC>o
 <TC>a
-<TC>fantástico <TC>Flan
+<TC>fruit <TC>flan
 <TC>o
-<TC>algumas
-<TC>flans <TC>fantásticos
-<TC>o
-<TC>a
-<TC>bolo de <TC>cenoura
-<TC>o
-<TC>algumas
-<TC>bolos de <TC>cenoura
+<TC>alguns
+<TC>fruit <TC>flans
 <TC>o
 <TC>a
-<TC>bolo <TC>de cravo
+<TC>fantastic <TC>flan
 <TC>o
-<TC>algumas
-<TC>bolos <TC>de cravo
-<TC>o
-<TC>a
-<TC>brisa <TC>bolo
-<TC>o
-<TC>algumas
-<TC>brisa <TC>bolos
+<TC>alguns
+<TC>fantastic <TC>flans
 <TC>o
 <TC>a
-<TC>bolo <TC>de patty
+<TC>carrot <TC>cake
 <TC>o
-<TC>algumas
-<TC>bolos <TC>de patty
-<TC>o
-<TC>a
-<TC>bolo <TC>quente
-<TC>o
-<TC>algumas
-<TC>bolos <TC>quentes
+<TC>alguns
+<TC>carrot <TC>cakes
 <TC>o
 <TC>a
-<TC>sundae <TC>azedo
+<TC>carnation <TC>cake
 <TC>o
-<TC>algumas
-<TC>sundaes <TC>azedos
-<TC>o
-<TC>a
-<TC>sundae flores <TC>silvestres
-<TC>o
-<TC>algumas
-<TC>sundaes de flores <TC>silvestres
+<TC>alguns
+<TC>carnation <TC>cakes
 <TC>o
 <TC>a
-<TC>sundae <TC>cogumelo
+<TC>breeze <TC>cake
 <TC>o
-<TC>algumas
-<TC>sundae <TC>cogumelo
+<TC>alguns
+<TC>breeze <TC>cakes
 <TC>o
 <TC>a
-<TC>sundae <TC>salsaparrilha
+<TC>patty <TC>cake
 <TC>o
-<TC>algumas
-<TC>sundae <TC>salsaparrilha
+<TC>alguns
+<TC>patty <TC>cakes
+<TC>o
+<TC>a
+<TC>hot <TC>cake
+<TC>o
+<TC>alguns
+<TC>hot <TC>cakes
+<TC>o
+<TC>a
+<TC>sour <TC>sundae
+<TC>o
+<TC>alguns
+<TC>sour <TC>sundaes
+<TC>o
+<TC>a
+<TC>wildflower <TC>sundae
+<TC>o
+<TC>alguns
+<TC>wildflower <TC>sundaes
+<TC>o
+<TC>a
+<TC>toadstool <TC>sundae
+<TC>o
+<TC>alguns
+<TC>toadstool <TC>sundaes
+<TC>o
+<TC>a
+<TC>sarsaparilla <TC>sundae
+<TC>o
+<TC>alguns
+<TC>sarsaparilla <TC>sundaes
 <TC>o
 <TC>a
 Knickerbocker Glory
 <TC>o
-<TC>algumas
-Knickerbocker Glórias
+<TC>alguns
+Knickerbocker Glories
 <TC>o
 <TC>a
-<TC>sorvete <TC>salgado
+<TC>salted <TC>ice <TC>cream
 <TC>o
-<TC>algumas
-<TC>sorvete <TC>salgados
-<TC>o
-<TC>a
-<TC>sorvete <TC>ruby <TC>ruby
-<TC>o
-<TC>algumas
-<TC>sorvetes <TC>ruby <TC>ruby
+<TC>alguns
+<TC>salted <TC>ice <TC>creams
 <TC>o
 <TC>a
-<TC>sorvete <TC>de <TC>casquinha <TC>macia
+<TC>ruby <TC>ripple <TC>ice <TC>cream
 <TC>o
-<TC>algumas
-<TC>sorvetes <TC>de <TC>casquinha <TC>macia
-<TC>o
-<TC>a
-<TC>sorvete <TC>branco <TC>como <TC>neve
-<TC>o
-<TC>algumas
-<TC>sorvetes <TC>branco <TC>como <TC>neve
+<TC>alguns
+<TC>ruby <TC>ripple <TC>ice <TC>creams
 <TC>o
 <TC>a
-<TC>sorvete <TC>tutti-<TC>frutti
+<TC>soft <TC>scoop <TC>ice <TC>cream
 <TC>o
-<TC>algumas
-<TC>sorvetes <TC>tutti-<TC>frutti
+<TC>alguns
+<TC>soft <TC>scoop <TC>ice <TC>creams
 <TC>o
 <TC>a
-<TC>fatia de
-<TC>torta <TC>docinha
+<TC>snow-<TC>white <TC>ice <TC>cream
 <TC>o
-<TC>algumas
-<TC>fatias de
-<TC>torta <TC>docinha
+<TC>alguns
+<TC>snow-<TC>white <TC>ice <TC>creams
+<TC>o
+<TC>a
+<TC>tutti-<TC>frutti <TC>ice <TC>cream
+<TC>o
+<TC>alguns
+<TC>tutti-<TC>frutti <TC>ice <TC>creams
 <TC>o
 <TC>a
 <TC>fatia de
-<TC>torta <TC>transparente
+<TC>sweetie <TC>pie
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>fatias de
-<TC>torta <TC>transparente
+<TC>sweetie <TC>pie
 <TC>o
 <TC>a
 <TC>fatia de
-<TC>torta <TC>de <TC>jogo
+<TC>see-<TC>through <TC>pie
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>fatias de
-<TC>torta <TC>de <TC>jogo
-<TC>o
-<TC>a
-<TC>torta <TC>com <TC>osso
-<TC>o
-<TC>algumas
-<TC>torta <TC>com <TC>osso
+<TC>see-<TC>through <TC>pie
 <TC>o
 <TC>a
 <TC>fatia de
-<TC>torta <TC>dourada
+<TC>game <TC>pie
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>fatias de
-<TC>torta <TC>dourada
+<TC>game <TC>pie
+<TC>o
+<TC>a
+<TC>pie on the <TC>bone
+<TC>o
+<TC>alguns
+<TC>pies on the <TC>bone
+<TC>o
+<TC>a
+<TC>fatia de
+<TC>golden <TC>pie
+<TC>o
+<TC>alguns
+<TC>fatias de
+<TC>golden <TC>pie
 <TC>o
 <TC>a
 <TC>barra de
 <TC>chocolate
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>barras de
 <TC>chocolate
 <TC>o
 <TC>a
-<TC>Flan
+<TC>flan
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>flans
 <TC>o
 <TC>a
-<TC>bolo
+<TC>cake
 <TC>o
-<TC>algumas
-<TC>bolos
+<TC>alguns
+<TC>cakes
 <TC>o
 <TC>a
 <TC>sundae
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>sundaes
 <TC>o
 <TC>um
-<TC>sorvete
+<TC>ice <TC>cream
 <TC>o
-<TC>algumas
-<TC>sorvetes
+<TC>alguns
+<TC>ice <TC>creams
 <TC>o
 <TC>a
 <TC>fatia de
-<TC>torta
+<TC>pie
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>fatias de
-<TC>torta
+<TC>pie
 <TC>o
 <TC>a
-<TC>pôr do sol
+<TC>sundrop
 <TC>o
-<TC>algumas
-<TC>sol
-<TC>o
-<TC>a
-<TC>estrela
-<TC>o
-<TC>algumas
-<TC>estrelas
+<TC>alguns
+<TC>sundrops
 <TC>o
 <TC>a
-<TC>gota da lua
+<TC>stardrop
 <TC>o
-<TC>algumas
-<TC>gotas da lua
+<TC>alguns
+<TC>stardrops
+<TC>o
+<TC>a
+<TC>moondrop
+<TC>o
+<TC>alguns
+<TC>moondrops
 <TC>o
 <TC>a
 <TC>planetdrop
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>planetdrops
 <TC>o
 <TC>a
-<TC>jumbo <TC>sol
+<TC>jumbo <TC>sundrop
 <TC>o
-<TC>algumas
-<TC>jumbo <TC>sol
-<TC>o
-<TC>a
-<TC>jumbo <TC>gota estelar
-<TC>o
-<TC>algumas
-<TC>jumbo <TC>gota estelar
+<TC>alguns
+<TC>jumbo <TC>sundrops
 <TC>o
 <TC>a
-<TC>jumbo <TC>gota da lua
+<TC>jumbo <TC>stardrop
 <TC>o
-<TC>algumas
-<TC>jumbo <TC>gota da lua
+<TC>alguns
+<TC>jumbo <TC>stardrops
+<TC>o
+<TC>a
+<TC>jumbo <TC>moondrop
+<TC>o
+<TC>alguns
+<TC>jumbo <TC>moondrops
 <TC>o
 <TC>a
 <TC>jumbo <TC>planetdrop
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>jumbo <TC>planetdrops
 <TC>o
 <TC>a
-Gema <TC>Chama Ardente
-<TC>o
-<TC>algumas
-Gemas <TC>Chama Ardente
-<TC>o
-<TC>a
-Gema <TC>Firewall
-<TC>o
-<TC>algumas
-Gemas <TC>Firewall
-<TC>o
-<TC>a
-Gema <TC>Espiral de Fogo
-<TC>o
-<TC>algumas
-Gemas <TC>Espiral de Fogo
-<TC>o
-<TC>a
-Gema <TC>Raio de Calor
-<TC>o
-<TC>algumas
-Gemas <TC>Raio de Calor
-<TC>o
-<TC>a
-Gema <TC>Bomba d'água
-<TC>o
-<TC>algumas
-Gemas <TC>Bomba d'água
-<TC>o
-<TC>a
-Gema <TC>Banho de Espuma
-<TC>o
-<TC>algumas
-Gemas <TC>Banho de Espuma
-<TC>o
-<TC>a
-Gema <TC>Bola de Neve
-<TC>o
-<TC>algumas
-Gemas  <TC>Bola de Neve
-<TC>o
-<TC>a
-Gema <TC>Sopradora de Neve
-<TC>o
-<TC>algumas
-Gemas <TC>Sopradora de Neve
-<TC>o
-<TC>a
-Gema <TC>Thunderspark
-<TC>o
-<TC>algumas
-Gemas <TC>Thunderspark
-<TC>o
-<TC>a
-Gema <TC>Tempestade
-<TC>o
-<TC>algumas
-Gemas <TC>Tempestade
-<TC>o
-<TC>a
-Gema <TC>giratória
-<TC>o
-<TC>algumas
-Gemas <TC>giratórias
-<TC>o
-<TC>a
-Gema <TC>Rodopiante
-<TC>o
-<TC>algumas
-Gema <TC>Rodopiante
-<TC>o
-<TC>a
-Gema <TC>Lágrima Curativa
-<TC>o
-<TC>algumas
-Gema <TC>Lágrima Curativa
-<TC>o
-<TC>a
-Gema <TC>Chuva Curativa 
-<TC>o
-<TC>algumas
-Gema <TC>Chuva Curativa 
-<TC>o
-<TC>a
-Gema <TC>Pulso Purificador
-<TC>o
-<TC>algumas
-Gemas <TC>Pulso Purificador
-<TC>o
-<TC>a
-Gema <TC>Alívio Leve
-<TC>o
-<TC>algumas
-Gemas <TC>Alívio Leve
-<TC>o
-<TC>a
-Gema <TC>Escuridão Acena
-<TC>o
-<TC>algumas
-Gemas <TC>Escuridão Acena
-<TC>o
-<TC>a
-Gema <TC>Nuvem Negra
-<TC>o
-<TC>algumas
-Gemas <TC>Nuvem Negra
-<TC>o
-<TC>a
-Gema <TC>Gotas Sonolentas
-<TC>o
-<TC>algumas
-Gemas <TC>Gotas Sonolentas
-<TC>o
-<TC>a
-Gema <TC>sanguessuga
-<TC>o
-<TC>algumas
-Gemas <TC>sanguessuga
-<TC>o
-<TC>a
-Gema <TC>Roly-Poly
-<TC>o
-<TC>algumas
-Gemas <TC>Roly-Poly
-<TC>o
-<TC>a
-Gema <TC>Casca de Seixos
-<TC>o
-<TC>algumas
-Gemas <TC>Casca de Seixos
-<TC>o
-<TC>um
-Gema <TC>Estridente
-<TC>o
-<TC>algumas
-Gemas <TC>Estridentes
-<TC>o
-<TC>a
-Gema <TC>Agulha Venenosa
-<TC>o
-<TC>algumas
-Gemas <TC>Agulha Venenosa
-<TC>o
-<TC>a
-Gema <TC>cega
-<TC>o
-<TC>algumas
-Gemas <TC>cega
-<TC>o
-<TC>a
-Gema <TC>Lentidão
-<TC>o
-<TC>algumas
-Gemas <TC>Lentidão
-<TC>o
-<TC>a
-Gema <TC>Escudo da Alma
-<TC>o
-<TC>algumas
-Gemas <TC>Escudo da Alma
-<TC>o
-<TC>a
-Gema <TC>Hocus Focus
-<TC>o
-<TC>algumas
-Gemas <TC>Hocus Focus
-<TC>o
-<TC>a
-Gema <TC>Despertar e Radiar
-<TC>o
-<TC>algumas
-Gemas <TC>Despertar e Radiar
-<TC>o
-<TC>a
-Gemas <TC>Ardilosa Espertinha
-<TC>o
-<TC>algumas
-Gemas <TC>Ardilosa Espertinha
-<TC>o
-<TC>um
-<TC>antigo bastão <TC>
+Fling Flame <TC>gem
 <TC>o
 <TC>alguns
-<TC>bastões <TC>velhos
+Fling Flame <TC>gems
 <TC>o
 <TC>a
-<TC>varinha <TC>mágica
+Firewall <TC>gem
 <TC>o
-<TC>algumas
-<TC>varinhas mágicas <TC>
+<TC>alguns
+Firewall <TC>gems
+<TC>o
+<TC>a
+Spire of Fire <TC>gem
+<TC>o
+<TC>alguns
+Spire of Fire <TC>gems
+<TC>o
+<TC>a
+Heat Ray <TC>gem
+<TC>o
+<TC>alguns
+Heat Ray <TC>gems
+<TC>o
+<TC>a
+Water Bomb <TC>gem
+<TC>o
+<TC>alguns
+Water Bomb <TC>gems
+<TC>o
+<TC>a
+Bubble Bath <TC>gem
+<TC>o
+<TC>alguns
+Bubble Bath <TC>gems
+<TC>o
+<TC>a
+Snowball <TC>gem
+<TC>o
+<TC>alguns
+Snowball <TC>gems
+<TC>o
+<TC>a
+Snowblower <TC>gem
+<TC>o
+<TC>alguns
+Snowblower <TC>gems
+<TC>o
+<TC>a
+Thunderspark <TC>gem
+<TC>o
+<TC>alguns
+Thunderspark <TC>gems
+<TC>o
+<TC>a
+Thunderstorm <TC>gem
+<TC>o
+<TC>alguns
+Thunderstorm <TC>gems
+<TC>o
+<TC>a
+Whirligig <TC>gem
+<TC>o
+<TC>alguns
+Whirligig <TC>gems
+<TC>o
+<TC>a
+Whirly Whirlies <TC>gem
+<TC>o
+<TC>alguns
+Whirly Whirlies <TC>gems
+<TC>o
+<TC>a
+Healing Tear <TC>gem
+<TC>o
+<TC>alguns
+Healing Tear <TC>gems
+<TC>o
+<TC>a
+Healing Rain <TC>gem
+<TC>o
+<TC>alguns
+Healing Rain <TC>gems
+<TC>o
+<TC>a
+Purifying Pulse <TC>gem
+<TC>o
+<TC>alguns
+Purifying Pulse <TC>gems
+<TC>o
+<TC>a
+Light Relief <TC>gem
+<TC>o
+<TC>alguns
+Light Relief <TC>gems
+<TC>o
+<TC>a
+Darkness Beckons <TC>gem
+<TC>o
+<TC>alguns
+Darkness Beckons <TC>gems
+<TC>o
+<TC>a
+Dark Cloud <TC>gem
+<TC>o
+<TC>alguns
+Dark Cloud <TC>gems
+<TC>o
+<TC>a
+Drowsy Drops <TC>gem
+<TC>o
+<TC>alguns
+Drowsy Drops <TC>gems
+<TC>o
+<TC>a
+Leech <TC>gem
+<TC>o
+<TC>alguns
+Leech <TC>gems
+<TC>o
+<TC>a
+Roly-Poly <TC>gem
+<TC>o
+<TC>alguns
+Roly-Poly <TC>gems
+<TC>o
+<TC>a
+Pebble Pelt <TC>gem
+<TC>o
+<TC>alguns
+Pebble Pelt <TC>gems
+<TC>o
+<TC>um
+Earsplitter <TC>gem
+<TC>o
+<TC>alguns
+Earsplitter <TC>gems
+<TC>o
+<TC>a
+Poison Pinch <TC>gem
+<TC>o
+<TC>alguns
+Poison Pinch <TC>gems
+<TC>o
+<TC>a
+Blunt <TC>gem
+<TC>o
+<TC>alguns
+Blunt <TC>gems
+<TC>o
+<TC>a
+Slow Poke <TC>gem
+<TC>o
+<TC>alguns
+Slow Poke <TC>gems
+<TC>o
+<TC>a
+Soulshield <TC>gem
+<TC>o
+<TC>alguns
+Soulshield <TC>gems
+<TC>o
+<TC>a
+Hocus Focus <TC>gem
+<TC>o
+<TC>alguns
+Hocus Focus <TC>gems
+<TC>o
+<TC>a
+Rise and Shine <TC>gem
+<TC>o
+<TC>alguns
+Rise and Shine <TC>gems
+<TC>o
+<TC>a
+Tricksy Nixy <TC>gem
+<TC>o
+<TC>alguns
+Tricksy Nixy <TC>gems
+<TC>o
+<TC>um
+<TC>old <TC>stick
+<TC>o
+<TC>alguns
+<TC>old <TC>sticks
+<TC>o
+<TC>a
+<TC>magic <TC>wand
+<TC>o
+<TC>alguns
+<TC>magic <TC>wands
 Mornstar
 <TC>o
 <TC>alguns
@@ -17096,574 +17096,574 @@ Mornstar
 Mornstars
 <TC>o
 <TC>um
-Cetro Imperial
+Imperial Scepter
 <TC>o
 <TC>alguns
-Cetros Imperiais
+Imperial Scepters
 Astra
 <TC>o
-<TC>algumas
+<TC>alguns
 Astras
 <TC>o
 <TC>a
-Varinha da Árvore do Céu <TC>
+Sky Tree <TC>wand
 <TC>o
-<TC>algumas
-Varinhas da Árvore do Céu <TC>
+<TC>alguns
+Sky Tree <TC>wands
 <TC>o
 <TC>um
-<TC>antigo bastão <TC>
+<TC>old <TC>stick
 <TC>o
 <TC>alguns
-<TC>bastões <TC>velhos
+<TC>old <TC>sticks
 <TC>o
 <TC>a
-<TC>harpa gasta pelo tempo <TC>
-<TC>o
-<TC>algumas
-<TC>harpas gastas pelo tempo <TC>
-<TC>o
-<TC>o
-<TC>harpa vencedora <TC>do coração <TC>
-<TC>o
-<TC>algumas
-<TC>harpas <TC>ganhadoras de corações <TC>
-<TC>o
-<TC>a
-<TC>harpa do herald <TC>
-<TC>o
-<TC>algumas
-<TC>harpas do herald <TC>
-<TC>o
-<TC>a
-<TC>harpa da <TC>musa
-<TC>o
-<TC>algumas
-<TC>harpas da <TC>musa
-<TC>o
-<TC>a
-<TC>harpa de bardo <TC>
-<TC>o
-<TC>algumas
-<TC>harpas de bardo <TC>
-<TC>o
-<TC>a
-<TC>pistola do batedor de carteiras <TC>
-<TC>o
-<TC>algumas
-<TC>pistolas do batedor de carteiras <TC>
-<TC>o
-<TC>a
-<TC>revólver <TC>do bandido
+<TC>timeworn <TC>harp
 <TC>o
 <TC>alguns
-<TC>revólveres <TC>do bandido
+<TC>timeworn <TC>harps
 <TC>o
-<TC>a
-<TC>revólver <TC>de salteador
 <TC>o
-<TC>alguns
-<TC>revólveres de salteador <TC>
-<TC>o
-<TC>a
-<TC>canhão do <TC>cad
-<TC>o
-<TC>algumas
-<TC>canhões do <TC>cad
-<TC>o
-<TC>a
-<TC>magnum do <TC>ladrão mestre
+<TC>heart-<TC>winning <TC>harp
 <TC>o
 <TC>alguns
-<TC>magnums do <TC>ladrão mestre
-Roupas <TC>do Oliver
-roupas de Oliver
+<TC>heart-<TC>winning <TC>harps
+<TC>o
+<TC>a
+<TC>herald's <TC>harp
+<TC>o
+<TC>alguns
+<TC>herald's <TC>harps
+<TC>o
+<TC>a
+<TC>muse's <TC>harp
+<TC>o
+<TC>alguns
+<TC>muse's <TC>harps
+<TC>o
+<TC>a
+<TC>bard's <TC>harp
+<TC>o
+<TC>alguns
+<TC>bard's <TC>harps
+<TC>o
+<TC>a
+<TC>pickpocket's <TC>pistol
+<TC>o
+<TC>alguns
+<TC>pickpocket's <TC>pistols
+<TC>o
+<TC>a
+<TC>rogue's <TC>revolver
+<TC>o
+<TC>alguns
+<TC>rogue's <TC>revolvers
+<TC>o
+<TC>a
+<TC>highwayman's <TC>handgun
+<TC>o
+<TC>alguns
+<TC>highwayman's <TC>handguns
+<TC>o
+<TC>a
+<TC>cad's <TC>cannon
+<TC>o
+<TC>alguns
+<TC>cad's <TC>cannons
+<TC>o
+<TC>a
+<TC>masterthief's <TC>magnum
+<TC>o
+<TC>alguns
+<TC>masterthief's <TC>magnums
+Oliver's <TC>clothes
+Oliver's clothes
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>roupas de <TC>viajante
+<TC>traveler's <TC>clothes
 <TC>o
 <TC>alguns
 <TC><TC>conjuntos de
-roupa de viajante
+traveler's clothes
 <TC>o
 <TC>a
-<TC>fato de banho <TC>
+<TC>bathing <TC>suit
 <TC>o
 <TC>alguns
-<TC>fatos de banho <TC>
+<TC>bathing <TC>suits
 <TC>o
 <TC>a
-<TC>processo de
-Hamelin <TC>armadura
+<TC>traje de
+Hamelin <TC>armor
 <TC>o
 <TC>alguns
-<TC><TC>ternos de
-armadura Hamelin
+<TC>trajes de
+Hamelin armor
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>roupas de <TC>inverno
+<TC>winter <TC>clothes
 <TC>o
 <TC>alguns
 <TC><TC>conjuntos de
-roupas de inverno
-Roupas de <TC>de Esther
-roupas de Ester
+winter clothes
+Esther's <TC>clothes
+Esther's clothes
 <TC>o
 <TC>a
-<TC>fato de banho <TC>
+<TC>bathing <TC>suit
 <TC>o
 <TC>alguns
-trajes de banho <TC>
+bathing <TC>suits
 <TC>o
 <TC>a
-<TC>processo de
-Hamelin <TC>armadura
+<TC>traje de
+Hamelin <TC>armor
 <TC>o
 <TC>alguns
-<TC><TC>ternos de
-armadura Hamelin
+<TC>trajes de
+Hamelin armor
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>roupas de <TC>inverno
+<TC>winter <TC>clothes
 <TC>o
 <TC>alguns
 <TC><TC>conjuntos de
-roupas de inverno
-<TC>casaco surrado <TC>
+winter clothes
+<TC>shabby <TC>coat
 <TC>o
 <TC>alguns
-casacos surrados
+shabby coats
 <TC>o
 <TC>a
-<TC>fato de banho <TC>
+<TC>bathing <TC>suit
 <TC>o
 <TC>alguns
-trajes de banho <TC>
+bathing <TC>suits
 <TC>o
 <TC>a
-<TC>processo de
-Hamelin <TC>armadura
+<TC>traje de
+Hamelin <TC>armor
 <TC>o
 <TC>alguns
-<TC><TC>ternos de
-armadura Hamelin
+<TC>trajes de
+Hamelin armor
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>roupas de <TC>inverno
+<TC>winter <TC>clothes
 <TC>o
 <TC>alguns
 <TC><TC>conjuntos de
-roupas de inverno
-<TC>traje de fada <TC>
+winter clothes
+<TC>fairy <TC>suit
 <TC>o
 <TC>alguns
-trajes de fada <TC>
+fairy <TC>suits
 <TC>o
 <TC>a
-<TC>fato de banho <TC>
+<TC>bathing <TC>suit
 <TC>o
 <TC>alguns
-trajes de banho <TC>
+bathing <TC>suits
 <TC>o
 <TC>a
-<TC>processo de
-Hamelin <TC>armadura
+<TC>traje de
+Hamelin <TC>armor
 <TC>o
 <TC>alguns
-<TC><TC>ternos de
-armadura Hamelin
+<TC>trajes de
+Hamelin armor
 <TC>o
 <TC>a
-<TC>terno peludo <TC>
+<TC>furry <TC>suit
 <TC>o
 <TC>alguns
-ternos peludos <TC>
+furry <TC>suits
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>traje real <TC>
+<TC>regal <TC>attire
 <TC>o
 <TC>alguns
 <TC><TC>conjuntos de
-traje real
+regal attire
 <TC>o
 <TC>a
-<TC>roupa de banho <TC>
+<TC>bathing <TC>raiment
 <TC>o
-<TC>algumas
-roupa de banho
+<TC>alguns
+bathing raiments
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>inverno <TC>vestimentas
+<TC>winter <TC>vestments
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC><TC>conjuntos de
-vestimentas de inverno
+winter vestments
 <TC>o
 <TC>a
-<TC>espada de madeira <TC>
-<TC>o
-<TC>algumas
-<TC>espadas de madeira <TC>
-<TC>o
-<TC>a
-<TC>espada <TC>muito gasta <TC>
-<TC>o
-<TC>algumas
-<TC>espadas <TC>bem usadas <TC>
-<TC>o
-<TC>a
-<TC>osso <TC>espada
-<TC>o
-<TC>algumas
-<TC>osso <TC>espadas
-<TC>o
-<TC>a
-<TC>espada do soldado <TC>
-<TC>o
-<TC>algumas
-<TC>espadas do soldado <TC>
-<TC>o
-<TC>a
-<TC>faca de <TC>pirata
-<TC>o
-<TC>algumas
-<TC>faca de <TC>pirata
-<TC>o
-<TC>a
-<TC>espada ardente <TC>
-<TC>o
-<TC>algumas
-<TC>espadas <TC>em chamas
-<TC>o
-<TC>a
-<TC>pena <TC>roc
-<TC>o
-<TC>algumas
-<TC>penas <TC>roc
-<TC>o
-<TC>a
-<TC>cutelo <TC>mecânico
+<TC>wooden <TC>sword
 <TC>o
 <TC>alguns
-<TC>cutelos <TC>mecânicos
+<TC>wooden <TC>swords
 <TC>o
 <TC>a
-<TC>espada do campeão <TC>
-<TC>o
-<TC>algumas
-<TC>espadas do campeão <TC>
-<TC>o
-<TC>a
-<TC>espada <TC>preta 
-<TC>o
-<TC>algumas
-<TC>espadas <TC>pretas 
-<TC>o
-<TC>a
-<TC>espada do herói <TC>
-<TC>o
-<TC>algumas
-<TC>espadas do herói <TC>
-<TC>o
-<TC>a
-<TC>bluster <TC>espada
-<TC>o
-<TC>algumas
-<TC>espalhadas <TC>espadas
-<TC>o
-<TC>a
-<TC>grande espada
-<TC>o
-<TC>algumas
-<TC>grandes espadas
-<TC>o
-<TC>a
-<TC>espada flamejante <TC>
-<TC>o
-<TC>algumas
-<TC>espadas ardentes <TC>
-<TC>o
-<TC>a
-<TC>espada <TC>noturna
-<TC>o
-<TC>algumas
-<TC>espadas <TC>noturnas 
-<TC>o
-<TC>a
-<TC>espada <TC>perdida 
-<TC>o
-<TC>algumas
-<TC>espadas <TC>perdidas 
-<TC>o
-<TC>a
-<TC>espada santa <TC>
-<TC>o
-<TC>algumas
-<TC>espadas santas <TC>
-<TC>o
-<TC>a
-<TC>espada <TC>radiante 
-<TC>o
-<TC>algumas
-<TC>espadas <TC>radiantes 
-<TC>o
-<TC>a
-<TC>espada <TC>queda do céu 
-<TC>o
-<TC>algumas
-<TC>espadas <TC>queda do céu 
-<TC>o
-<TC>a
-<TC>espada celestial <TC>
-<TC>o
-<TC>algumas
-<TC>espadas celestiais <TC>
-<TC>o
-<TC>a
-<TC>espada primordial <TC>
-<TC>o
-<TC>algumas
-<TC>espadas primordiais <TC>
-<TC>o
-<TC>a
-espada longa <TC>Nazcaän
-<TC>o
-<TC>algumas
-espadas longas <TC>Nazcaän
-<TC>o
-<TC>a
-<TC>pastelão sentimental <TC>
+<TC>well-<TC>worn <TC>sword
 <TC>o
 <TC>alguns
-<TC>pastelões sentimentais <TC>
+<TC>well-<TC>worn <TC>swords
 <TC>o
 <TC>a
-<TC>faca de<TC>cozinha
-<TC>o
-<TC>algumas
-<TC>facas de<TC>cozinha 
-<TC>o
-<TC>a
-<TC>cortador de velas <TC>
+<TC>bone <TC>sword
 <TC>o
 <TC>alguns
-<TC>cortadores de velas <TC>
+<TC>bone <TC>swords
 <TC>o
 <TC>a
-<TC>adaga <TC>pederneira
+<TC>soldier's <TC>sword
 <TC>o
-<TC>algumas
-<TC>adagas <TC>pederneira
-<TC>o
-<TC>a
-<TC>foice
-<TC>o
-<TC>algumas
-<TC>foices
+<TC>alguns
+<TC>soldier's <TC>swords
 <TC>o
 <TC>a
-<TC>faca <TC>vidro de sombra
+<TC>pirate's <TC>cutlass
 <TC>o
-<TC>algumas
-<TC>facas <TC>vidro de sombra
-<TC>o
-<TC>a
-<TC>adaga sagrada <TC>
-<TC>o
-<TC>algumas
-<TC>adagas <TC>sagradas
+<TC>alguns
+<TC>pirate's <TC>cutlasses
 <TC>o
 <TC>a
-<TC>adaga <TC>divina
+<TC>burning <TC>blade
 <TC>o
-<TC>algumas
-<TC> adagas divinas <TC>
-<TC>o
-<TC>a
-<TC>espinho da <TC>bruxa
-<TC>o
-<TC>algumas
-<TC>espinhos da bruxa <TC>
+<TC>alguns
+<TC>burning <TC>blades
 <TC>o
 <TC>a
-<TC>faca de lenhador <TC>
+<TC>roc <TC>feather
 <TC>o
-<TC>algumas
-<TC>facas de lenhador <TC>
+<TC>alguns
+<TC>roc <TC>feathers
+<TC>o
+<TC>a
+<TC>clockwork <TC>cleaver
+<TC>o
+<TC>alguns
+<TC>clockwork <TC>cleavers
+<TC>o
+<TC>a
+<TC>champion's <TC>sword
+<TC>o
+<TC>alguns
+<TC>champion's <TC>swords
+<TC>o
+<TC>a
+<TC>black <TC>blade
+<TC>o
+<TC>alguns
+<TC>black <TC>blades
+<TC>o
+<TC>a
+<TC>hero's <TC>sword
+<TC>o
+<TC>alguns
+<TC>hero's <TC>swords
+<TC>o
+<TC>a
+<TC>bluster <TC>blade
+<TC>o
+<TC>alguns
+<TC>bluster <TC>blades
+<TC>o
+<TC>a
+<TC>greatsword
+<TC>o
+<TC>alguns
+<TC>greatswords
+<TC>o
+<TC>a
+<TC>blazing <TC>blade
+<TC>o
+<TC>alguns
+<TC>blazing <TC>blades
+<TC>o
+<TC>a
+<TC>night <TC>blade
+<TC>o
+<TC>alguns
+<TC>night <TC>blades
+<TC>o
+<TC>a
+<TC>lost <TC>sword
+<TC>o
+<TC>alguns
+<TC>lost <TC>swords
+<TC>o
+<TC>a
+<TC>sainted <TC>sword
+<TC>o
+<TC>alguns
+<TC>sainted <TC>swords
+<TC>o
+<TC>a
+<TC>radiant <TC>blade
+<TC>o
+<TC>alguns
+<TC>radiant <TC>blades
+<TC>o
+<TC>a
+<TC>skyfall <TC>sword
+<TC>o
+<TC>alguns
+<TC>skyfall <TC>swords
+<TC>o
+<TC>a
+<TC>celestial <TC>sword
+<TC>o
+<TC>alguns
+<TC>celestial <TC>swords
+<TC>o
+<TC>a
+<TC>primordial <TC>sword
+<TC>o
+<TC>alguns
+<TC>primordial <TC>swords
+<TC>o
+<TC>a
+Nazcaan <TC>longsword
+<TC>o
+<TC>alguns
+Nazcaan <TC>longswords
+<TC>o
+<TC>a
+<TC>soppy <TC>slapstick
+<TC>o
+<TC>alguns
+<TC>soppy <TC>slapsticks
+<TC>o
+<TC>a
+<TC>kitchen <TC>knife
+<TC>o
+<TC>alguns
+<TC>kitchen <TC>knives
+<TC>o
+<TC>a
+<TC>candle <TC>cutter
+<TC>o
+<TC>alguns
+<TC>candle <TC>cutters
+<TC>o
+<TC>a
+<TC>flint <TC>dagger
+<TC>o
+<TC>alguns
+<TC>flint <TC>daggers
+<TC>o
+<TC>a
+<TC>sickle
+<TC>o
+<TC>alguns
+<TC>sickles
+<TC>o
+<TC>a
+<TC>shadowglass <TC>knife
+<TC>o
+<TC>alguns
+<TC>shadowglass <TC>knives
+<TC>o
+<TC>a
+<TC>sacred <TC>dagger
+<TC>o
+<TC>alguns
+<TC>sacred <TC>daggers
+<TC>o
+<TC>a
+<TC>divine <TC>dagger
+<TC>o
+<TC>alguns
+<TC>divine <TC>daggers
+<TC>o
+<TC>a
+<TC>witch's <TC>thorn
+<TC>o
+<TC>alguns
+<TC>witch's <TC>thorns
+<TC>o
+<TC>a
+<TC>woodsman's <TC>knife
+<TC>o
+<TC>alguns
+<TC>woodsman's <TC>knives
 <TC>o
 <TC>um
-<TC>estilhaço de <TC>gelo
+<TC>ice <TC>shard
 <TC>o
 <TC>alguns
-<TC>estilhaços de <TC>gelo
+<TC>ice <TC>shards
 <TC>o
 <TC>a
-<TC>beijo da <TC>morte
+<TC>kiss of <TC>death
 <TC>o
 <TC>alguns
-<TC>beijos da <TC>morte
+<TC>kisses of <TC>death
 <TC>o
 <TC>a
-<TC>voando
-<TC>o
-<TC>algumas
-<TC>asas voando
-<TC>o
-<TC>a
-<TC>alma do feiticeiro <TC>
-<TC>o
-<TC>algumas
-<TC>almas do feiticeiro <TC>
-<TC>o
-<TC>a
-<TC>divisor <TC>planeta 
+<TC>flitwing
 <TC>o
 <TC>alguns
-<TC>divisor de<TC>planetas 
+<TC>flitwings
 <TC>o
 <TC>a
-<TC>chifre <TC>espiral
+<TC>sorcerer's <TC>soul
 <TC>o
 <TC>alguns
-<TC>chifres em espiral <TC>
+<TC>sorcerer's <TC>souls
 <TC>o
 <TC>a
-<TC>chifre do besouro <TC>
+<TC>planet <TC>splitter
 <TC>o
 <TC>alguns
-<TC>chifres do besouro <TC>
+<TC>planet <TC>splitters
 <TC>o
 <TC>a
-<TC>chifre do envenenador <TC>
+<TC>spiral <TC>horn
 <TC>o
 <TC>alguns
-<TC>chifres do envenenador <TC>
+<TC>spiral <TC>horns
 <TC>o
 <TC>a
-<TC>presa <TC>baleia
-<TC>o
-<TC>algumas
-<TC>presas de<TC>baleia
-<TC>o
-<TC>a
-<TC>presa <TC>dragão 
-<TC>o
-<TC>algumas
-<TC>presas <TC>dragão
-<TC>o
-<TC>a
-<TC>osso <TC>preguiçoso
+<TC>beetle's <TC>horn
 <TC>o
 <TC>alguns
-<TC>ossos <TC>preguiçosos
+<TC>beetle's <TC>horns
+<TC>o
+<TC>a
+<TC>poisoner's <TC>horn
+<TC>o
+<TC>alguns
+<TC>poisoner's <TC>horns
+<TC>o
+<TC>a
+<TC>whalefish <TC>tusk
+<TC>o
+<TC>alguns
+<TC>whalefish <TC>tusks
+<TC>o
+<TC>a
+<TC>dragon <TC>tusk
+<TC>o
+<TC>alguns
+<TC>dragon <TC>tusks
+<TC>o
+<TC>a
+<TC>lazy <TC>bone
+<TC>o
+<TC>alguns
+<TC>lazy <TC>bones
 <TC>o
 <TC>um
-<TC>Dente <TC>icewyrm
+<TC>icewyrm <TC>tusk
 <TC>o
 <TC>alguns
-<TC>Dentes <TC>icewyrm
+<TC>icewyrm <TC>tusks
 <TC>o
 <TC>a
-<TC>chifre de <TC>veado <TC>branco
+<TC>white <TC>stag's <TC>umtler
 <TC>o
 <TC>alguns
-<TC>branco <TC>chifres de veado <TC>
+<TC>white <TC>stag's <TC>umtlers
 <TC>o
 <TC>a
-<TC>machado do lenhador <TC>
+<TC>woodcutter's <TC>ax
 <TC>o
 <TC>alguns
-<TC>machados de lenhador <TC>
+<TC>woodcutter's <TC>axes
 <TC>o
 <TC>um
-<TC>ferro <TC>machado
+<TC>iron <TC>ax
 <TC>o
 <TC>alguns
-<TC>eixos <TC>de ferro
+<TC>iron <TC>axes
 <TC>o
 <TC>um
-<TC>machado do rei <TC>ogro
+<TC>ogre <TC>king's <TC>ax
 <TC>o
 <TC>alguns
-<TC>machados do rei <TC>ogro
+<TC>ogre <TC>king's <TC>axes
 <TC>o
 <TC>a
-<TC>machado do guarda <TC>
+<TC>guardsman's <TC>ax
 <TC>o
 <TC>alguns
-<TC>machados do guarda <TC>
+<TC>guardsman's <TC>axes
 <TC>o
 <TC>a
-<TC>machado do relojoeiro <TC>
+<TC>watchmaker's <TC>ax
 <TC>o
 <TC>alguns
-<TC>Eixos do <TC>relojoeiro
+<TC>watchmaker's <TC>axes
 <TC>o
 <TC>a
-<TC>mecânico <TC>machado
+<TC>clockwork <TC>ax
 <TC>o
 <TC>alguns
-<TC>eixos <TC>relógios
+<TC>clockwork <TC>axes
 <TC>o
 <TC>a
-<TC>grande <TC>machado
+<TC>grand <TC>ax
 <TC>o
 <TC>alguns
-<TC>grandes <TC>eixos
+<TC>grand <TC>axes
 <TC>o
 <TC>a
-<TC>machado do <TC>gigante
+<TC>giant's <TC>ax
 <TC>o
 <TC>alguns
-<TC>eixos do <TC>gigante
+<TC>giant's <TC>axes
 <TC>o
 <TC>a
-<TC>machado do demônio <TC>
+<TC>demon's <TC>ax
 <TC>o
 <TC>alguns
-<TC>machados do <TC>demônio
+<TC>demon's <TC>axes
 <TC>o
 <TC>a
-<TC>machado de deus <TC>guerra
+<TC>war <TC>god's <TC>ax
 <TC>o
 <TC>alguns
-<TC>machado de deus <TC>guerra
+<TC>war <TC>god's <TC>axes
 <TC>o
 <TC>a
-<TC>martelo de madeira <TC>
-<TC>o
-<TC>algumas
-<TC>marretas de madeira <TC>
-<TC>o
-<TC>a
-<TC>maço maciço <TC>
-<TC>o
-<TC>algumas
-<TC>macetes maciços <TC>
-<TC>o
-<TC>a
-<TC>torre <TC>derrubada
-<TC>o
-<TC>algumas
-<TC>torres <TC>derrubados
-<TC>o
-<TC>a
-<TC>martelo da <TC>justiça
+<TC>wooden <TC>mallet
 <TC>o
 <TC>alguns
-<TC>martelos da <TC>justiça
+<TC>wooden <TC>mallets
+<TC>o
+<TC>a
+<TC>massive <TC>mallet
+<TC>o
+<TC>alguns
+<TC>massive <TC>mallets
+<TC>o
+<TC>a
+<TC>tower <TC>toppler
+<TC>o
+<TC>alguns
+<TC>tower <TC>topplers
+<TC>o
+<TC>a
+<TC>hammer of <TC>justice
+<TC>o
+<TC>alguns
+<TC>hammers of <TC>justice
 <TC>o
 <TC>a
 <TC>tomte <TC>whomper
 <TC>o
-<TC>algumas
-<TC>tomte <TC>whomper
+<TC>alguns
+<TC>tomte <TC>whompers
 <TC>o
 <TC>a
 <TC>ninnyhammer
@@ -17672,844 +17672,844 @@ espadas longas <TC>Nazcaän
 <TC>ninnyhammers
 <TC>o
 <TC>a
-<TC>vapor <TC>martelo
+<TC>steam <TC>hammer
 <TC>o
 <TC>alguns
-<TC>martelos <TC>a vapor
+<TC>steam <TC>hammers
 <TC>o
 <TC>a
-<TC>meteoro <TC>marreta
-<TC>o
-<TC>algumas
-<TC>marretas de <TC>meteoros
-A panela <TC>favorita <TC>da mamãe
-As <TC>panelas <TC>favoritas da mamãe
-<TC>o
-<TC>a
-<TC>bastão <TC>afiado
+<TC>meteor <TC>mallet
 <TC>o
 <TC>alguns
-<TC>bastões <TC>afiados
+<TC>meteor <TC>mallets
+Mom's <TC>favorite <TC>pan
+Mom's <TC>favorite <TC>pans
 <TC>o
 <TC>a
-<TC>sílex <TC>lança
-<TC>o
-<TC>algumas
-<TC>lanças de sílex
-<TC>o
-<TC>a
-<TC>porco-<TC>ferro <TC>pique
+<TC>sharpened <TC>stick
 <TC>o
 <TC>alguns
-<TC>porco-<TC>ferro <TC>pique
+<TC>sharpened <TC>sticks
 <TC>o
 <TC>a
-<TC>lança do soldado <TC>
-<TC>o
-<TC>algumas
-<TC>lanças de <TC>soldados
-<TC>o
-<TC>a
-<TC>geada <TC>arpão
+<TC>flint <TC>spear
 <TC>o
 <TC>alguns
-<TC>geadas <TC>arpões
+<TC>flint spears
 <TC>o
 <TC>a
-<TC>raio <TC>raio
+<TC>pig-<TC>iron <TC>pike
 <TC>o
 <TC>alguns
-<TC>relâmpago <TC>raios
+<TC>pig-<TC>iron <TC>pikes
 <TC>o
 <TC>a
-<TC>lança <TC>vendaval
+<TC>soldier's <TC>spear
 <TC>o
-<TC>algumas
-<TC>lanças <TC>vendaval
-<TC>o
-<TC>a
-<TC>lança do <TC>campeão
-<TC>o
-<TC>algumas
-<TC>lanças do <TC>campeão
+<TC>alguns
+<TC>soldier's <TC>spears
 <TC>o
 <TC>a
-<TC>lança da dríade <TC>
+<TC>hoarfrost <TC>harpoon
 <TC>o
-<TC>algumas
-<TC>lanças da dríade <TC>
-<TC>o
-<TC>a
-<TC>lança real <TC>
-<TC>o
-<TC>algumas
-<TC>lanças reais <TC>
+<TC>alguns
+<TC>hoarfrost <TC>harpoons
 <TC>o
 <TC>a
-<TC>picada de abelha <TC>
+<TC>lightning <TC>bolt
 <TC>o
-<TC>algumas
-<TC>picadas de abelha <TC>
-<TC>o
-<TC>a
-<TC>lança de <TC>cristal
-<TC>o
-<TC>algumas
-<TC>lanças de cristal <TC>
+<TC>alguns
+<TC>lightning <TC>bolts
 <TC>o
 <TC>a
-<TC>olho morto <TC>lança
+<TC>gale <TC>spear
 <TC>o
-<TC>algumas
-<TC>lanças <TC>deadeye 
-<TC>o
-<TC>a
-<TC>lança <TC>gloriosa 
-<TC>o
-<TC>algumas
-<TC>lanças <TC>gloriosas
+<TC>alguns
+<TC>gale <TC>spears
 <TC>o
 <TC>a
-<TC>lança <TC>arco-íris 
+<TC>champion's <TC>spear
 <TC>o
-<TC>algumas
-<TC>lanças <TC>arco-íris
-<TC>o
-<TC>a
-<TC>lança <TC>dragão 
-<TC>o
-<TC>algumas
-<TC>lanças <TC>dragão 
+<TC>alguns
+<TC>champion's <TC>spears
 <TC>o
 <TC>a
-<TC>lança <TC>gigante
+<TC>dryad's <TC>spear
 <TC>o
-<TC>algumas
-<TC>lanças <TC>gigante
-<TC>o
-<TC>a
-<TC>perna longa
-<TC>o
-<TC>algumas
-<TC>pernas longas
+<TC>alguns
+<TC>dryad's <TC>spears
 <TC>o
 <TC>a
-<TC>lança <TC>canção de ninar
+<TC>royal <TC>spear
 <TC>o
-<TC>algumas
-<TC>lanças <TC>canção de ninar
+<TC>alguns
+<TC>royal <TC>spears
+<TC>o
+<TC>a
+<TC>bee <TC>sting
+<TC>o
+<TC>alguns
+<TC>bee <TC>stings
+<TC>o
+<TC>a
+<TC>crystal <TC>spear
+<TC>o
+<TC>alguns
+<TC>crystal <TC>spears
+<TC>o
+<TC>a
+<TC>deadeye <TC>spear
+<TC>o
+<TC>alguns
+<TC>deadeye <TC>spears
+<TC>o
+<TC>a
+<TC>glorious <TC>lance
+<TC>o
+<TC>alguns
+<TC>glorious <TC>lances
+<TC>o
+<TC>a
+<TC>rainbow <TC>lance
+<TC>o
+<TC>alguns
+<TC>rainbow <TC>lances
+<TC>o
+<TC>a
+<TC>dragon <TC>lance
+<TC>o
+<TC>alguns
+<TC>dragon <TC>lances
+<TC>o
+<TC>a
+<TC>giant's <TC>spear
+<TC>o
+<TC>alguns
+<TC>giant's <TC>spears
+<TC>o
+<TC>a
+<TC>longshank
+<TC>o
+<TC>alguns
+<TC>longshanks
+<TC>o
+<TC>a
+<TC>lullaby <TC>lance
+<TC>o
+<TC>alguns
+<TC>lullaby <TC>lances
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>grossas <TC>garras
+<TC>crude <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>grossas <TC>garras
+<TC>crude <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>osso dos dedos <TC>garras
+<TC>knucklebone <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>osso dos dedos <TC>garras
+<TC>knucklebone <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>floresta <TC>garras
+<TC>woodland <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>floresta <TC>garras
+<TC>woodland <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras espalhafatosas <TC>
+<TC>gaudy <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras espalhafatosas <TC>
+<TC>gaudy <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>megafone 
+<TC>bullhorn <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>megafone 
+<TC>bullhorn <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>aço
+<TC>steel <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>aço 
+<TC>steel <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras maculadas <TC>
+<TC>tainted <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras maculadas <TC>
+<TC>tainted <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>unhas de <TC>gigante
+<TC>giant's <TC>fingernails
 o
 alguns
 <TC>conjuntos de
-<TC>unhas de <TC>gigante
+<TC>giant's <TC>fingernails
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>crisol 
+<TC>crucible <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras<TC>crisol 
+<TC>crucible <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>assombradas
+<TC>haunted <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>assombradas
+<TC>haunted <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>seis <TC>vento 
+<TC>six <TC>wind <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>seis <TC>vento
+<TC>six <TC>wind <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>neve <TC>bruxa 
+<TC>snow <TC>witch <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>neve <TC>bruxa 
+<TC>snow <TC>witch <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>gelo <TC>rainha 
+<TC>ice <TC>queen <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>gelo <TC>rainha
+<TC>ice <TC>queen <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>lobisomem
+<TC>werewolf <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>lobisomem 
+<TC>werewolf <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>gelo <TC>cristal 
+<TC>ice <TC>crystal <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>gelo <TC>cristal 
+<TC>ice <TC>crystal <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras do grifo <TC>
+<TC>griffin's <TC>talons
 o
 alguns
 <TC>conjuntos de
-<TC>garras do grifo <TC>
+<TC>griffin's <TC>talons
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>blackwyrm 
+<TC>blackwyrm <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>blackwyrm 
+<TC>blackwyrm <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
- <TC>garras do rei <TC>gato 
+<TC>cat <TC>king's <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras do rei <TC>gato
+<TC>cat <TC>king's <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras do rei <TC>dragão
+<TC>dragon <TC>king's <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras do rei <TC>dragão
+<TC>dragon <TC>king's <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras do comedor <TC>estrela
+<TC>star <TC>eater's <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras do comedor <TC>estrela
+<TC>star <TC>eater's <TC>claws
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>garras <TC>fracas 
+<TC>flawed <TC>claws
 o
 alguns
 <TC>conjuntos de
-<TC>garras <TC>fracas
+<TC>flawed <TC>claws
 <TC>o
 <TC>a
-<TC>processo de
-<TC>armadura <TC>de couro
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>armadura <TC>de couro
-<TC>o
-<TC>uma
-<TC>couraça <TC>de ferro
-<TC>o
-<TC>algumas
-<TC>couraça <TC>de ferro
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura resistente <TC>
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>armadura resistente <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura <TC>endurecida
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>armadura <TC>endurecida
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura <TC>espelhado
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>armadura <TC>espelhado
-<TC>o
-<TC>a
-<TC>processo de
-<TC>vestido <TC>armadura
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>vestido <TC>armadura
-<TC>o
-<TC>a
-<TC>processo de
-<TC>grunhido <TC>armadura
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>grunhido <TC>armadura
-<TC>o
-<TC>a
-<TC>processo de
-<TC>placas <TC>armadura
-<TC>o
-<TC>algumas
-<TC>ternos de
-<TC>placas <TC>armadura
-<TC>o
-<TC>a
-<TC>processo de
-<TC>Armadura de <TC>Ossos
+<TC>traje de
+<TC>leather <TC>armor
 <TC>o
 <TC>alguns
-<TC>ternos de
-<TC>Armadura de <TC>Ossos
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura <TC>vendaval 
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura <TC>vendaval 
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura <TC>forte
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura <TC>forte
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura real <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura real <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura do <TC>campeão
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura do <TC>campeão
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura infernal <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura infernal <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>Aço puro <TC>Armadura <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>Aço puro <TC>Armadura <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura <TC>encantada
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura <TC>encantada
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura de <TC>cavaleiro
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura de <TC>cavaleiro
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura noturna <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura noturna <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>enigma <TC>armadura
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>enigma <TC>armadura
-<TC>o
-<TC>a
-<TC>processo de
-<TC>Armadura do Boarlord <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>Armadura do Boarlord <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura da <TC>justiça
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura da <TC>justiça
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura <TC>brilhante 
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura <TC>brilhante
-<TC>o
-<TC>a
-<TC>processo de
-<TC>armadura celestial <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>armadura celestial <TC>
-<TC>o
-<TC>a
-<TC>processo de
-<TC>guerra <TC>armadura de deus <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-<TC>guerra <TC>armadura de deus <TC>
-<TC>o
-<TC>a
-<TC>processo de
-Armadura de Nazcaän <TC>
-<TC>o
-<TC>alguns
-<TC>ternos de
-Armadura de Nazcaän <TC>
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>traje <TC>rústico
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>traje <TC>rústico
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>traje de <TC>comerciante
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>traje de <TC>comerciante
-<TC>o
-<TC>a
-<TC>hábito sagrado <TC>
-<TC>o
-<TC>alguns
-<TC>hábitos sagrados <TC>
-<TC>o
-<TC>a
-<TC>manto de borracha <TC>
-<TC>o
-<TC>alguns
-<TC>mantos de borracha <TC>
-<TC>o
-<TC>a
-<TC>belo <TC>vestido
-<TC>o
-<TC>alguns
-<TC>belos <TC>vestidos
-<TC>o
-<TC>a
-<TC>bata de soldado <TC>
-<TC>o
-<TC>algumas
-<TC>maca de soldado <TC>
-<TC>o
-<TC>a
-<TC>mortalha <TC>enevoada
-<TC>o
-<TC>algumas
-<TC>mortalha <TC>enevoada
-<TC>o
-<TC>a
-<TC>manto mágico <TC>
-<TC>o
-<TC>alguns
-<TC>mantos mágicos <TC>
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>nobre <TC>traje
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>nobre <TC>traje
-<TC>o
-<TC>a
-<TC>túnica de <TC>campeão
-<TC>o
-<TC>algumas
-<TC>túnica de <TC>campeão
-<TC>o
-<TC>a
-<TC>squash <TC>pele
-<TC>o
-<TC>algumas
-<TC>sasquash <TC>peles
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>falsos de <TC>homem morto <TC>
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>falsos de <TC>homem morto <TC>
-<TC>o
-<TC>a
-<TC>túnica <TC>estrelada
-<TC>o
-<TC>algumas
-<TC>túnicas <TC>estrelas
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>vestes de <TC>mago
-<TC>o
-<TC>algumas
-<TC>conjuntos de
-<TC>vestes de <TC>mago
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>mantos <TC>névoa 
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>mantos<TC>névoa
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>mantos<TC>chamas
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>mantos <TC>chamas
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>gale <TC>roupões
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>gale <TC>roupões
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>mantos do místico <TC>
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>mantos do místico <TC>
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>mantos ondulados <TC>
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>mantos ondulados <TC>
-<TC>o
-<TC>a
-<TC>manto de <TC>restauração
-<TC>o
-<TC>alguns
-<TC>mantos de <TC>restauração
-<TC>o
-<TC>a
-<TC>vestido <TC>da deusa
-<TC>o
-<TC>alguns
-<TC>vestidos <TC>da deusa
-<TC>o
-<TC>a
-<TC>conjunto de
-<TC>vestes de feiticeira <TC>
-<TC>o
-<TC>alguns
-<TC>conjuntos de
-<TC>vestes de feiticeira <TC>
-<TC>o
-<TC>a
-<TC>escudo de madeira <TC>
-<TC>o
-<TC>alguns
-<TC>escudos de madeira <TC>
-<TC>o
-<TC>a
-<TC>escudo <TC>osso da canela 
-<TC>o
-<TC>alguns
-<TC>escudos de canela <TC>
-<TC>o
-<TC>a
-<TC>escudo de couro <TC>
-<TC>o
-<TC>alguns
-<TC>escudos de <TC>couro
+<TC>trajes de
+<TC>leather <TC>armor
 <TC>o
 <TC>um
-<TC>escudo de ferro <TC>
+<TC>iron <TC>breastplate
 <TC>o
 <TC>alguns
-<TC>escudos de <TC>ferro
+<TC>iron <TC>breastplates
 <TC>o
 <TC>a
-<TC>escudo <TC>placas 
+<TC>traje de
+<TC>rugged <TC>armor
 <TC>o
-<TC>algumas
-<TC>escudo <TC>escala
-<TC>o
-<TC>a
-<TC>escudo brilhante <TC>
-<TC>o
-<TC>algumas
-<TC>escudos brilhantes <TC>
+<TC>alguns
+<TC>trajes de
+<TC>rugged <TC>armor
 <TC>o
 <TC>a
-<TC>escudo<TC>grunhido
+<TC>traje de
+<TC>toughened <TC>armor
 <TC>o
-<TC>algumas
-<TC>escudo <TC>grunhidos
-<TC>o
-<TC>a
-<TC>escudo <TC>vidro de sombra 
-<TC>o
-<TC>algumas
-<TC>escudo <TC>vidro de sombra
+<TC>alguns
+<TC>trajes de
+<TC>toughened <TC>armor
 <TC>o
 <TC>a
-<TC>escudo <TC>sagrado 
+<TC>traje de
+<TC>mirrored <TC>armor
 <TC>o
-<TC>algumas
-<TC>escudos sagrados <TC>
-<TC>o
-<TC>a
-<TC>escudo do campeão <TC>
-<TC>o
-<TC>algumas
-<TC>escudos do campeão <TC>
+<TC>alguns
+<TC>trajes de
+<TC>mirrored <TC>armor
 <TC>o
 <TC>a
-<TC>escudo <TC>tundra 
+<TC>traje de
+<TC>dress <TC>armor
 <TC>o
-<TC>algumas
-<TC>escudos <TC>tundra 
+<TC>alguns
+<TC>trajes de
+<TC>dress <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>grunt <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>grunt <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>scale <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>scale <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>bone <TC>mail
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>bone <TC>mail
+<TC>o
+<TC>a
+<TC>traje de
+<TC>gale <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>gale <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>stout <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>stout <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>royal <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>royal <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>champion's <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>champion's <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>inferno <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>inferno <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>pure <TC>steel <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>pure <TC>steel <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>enchanted <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>enchanted <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>knight's <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>knight's <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>night <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>night <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>enigma <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>enigma <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>Boarlord's <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>Boarlord's <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>armor of <TC>justice
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>armor of <TC>justice
+<TC>o
+<TC>a
+<TC>traje de
+<TC>brilliant <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>brilliant <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>celestial <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>celestial <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+<TC>war <TC>god's <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+<TC>war <TC>god's <TC>armor
+<TC>o
+<TC>a
+<TC>traje de
+Nazcaan <TC>armor
+<TC>o
+<TC>alguns
+<TC>trajes de
+Nazcaan <TC>armor
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>rustic <TC>garb
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>rustic <TC>garb
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>merchant's <TC>garb
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>merchant's <TC>garb
+<TC>o
+<TC>a
+<TC>hallowed <TC>habit
+<TC>o
+<TC>alguns
+<TC>hallowed <TC>habits
+<TC>o
+<TC>a
+<TC>rubber <TC>robe
+<TC>o
+<TC>alguns
+<TC>rubber <TC>robes
+<TC>o
+<TC>a
+<TC>fine <TC>frock
+<TC>o
+<TC>alguns
+<TC>fine <TC>frocks
+<TC>o
+<TC>a
+<TC>soldier's <TC>smock
+<TC>o
+<TC>alguns
+<TC>soldier's <TC>smocks
+<TC>o
+<TC>a
+<TC>misty <TC>shroud
+<TC>o
+<TC>alguns
+<TC>misty <TC>shrouds
+<TC>o
+<TC>a
+<TC>magic <TC>cloak
+<TC>o
+<TC>alguns
+<TC>magic <TC>cloaks
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>noble <TC>attire
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>noble <TC>attire
+<TC>o
+<TC>a
+<TC>champion's <TC>tunic
+<TC>o
+<TC>alguns
+<TC>champion's <TC>tunics
+<TC>o
+<TC>a
+<TC>sasquash <TC>pelt
+<TC>o
+<TC>alguns
+<TC>sasquash <TC>pelts
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>dead <TC>man's <TC>duds
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>dead <TC>man's <TC>duds
+<TC>o
+<TC>a
+<TC>starspun <TC>tunic
+<TC>o
+<TC>alguns
+<TC>starspun <TC>tunics
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>wizard's <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>wizard's <TC>robes
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>mist <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>mist <TC>robes
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>flame <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>flame <TC>robes
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>gale <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>gale <TC>robes
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>mystic's <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>mystic's <TC>robes
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>ripple <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>ripple <TC>robes
+<TC>o
+<TC>a
+<TC>robe of <TC>restoration
+<TC>o
+<TC>alguns
+<TC>robes of <TC>restoration
+<TC>o
+<TC>a
+<TC>goddess's <TC>gown
+<TC>o
+<TC>alguns
+<TC>goddess's <TC>gowns
+<TC>o
+<TC>a
+<TC>conjunto de
+<TC>sorceress's <TC>robes
+<TC>o
+<TC>alguns
+<TC>conjuntos de
+<TC>sorceress's <TC>robes
+<TC>o
+<TC>a
+<TC>wooden <TC>shield
+<TC>o
+<TC>alguns
+<TC>wooden <TC>shields
+<TC>o
+<TC>a
+<TC>shinbone <TC>shield
+<TC>o
+<TC>alguns
+<TC>shinbone <TC>shields
+<TC>o
+<TC>a
+<TC>leather <TC>shield
+<TC>o
+<TC>alguns
+<TC>leather <TC>shields
 <TC>o
 <TC>um
-<TC>escudo do vingador <TC>
-<TC>o
-<TC>algumas
-<TC>escudos do vingador <TC>
-<TC>o
-<TC>a
-<TC>escudo místico <TC>
-<TC>o
-<TC>algumas
-<TC>escudos místicos <TC>
-<TC>o
-<TC>a
-<TC>escudo da deusa <TC>
-<TC>o
-<TC>algumas
-<TC>escudos da deusa <TC>
-<TC>o
-<TC>a
-<TC>escudo do <TC>puro
-<TC>o
-<TC>algumas
-<TC>escudos dos <TC>puros
-<TC>o
-<TC>a
-<TC>escudo do deus <TC>guerra 
-<TC>o
-<TC>algumas
-<TC>escudos do deus <TC>guerra
-<TC>o
-<TC>a
-<TC>linda <TC>guarda-sol
-<TC>o
-<TC>algumas
-<TC>lindas <TC>guarda-sóis
-<TC>o
-<TC>a
-<TC>capacete de madeira <TC>
+<TC>iron <TC>shield
 <TC>o
 <TC>alguns
-<TC>capacetes de madeira <TC>
+<TC>iron <TC>shields
 <TC>o
 <TC>a
-<TC>chapéu pontudo <TC>
+<TC>scale <TC>shield
 <TC>o
 <TC>alguns
-<TC>chapéus pontudos <TC>
+<TC>scale <TC>shields
 <TC>o
 <TC>a
-<TC>capacete de <TC>soldado
+<TC>shiny <TC>shield
 <TC>o
 <TC>alguns
-<TC>capacetes de soldado <TC>
+<TC>shiny <TC>shields
 <TC>o
 <TC>a
-<TC>Elmo do <TC>campeão
+<TC>grunt <TC>shield
 <TC>o
 <TC>alguns
-<TC>Elmos de <TC>Campeão
+<TC>grunt <TC>shields
 <TC>o
 <TC>a
-<TC>elmo <TC>abençoado
+<TC>shadowglass <TC>shield
 <TC>o
 <TC>alguns
-<TC>elmos <TC>abençoados 
+<TC>shadowglass <TC>shields
 <TC>o
 <TC>a
-<TC>elmo de Hamelin
+<TC>holy <TC>shield
 <TC>o
 <TC>alguns
-<TC>elmos de Hamelin
+<TC>holy <TC>shields
 <TC>o
 <TC>a
-<TC>elmo do deus <TC>guerra
+<TC>champion's <TC>shield
 <TC>o
 <TC>alguns
-<TC>elmos do deus <TC>guerra
+<TC>champion's <TC>shields
 <TC>o
 <TC>a
-Elmo de Nazcaän <TC>
+<TC>tundra <TC>shield
 <TC>o
 <TC>alguns
-elmos de Nazcaän
+<TC>tundra <TC>shields
 <TC>o
-<TC>a
-<TC>manto <TC>folhoso
-<TC>o
-<TC>alguns
-<TC>mantos <TC>folhosos
-<TC>o
-<TC>a
-<TC>manto de pele de cobra <TC>
-<TC>o
-<TC>algumas
-<TC>capas de pele de cobra <TC>
-<TC>o
-<TC>a
-<TC>nuvem <TC>capa
-<TC>o
-<TC>algumas
-<TC>coberturas <TC>nuvem 
-<TC>o
-<TC>a
-<TC>manto listrado <TC>
+<TC>um
+<TC>avenger's <TC>shield
 <TC>o
 <TC>alguns
-<TC>mantos listrados <TC>
+<TC>avenger's <TC>shields
 <TC>o
 <TC>a
-<TC>capa <TC>mar <TC>brisa
-<TC>o
-<TC>algumas
-<TC>capas <TC>mar <TC>brisa
-<TC>o
-<TC>a
-<TC>manto da diva <TC>
+<TC>mystical <TC>shield
 <TC>o
 <TC>alguns
-<TC>mantos da diva <TC>
+<TC>mystical <TC>shields
 <TC>o
 <TC>a
-<TC>manto arejado <TC>
+<TC>goddess's <TC>shield
 <TC>o
 <TC>alguns
-<TC>mantos arejados <TC>
+<TC>goddess's <TC>shields
+<TC>o
+<TC>a
+<TC>shield of the <TC>pure
+<TC>o
+<TC>alguns
+<TC>shields of the <TC>pure
+<TC>o
+<TC>a
+<TC>war <TC>god's <TC>shield
+<TC>o
+<TC>alguns
+<TC>war <TC>god's <TC>shields
+<TC>o
+<TC>a
+<TC>pretty <TC>parasol
+<TC>o
+<TC>alguns
+<TC>pretty <TC>parasols
+<TC>o
+<TC>a
+<TC>wooden <TC>helmet
+<TC>o
+<TC>alguns
+<TC>wooden <TC>helmets
+<TC>o
+<TC>a
+<TC>pointy <TC>hat
+<TC>o
+<TC>alguns
+<TC>pointy <TC>hats
+<TC>o
+<TC>a
+<TC>soldier's <TC>helmet
+<TC>o
+<TC>alguns
+<TC>soldier's <TC>helmets
+<TC>o
+<TC>a
+<TC>champion's <TC>helm
+<TC>o
+<TC>alguns
+<TC>champion's <TC>helms
+<TC>o
+<TC>a
+<TC>blessed <TC>helm
+<TC>o
+<TC>alguns
+<TC>blessed <TC>helms
+<TC>o
+<TC>a
+<TC>helm of Hamelin
+<TC>o
+<TC>alguns
+<TC>helms of Hamelin
+<TC>o
+<TC>a
+<TC>war <TC>god's <TC>helm
+<TC>o
+<TC>alguns
+<TC>war <TC>god's <TC>helms
+<TC>o
+<TC>a
+Nazcaan <TC>helm
+<TC>o
+<TC>alguns
+Nazcaan helms
+<TC>o
+<TC>a
+<TC>leafy <TC>mantle
+<TC>o
+<TC>alguns
+<TC>leafy <TC>mantles
+<TC>o
+<TC>a
+<TC>snakeskin <TC>cloak
+<TC>o
+<TC>alguns
+<TC>snakeskin <TC>cloaks
+<TC>o
+<TC>a
+<TC>cloud <TC>cover
+<TC>o
+<TC>alguns
+<TC>cloud <TC>covers
+<TC>o
+<TC>a
+<TC>stripy <TC>cloak
+<TC>o
+<TC>alguns
+<TC>stripy <TC>cloaks
+<TC>o
+<TC>a
+<TC>sea <TC>breeze <TC>cloak
+<TC>o
+<TC>alguns
+<TC>sea <TC>breeze <TC>cloaks
+<TC>o
+<TC>a
+<TC>diva's <TC>mantle
+<TC>o
+<TC>alguns
+<TC>diva's <TC>mantles
+<TC>o
+<TC>a
+<TC>breezy <TC>cloak
+<TC>o
+<TC>alguns
+<TC>breezy <TC>cloaks
 <TC>o
 <TC>a
 <TC>caghoul
@@ -18518,380 +18518,380 @@ elmos de Nazcaän
 <TC>caghouls
 <TC>o
 <TC>a
-<TC>manto de <TC>homem verde <TC>
+<TC>green <TC>man's <TC>cloak
 <TC>o
 <TC>alguns
-<TC>mantos de <TC>homem verde <TC>
+<TC>green <TC>man's <TC>cloaks
 <TC>o
 <TC>um
-<TC>capa <TC>águia <TC>olho
-<TC>o
-<TC>algumas
-<TC>capas <TC>águia <TC>olho
-<TC>o
-<TC>a
-<TC>manto do <TC>campeão
+<TC>eagle <TC>eye <TC>cloak
 <TC>o
 <TC>alguns
-<TC>mantos do <TC>campeão
+<TC>eagle <TC>eye <TC>cloaks
 <TC>o
 <TC>a
-<TC>manto <TC>fantasma
+<TC>champion's <TC>cloak
 <TC>o
 <TC>alguns
-<TC>mantos <TC>fantasma
+<TC>champion's <TC>cloaks
+<TC>o
+<TC>a
+<TC>phantom <TC>mantle
+<TC>o
+<TC>alguns
+<TC>phantom <TC>mantles
 <TC>o
 <TC>um
-<TC>aurora <TC>manto
+<TC>aurora <TC>cloak
 <TC>o
 <TC>alguns
-<TC>mantos <TC>aurora
+<TC>aurora <TC>cloaks
 <TC>o
 <TC>a
-<TC>manto do <TC>necromante
+<TC>necromancer's <TC>mantle
 <TC>o
 <TC>alguns
-<TC>mantos do <TC>necromante
+<TC>necromancer's <TC>mantles
 <TC>o
 <TC>a
-<TC>manto <TC>crepúsculo 
+<TC>dusk <TC>mantle
 <TC>o
 <TC>alguns
-<TC>mantos <TC>crepúsculo
+<TC>dusk <TC>mantles
 <TC>o
 <TC>a
-<TC>manto <TC>pele de batida
+<TC>beast-<TC>hide <TC>cloak
 <TC>o
 <TC>alguns
-<TC>mantos <TC>pele de batida
+<TC>beast-<TC>hide <TC>cloaks
 <TC>o
 <TC>a
-<TC>manto <TC>ciclone
+<TC>cyclone <TC>cloak
 <TC>o
 <TC>alguns
-<TC>mantos <TC>ciclone
+<TC>cyclone <TC>cloaks
 <TC>o
 <TC>a
-<TC>manto celestial <TC>
+<TC>heavenly <TC>mantle
 <TC>o
 <TC>alguns
-<TC>mantos celestiais <TC>
+<TC>heavenly <TC>mantles
 <TC>o
 <TC>a
-<TC>dente de <TC>gigante
+<TC>giant's <TC>tooth
 <TC>o
 <TC>alguns
-<TC>dentes <TC>gigantes
+<TC>giant's <TC>teeth
 <TC>o
 <TC>a
-<TC>presa <TC>envenenada
+<TC>poisoned <TC>fang
 <TC>o
-<TC>algumas
-<TC>presas envenenadas <TC>
+<TC>alguns
+<TC>poisoned <TC>fangs
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>presas <TC>fera
+<TC>beast <TC>fangs
 <TC>o
-<TC>algumas
+<TC>alguns
 <TC>conjuntos de
-<TC>presas <TC>fera
+<TC>beast <TC>fangs
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>raspadores <TC>nix 
-<TC>o
-<TC>algumas
-<TC>conjuntos de
-<TC>raspadores <TC>nix 
-<TC>o
-<TC>a
-<TC>anel de dente <TC>
+<TC>nix <TC>gnashers
 <TC>o
 <TC>alguns
-<TC>anéis de dente <TC>
+<TC>conjuntos de
+<TC>nix <TC>gnashers
+<TC>o
+<TC>a
+<TC>soretooth <TC>ring
+<TC>o
+<TC>alguns
+<TC>soretooth <TC>rings
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>presas perfurantes <TC>
+<TC>piercing <TC>fangs
 <TC>o
 <TC>alguns
 <TC>conjuntos de
-<TC>presas perfurantes <TC>
+<TC>piercing <TC>fangs
 <TC>o
 <TC>a
-<TC>anel <TC>skullfang 
+<TC>skullfang <TC>ring
 <TC>o
 <TC>alguns
-<TC>anéis <TC>skullfang 
+<TC>skullfang <TC>rings
 <TC>o
 <TC>a
-<TC>anel dente de dragão <TC>
+<TC>dragonstooth <TC>ring
 <TC>o
 <TC>alguns
-<TC>anéis dente de dragão <TC>
+<TC>dragonstooth <TC>rings
 <TC>o
 <TC>a
-<TC>colar <TC>soulfang 
+<TC>soulfang <TC>necklace
 <TC>o
 <TC>alguns
-<TC>colares <TC>soulfang 
+<TC>soulfang <TC>necklaces
 <TC>o
 <TC>a
-<TC>presa do diabo <TC>
+<TC>devil's <TC>fang
 <TC>o
-<TC>algumas
-<TC>presas do <TC>diabo
+<TC>alguns
+<TC>devil's <TC>fangs
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>lobo <TC>presas
+<TC>wolf <TC>fangs
 <TC>o
 <TC>alguns
 <TC>conjuntos de
-<TC>lobo <TC>presas
+<TC>wolf <TC>fangs
 <TC>o
 <TC>a
-<TC>presa carmesim <TC>
-<TC>o
-<TC>algumas
-<TC>presas vermelhas <TC>
-<TC>o
-<TC>a
-<TC>anel <TC>presa de serpe 
+<TC>crimson <TC>fang
 <TC>o
 <TC>alguns
-<TC>anéis <TC>presa de serpe
+<TC>crimson <TC>fangs
+<TC>o
+<TC>a
+<TC>wyrmfang <TC>ring
+<TC>o
+<TC>alguns
+<TC>wyrmfang <TC>rings
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>dentes do grifo <TC>
+<TC>griffin's <TC>teeth
 <TC>o
 <TC>alguns
 <TC>conjuntos de
-<TC>dentes do grifo <TC>
+<TC>griffin's <TC>teeth
 <TC>o
 <TC>a
-<TC>presa do demônio <TC>
-<TC>o
-<TC>algumas
-<TC>presas do demônio <TC>
-<TC>o
-<TC>a
-<TC>dente branco <TC>de cervo <TC>
+<TC>fiend's <TC>fang
 <TC>o
 <TC>alguns
-<TC>dentes de veado <TC>branco
+<TC>fiend's <TC>fangs
+<TC>o
+<TC>a
+<TC>white <TC>stag's <TC>tooth
+<TC>o
+<TC>alguns
+<TC>white <TC>stag's <TC>teeth
 <TC>o
 <TC>a
 <TC>harrowfang
 <TC>o
-<TC>algumas
-<TC>dentes de grade
+<TC>alguns
+<TC>harrowfangs
 <TC>o
 <TC>a
-<TC>presa do comedor <TC>estrela
+<TC>star <TC>eater's <TC>fang
 <TC>o
-<TC>algumas
-<TC>presas do comedor <TC>estrela
-<TC>o
-<TC>a
-<TC>placas <TC>resistente
-<TC>o
-<TC>algumas
-<TC>escalas <TC>resistentes
+<TC>alguns
+<TC>star <TC>eater's <TC>fangs
 <TC>o
 <TC>a
-<TC>placas robusta <TC>
+<TC>sturdy <TC>scale
 <TC>o
-<TC>algumas
-<TC>escalas robustas <TC>
+<TC>alguns
+<TC>sturdy <TC>scales
+<TC>o
+<TC>a
+<TC>stalwart <TC>scale
+<TC>o
+<TC>alguns
+<TC>stalwart <TC>scales
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>escalas <TC>aço
+<TC>steel <TC>scales
 <TC>o
 <TC>alguns
 <TC>conjuntos de
-<TC>escalas <TC>aço
+<TC>steel <TC>scales
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>placas <TC>serpente <TC>tempestade
+<TC>storm <TC>serpent <TC>scales
 <TC>o
 <TC>alguns
 <TC>conjuntos de
-<TC>placas <TC>serpente <TC>tempestade
+<TC>storm <TC>serpent<TC> scales
 <TC>o
 <TC>a
-<TC>placas <TC>vidro de sombra
+<TC>shadowglass <TC>scale
 <TC>o
-<TC>algumas
-<TC>placas <TC>vidro de sombra
-<TC>o
-<TC>a
-<TC>placas <TC>azul <TC>profundo
-<TC>o
-<TC>algumas
-<TC>placas <TC>azuis <TC>profundo
+<TC>alguns
+<TC>shadowglass <TC>scales
 <TC>o
 <TC>a
-<TC>placa de salamandra <TC>
+<TC>deep <TC>blue <TC>scale
 <TC>o
-<TC>algumas
-<TC>placas <TC>salamandra 
+<TC>alguns
+<TC>deep <TC>blue <TC>scales
+<TC>o
+<TC>a
+<TC>salamander <TC>scale
+<TC>o
+<TC>alguns
+<TC>salamander <TC>scales
 <TC>o
 <TC>a
 <TC>conjunto de
-<TC>placas <TC>brilhantes
+<TC>shining <TC>scales
 <TC>o
 <TC>alguns
 <TC>conjuntos de
-<TC>placas <TC>brilhantes
+<TC>shining <TC>scales
 <TC>o
 <TC>a
-<TC>placas do rei <TC>wyrm
+<TC>wyrm <TC>king's <TC>scale
 <TC>o
-<TC>algumas
-<TC>placas do rei <TC>wyrm
-<TC>o
-<TC>a
-<TC>medalha de <TC>valor
-<TC>o
-<TC>algumas
-<TC>medalhas de <TC>valor
+<TC>alguns
+<TC>wyrm <TC>king's <TC>scales
 <TC>o
 <TC>a
-<TC>medalha de <TC>impunidade
+<TC>medal of <TC>valor
 <TC>o
-<TC>algumas
-<TC>medalhas de <TC>impunidade
-<TC>o
-<TC>a
-<TC>medalha de <TC>força
-<TC>o
-<TC>algumas
-<TC>medalhas de <TC>força
+<TC>alguns
+<TC>medals of <TC>valor
 <TC>o
 <TC>a
-<TC>medalha de <TC>destreza
+<TC>medal of <TC>impunity
 <TC>o
-<TC>algumas
-<TC>medalhas de <TC>destreza
-<TC>o
-<TC>a
-<TC>medalha de <TC>agilidade
-<TC>o
-<TC>algumas
-<TC>medalhas de <TC>agilidade
+<TC>alguns
+<TC>medals of <TC>impunity
 <TC>o
 <TC>a
-<TC>medalha de <TC>fortitude
+<TC>medal of <TC>strength
 <TC>o
-<TC>algumas
-<TC>medalhas de <TC>fortaleza
-<TC>o
-<TC>a
-<TC>medalha de <TC>firmeza
-<TC>o
-<TC>algumas
-<TC>medalhas de <TC>firmeza
+<TC>alguns
+<TC>medals of <TC>strength
 <TC>o
 <TC>a
-<TC>insígnia de Brinkman <TC>
+<TC>medal of <TC>dexterity
 <TC>o
-<TC>algumas
-<TC>insígnias de Brinkman <TC>
+<TC>alguns
+<TC>medals of <TC>dexterity
 <TC>o
 <TC>a
-<TC>insígnia do <TC>berserker
+<TC>medal of <TC>agility
 <TC>o
-<TC>algumas
-<TC>insígnias do <TC>berserker
+<TC>alguns
+<TC>medals of <TC>agility
+<TC>o
+<TC>a
+<TC>medal of <TC>fortitude
+<TC>o
+<TC>alguns
+<TC>medals of <TC>fortitude
+<TC>o
+<TC>a
+<TC>medal of <TC>steadfastness
+<TC>o
+<TC>alguns
+<TC>medals of <TC>steadfastness
+<TC>o
+<TC>a
+<TC>brinkman's <TC>badge
+<TC>o
+<TC>alguns
+<TC>brinkman's <TC>badges
+<TC>o
+<TC>a
+<TC>berserker's <TC>badge
+<TC>o
+<TC>alguns
+<TC>berserker's <TC>badges
 <TC>o
 <TC>um
-<TC>insígnia do <TC>vingador
+<TC>avenger's <TC>badge
 <TC>o
-<TC>algumas
-<TC>insígnias do <TC>vingador
-<TC>o
-<TC>a
-<TC>insígnia <TC>barreira
-<TC>o
-<TC>algumas
-<TC>insígnias <TC>barreira 
+<TC>alguns
+<TC>avenger's <TC>badges
 <TC>o
 <TC>a
-<TC>insígnia <TC>bastião
+<TC>barrier <TC>badge
 <TC>o
-<TC>algumas
-<TC>insígnias <TC>bastião
-<TC>o
-<TC>uma
-<TC>insígnia <TC>blindada
-<TC>o
-<TC>algumas
-<TC>insígnias <TC>blindada
+<TC>alguns
+<TC>barrier <TC>badges
 <TC>o
 <TC>a
-<TC>insígnia <TC>bravata
+<TC>bastion <TC>badge
 <TC>o
-<TC>algumas
-<TC>insígnias <TC>bravata
-<TC>o
-<TC>a
-<TC>insígnia do fanfarrão <TC>
-<TC>o
-<TC>algumas
-<TC>insígnias do fanfarrão <TC>
-<TC>o
-<TC>a
-<TC>insígnia do <TC>lutador
-<TC>o
-<TC>algumas
-<TC>insígnias do <TC>lutador
+<TC>alguns
+<TC>bastion <TC>badges
 <TC>o
 <TC>um
-<TC>insígnia <TC>inflexível 
-<TC>o
-<TC>algumas
-<TC>insígnias <TC>inflexíveis 
-<TC>o
-<TC>a
-<TC>insígnia <TC>braçadeira
-<TC>o
-<TC>algumas
-<TC>insígnias <TC>bracer 
-<TC>o
-<TC>a
-<TC>insígnia de <TC>cabeça-dura
-<TC>o
-<TC>algumas
-<TC>cabeça dura <TC>insígnias
-<TC>o
-<TC>a
-<TC>insígnia de <TC>sangue quente <TC>
-<TC>o
-<TC>algumas
-<TC>insígnias de <TC>sangue quente <TC>
-<TC>o
-<TC>a
-<TC>selo de <TC>fogo 
+<TC>ironclad <TC>badge
 <TC>o
 <TC>alguns
-<TC>selos de <TC>fogo 
+<TC>ironclad <TC>badges
 <TC>o
 <TC>a
-<TC>selo de <TC>água
+<TC>bravado <TC>badge
 <TC>o
 <TC>alguns
-<TC>selos de água <TC>
+<TC>bravado <TC>badges
 <TC>o
 <TC>a
-<TC>selo <TC>tempestade 
+<TC>braggart's <TC>badge
 <TC>o
 <TC>alguns
-<TC>selos <TC>tempestade
+<TC>braggart's <TC>badges
+<TC>o
+<TC>a
+<TC>battler's <TC>badge
+<TC>o
+<TC>alguns
+<TC>battler's <TC>badges
+<TC>o
+<TC>um
+<TC>adamant <TC>badge
+<TC>o
+<TC>alguns
+<TC>adamant <TC>badges
+<TC>o
+<TC>a
+<TC>bracer <TC>badge
+<TC>o
+<TC>alguns
+<TC>bracer <TC>badges
+<TC>o
+<TC>a
+<TC>hardheaded <TC>badge
+<TC>o
+<TC>alguns
+<TC>hardheaded <TC>badges
+<TC>o
+<TC>a
+<TC>hot-<TC>blooded <TC>badge
+<TC>o
+<TC>alguns
+<TC>hot-<TC>blooded <TC>badges
+<TC>o
+<TC>a
+<TC>fire <TC>seal
+<TC>o
+<TC>alguns
+<TC>fire <TC>seals
+<TC>o
+<TC>a
+<TC>water <TC>seal
+<TC>o
+<TC>alguns
+<TC>water <TC>seals
+<TC>o
+<TC>a
+<TC>storm <TC>seal
+<TC>o
+<TC>alguns
+<TC>storm <TC>seals
 <TC>o
 <TC>um
 <TC>omniseal
@@ -20094,7 +20094,7 @@ Bem, isso não chegou aqui por acaso.<NL>Deve ter algo a ver com as pedras!
 Ei, olha. Tem algo escrito nele...
 [nz_t][nz_a][nz_sp1][nz_t][nz_e][nz_r][nz_c][nz_e][nz_s][nz_e][nz_sp1]<NL>[nz_s][nz_t][nz_r][nz_a][nz_p][nz_m][nz_i][nz_p][nz_a][nz_m][nz_e][nz_sp1]<page><NL>[nz_t][nz_v][nz_o][nz_sp1][nz_i][nz_v][nz_v][nz_t][nz_o][nz_n][nz_s][nz_e][nz_i][nz_l]<NL>[nz_t][nz_r][nz_a][nz_e][nz_h][nz_s][nz_t][nz_i][nz_n] [nz_i][nz_t][nz_v][nz_b]
 O que é essa escrita engraçada?
-Nazcaän, não é!? E provavelmente nos diz onde essas pedras estão escondidas, e tudo! Devo decodificá-lo para você, <NL>Olliezinho?
+Nazcaan, não é!? E provavelmente nos diz onde essas pedras estão escondidas, e tudo! Devo decodificá-lo para você, <NL>Olliezinho?
 Sim, por favor, Sr. Drippy!
 Certo! Gis um segundo... Ahem! Ele diz...<NL>"O segredo que o mapa transmite,<NL>Não está fora, mas em seu coração."
 ...E isso significa o quê, exatamente?
@@ -22151,7 +22151,7 @@ Examinar o orbe negro?
 ......
 Obrigado por ter vindo, Oliver.<NL>Vamos continuar nossa história?
 Eu disse que contaria como os três Guardiões foram expulsos do reino. Como eles se tornaram maus...
-Abaixo do Rei, à frente do governo de Nazcaän, sentava-se o Conselho dos Doze, um grupo de senhores conhecidos como os "Zodiarcas".
+Abaixo do Rei, à frente do governo de Nazcaan, sentava-se o Conselho dos Doze, um grupo de senhores conhecidos como os "Zodiarcas".
 Eles eram responsáveis pelo dia-a-dia do reino e deveriam ser os conselheiros mais próximos do governante.
 Mas a ascensão do Rei Mago à proeminência foi uma fonte de consternação para o Conselho, que temia seu grande poder e a lealdade que ele comandava entre os Guardiões.
 assim, assim que Nazcaä foi reconstruída e a estabilidade restaurada, os Zodiarcas conspiraram para assassiná-lo. E a conspiração deles foi um sucesso...
@@ -30062,9 +30062,9 @@ Horácio! Isso significa... sua memória...?
 O que? O que é isso?<NL>Vamos, mun, cuspa!
 Ha ha. Paciência, miniatura. Ollie, aposto que você quer resolver outro enigma antes de eu contar, não é?
 É... eu acho...
-Você vê o monumento aqui?<NL>Tem algumas <color:#1>Runas Nazcaän</color> nele.
+Você vê o monumento aqui?<NL>Tem algumas <color:#1>Runas Nazcaan</color> nele.
 Eles são uma pista para algo no Companheiro do Mago. Você pode descobrir o que é?
-Você conseguiu <color:#1>decifrar as runas de Nazcaän</color>, Ollie?
+Você conseguiu <color:#1>decifrar as runas de Nazcaan</color>, Ollie?
 Eles são uma pista para algo no Companheiro do Mago. Você pode descobrir o que é?
 Você pode não perceber, mas já aprendeu...
 Isso mesmo! Muito bem!<NL>Estou muito impressionado, Ollie!
@@ -33245,21 +33245,21 @@ Ha ha! Não se preocupe comigo, Ollie! Há muitas coisas boas em ser um fantasma
 Rá! Levou-os? Ele não apenas os pegou, baixinho!<NL>Ele os ultrapassou com louvor!
 Ele fez, não é? Bem, valentão para ele! Venha e mostre-se para mim quando o chamarem de Sábio das Eras!
 Tão educado como sempre, pelo que vejo.<NL>Fulano de tal cabeça grande...
-De qualquer forma, parece que você está no caminho certo para se tornar um sábio agora, Ollie. Suponho que seu Nazcaän esteja indo bem também?
+De qualquer forma, parece que você está no caminho certo para se tornar um sábio agora, Ollie. Suponho que seu Nazcaan esteja indo bem também?
 Meu, hã...nas...car?
-“Nazcaän,” ele disse. É uma língua que as pessoas falavam há muito tempo. É muito antiga. Há pedaços dela em seu Companheiro do Mago, se você olhar.
+“Nazcaan,” ele disse. É uma língua que as pessoas falavam há muito tempo. É muito antiga. Há pedaços dela em seu Companheiro do Mago, se você olhar.
 Bem, bem! Afinal, você sabe de alguma coisa,<NL>seu bisbilhoteiro!
-Sim, o primeiro Companheiro do Mago foi escrito na escrita de Nazcaän...
-E ainda há pedaços dele em edições modernas como a sua também. É por isso que cada cópia contém um guia para o alfabeto Nazcaän!
+Sim, o primeiro Companheiro do Mago foi escrito na escrita de Nazcaan...
+E ainda há pedaços dele em edições modernas como a sua também. É por isso que cada cópia contém um guia para o alfabeto Nazcaan!
 Uau ... Isso é muito legal.
-Fico feliz que você pense assim, Ollie, porque preparei um quebra-cabeça especial para você - um que testará sua compreensão de Nazcaän!
+Fico feliz que você pense assim, Ollie, porque preparei um quebra-cabeça especial para você - um que testará sua compreensão de Nazcaan!
 Agora, abra seu Companheiro do Mago e abra a página intitulada <color:#1>As Ferramentas da Magia</color>.
-Se você olhar de perto, você verá alguma escrita antiga<NL>Nazcaän lá...
+Se você olhar de perto, você verá alguma escrita antiga<NL>Nazcaan lá...
 Sua tarefa é tentar decifrá-lo!<NL>Avise-me quando tiver resolvido!
-Você olhou a página intitulada <color:#1>As Ferramentas da Magia</color>? Você só precisa decifrar o <color:#1>Nazcaän</color> que está escrito lá!
-Estou falando do Nazcaän que na verdade faz parte da imagem original, é claro.
+Você olhou a página intitulada <color:#1>As Ferramentas da Magia</color>? Você só precisa decifrar o <color:#1>Nazcaan</color> que está escrito lá!
+Estou falando do Nazcaan que na verdade faz parte da imagem original, é claro.
 Qualquer outra coisa provavelmente são apenas rabiscos feitos por um aprendiz de mago entediado...
-O que é isso? Você não consegue ler Nazcaän? Há uma seção inteira que ensina como na parte de trás do<NL>Companheiro do Mago.
+O que é isso? Você não consegue ler Nazcaan? Há uma seção inteira que ensina como na parte de trás do<NL>Companheiro do Mago.
 Bom trabalho! Sim, nós, magos, devemos sempre usar túnicas tecidas com as fibras mais finas.
 As minhas são feitas de material da Árvore do Céu!<NL>Que tal isso?
 É sério? Que demais! Minhas roupas também são feitas da <NL>Árvore do Céu!
@@ -33699,11 +33699,11 @@ Mostra onde o encontraram pela primeira vez, tantos anos atrás.
 Pois é, tem um grande monumento de pedra em todos os lugares marcados no mapa viu, e cada um conta a história do tesouro que encontrou ali...
 Será?<NL>(suspiro) Eu estava tão ansioso para descobrir o tesouro pirata...
 Mas isso não é tudo! Havia alguma outra escrita estranha nos monumentos também.
-Sim. Duas letras Nazcaän em cada uma, não é?
+Sim. Duas letras Nazcaan em cada uma, não é?
 Sério!? É algum tipo de pista, tenho certeza!
 Se as letras forem colocadas na ordem certa, talvez elas revelem a localização de todo o tesouro!
 Uau! Quanta inteligência!
-Bem, anotamos todos os Nazcaän que vimos, então...
+Bem, anotamos todos os Nazcaan que vimos, então...
 O que!? Por favor, mostre-me!<NL>Permita-me ler o que diz!
 Portanto, a escrita nos monumentos diz:<NL>[nz_1][nz_k], [nz_4][nz_l], [nz_7][nz_3], [nz_3][nz_b], [nz_6][nz_i], [nz_5][nz_a], [nz_2][nz_v]...
 Mas que droga, não consigo entender nada disso, mun!
@@ -34976,21 +34976,21 @@ Bem, tivemos um dragão para nos trazer aqui. Deve ter sido difícil para você,
 Que dureza! Uma das grandes coisas de ser um fantasma é que posso ir a praticamente qualquer lugar.
 De qualquer forma, dê uma olhada nas palavras neste quadro aqui. Eles estão escritos em letras engraçadas, não estão?
 Esses são da Idade da Pedra Sagely. Esta cidade é tão remota que ainda existem vestígios desses tempos aqui.
-Crikey! Eu não posso fazer cabeça nem cauda dessa escrita instável. Acho que eles se parecem um pouco com Nazcaän, agora que penso nisso.
-Talvez você não seja tão estúpido quanto parece, bisbilhoteiro. Na verdade, eles são baseados nas runas de Nazcaän.
-E por falar em Nazcaän, já faz um tempo desde que te dei algo para decifrar.
-Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mago, encontrará pedaços de Nazcaän aqui e ali.
+Crikey! Eu não posso fazer cabeça nem cauda dessa escrita instável. Acho que eles se parecem um pouco com Nazcaan, agora que penso nisso.
+Talvez você não seja tão estúpido quanto parece, bisbilhoteiro. Na verdade, eles são baseados nas runas de Nazcaan.
+E por falar em Nazcaan, já faz um tempo desde que te dei algo para decifrar.
+Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mago, encontrará pedaços de Nazcaan aqui e ali.
 Existe <color:#1>um certo personagem que só aparece em um local</color>. Minha pergunta é: <color:#1>onde</color> está?
 Não se preocupe, este não é tão difícil quanto parece. Bem, não exatamente! Heh heh! Quando resolver, me avise.
 Você já resolveu, Ollie?<NL>Deixe-me fazer a pergunta novamente.
-Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mago, encontrará pedaços de Nazcaän aqui e ali.
+Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mago, encontrará pedaços de Nazcaan aqui e ali.
 Existe <color:#1>um certo personagem que só aparece em um local</color>. A pergunta é: <color:#1>onde</color> está?
-Lembre-se, só porque é Nazcaän, não significa que seja longo. Não estou pedindo para você vasculhar um poema antigo ou algo assim. Ou mesmo uma palavra inteira...
-Deixa comigo, Ollie! Cada área marcada nos mapas corresponde a um número escrito em Nazcaän.
+Lembre-se, só porque é Nazcaan, não significa que seja longo. Não estou pedindo para você vasculhar um poema antigo ou algo assim. Ou mesmo uma palavra inteira...
+Deixa comigo, Ollie! Cada área marcada nos mapas corresponde a um número escrito em Nazcaan.
 E o único caractere que aparece uma vez é o "6" ao lado de "Jabal al-Dukhan".
 Parece que você está realmente conhecendo o Companheiro do Mago. Acho que isso merece uma recompensa!
 Puxa! Obrigado, Horácio! Tenho certeza que será muito útil!
-Ah, posso te perguntar uma coisa? Você sabe alguma coisa sobre uma pequena ilha que tem um monumento com a inscrição Nazcaän?
+Ah, posso te perguntar uma coisa? Você sabe alguma coisa sobre uma pequena ilha que tem um monumento com a inscrição Nazcaan?
 No mar, a oeste de Recanto das Fadas, está.<NL>Você sabe o que queremos dizer?
 A oeste do Recanto das Fadas? Hmm... Oh, acho que houve uma grande batalha lá durante as Guerras dos Magos.
 Mas tenho certeza que costumava haver uma ilha muito maior lá. De onde pode ter surgido este novo?
@@ -37146,7 +37146,7 @@ Vá e encontre os três locais restantes.
 Vá e encontre os dois locais restantes.
 Vá e encontre o último local restante.
 Informe o garoto em Castaway.
-Decodifique o Nazcaän que foi escrito nos monumentos.
+Decodifique o Nazcaan que foi escrito nos monumentos.
 Vá falar com Kublai Khan.
 Procure uma ilha que não pode ser alcançada de barco.
 Informe o garoto em Castaway.
@@ -37246,7 +37246,7 @@ Nomeie a poderosa cobra que serviu ao Rei Mago.
 Vá e fale com o Sábio das Eras novamente.
 Digite o nome da pessoa cujo futuro está previsto.
 Vá e fale com o Sábio das Eras novamente.
-Decodifique a inscrição Nazcaän na varinha.
+Decodifique a inscrição Nazcaan na varinha.
 Vá e fale com o Sábio das Eras novamente.
 Nomeie o livro que o Sábio das Eras escreveu.
 Missão concluída!
@@ -38295,7 +38295,7 @@ A opção <color:#1>Configurações</color> agora está disponível no Menu Prin
 Você assumiu o Juramento do Mago e agora conhece<NL>a sabedoria atemporal do <color:#1>Companheiro do Mago</color>!
 Agora você pode usar o <color:#1>mapa do mundo</color>!
 Drippy finalmente se recompôs e agora pode usar a habilidade <color:#8>Tidy Tears</color>!
-Tengri agora pode pousar nas <color:#1>planícies de Nazcaän</color>!
+Tengri agora pode pousar nas <color:#1>planícies de Nazcaan</color>!
 Você recebeu algumas novas receitas de alquimia!<NL>Vá até o caldeirão para experimentá-las!
 Você recebeu uma nova receita de alquimia!<NL>Vá até o caldeirão para experimentá-la!
 Você recebeu a receita para a Harpa do Arauto!
