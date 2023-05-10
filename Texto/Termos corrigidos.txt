@@ -31,7 +31,7 @@ Adaptação de termos:
 
 Cat's Cradle = Cama de Gato ou Berço do Gato, é uma pousada do jogo.
 Solutions Swift = Soluções Rápidas (nome de uma loja no game)
-Telling Stone = Pode ser mesmo Pedra Reveladora, ela informa as estaticas do Oliveir e da dicas.
+Telling Stone = Pedra Falante.
 Spring Lock =  pode ser Abra-Tudo.  E um feitiço para abrir báus e portas trancadas.
 Guilder  = Dinheiro do jogo, deixar como está.
 familiar = deixar como está, seria algo que você doma ele, e pode evoluir, parecido com Pokémon.
@@ -79,6 +79,7 @@ Creature Cage = Gaiola de Criaturas
 Familiar Retreat = Refúgio dos Familiares
 Miracle Move = Movimento Milagroso
 Encosta Abandonada = Castaway
+Old Father Oak = Carvalho Ancião
 
 Feitiços
 Rejuvenate = Renovar
