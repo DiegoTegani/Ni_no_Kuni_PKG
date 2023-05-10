@@ -4263,7 +4263,7 @@ Loja de Hamelin Cawtermaster
 Caldeirão Alquímico
 Caldeirão Alquímico
 Loja de Ferramentas de Al Mamoon e outros lugares
-Loja do Fairyground Cawtermaster
+Loja da Terra das Fadas Cawtermaster
 Encosta Abandonada Peddler
 Caldeirão Alquímico
 Loja de Hamelin Cawtermaster
@@ -4272,12 +4272,12 @@ Caldeirão Alquímico
 Caldeirão Alquímico
 Loja de Ferramentas de Al Mamoon e outros lugares
 Loja de Hamelin Cawtermaster
-Loja do Fairyground Cawtermaster
+Loja da Terra das Fadas Cawtermaster
 Caldeirão Alquímico
 Caldeirão Alquímico
 Caldeirão Alquímico
 Loja de Hamelin Cawtermaster
-Loja do Fairyground Cawtermaster
+Loja da Terra das Fadas Cawtermaster
 Loja de Ferramentas de Al Mamoon e outros lugares
 Encosta Abandonada Peddler
 Loja de Hamelin Cawtermaster
@@ -4339,7 +4339,7 @@ Ele acabou de sair com algumas entregas para mim.
 Duvido que ele tenha ido longe.
 Obrigado, Dona Leila!
 Oh! Diga "Oi" para sua mãe por mim!
-Com certeza Dona Leila!
+Com certeza, Dona Leila!
 
 eva0025_text_en.cfg.bin.txt
 Ei! Ollie!
@@ -5674,14 +5674,14 @@ evb0260_text_en.cfg.bin.txt
 Então foi você quem entregou o tesouro de alguém<NL>de volta para um, mmm?
 <KEEP>
 Isso mesmo.
-S-Sim, vossa Miaujestade.
+S-Sim, Vossa Miaujestade.
 E?
 Você deseja um ronronar, mmm?
 「…」
 Vá em frente, mun!
 Pergunte a ele!
 Vamos lá, não seja tímido...
-Bem, vossa Miaujestade...
+Bem, Vossa Miaujestade...
 Desembucha logo! Agora!
 Precisamos da sua varinha!
 「…」
@@ -5793,7 +5793,7 @@ Mmmmyah-ho-ho! Você deve aproveitar os feitiços que tanto inspiraram alguém n
 Aquele que desbloqueia as coisas e que restaura as coisas à sua antiga glória, hein? O que você costumava fazer com isso, Vossa Miaujestade?
 Hummm? Não é da sua conta, fada!<NL>Agora, rapaz, você viaja com um familiar, não é?
 Alguém mandou um recado para a <color:#1>Loja do Cawtermaster</color> <NL>na cidade que você receberá permissão para fazer<NL>compras lá.
-A Loja do Cawtermaster?<NL>Que tipo de lugar é esse, Vossa Majestade?
+A Loja do Cawtermaster?<NL>Que tipo de lugar é esse, Vossa Miaujestade?
 Você tem certeza de que é um aventureiro?<NL>Não se pode deixar de temer pela segurança<NL>de alguém tão inocente...
 Não importa. A Loja do Cawtermaster fornece <NL><color:#1>armas e equipamentos</color> para o uso de Familiares.
 Por que não dar uma olhada nos purrodutos em oferta enquanto se procura a própria varinha, hm?
@@ -6066,7 +6066,7 @@ Vossa Miaujestade...
 Você foi e deu a varinha a ele agora.<NL>Não há como voltar atrás.
 ...Alguém acha que sim.
 <KEEP>
-Não se preocupe, Miaujestade!<NL>Vou derrubar Shadar, você vai ver!
+Não se preocupe, Vossa Miaujestade!<NL>Vou derrubar Shadar, você vai ver!
 <KEEP>
 Agora, para ajudar alguém em uma hora de necessidade, deixe-o também ronronar com alguma nova magia. Alguém espera que seja útil.
 Crikey! Obrigado novamente, Vossa Miaujestade! Mal posso esperar para experimentar! Vou me tornar o melhor mago de todos os tempos!
@@ -7490,7 +7490,7 @@ Mas enfim, por que você está aqui na loja da<NL>Dona Leila, Myrtle?
 Hee hee! Eu trabalho aqui agora!
 A Dona Leila e a minha mãe são amigas, e quando ela soube que eu estava melhor, ela disse que eu deveria vir trabalhar para ela.
 Puxa, isso é muito legal da parte dela...
-Diga, Myrtle, a dona Leila está por aí?
+Diga, Myrtle, a Dona Leila está por aí?
 Claro. Ela está ocupada treinando agora, mas tenho certeza que ela estará de volta em breve.
 O q... Dona Leila?<NL>Treinando?
 Isso mesmo.<NL>Ela começou a correr.
@@ -7501,7 +7501,7 @@ Haa... Haa...<NL>Myrtle! Voltei!
 Ora, se não é o jovem Oliver!<NL>Olá, querido!
 Bom dia, Dona Leila!
 Myrtle!<NL>Não posso esperar mais! Você poderia...?
-Sim, dona Leila!<NL>Vou buscar agora mesmo!
+Sim, Dona Leila!<NL>Vou buscar agora mesmo!
 Ai não adianta! Eu simplesmente não posso esperar tanto tempo! Tenho alguns na loja, querida. Você fica aqui fora e limpa ou algo assim...
 Nossa! Nunca vi ninguém tão louca por sua <NL>comida favorita...
 O que foi isso?<NL>Ela disse "comida favorita"?
@@ -8127,7 +8127,7 @@ Você está certo, mun! Drippy, mun!<NL>O que você está fazendo aí?
 Oh. Hum, como vão, rapazes?<NL>Quanto tempo...
 Drippyzinho...?
 Espere, isso é...?
-Gah, tudo bem, mun! Sim! Está bem? Bem-vindo ao Recinto das fadas, floresta do povo fada e terra de meus pais!
+Gah, tudo bem, mun! Sim! Está bem? Bem-vindo a Terra das Fadas, floresta do povo fada e terra de meus pais!
 Bem, mães realmente, mas...
 O que!?
 Sem chance!
@@ -8222,10 +8222,10 @@ Então não podemos ajudar? Deixa para lá. De qualquer forma, não queríamos v
 Não, não vamos!<NL>Drippy, temos que fazer alguma coisa!
 Você está certo. Bem preocupada com esses pequeninos, estou... Vamos procurar alguém que faça a velha rir, certo?
 Mas como?<NL>Não entendo nada de comédia...
-Bem, há um teatro famoso perto do Recanto das Fadas, onde nós, as fadas, mostramos nossos dentes cômicos.<NL>Chamado de <color:#1>Clube Bocalarga</color>, é.
+Bem, há um teatro famoso perto da Terra das Fadas, onde nós, as fadas, mostramos nossos dentes cômicos.<NL>Chamado de <color:#1>Clube da Caverna</color>, é.
 E como ensinei a alguns dos meninos tudo o que eles sabem, acho que eles ficarão felizes em nos ajudar em nossa hilária missão!
 Você os ensinou?<NL>Isso eu tenho que ver!
-Tudo bem!<NL>Vamos procurar o <color:#1>Clube Bocalarga</color>!
+Tudo bem!<NL>Vamos procurar o <color:#1>Clube da Caverna</color>!
 Obrigada, amores!<NL>Conto com vocês!
 
 eve0070_text_en.cfg.bin.txt
@@ -8675,7 +8675,7 @@ Feras horríveis apareceram e estão intimidando todos os pequeninos, os podres!
 Isso é horrível!<NL>Temos que ajudá-los!
 Por favor, mun! Por favor, mun!<NL>Por favor, por favor, por favor!
 Claro que vamos ajudá-los. Nem é preciso dizer, não é?<NL>Só estou me perguntando como essas feras entraram aqui <NL>em primeiro lugar...
-...Ele poderia ter feito todo o caminho até o Recanto das Fadas? Shadar?
+...Ele poderia ter feito todo o caminho até a Terra das Fadas? Shadar?
 É possível, suponho, sim...<NL>Mas se ele conseguiu passar pela mamãe...
 A julgar pelo que o vimos fazer naquela tempestade,<NL>não acho que passar por sua mãe seria um grande<NL>desafio.
 Não importa como eles entraram.<NL>O que importa agora é salvar os pequeninos!
@@ -8756,7 +8756,7 @@ O que!?
 Sim, nós vamos sair junto com os pequeninos!<NL>Vamos lá, mun - você só vive uma vez!
 E você só deveria nascer uma vez também, seu pequeno gnomo demente! O que você está sugerindo!?
 Seus humanos invejosos são tão bisonhos! É assim, veja - logo adiante daqui é a saída de mamãe. É de onde nascem os pequeninos, não é?
-E se sairmos com eles, estaremos de volta ao Recanto das Fadas antes que você perceba! Além disso, não é como se tivéssemos muita escolha no assunto...
+E se sairmos com eles, estaremos de volta a Terra das Fadas antes que você perceba! Além disso, não é como se tivéssemos muita escolha no assunto...
 "Apenas saia"!?<NL>Você está bravo!?
 Poppy toppy! Tidy ridy!<NL>Wahey!
 Poxa... não sei nada sobre isso...
@@ -8923,7 +8923,7 @@ Hup!
 Você não está esquecendo de alguém?
 Haa... Haa...<NL>Ufa! Estou cagado, mun!
 Você está tentando sair sem mim ou algo assim?
-Mas... Drippy... Achamos que você queria ficar lá no Recanto das Fadas.
+Mas... Drippy... Achamos que você queria ficar lá na Terra das Fadas.
 Quem te disse isso, mun? E quando, exatamente?<NL>Quero nomes, datas, horários!
 Nós apenas pensamos... que todos os seus amigos estão lá.
 Claro que estão, mun! E eles são muito queridos para mim - <NL>até mesmo os estúpidos!
@@ -10318,7 +10318,7 @@ Hehe. Não vai ser fácil, mas algo me diz que ele vai conseguir.
 Claro que ele vai!<NL>Especialmente agora que o ajudamos no caminho!
 ...Oh não!<NL>Eu tenho que voltar para a loja!
 Hein?<NL>O que há de errado, Myrtle?
-Eu estava no meio da abertura!<NL>A dona Leila vai ficar furiosa!
+Eu estava no meio da abertura!<NL>A Dona Leila vai ficar furiosa!
 O que... Você estava trabalhando?<NL>Que coisa! Você precisa voltar lá!
 Heh heh. Ela é tão facilmente distraída quanto uma certa pessoa que eu poderia mencionar...
 Oh, sim? E quem poderia ser?
@@ -11341,8 +11341,8 @@ Espere um segundo! Os Pântanos de Miasma?<NL>E-eu...
 O que é, Ester? Você já ouviu falar deles?
 É algo de que meu pai falou uma vez. Ele me contou de uma névoa tão escura que nenhuma luz podia penetrá-la...<NL>o miasma.
 Ele disse que a única maneira de limpá-lo era com a chamada do <color:#1>Triflauta</color>.
-O Triflauta! Lembro de você dizer que seríamos nós a tocá-lo novamente, Esther!
-Sim! O Triflauta é um símbolo de paz que foi criado pelos três reis deste mundo. Agora, qual era a rima...?
+A Triflauta! Lembro de você dizer que seríamos nós a tocá-lo novamente, Esther!
+Sim! A Triflauta é um símbolo de paz que foi criado pelos três reis deste mundo. Agora, qual era a rima...?
 Em Ding Dong Dell entalham com zelo, a madeira de Mamooni no cutelo. Levam para Hamelin com prazer, para fazê-la soar, de encher de prazer!
 Estou impressionado com seu conhecimento, Esther.<NL>Mas então, você é a filha de um Grande Sábio.
 Ah, é só uma rima que aprendi quando era pequena...
@@ -11529,7 +11529,7 @@ Certo! Vamos voltar para <color:#1>Ding Dong Dell</color>!
 
 evk0268_text_en.cfg.bin.txt
 Ah, você está de volta.
-Apanhámos um ladrão.<NL>Vamos lá, pequenino! Confesse!
+Apanhámos um ladrão.<NL>Vamos lá, miniatura! Confesse!
 Este pedaço de madeira! Fui eu!<NL>que roubei!
 Você roubou isto? Um garotinho como você?
 Ele confessou, não foi? Aquele rato roubou e vendeu para você, o canalha.
@@ -11639,7 +11639,7 @@ Sim, Mestre!
 Eu lhe confiei a verdade, não foi?
 <KEEP>
 Sim, mestre. Eu tenho ela aqui, o Armadilha de Almas.
-O Triflauta soou. O miasma não existe mais.
+A Triflauta soou. O miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
@@ -11664,7 +11664,7 @@ Sim, Mestre!
 Eu te confiei a verdade,
 Não foi?
 Sim mestre, Eu o tenho ela aqui, na Armadilha de Almas.
-O Triflauta soou, o miasma não existe mais.
+A Triflauta soou, o miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
@@ -11686,7 +11686,7 @@ Sim mestre!
 Eu te confiei a verdade,
 Não foi?
 Sim mestre, eu o tenho aqui, na Armadilha de Almas.
-O Triflauta soou, o miasma não existe mais.
+A Triflauta soou, o miasma não existe mais.
 Este não é o momento perfeito para... esclarecer as coisas?
 De fato é, Mestre!
 Mostre a ele!
@@ -12330,7 +12330,7 @@ Onde foi parar o limpador de ouvido real?
 Limpador de ouvido!?
 Mas Vossa Miaujestade!!!
 Rei Hickory! Se apresse!
-Calma lá, seu pirralho!
+Calma lá, sua miniatura!
 Eu ainda estou cheio de hematomas depois de lutar contra você-sabe-quem.
 Não se preocupe!<NL>Rei Tom certamente vai pedir um cessar-fogo hoje.
 Yaaaaargh!
@@ -12737,7 +12737,7 @@ Miaauu!?<NL>Não me lembrar de nada...
 Está tudo bem agora, Sr. Gato!
 "Sr. Gato"!? Cuidado!<NL>Este aqui é o rei de um reino!
 Tais trivialidades não são de preocupação para mim no momento, fada. Estou mais preocupado com minha perda total de memória...
-Não se preocupe! Você está bem agora, Miaujestade! <NL>Pea salvou você e todos os habitantes da cidade também!
+Não se preocupe! Você está bem agora, Vossa Miaujestade! <NL>Pea salvou você e todos os habitantes da cidade também!
 É isso mesmo? Então deve-se sacudir a poeira e colocar o reino em ordem.
 Belezura! Deixa tudo nas suas patas habilidosas, Vossa Miaujestade. Olliezinho, de volta ao Serpe!
 
@@ -16288,8 +16288,8 @@ o
 alguns
 pieces of
 carved holy wood
-o Clarion
-Clarions
+a Triflauta
+Triflautas
 <TC>o
 <TC>o
 Flower of Youth
@@ -19080,7 +19080,7 @@ Invoca calamidade e escuridão, mergulhando tudo em desespero.
 Um feitiço cujo nome existe apenas em lendas, e que só as varinhas mais lendárias podem lançar.
 Abala a terra com um tremor violento, danificando inimigos e até derrubando prédios.
 Cria uma maçã envenenada que induz a um estado semelhante à morte quando consumida.
-Dá vida a vassouras, varredores de nuvem e outros objetos semelhantes a escovas.
+Dá vida a vassouras, Varredora de Nuvens e outros objetos semelhantes a escovas.
 Trás os mortos de volta à vida, mas a um alto custo. O uso desse feitiço é proibido.
 Envia esferas de luz para punir os malfeitores. O feitiço que dá nome à lendária varinha.
 Estrela caída
@@ -19360,7 +19360,7 @@ Estrela da Manhã Renascido
 A Floresta Sagrada
 Pip e Phil
 A Ambição de Phil
-O Clarim
+A Triflauta
 Enfrentando os Pântanos de Miasma
 O Plano de Shadar
 O Que É Este Lugar?
@@ -19474,7 +19474,7 @@ Os adultos aqui em Motorville são todos cidadãos respeitáveis. Se você ouvir
 Ufa! Minhas primeiras férias em meses! Vou aproveitar ao máximo fazendo absolutamente nada! Nada! Nada mesmo!
 Você gosta do que fizeram com a praça da cidade?<NL>Levo a esposa e os filhos lá com frequência. É bom ter um espaço aberto bem no centro da cidade.
 Mal posso esperar pela hora do jantar!<NL>Comprei uma deliciosa refeição pronta na TV, sabe...
-Ai, esqueci de comprar leite na loja da senhora Leila! O que é o jantar sem um bom copo de leite, não é mesmo?
+Ai, esqueci de comprar leite na loja da Dona Leila! O que é o jantar sem um bom copo de leite, não é mesmo?
 Nossa, essas batatas estão tão baratas! Talvez eu faça umas batatas fritas saudáveis para as crianças...
 Gosta do meu carro esportivo?<NL>Ela é uma beleza, não é?<NL>E novinha em folha também!
 Talvez um dia você consiga comprar seu próprio carro e ficar tão legal quanto eu, moleque!
@@ -19641,7 +19641,7 @@ pla-b_010_010-t01_npc_text_en.cfg.bin.txt
 Oh, Oliver... Vendo você, eu...<NL>Eu simplesmente não sei o que dizer, querido...
 Está tudo bem, Dona Leila.<NL>...Estou bem agora!
 Você é? Bem, fico feliz em ouvir isso, docinho... mas se houver algo que eu possa fazer, é só me avisar, certo?
-Na verdade, há algo que você pode fazer por mim agora, Srta. Leila, você pode me dizer onde Timmy está. Ele está aqui na loja?
+Na verdade, há algo que você pode fazer por mim agora, Dona Leila, você pode me dizer onde Timmy está. Ele está aqui na loja?
 Bem, agora que você mencionou, acho que não o vi... Timmy! ...Timmy! Onde está meu Timmy Toldrum?
 Ele deve ter fugido para algum lugar, o pequeno malandro...
 Ele provavelmente foi explorar, hein...
@@ -19653,7 +19653,7 @@ Rastreie Timmy e você certamente encontrará...
 Há afiada de você! E este aqui é o seu patch, não é? Você conhece como a palma da sua mão!
 Uh-huh! Vou resolver o Caso do Gato Desaparecido num piscar de olhos!
 Sinto muito por não poder te ajudar, docinho...
-Mas você ajudou!<NL>Obrigado, Srta. Leila!
+Mas você ajudou!<NL>Obrigado, Dona Leila!
 Eu... eu fiz...? Bem, tudo bem então.<NL>Adeus, docinho!
 Tchau, Dona Leila!
 Certo, Olliezinho. Vamos começar onde você sabe melhor, certo? Ao redor de sua casa, quero dizer.
@@ -19780,7 +19780,7 @@ Você tem certeza de que é tudo o que você precisa para melhorar o meu marido?
 Graças a Deus...<NL>Meu marido finalmente voltou...
 Meu marido, e agora minha filha também...<NL>É... É como um sonho se tornando realidade...
 Isso tudo é graças a você, não é?
-Ora, olá, Oliver!<NL>Você já esteve na loja da Srta. Leila?
+Ora, olá, Oliver!<NL>Você já esteve na loja da Dona Leila?
 Se ainda não o fez, terá uma surpresa!<NL>Hee hee!
 Eu não faço ideia do que tá acontecendo com o Denny do lado. Ele e a Myrtle eram super amigos, mas ultimamente ele só tem ficado em casa...
 Você acha que é a mesma coisa que aconteceu com a Myrtle? Será que tem algo que eu possa fazer pra ajudar?
@@ -19806,7 +19806,7 @@ Muito obrigado por ajudá-lo, Oliver!<NL>Você salvou o dia de novo!
 Sabe, observar você quase me faz acreditar em mágica...
 Oliver, eu... eu cometi um erro no trabalho...
 Eu pedi muito queijo.<NL>E eu estava tão chateado comigo mesmo...
-Mas não adianta ficar chateado por muito tempo. E além disso, a dona Leila parecia meio feliz com isso...
+Mas não adianta ficar chateado por muito tempo. E além disso, a Dona Leila parecia meio feliz com isso...
 Você é amigo de Philip, não é, Oliver? Eu sempre via vocês juntos pela minha janela.
 Eu estava com um pouco de inveja de vocês dois...<NL>Mas agora eu tenho muitos amigos - incluindo você!
 Algo está diferente em você, Oliver.<NL>Você parece mais adulto de alguma forma...<NL>Mais alto, talvez...? Mais...
@@ -19826,7 +19826,7 @@ Mas um dia, vou ultrapassá-los!<NL>Não vou parar de treinar até conseguir!
 Ei, Oliver...<NL>Eu, hã... eu sonhei com você na outra noite...
 Você estava muito triste, assim como eu naquela vez, e não podia fazer nada.
 Mas parece que você está bem!<NL>Afinal, foi só um sonho idiota!
-Muitas vezes vejo dona Leila quando estou correndo pela praça da cidade. Às vezes até corremos juntos.
+Muitas vezes vejo Dona Leila quando estou correndo pela praça da cidade. Às vezes até corremos juntos.
 Mas comer cheeseburgers enquanto você está correndo acaba com o objetivo...
 Quando estou correndo o mais rápido possível, às vezes sinto que poderia levantar do chão e começar a voar.
 Imagine, apenas voando pelo céu, com o mundo inteiro estendido abaixo de você... Isso seria tão, tão legal!
@@ -19849,7 +19849,7 @@ Eu também sonho em voar...<NL>Ei! Você está rindo de mim!? Grrr!
 Meoooooowww!
 Hummeowww!?
 Hmmmyuh!?<NL>Você pode entender um?
-É preciso desculpar-se pelo inconveniente que lhe causou outro dia. Obrigado por levar uma de volta para a Srta. Leila.
+É preciso desculpar-se pelo inconveniente que lhe causou outro dia. Obrigado por levar uma de volta para a Dona Leila.
 Hã? Oh... Oh, tudo bem.<NL>Foi um prazer.
 Um está em dívida com você e eternamente a seu serviço.
 Nossa... Então é assim que o Timmy fala, hein?
@@ -20141,9 +20141,9 @@ Sim! Viemos ver o Rei!
 Ah. Você está atrás de uma audiência com King Tom, não é?<NL>Bem, eu ficaria mais do que feliz em deixá-lo passar...
 Mas temo que isso não seja possível no momento.
 Hã!? M-Mas...por quê?
-Um dos infelizes ajudantes do rei permitiu que o amado peixe de estimação de Sua Meowjesty escapasse para o fosso do palácio.
+Um dos infelizes ajudantes do rei permitiu que o amado peixe de estimação de Vossa Miaujestade escapasse para o fosso do palácio.
 Esse <color:#1>red herring</color> é o orgulho e a alegria do rei - e uma espécie altamente ameaçada, para começar...
-Duvido que Seu Meowjesty seria capaz de substituir este se ele o perdesse... O que aquele ajudante dele estava pensando, eu não sei.
+Duvido que Vossa Miaujestade seria capaz de substituir este se ele o perdesse... O que aquele ajudante dele estava pensando, eu não sei.
 De qualquer forma, para encurtar a história, todos no castelo estão ocupados procurando pelo <color:#1>red herring</color> do Rei no momento. Aconselho-te a voltar outro dia.
 Uh, tudo bem...<NL>O que vamos fazer, Sr. Drippy?
 O fosso do palácio, não é? Hmm... Se não me engano, esse fosso está ligado a alguns dos rios que cortam a cidade...
@@ -20186,14 +20186,14 @@ Isso mesmo, mano! Seu <color:#1>entusiasmo</color> vai animar o passo de todos, 
 Que bom ouvir isso!<NL>Até lá, porém, é melhor eu ficar aqui e ficar de olho nos ratos!
 Tudo bem! Até logo, Tommy!
 Hum? Mmmmyoh... Você de novo.<NL>A gente está ficando cansado dessas interrupções constantes...
-D-Desculpe, Meowjesty.<NL>É só que temos algo para você...
+D-Desculpe, Vossa Miaujestade.<NL>É só que temos algo para você...
 Sim, escolhemos especialmente para você, Catface! Vai acabar com aquele cansaço de vocês rapidinho! Dar-lhe um novo sopro de vida, ele vai! Dentes fortes, pelo brilhante—
 Eu não tenho certeza se isso é—
 Mmmyohhh! Isso soa bem!<NL>Esta fadiga maldita será a morte de uma pessoa.<NL>Lidar com todos esses visitantes cobrou seu preço...
-Não se preocupe, Youer Meowjesty!<NL>Um pouco de <color:#1>entusiasmo</color> é tudo que você precisa, não é!?
+Não se preocupe, Vossa Miaujestade<NL>Um pouco de <color:#1>entusiasmo</color> é tudo que você precisa, não é!?
 Hum? Alguém pensou que você daria algo para curar a fadiga?
 Vamos, Olliezinho! Pegue sua varinha e devolva ao Rei seu <color:#1>entusiasmo</color>, não é!?
-Cau, é você! Seu Meowjesty me informou que você viria. Ele me instruiu a vender tudo o que você precisa - e estou mais do que feliz em persuadir!
+Cau, é você! Vossa Miaujestade me informou que você viria. Ele me instruiu a vender tudo o que você precisa - e estou mais do que feliz em persuadir!
 Então tenha uma torre por perto! Tenho certeza que você encontrará algo aqui para <color:#1>equipar seus Familiares</color>.
 ...Equipar meus Familiares?<NL>Como assim, senhor?
 Ah... Parece que cabe uma explicação.<NL>Muito bem, então. Aqui não canta nada...
@@ -20205,7 +20205,7 @@ Sim, acho que ele provavelmente já o encontrou!
 Acho que sim, Olliezinho. Vamos, vamos para o <color:#1>palácio</color>!
 Mmmyaaahhh... (bocejo)<NL>Alguém já te disse: você pode não ter a varinha!
 Obrigado por tudo!<NL>A pessoa deve procurar sua varinha imediatamente.
-Eu esperava que Sua Meowjesty ficasse muito feliz por ter seu amado red herring devolvido a ele. Infelizmente, ele parece tão apático como sempre...
+Eu esperava que Vossa Miaujestade ficasse muito feliz por ter seu amado red herring devolvido a ele. Infelizmente, ele parece tão apático como sempre...
 Fazia tempo que King Tom não era tão cheio de vida! O que diabos você fez com ele!?
 Hoje é um bom dia para bater o mouse!<NL>A única questão é... com o que bater neles!
 Espero que agora o Rei Tom e todos os outros possam voltar ao normal novamente!
@@ -20252,7 +20252,7 @@ Todos no castelo estão ocupados procurando o <color:#1>red herring</color> do R
 O palácio real é por aqui.
 Suas roupas são muito... incomuns.<NL>De onde você é?
 Receio não poder deixar você entrar no momento.
-Receio que His Meowjesty não esteja recebendo nenhuma visita no momento.
+Receio que Vossa Miaujestade não esteja recebendo nenhuma visita no momento.
 O Túmulo do Sábio fica por aqui. Você é bem-vindo para dar uma olhada, mas, por favor, seja respeitoso.
 Você nunca vai acreditar nas coisas que aprendi hoje! A escola é muito divertida! Eu quase ronrono para jogar! Quase.
 As pessoas por aqui dizem a seus filhos que o Rei dos Ratos mora em Ding Dong Well...
@@ -20266,7 +20266,7 @@ Oh não! Eu deixei a roupa para fora!
 Mais um belo dia!<NL>Tempo de trabalho, eu chamo assim!
 O Torneio Tug o' Tail vai começar em breve...<NL>Tenho que começar a ronronar!
 Esta é uma estátua de um dos ancestrais heróicos do rei Tom.
-Seu Meowjesty vai ter que parar de vadiar o dia todo se quiser que uma estátua seja feita dele!
+Vossa Miaujestade vai ter que parar de vadiar o dia todo se quiser que uma estátua seja feita dele!
 Você conhece os potes que temos espalhados por toda a cidade? Bem, você provavelmente deveria dar uma olhada dentro deles de vez em quando!
 Você nunca sabe quando pode encontrar algo interessante! Ou simplesmente purrculiar.
 Ahhh... não sei o que deu em mim ultimamente...
@@ -20335,12 +20335,12 @@ Dirija-se à Cawtermaster's Store para encontrar algumas armas e armaduras!
 pla-b_050_010-t02_npc_text_en.cfg.bin.txt
 Ah é você! Graças a Deus!<NL>Você tem que nos ajudar! Algo terrível aconteceu!
 Lançando heck, mun! Não me diga que o velho Rei Tom se foi e teve seu coração partido de novo!?
-Não, não, o coração de Sua Meowjesty está funcionando bem. Até onde sei...
+Não, não, o coração de Vossa Miaujestade está funcionando bem. Até onde sei...
 Até onde você sabe...?
-Depois que você restaurou o entusiasmo perdido de Sua Meowjesty, ele estava determinado a encontrar sua velha varinha, para que pudesse dá-la a você como recompensa.
+Depois que você restaurou o entusiasmo perdido de Vossa Miaujestade, ele estava determinado a encontrar sua velha varinha, para que pudesse dá-la a você como recompensa.
 Tão determinado, na verdade, que ele mesmo disse que iria procurá-lo...
 Bem, isso é bom, não é?<NL>Por que tanto alarido?
-Seu Meowjesty desapareceu!
+Vossa Miaujestade desapareceu!
 Eh!?
 Os porteiros juram que ele não saiu de Ding Dong Dell, mas ele não está em lugar nenhum!
 Hmm... Sinto cheiro de rato aqui, Olliezinho.<NL>Bem, suponho que só há uma coisa para isso, hein?
@@ -20532,7 +20532,7 @@ Não quero me gabar, mas minha esposa deve ser a melhor cozinheira de Terras do 
 Você está sempre correndo, parecendo ocupado...<NL>Você deveria tentar ir com calma de vez em quando!
 Oh, é você!<NL>Não sei se você ouviu, mas o Rei está desaparecido!
 Acho que você não poderia nos ajudar a procurá-lo, poderia?
-Ninguém sabe onde Sua Meowjesty poderia ter ido. Ele apenas... desapareceu!
+Ninguém sabe onde Vossa Miaujestade poderia ter ido. Ele apenas... desapareceu!
 O Túmulo do Sábio fica por aqui. Você é bem-vindo para dar uma olhada, mas, por favor, seja respeitoso.
 O Rei Tom desapareceu!? Meouch!
 As pessoas por aqui dizem a seus filhos que o Rei dos Ratos mora em Ding Dong Well...
@@ -20547,7 +20547,7 @@ O que todos esses guardas estão fazendo correndo por aí!?
 Isso não é... a invasão, é?
 O Torneio Tug o' Tail vai começar em breve...<NL>Tenho que começar a ronronar!
 Esta é uma estátua de um dos ancestrais heróicos do rei Tom.
-Quando olho para ele, não posso deixar de me perguntar o que aconteceu com Sua Miaujestade...
+Quando olho para ele, não posso deixar de me perguntar o que aconteceu com Vossa Miaujestade...
 Você conhece os potes que temos espalhados por toda a cidade? Bem, você provavelmente deveria dar uma olhada dentro deles de vez em quando!
 Você nunca sabe quando pode encontrar algo interessante! Ou simplesmente purrculiar.
 Ahhh... não sei o que deu em mim ultimamente!
@@ -20669,15 +20669,15 @@ Eu estava pronto para enfrentar o Rei dos Ratos hoje... mas não consigo encontr
 Oh... Já parou de nevar?<NL>Estava ansioso por uma boa guerra de bolas de neve...
 Parece que o ratinho que vi perto da Loja do Mestre dos Membros estava fazendo um favor para o dono da loja! Talvez nem todos sejam tão ruins, né?
 Eu te causei muitos problemas, não foi...?
-Mas vou compensar tudo! Até vou deixar você dar uma voltinha na minha Vassoura de Nuvem quando estiver pronta!
+Mas vou compensar tudo! Até vou deixar você dar uma voltinha na minha Varredora de Nuvens quando estiver pronta!
 Nós dois podemos ser ratos, mas eu não sou nada parecido com aquele malvado Hickory Dock. Ele é muito maior, pra começar!
 Olha, eu sei que o que ele fez foi ruim... mas não consigo deixar de ficar impressionado com qualquer rato que enfrenta um gato!
 (ofegante) Acabei de levar o maior susto da minha vida! (ofegante)<NL>Lá estava eu, cuidando da minha vida, quando esse garoto maluco começa a me perseguir com uma vassoura!
-(ofegante) O engraçado é... (ofegante) ...tudo o que eu conseguia pensar era em colocar um motor nela! (suspiro) Queria que minha Vassoura de Nuvem estivesse pronta!
+(ofegante) O engraçado é... (ofegante) ...tudo o que eu conseguia pensar era em colocar um motor nela! (suspiro) Queria que minha Varredora de Nuvens estivesse pronta!
 Assim que as coisas começaram a ficar escuras, eu fui me esconder no Poço Ding Dong...
 Hickory Dock estava se escondendo lá também, parecendo absolutamente aterrorizado.
 Ele ficava gritando, "Eu sabia!" e algo sobre como o Rei Tom era um monstro o tempo todo.
-A força aérea Mamooni tem as Vassouras de Nuvem mais legais do mundo todo!
+A força aérea Mamooni tem as Varredoras de Nuvens mais legais do mundo todo!
 Ouvi dizer que elas seriam implantadas em algum lugar perto daqui. Espero conseguir ver uma!
 Nosso reino deve muito a você!<NL>Você sempre será bem-vindo aqui!
 O povo deste reino está transbordando de entusiasmo, e tudo é graças a você!
@@ -20691,8 +20691,8 @@ Já se passaram muitos anos desde a minha primeira e única visita oficial ao Im
 Como vão as coisas, Oliver?<NL>Suas façanhas são o assunto da cidade - e além!
 De fato, como editor honorário do Daily Yarn, posso dizer com confiança que sua aventura é a maior história desde a Grande Revolta dos Ratinhos!
 Bem, o que você acha? Suas garras permitem que você seja um verdadeiro artesão, não é?
-Alguns zombaram do formato incomum do Clarion, mas claramente não possuem senso estético nem apreciação pela alta qualidade da sua artesania!
-Ah! Vê-se que o Clarion está completo!<NL>Supõe-se que o Imperador de Hamelin mereça algum crédito por tal conquista...
+Alguns zombaram do formato incomum da Triflauta, mas claramente não possuem senso estético nem apreciação pela alta qualidade da sua artesania!
+Ah! Vê-se que a Triflauta está completo!<NL>Supõe-se que o Imperador de Hamelin mereça algum crédito por tal conquista...
 Mas é a você, jovem Oliver, a quem verdadeiramente pertence o crédito por unir os três reinos. Nunca pensei que esse dia chegaria...
 Ah, Oliver... Você passou por uma transformação diante dos meus próprios olhos.
 Lembro-me do garotinho que veio ao meu reino em busca de uma varinha. Aquele garoto é apenas uma lembrança distante agora...
@@ -21426,7 +21426,7 @@ O caminho do mago é longo e sinuoso, mas vocês nunca devem desistir.
 Olá, Carvalho Ancião!
 Oh Ho! Aqui está você de novo!<NL>Que bom ver você!
 E como vai sua jornada, hein?<NL>Conte-me tudo...
-Oh-ho! Então o Clarion renasceu!
+Oh-ho! Então a Triflauta renasceu!
 Com certeza! Os líderes dos três reinos trabalharam juntos para construí-lo!
 Sim, eles fizeram sua parte, eu acho, mas principalmente foi a habilidade do Senhor Supremo das Fadas em diplomacia que fez isso acontecer...
 Senhor Drippy! Como você pode dizer isso!?
@@ -21621,8 +21621,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Hã? Alguém por favor me diga o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, Knickers.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, Knickers.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun!<NL>Precisamos entrar na minha mãe, não é?
@@ -21694,8 +21694,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos recuperar a madeira sagrada, não vamos a lugar nenhum rapidamente, amigo!
-Certo, vamos lá ver o Marcassin para que possamos completar o Clarion, certo?
-Então precisamos ir para os Pântanos de Miasma e tocar o Clarion, não é? Depois é apenas mais um passo até Nevermore...
+Certo, vamos lá ver o Marcassin para que possamos completar a Triflauta, certo?
+Então precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Depois é apenas mais um passo até Nevermore...
 Só falta atravessarmos os Pântanos de Miasma, amigo! Depois é Nevermore e nada de olhar para trás!
 Não vai demorar muito até a batalha final com Shadar, não é mesmo? Você está pronto? Estou super nervoso, amigo!
 Então só falta lutar com Shadar, certo?<NL>Acho que estou pronto como sempre estive...<NL>Nevermore, aqui vamos nós!
@@ -21813,8 +21813,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Eh? O que diabos está acontecendo, mano?
 ...Eh? Alguém por favor pode me dizer o que está ocorrendo?
 Eh? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, Knickers.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, Knickers.
 Precisamos devolver as obras de arte para aqueles garotos, não é mesmo?
 Acho que é melhor irmos fazer minha mãe rir, né?
 Vamos lá, mano! Precisamos entrar na minha mãe, não é mesmo?
@@ -21886,8 +21886,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se o Pip está melhor, não é?
 Se não recuperarmos a madeira sagrada, não vamos a lugar algum, mun!
-Certo, vamos lá ver o Marcassin para podermos concluir este Clarion, vamos?
-Então precisamos ir para os Pântanos de Miasma e tocar o Clarion, não é? Depois é só mais um passo para Nevermore...
+Certo, vamos lá ver o Marcassin para podermos concluir está Triflauta, vamos?
+Então precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Depois é só mais um passo para Nevermore...
 Agora só falta atravessar os Pântanos de Miasma, mun! Depois é Nevermore, e sem olhar para trás!
 Não falta muito para o confronto final com Shadar, né? Você está pronto? Eu estou morrendo de medo, mun!
 Então é só o Shadar para lutar, né?<NL>Acho que estou tão preparado quanto possível...<NL>Nevermore, aqui vamos nós!
@@ -22001,8 +22001,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, Knickers.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, Knickers.
 Precisamos devolver as obras de arte para os meninos, não é mesmo.
 Acho melhor irmos fazer minha mãe rir, não é mesmo?
 Vamos, amigo! Precisamos entrar na minha mãe, não é mesmo?
@@ -22072,10 +22072,10 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele pipsqueak, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então só falta lutar contra Shadar, né?<NL>Acho que estou pronto...<NL>Nevermore, aqui vamos nós!
@@ -22253,8 +22253,8 @@ Precisamos zarpar em busca de Outonia, maninho!
 Hã? O que diabos está acontecendo, maninho?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, cuecas.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, cuecas.
 Precisamos ir e devolver a esses meninos suas obras de arte, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, maninho! Precisamos encontrar a minha mãe, não é?
@@ -22348,7 +22348,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para nunca mais...
@@ -22501,7 +22501,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para nunca mais...
@@ -22656,7 +22656,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para nunca mais...
@@ -22788,7 +22788,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -23094,8 +23094,8 @@ Precisamos zarpar em busca de Outonia, maninho!
 Hã? O que diabos está acontecendo, maninho?
 ...Hã? Alguém por favor me diga o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, cuecas.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, cuecas.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, maninho! Precisamos entrar na minha mãe, não é?
@@ -23379,8 +23379,8 @@ Precisamos zarpar em busca de Outonia, maninho!
 Hã? O que diabos está acontecendo, maninho?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, cuecas.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, cuecas.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, maninho! Precisamos entrar na minha mãe, não é?
@@ -23450,7 +23450,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -23561,7 +23561,7 @@ Antigamente formamos a guarda de honra da Rainha.<NL>Era nosso dever proteger es
 Antes que você se pergunte, somos ilusões, ganhamos vida pelo poder da imaginação da Rainha, muito parecido com os Zodiarcas que você sem dúvida encontrou.
 Você o que!? Rápido, Olliezinho - prepare sua varinha! Temos uma luta em nossas mãos!
 Hum! Esta fada é mal-humorada, não é? Não tema.<NL>Não somos seus inimigos. Os zodiarcas que faziam parte<NL>do Conselho da Rainha eram malignos...
-Mas brotamos daquela parte do coração de nossa Rainha que ainda é sábia e justa. Embora vossa majestade tenha perdido de vista esse lado de si mesma, ele continua vivo.
+Mas brotamos daquela parte do coração de nossa Rainha que ainda é sábia e justa. Embora Vossa Luminosidade tenha perdido de vista esse lado de si mesma, ele continua vivo.
 Na verdade, foi exatamente essa parte do coração dela que o trouxe até aqui, até nós.
 Agora desejamos que você conceda descanso àqueles que uma vez defenderam nosso reino amaldiçoado.
 Reino amaldiçoado?<NL>Acho que você quer dizer Nazcaa, hein?
@@ -23981,7 +23981,7 @@ Deixe isso comigo, maninho.<NL>Tenho um monte de ideias brilhantes, tenho!
 Você está brincando, não é? Eu não vou deixar você sair gastando enquanto eu estou aqui trabalhando como escravo na loja, seu tímido fulano de tal!
 Drippy-boy, vocês podem encontrar coisas boas para nós, não é?
 Claro que podemos! Deixe com a gente! Diga, Smiley - você pode nos dizer quais ideias você teve?
-Claro, maninho! Minha primeira ideia incrível foi voltar para casa e perguntar a todos no <color:#1>The Recanto das Fadas</color>.
+Claro, maninho! Minha primeira ideia incrível foi voltar para casa e perguntar a todos no <color:#1>Terra das Fadas</color>.
 Tem tanta gente lá embaixo que um deles deve ter uma ideia!
 Então, sua ideia incrível é continuar perguntando às pessoas até encontrar alguém com uma ideia real, não é? E pensar que duvidei de você...
 Tá, maninho. Eu sabia que você iria gostar! Além disso, acho que precisamos de algumas coisas peculiares adequadas, então tente perguntar a alguém com <color:#1>olho para comédia</color> também.
@@ -23995,13 +23995,13 @@ Ah sim, maninho! Garoto, não é?<NL>Cheirava estranho.
 Sim, era ele, maninho! <NL>Oh, eu me lembro agora - era você!
 O que!? Não, isso era...!<NL>...Cuecas.
 Você costumava desenhá-los em todo lugar, não é? Acho que deve haver <color:#1>algumas das suas pichações deixadas em algum lugar</color>...
-Bem, parece que uma viagem ao Recanto das Fadas está nos planos, não é? Vamos encontrar para esses meninos algumas <NL>armas maravilhosas!
+Bem, parece que uma viagem a Terra das Fadas está nos planos, não é? Vamos encontrar para esses meninos algumas <NL>armas maravilhosas!
 Vamos! Já estaremos de volta, pessoal!
 Beleza! Por enquanto Ta-ra!
 Se você ficar preso, basta voltar e nos perguntar, não é?
 Cuecas. Há trágico...<NL>E as minhas ideias brilhantes...?
 Não podemos deixar nossos negócios incipientes sem atendimento, não é? Drippy-boy, você pode ir e nos encontrar algumas dessas coisinhas exclusivas?
-A primeira coisa que você precisa fazer é perguntar em <color:#1>the Recanto das Fadas</color> e ver se alguém tem alguma ideia bacana para produtos únicos para nossa boutique.
+A primeira coisa que você precisa fazer é perguntar na <color:#1>Terra das Fadas</color> e ver se alguém tem alguma ideia bacana para produtos únicos para nossa boutique.
 Em seguida, precisamos de algumas coisas peculiares adequadas, então encontre <color:#1>alguém com olho para comédia</color>, certo?
 Sim, maninho, e se você pudesse nos encontrar uma daquelas idéias para armas engraçadas de <color:#1>quando éramos pequeninos</color> também, isso seria muito bom!
 Acho que ainda deve haver algum <color:#1>rabisco em uma parede ou algo em algum lugar</color>. Não faço ideia de onde, no entanto...
@@ -24010,11 +24010,11 @@ Agora tudo o que você precisa fazer é perguntar a alguém com <color:#1>bom ol
 Sim, maninho, e se você pudesse nos encontrar uma daquelas ideias que tínhamos <color:#1>quando éramos pequenos</color> também, seria muito bom!
 Acho que ainda deve haver algum <color:#1>rabisco em uma parede ou algo em algum lugar</color>. Não faço ideia de onde, no entanto...
 Beleza! Parece que você tem uma daquelas ideias brilhantes!
-Agora você só precisa <color:#1>perguntar pelo Recanto das Fadas</color> e ver se alguém lá embaixo tem alguma ideia para compartilhar conosco.
+Agora você só precisa <color:#1>perguntar pela Terra das Fadas</color> e ver se alguém lá embaixo tem alguma ideia para compartilhar conosco.
 Sim, maninho, e se você pudesse nos encontrar uma daquelas idéias para armas engraçadas de <color:#1>quando éramos pequeninos</color> também, isso seria muito bom!
 Acho que ainda deve haver algum <color:#1>rabisco em uma parede ou algo em algum lugar</color>. Não faço ideia de onde, no entanto...
 Beleza! Parece que você tem uma daquelas ideias brilhantes!
-Agora você só precisa <color:#1>perguntar pelo Recanto das Fadas</color> e ver se alguém lá embaixo tem alguma ideia para compartilhar conosco.
+Agora você só precisa <color:#1>perguntar pela Terra das Fadas</color> e ver se alguém lá embaixo tem alguma ideia para compartilhar conosco.
 Sim, maninho, e você deve encontrar alguém com um <color:#1>bom olho para comédia</color> adequado e ver se eles também têm alguma ideia para armas engraçadas!
 Você é uma lenda, maninho!
 Beleza! Parece que você tem algumas dessas ideias brilhantes!
@@ -24024,7 +24024,7 @@ Beleza! Parece que você tem algumas dessas ideias brilhantes!
 Agora tudo o que você precisa fazer é perguntar a alguém com <color:#1>bom olho para comédia</color> adequado se ele tem alguma ideia própria para armas engraçadas.
 Quase lá, meus amores!<NL>Continuem com o bom trabalho!
 Beleza! Parece que você tem algumas dessas ideias brilhantes!
-Agora você só precisa <color:#1>perguntar pelo Recanto das Fadas</color> e ver se alguém lá embaixo tem alguma ideia para compartilhar conosco.
+Agora você só precisa <color:#1>perguntar pela Terra das Fadas</color> e ver se alguém lá embaixo tem alguma ideia para compartilhar conosco.
 Quase lá, meus amores!<NL>Continuem com o bom trabalho!
 Desculpe fazê-los esperar, rapazes!<NL>Tivemos as ideias que vocês estavam atrás!<NL>Não sei se servirão para alguma coisa, mas...
 Virar, maninho! Você fez? Arrumado!<NL>De uma olhada, então!
@@ -24083,8 +24083,8 @@ Precisamos zarpar em busca de Outonia, maninho!
 Hã? O que diabos está acontecendo, maninho?
 Hã? O que diabos está acontecendo, maninho?
 Hã? O que diabos está acontecendo, maninho?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, maninho! Precisamos entrar na minha mãe, não é?
@@ -24170,7 +24170,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell,<NL>o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -24301,7 +24301,7 @@ A passagem de volta?
 Isso mesmo, maninho. Então, se você precisar sair das entranhas de mamãe com pressa, apenas suba as escadas.
 Hã...claro.<NL>Mas...o que impede os pequeninos de fazerem o mesmo?
 Não seja idiota, maninho. Eles não são passos de bebê, são! Muito alto para um pouco, eles são.
-Agora, a passagem dos fundos levará você direto para o Recanto das Fadas, para que você possa entrar e sair quando quiser, não é!?
+Agora, a passagem dos fundos levará você direto para a Terra das Fadas, para que você possa entrar e sair quando quiser, não é!?
 Hã...? Então... poderíamos tê-los usado para entrar aqui em primeiro lugar?
 Bem... sim, suponho... Mas onde está a diversão nisso, maninho!? Sempre gostei de uma entrada triunfal, eu! Tenho que pensar na minha reputação, não é?
 Nossa...
@@ -24428,7 +24428,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -24540,7 +24540,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -24851,7 +24851,7 @@ Bem, eu serei o tio de um macaco! Uma caverna como esta em Teeheeti? Eu pensei q
 Cheio de caranguejos, não é? Acho que eles devem ter vindo aqui para evitar serem comidos. Desculpe, meninos, más notícias - eu estou pirando o caranguejo de amor, eu!
 Cuecas! É doloroso... Oh, não se preocupe, maninho, eu estava apenas imaginando dar uma mordida em um desses. (estremecer)
 Alguém mora por aqui, ou o quê? Olhe para todos aqueles potes e barris alinhados, todos bem arrumados. Isso não é obra de caranguejos, maninho...
-Caranguejos? Em Teeheeti? É melhor eu ir até o Recanto das Fadas e contar aos meninos! Isso vai arrasar nos restaurantes dali!
+Caranguejos? Em Teeheeti? É melhor eu ir até a Terra das Fadas e contar aos meninos! Isso vai arrasar nos restaurantes dali!
 ???
 Fada madrinha
 
@@ -24905,12 +24905,12 @@ Ahh, é bom entrar fora do vento, maninho. Carrega melhor, não é? Espere... N�
 Parece que há algum covil de besta por aqui, não é? E não estamos em condições de lutar, maninho, tremendo assim! Kn-Kn-Cuecas!
 Olha o tamanho desse pingente de gelo, maninho! Enorme, é! E se não me engano, momentos de cair e esmagar alguém! Cuidado, menino Ollie!
 Hã? Poderia jurar que vi um flash de verde lá em algum lugar...
-A neve é fria pra caramba - nós dois sabemos disso - mas, caramba, é bonita... Ahh, gostaria que os meninos no Recanto das Fadas pudessem ver isso, maninho...
+A neve é fria pra caramba - nós dois sabemos disso - mas, caramba, é bonita... Ahh, gostaria que os meninos na Terra das Fadas pudessem ver isso, maninho...
 Ahh, é bom entrar fora do vento, maninho. Carrega melhor, não é? Espere... Não. Na verdade, ainda está congelando!
 Parece que há algum covil de besta por aqui, não é? E não estamos em condições de lutar, maninho, tremendo assim! Kn-Kn-Cuecas!
 Olha o tamanho desse pingente de gelo, maninho! Enorme, é! E se não me engano, momentos de cair e esmagar alguém! Cuidado, menino Ollie!
 Hã? Poderia jurar que vi um flash de verde lá em algum lugar...
-A neve é fria pra caramba - nós dois sabemos disso - mas, caramba, é bonita... Ahh, gostaria que os meninos no Recanto das Fadas pudessem ver isso, maninho...
+A neve é fria pra caramba - nós dois sabemos disso - mas, caramba, é bonita... Ahh, gostaria que os meninos na Terra das Fadas pudessem ver isso, maninho...
 
 pla-d54_npc_text_en.cfg.bin.txt
 Mwahahaha! Por que os olhos arregalados, jovem? Você não se importa com sk-kk-esqueletos, não é?
@@ -25137,7 +25137,7 @@ Bom e relaxado por aqui, não é?<NL>Me dá vontade de tirar uma boa soneca.
 (sniff) Espere um minuto... (sniff sniff) Se meu nariz não me engana, e não engana, há um baú de tesouro verde em algum lugar por aqui, maninho!
 Espere aí, maninho... Essa caverna é apenas... uma grande árvore!?
 Isso é uma floresta bem arrumada.<NL>São as fadas que devemos agradecer por isso, eu acho!
-Este lugar é mortalmente silencioso, maninho. Me lembra a galera do Clube Bocalarga em uma noite ruim...
+Este lugar é mortalmente silencioso, maninho. Me lembra a galera do Clube da Caverna em uma noite ruim...
 
 pla-d63b_npc_text_en.cfg.bin.txt
 Nnnghhh...
@@ -25514,7 +25514,7 @@ Abull, claro! Se eu tivesse a paciência dele, estaria falando sobre isso por to
 Um touro...?
 Isso mesmo. Um passarinho me contou uma história e tanto sobre ele... Já faz alguns anos...
 Um dia, a Vacalifa decidiu do nada que não ficaria contente até que tivesse provado todos os queijos do mundo...
-Cheese?<NL>Acho que ela é igual a dona Leila, né?
+Cheese?<NL>Acho que ela é igual a Dona Leila, né?
 Sem hesitar um momento, Abull partiu para atacar todos eles.
 Através de florestas e oceanos ele foi, atingido por nevascas, e muitas vezes sobrevivendo com pouco mais que uma asa e uma oração...
 Mas, finalmente, ele voltou para casa para se empoleirar. E quando o fez, foi com um carrinho empilhado com todos os queijos sob o sol! Caramba - deve ter fedido!
@@ -25670,7 +25670,7 @@ Nos dias dos Antigos, nosso mundo era abundante em reinos governados pelo poder 
 As histórias daquela época continuam vivas, aqui e em outros lugares. Quando Esther era jovem, eu os contava com frequência...
 Shadar se esconde no extremo norte do continente de Outonia, além de um pântano fétido envolto em um miasma fétido.
 Infelizmente, o único instrumento capaz de levantar esta mortalha vive agora apenas na lenda...
-Hum? O Triflauta vive novamente?<NL>Então os três reinos agem como um só mais uma vez...
+Hum? A Triflauta vive novamente?<NL>Então os três reinos agem como um só mais uma vez...
 Claro... Os mestres de todos os três devem suas vidas a você. Só isso poderia tê-los convencido a trabalhar juntos novamente.
 Então a Grande Sábia Alicia e sua mãe eram uma e a mesma...
 "Aquele que cura os de coração partido...<NL>O salvador deste mundo de tristeza..."
@@ -25942,7 +25942,7 @@ Próxima parada, Hamelin! Navegue para o leste em direção ao continente de Out
 
 pla-e_020_010-t12_npc_text_en.cfg.bin.txt
 Contando com você, estou, bach!
-Se você gosta de ver um pouco de comédia de fadas como deve ser feito, vá ao Clube Bocalarga. É logo ali.
+Se você gosta de ver um pouco de comédia de fadas como deve ser feito, vá ao Clube da Caverna. É logo ali.
 Um exemplo impressionante da arquitetura das fadas antigas, é... Mais ou menos todos os pedaços que eles substituíram na outra semana... Que era a maioria deles...
 Crikey! Humanos! Não é incomum! O que é aquela coisa vermelha nas suas costas? Faz você voar, não é?
 Há um par de comediantes por aqui que costumavam ser os mais engraçados da floresta. Smiley 'n' Surly, eles são chamados.
@@ -25963,7 +25963,7 @@ Eu não sou nenhum Billy-no-Mates. Eu só gosto de comer sozinho, não é? Ajuda
 Virar, maninho! Por que você tem que me bater com tanta força!? Eu sou seu ajudante, não seu saco de pancadas!
 Você quer se sentar, não é? Certo. Espere um segundo, vou me mexer para você - abra um pouco de espaço, tipo... Não? Bah, tudo bem. Adeque-se.
 É isso mesmo, Tiny! Toda essa gordura faz dele o companheiro perfeito! Você pode dar a ele uma boa e velha comédia!
-Eu sei que o Recanto das Fadas é famoso principalmente por comida e diversão, mas tem mais a oferecer do que isso, você sabe.
+Eu sei que a Terra das Fadas é famoso principalmente por comida e diversão, mas tem mais a oferecer do que isso, você sabe.
 O ar por aqui é limpo como um apito, e o céu noturno é suficiente para explodir sua pequena mente!
 Eu como mais do que qualquer outra pessoa nesta floresta inteira por aqui! Continue assim, chefe, ainda não terminei!
 Acho que se economizar alguns ingredientes aqui e ali, posso aumentar um pouco meus lucros... Megabucks, aqui vou eu!
@@ -25977,7 +25977,7 @@ Woohoohoohoo! Caramba, cara! Estou me molhando - esses lotes são hilários!
 Oi! Achei que tinha dito para você parar de enfiar os dedos no molho! Não sabemos onde você esteve!
 Ahh, nada como sair de casa e ter um pouco de mim-tempo longe de todos os meus problemas...
 E eu nem tenho nenhum!<NL>Na-ah-ah-ah!
-Você não viu o Recanto das Fadas até ver o grande gigante... senhora no final da cidade. Você não vai acreditar em seus olhos, maninho!
+Você não viu a Terra das Fadas até ver o grande gigante... senhora no final da cidade. Você não vai acreditar em seus olhos, maninho!
 Se você me perguntar, o que toda dupla de comédia precisa é de um homem hétero bom e inteligente. Quanto mais rápido ele for, melhor!
 Geheheheheheheheheheh!<NL>Aqueles Três Gêmeos são lendas, maninho!
 Viajantes, é? Divirta-se.<NL>Boa volta por aqui e tal.
@@ -26043,7 +26043,7 @@ Dirija-se ao local marcado no seu mapa!
 Siga Drippy e as outras fadas na floresta!
 
 pla-e_030_010_guide_text_en.cfg.bin.txt
-Dirija-se ao Clube Bocalarga, o lendário local de comédia do Recanto das Fadas!
+Dirija-se ao Clube da Caverna, o lendário local de comédia da Terra das Fadas!
 
 pla-e_040_010-t12_npc_text_en.cfg.bin.txt
 Aqui, você já conseguiu todas as <color:#1>peças de arte</color> para nós, Drippy-boy?
@@ -26156,7 +26156,7 @@ Ta pra você também, pequenininha! Tente fazer sua própria lição de casa da 
 Queria ter sua mágica... Eu poderia fazer algumas coisas engraçadas e impertinentes com ela... Heheheheheh!
 Beleza! Isso é um complemento completo de oito <color:#1>obras de arte</color> que montamos!
 Vamos levar este pacote de cuidados para Smiley 'n' Surly e trazer a luz do riso de volta às suas vidas miseráveis!
-Eles provavelmente ainda estão deprimidos no<NL><color:#1>Clube Bocalarga</color>. Vamos voltar lá, certo?
+Eles provavelmente ainda estão deprimidos no<NL><color:#1>Clube da Caverna</color>. Vamos voltar lá, certo?
 Você quer dizer o lugar com o grande palco ao ar livre?<NL>Claro! Vamos!
 Você tem que nos ajudar, Drippy-boy!<NL>Senão teremos que nos separar!
 Flip, maninho, estou explodindo de... de... de não sei o quê. É muito bom, seja o que for!
@@ -26166,7 +26166,7 @@ Vamos, então!<NL>Dê-nos uma boa gargalhada, aí estão bons rapazes!
 Contando com você, estou, bach!
 Viu o show do Smiley 'n' Surly, não é? É uma pena que eles tenham ficado tão sem graça. Costumavam me fazer rolar de rir, eles faziam...
 Então você conheceu a mamãe!<NL>...O que é isso? Como eu sei?
-Está em todo o Recanto das Fadas, não é!<NL>As notícias correm bem rápido por aqui!
+Está em todo a Terra das Fadas, não é!<NL>As notícias correm bem rápido por aqui!
 Se você me perguntar, é culpa do Surly que ele e o Smiley tenham ido por água abaixo.
 Ele não consegue definir as linhas rápido o suficiente, então o pobre velho Smiley está ficando parado!
 Certo, parceiro meu!<NL>É hora de ensaiar nosso novo ato inovador!
@@ -26311,7 +26311,7 @@ Ei, cara, tem mais um prato de linguiça de cachorro, sim?
 Eu sei, maninho! De todas as maneiras de chegar lá - um grande canhão enorme como esse...
 E o olhar em seu rosto quando ele estava voando pelo ar! Inestimável, foi! Na-ah-ah-ah!
 A comida por aqui é a culinária mais rica e complexa que se possa imaginar! Quer se trate de ovos de caracol ou joanetes com mel, você não pode errar!
-Todos no Recanto das Fadas estão discutindo como loucos sobre quem é melhor em Smiley 'n' Surly.
+Todos na Terra das Fadas estão discutindo como loucos sobre quem é melhor em Smiley 'n' Surly.
 Se você me perguntar, Surly é o melhor por milhas. Apenas um plonker total pensaria o contrário!
 Comédia não é apenas tagarelar de uma forma engraçada, você sabe. Você precisa praticar set-ups e piadas e tudo mais. Trabalho duro adequado, é.
 Nós, fadas, podemos falar mal, mas temos corações de ouro, não é?
@@ -26401,7 +26401,7 @@ Ah, e feliz aniversário!
 Drippy-boy tem enviado destaques selecionados de suas aventuras de volta para casa para todos nós através da velha telepatia!
 Cada parcela é um verdadeiro roedor de unhas!<NL>Na ponta do meu assento toda vez, eu estou!<NL>Continue com o bom trabalho, pessoal!
 O retorno surpresa de Smiley 'n' Surly me deu um grande impulso. Inspirou-me a experimentar o velho jogo de comédia.
-Sim. Eu vou ganhar o Tidy Titters Comedy Festival e ser o assunto do Recanto das Fadas, espere e verá!
+Sim. Eu vou ganhar o Tidy Titters Comedy Festival e ser o assunto da Terra das Fadas, espere e verá!
 Como vai, Drippy-boy!<NL>Você vai assistir ao próximo programa antes de partir?
 número que está por vir são apenas jovens.<NL>A próxima grande coisa, eu acho.<NL>Você deveria dar uma olhada.
 O renascimento de Smiley 'n' Surly realmente revigorou o circuito de comédia.
@@ -26421,7 +26421,7 @@ O mesmo que eu faço todos os dias!
 Oi! Pare de olhar para o meu jantar! Compre o seu!<NL>Piscas de unha não são baratas, você sabe!
 Vá em frente, então. Você pode ter um se der ao companheiro ao meu lado uma boa piada de comédia. Gyuk Gyuk Gyuk!
 Droga, por que todos estão tão preocupados?<NL>...Oh, nasceram pequeninos, não é? Beleza!
-Aqui está o Recanto das Fadas ficando ainda mais animado!
+Aqui está a Terra das Fadas ficando ainda mais animada!
 Não há muitos que possam apreciar um lugar tranquilo e isolado como este. Bem, suponho que haja Dai. E Rhys. E Rhodri e Huw e Dafydd e Iestyn e...
 Por que você só parece feliz quando está batendo na minha cabeça?
 Tem certeza de que você quer ser um comediante?<NL>Não um lutador, professor ou algo assim?
@@ -26455,12 +26455,12 @@ Imagino o que vem a seguir...<NL>Espero que seja bom...
 Duas caras de esquilo, quando tiver um momento, companheiro. Ah, e alguns rins cobertos de chocolate. Tá!
 (suspiro) Entrei no jogo da comédia para me divertir um pouco, mas meu parceiro está super entusiasmado. Eu me sinto como um velho preguiçoso...
 ...Tudo bem. Vamos então, parceiro! Vamos tentar uma dessas rotinas que você está sempre tentando me fazer fazer, certo?
-Você viu quantos desses pequeninos saíram voando! O Recanto das Fadas vai ser muito mais animado a partir de agora!
+Você viu quantos desses pequeninos saíram voando! a Terra das Fadas vai ser muito mais animado a partir de agora!
 Mas ainda serei o mais animado!<NL>Na-ah-ah-ah!
 Não sei por que, mas sempre rio, mesmo quando as coisas não são engraçadas. Você acha que há algo de errado comigo?
 ...O que é isso? Bater na cabeça? Bem, algumas vezes... E chutou nas canelas, e enfiou no olho... Na-ah-ah-ah!
 Eu amo a temporada de pequeninos, eu amo! Todo mundo está feliz, e você pode rir com qualquer um! Maravilhoso, é!
-Salvador que as lendas do Recanto das Fadas dizem nos livrará do mal... Oliver!
+Salvador que as lendas da Terra das Fadas dizem nos livrará do mal... Oliver!
 ...É assim que vamos vender você para os turistas de qualquer maneira, então não estrague tudo, certo?
 Muito feliz por este lote de pequeninos ter saído seguro, estou!
 Se você me perguntar, esses últimos pequeninos precisam de treinamento sobre como se tornar homens héteros habilidosos desde o início!
@@ -26468,10 +26468,10 @@ Ohhh, estou me sentindo mal, maninho... Acho que deve ser por ter pulado naquele
 Todos os meses, subimos todos para ver a Mãe e damos-lhe uma boa e velha mangueira e uma esfoliação. É como um daqueles banhos que vocês humanos tomam.
 ...O que é isso? Você toma banho mais de uma vez por mês?<NL>Bem, não é minha culpa que você seja uma aberração limpa, é?
 Faz muito tempo que não nascemos novos pequeninos. E foi graças a vocês, pelo que ouvi. Tá e isso!
-Aproveite sua estadia aqui no Recanto das Fadas! É um lugar antigo e animado, mas eles são um bando decente!
+Aproveite sua estadia aqui na Terra das Fadas! É um lugar antigo e animado, mas eles são um bando decente!
 Beleza! Os pequeninos nasceram!<NL>Boa mãe! Legal, vocês!
 Eles podem ser pequenos ovos redondos agora, mas os pequeninos logo começarão a tomar todos os tipos de formas diferentes.
-Essa é apenas uma das Sete Maravilhas do Recanto das Fadas! ...O que? Os outros seis? Seu palpite é tão bom quanto o meu, maninho!
+Essa é apenas uma das Sete Maravilhas da Terra das Fadas! ...O que? Os outros seis? Seu palpite é tão bom quanto o meu, maninho!
 Todo mundo tem experimentado a velha comédia ultimamente.
 Todos trabalhando juntos para fazer o outro rir.<NL>Ahh, que lindo!
 Zzz... (bufando) Mmm... Zzz...
@@ -26655,7 +26655,7 @@ Vamos, maninho...<NL>Quando começa o próximo show?
 Drippy-boy tem enviado destaques selecionados de suas aventuras de volta para casa para todos nós através da velha telepatia!
 Cada parcela é um verdadeiro roedor de unhas!<NL>Na ponta do meu assento toda vez, eu estou!<NL>Continuem com o bom trabalho, pessoal!
 O retorno surpresa de Smiley 'n' Surly me deu um grande impulso. Inspirou-me a experimentar o velho jogo de comédia.
-Sim. Eu vou ganhar o Tidy Titters Comedy Festival e ser o assunto do Recanto das Fadas, espere e verá!
+Sim. Eu vou ganhar o Tidy Titters Comedy Festival e ser o assunto da Terra das Fadas, espere e verá!
 Como vai, Drippy-boy!<NL>Você vai assistir ao próximo programa antes de partir?
 número que está por vir são apenas jovens.<NL>A próxima grande coisa, eu acho.<NL>Você deveria dar uma olhada.
 O renascimento de Smiley 'n' Surly realmente revigorou o circuito de comédia.
@@ -26688,15 +26688,15 @@ Imagino o que vem a seguir...<NL>Espero que seja bom...
 ...Tudo bem. Vamos então, parceiro! Vamos tentar uma dessas rotinas que você está sempre tentando me fazer fazer, certo?
 Não sei por que, mas sempre rio, mesmo quando as coisas não são engraçadas. Você acha que há algo de errado comigo?
 ...O que é isso? Bater na cabeça? Bem, algumas vezes... E chutou nas canelas, e enfiou no olho... Na-ah-ah-ah!
-Salvador que as lendas do Recanto das Fadas dizem nos livrará do mal... Oliver!
+Salvador que as lendas da Terra das Fadas dizem nos livrará do mal... Oliver!
 ...É assim que vamos vender você para os turistas de qualquer maneira, então não estrague tudo, certo?
 Se você me perguntar, esses últimos pequeninos precisam de treinamento sobre como se tornar homens héteros habilidosos desde o início!
 Aaand... caia! Hmm, nada mal, mas preciso melhorar meu timing...
 Todos os meses, subimos todos para ver a Mãe e damos-lhe uma boa e velha mangueira e uma esfoliação. É como um daqueles banhos que vocês humanos tomam.
 ...O que é isso? Você toma banho mais de uma vez por mês?<NL>Bem, não é minha culpa que você seja uma aberração limpa, é?
-Aproveite sua estadia aqui no Recanto das Fadas! É um lugar antigo e animado, mas eles são um bando decente!
+Aproveite sua estadia aqui na Terra das Fadas! É um lugar antigo e animado, mas eles são um bando decente!
 Eles podem ser pequenos ovos redondos agora, mas os pequeninos logo começarão a tomar todos os tipos de formas diferentes.
-Essa é apenas uma das Sete Maravilhas do Recanto das Fadas! ...O que? Os outros seis? Seu palpite é tão bom quanto o meu, maninho!
+Essa é apenas uma das Sete Maravilhas da Terra das Fadas! ...O que? Os outros seis? Seu palpite é tão bom quanto o meu, maninho!
 Todo mundo tem experimentado a velha comédia ultimamente.
 Todos trabalhando juntos para fazer o outro rir.<NL>Ahh, que lindo!
 Zzz... (bufando) Mmm... Zzz...
@@ -27021,7 +27021,7 @@ Quando eu crescer, quero poder usar magia como um Grande Sábio!
 O que é isso? Você acha que eu sou um pouco pequeno para ser um soldado? Bem, eu estou no corpo de engenharia.
 É sobre cérebros, não músculos, entende.
 Passo todos os dias até os cotovelos em tanques de porcos consertando graxa. Por que não posso trabalhar em algum tipo de máquina voadora?
-Teria que ser algo mais emocionante do que um velho e chato Varredora de Nuvens, no entanto. Que tal algum tipo de nave voadora baseada em porco?
+Teria que ser algo mais emocionante do que um velha e chata Varredora de Nuvens, no entanto. Que tal algum tipo de nave voadora baseada em porco?
 O imperador não demonstra muita emoção, mas posso dizer que ele realmente se preocupa com seus filhos. E por que não? Gascon e Marcassin são bons rapazes.
 Eu ouvi algumas histórias realmente arrepiantes de fantasmas no vale ao norte daqui... É uma sorte eu não acreditar em fantasmas, hein?
 Por favor! Eu imploro a você! Faça tudo o que puder para ajudar os príncipes!
@@ -27891,8 +27891,8 @@ Outonia deve estar muito perto... Acho que podemos nadar, mun! Vamos, Olliezinho
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, caramba.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, caramba.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos entrar na minha mãe, não é?
@@ -27984,8 +27984,8 @@ Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Não falta muito para o confronto final com Shadar, hein? Você está pronto? Estou virando o jogo, mun!
 Então é só Shadar para lutar, eh?<NL>Estou pronto como sempre estarei... aqui vamos nós!
@@ -28067,8 +28067,8 @@ Vamos ver Phil em Motorville!<NL>Er... brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir para os Pântanos de Miasma e tocar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
+Então, precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Não falta muito para o confronto final com Shadar, eh? Você está pronto? Estou virando o jogo, mun!
 Então só resta Shadar lutar, hein?
@@ -28349,7 +28349,7 @@ Quer dizer, eu quero saber mais sobre Ervilha...<NL>Mas primeiro temos que ajuda
 Meu pai às vezes mencionava um "lugar proibido, envolto em trevas"...
 Eu sempre pensei que ele estava falando sobre Nevermore...<NL>Mas talvez ele estivesse falando sobre Nazcaä?
 Então os três reinos estão unindo forças para lutar contra a Feiticeira Branca...
-E eu pensei que tocar Clarion deveria trazer paz ao mundo...
+E eu pensei que tocar a Triflauta deveria trazer paz ao mundo...
 Mas se tivermos que lutar, é o que faremos!<NL>E com meu pai lutando ao nosso lado, não temos nada a temer!
 É hora da batalha final, Oliver!
 Vamos pular nas costas de Tengri e seguir para a Torre de Marfim!
@@ -28414,9 +28414,9 @@ Tive a sorte de estar a caminho da celebração em Ding Dong Dell na época. Ten
 Não pensei que o mundo pudesse ser salvo por alguém tão jovem... O coração dela deve ser excepcionalmente puro.
 Sim, Oliver... você não está sozinho em sua pureza de coração.
 Os três reinos lutando como um...<NL>Eu nunca pensei que veria esse dia.
-Foi para dias como estes que o Clarion foi concebido pela primeira vez quando todos devem permanecer como um.
+Foi para dias como estes que a Triflauta foi concebido pela primeira vez quando todos devem permanecer como um.
 Os três reinos lutando como um...<NL>Eu nunca pensei que veria esse dia.
-Foi para dias como estes que o Clarion foi concebido pela primeira vez quando todos devem permanecer como um.
+Foi para dias como estes que a Triflauta foi concebido pela primeira vez quando todos devem permanecer como um.
 Uma batalha final, que decidirá o destino do mundo... Dói-me que alguém tão jovem como você tenha que carregar tal fardo...
 Mas você é forte, Oliver.<NL>Você tem o coração de um sábio.<NL>Você pode salvar este mundo. Eu sei que você pode.
 As cinzas que caíram sobre os três reinos foram o resultado de um feitiço incomparavelmente poderoso...
@@ -28433,7 +28433,7 @@ Solidão, desespero, raiva...
 Assim que você entrou na Torre de Marfim, senti todos eles. Eles inundaram de dentro...
 O coração da Feiticeira Branca devia estar cheio dessas emoções. Ela deve ter sido dominada por eles.
 Bom dia. Parece que finalmente chegou a hora.
-O esquadrão Varredor de Nuvens de Al Mamoon está ao seu serviço. Os talentos de nossos pilotos são mundialmente reconhecidos. Eles não devem decepcioná-lo.
+O esquadrão de Varredora de Nuvens de Al Mamoon está ao seu serviço. Os talentos de nossos pilotos são mundialmente reconhecidos. Eles não devem decepcioná-lo.
 Parece que nem tiros de canhão nem ataques mágicos podem danificar a Torre de Marfim...
 Achei o Palácio de Vacalifa em Al Mamoon uma estrutura robusta, mas isso é algo completamente diferente...
 Menino das gotas, mun! Como?
@@ -28901,7 +28901,7 @@ Hum... Importa-se de esperar mais um pouco, Alteza?
 Avise-me assim que estiver pronto para começar.
 Não posso reparar facilmente o que fiz.
 Mas devo me esforçar para fazer tudo o que puder para trazer esperança a este lugar. E desta vez sem "bênçãos" duvidosas...
-Então o Clarion está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
+Então a Triflauta está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
 Então Oliver permanece inconsciente... Receio não saber como ajudá-lo.
 Mas devemos ter fé e rezar para que ele se recupere. O que mais podemos fazer?
 Com Estrela da Manhã restaurado, seus poderes são maiores do que nunca. De fato, certos baús agora serão abertos ao seu comando. Ora, há um nesta mesma cidade.
@@ -29020,10 +29020,10 @@ Vá falar com Pip em Ding Dong Dell!
 Peça ao Rei Tom para esculpir a madeira sagrada!
 
 pla-k_100_010_guide_text_en.cfg.bin.txt
-Viaje para Hamelin e peça a Marcassin para completar o Clarion!
+Viaje para Hamelin e peça a Marcassin para completar a Triflauta!
 
 pla-k_110_010_guide_text_en.cfg.bin.txt
-Deixe o Clarion tocar através dos Pântanos de Miasma!
+Deixe a Triflauta tocar através dos Pântanos de Miasma!
 
 pla-k_120_010_guide_text_en.cfg.bin.txt
 Atravesse os Pântanos de  Miasma e siga para Nevermore!
@@ -29035,7 +29035,7 @@ pla-k_140_010_guide_text_en.cfg.bin.txt
 Vá falar com Swaine.
 
 pla-l_010_010-t09_npc_text_en.cfg.bin.txt
-Então o Clarion está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
+Então a Triflauta está completo... Então é apenas uma questão de tempo até que o véu do miasma seja rompido.
 Então você acordou. Estou feliz. Seu coração provou ser forte o suficiente para suportar a escuridão. Está claro para mim agora que você tem o poder de mudar nosso mundo.
 Ver a Rainha Khulan sorrindo mais uma vez, cercada pelos habitantes da cidade... Isso me traz tudo de volta.
 Ela representava esperança para cada homem, mulher e criança em Xanadu. E agora ela traz esperança para a vida de outras pessoas. Realmente, é uma visão para aquecer o coração.
@@ -29205,7 +29205,7 @@ Hamelin
 Castaway
 Yule
 Perdida
-O campo de fadas
+Terra das Fadas
 Floresta Tenebrosa Oculta
 Cachoeiras Sussurrantes
 Cachoeiras Sussurrantes
@@ -29306,7 +29306,7 @@ Hamelin
 Castaway
 Yule
 Perdida
-O campo de fadas
+Terra das Fadas
 Floresta Tenebrosa Oculta
 Ding Dong bem
 Velho Fumacento
@@ -29726,7 +29726,7 @@ Certo! Saindo para encontrar nosso amigo felino gordo Timmy, não é mesmo!
 O que é isso? Quem é minha alma gêmea? Bem, obviamente, é alguém rico e bonito, não é? Oi! Por que você está fazendo essa cara?
 Por que não perguntamos a sua tia Leila, Olliezinho? Ela parece ser um ponto de partida sensato para esta perseguição de gato selvagem...
 Gatos não são exatamente previsíveis, não é? Na verdade, eles são flibbertigibbets adequados, se você me perguntar! Só não me pergunte o que significa "flibbertigibbet"!
-Tudo o que precisamos fazer é encontrar esse Timmy, e saberemos o que está acontecendo com seu Meowjesty em Ding Dong Dell, não é?
+Tudo o que precisamos fazer é encontrar esse Timmy, e saberemos o que está acontecendo com Vossa Miaujestade em Ding Dong Dell, não é?
 Eles se parecem, hein, King Tom e o velho Timmy? Par adequado de gordos, eles são!
 Oi oi! Tem uma ideia de onde ele pode estar, não é? Beleza!
 Qual é a pressa, mun? Não fuja sem mim!
@@ -29817,8 +29817,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, caramba.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, caramba.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos entrar na minha mãe, não é?
@@ -29896,16 +29896,16 @@ Para Al Mamoon! Madeira sagrada ou busto!
 Olhe para ele, todo brilhante e brilhante!<NL>Não é um pedaço de madeira normal, é?
 A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, ficando por aqui.
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
-Então Philip e aquele miniatura são almas gêmeas, não é? Deveria saber pelas especificações, não é? É óbvio quando você pensa sobre isso!
+Então Philip e aquela miniatura são almas gêmeas, não é? Deveria saber pelas especificações, não é? É óbvio quando você pensa sobre isso!
 Vamos procurar o menino Philly, certo?
 Já faz um tempo que você não vê Philip, não é, Olliezinho? Vai ser bom recuperar o atraso, hein?
 Vamos, Olliezinho! Sua melhor bunda está em um pote velho! Temos que ajudá-lo!
 Você é o único que pode ajudar Philip em sua hora de necessidade, Olliezinho! Apresse-se e salve o dia!
 Vamos, Olliezinho! Dê a Phil uma parte de sua ambição! Rápido!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -30043,7 +30043,7 @@ Claro! É o mínimo que posso fazer para agradecer por cuidar do meu livro.
 Não, você está com os fios cruzados, raio de sol.<NL>Esse é o nosso livro. De qualquer modo, quem é você?
 Meu? Eu sou Horácio! Embora você provavelmente me conheça melhor como o Sábio das Eras!
 Espera um segundo! Quer que acreditemos que um anão como você é o Sábio das Eras?
-Quem você está chamando de anão, miniatura?
+Quem você está chamando de anão, baixinho?
 Eu sou uma fada, não é? Eu deveria ser deste tamanho!<NL>Pequeno atrevido...
 Você se chama Ollie, não é?<NL>E você está em uma jornada em nosso mundo?
 Sim.
@@ -30060,7 +30060,7 @@ Espere, ele não disse que voltaria para onde o conhecemos quando se lembrasse d
 Horácio! Isso significa... sua memória...?
 ... Não é bem assim. Mas eu me lembrei de uma coisa.
 O que? O que é isso?<NL>Vamos, mun, cuspa!
-Ha ha. Paciência, miniatura. Ollie, aposto que você quer resolver outro enigma antes de eu contar, não é?
+Ha ha. Paciência, baixinho. Ollie, aposto que você quer resolver outro enigma antes de eu contar, não é?
 É... eu acho...
 Você vê o monumento aqui?<NL>Tem algumas <color:#1>Runas Nazcaan</color> nele.
 Eles são uma pista para algo no Companheiro do Mago. Você pode descobrir o que é?
@@ -30914,8 +30914,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Hã? Alguém por favor me diga o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, Caramba.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, Caramba.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun!<NL>Precisamos entrar na minha mãe, não é?
@@ -30995,10 +30995,10 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Aquela Ervilha apareceu do nada!<NL>Tem certeza que ela está bem, Olliezinho?
 Caramba, espero que isso signifique que finalmente podemos recuperar aquela madeira sagrada. Acha que vamos?
 Graças a Deus, recuperamos aquela madeira sagrada!<NL>Vamos nos apressar e esculpi-la, certo?
-Ele? Montando um varredor de nuvens?<NL>Não me faça rir, mun!<NL>Eles não vêm em tamanhos de mouse!
+Ele? Montando uma Varredora de Nuvens?<NL>Não me faça rir, mun!<NL>Eles não vêm em tamanhos de mouse!
 E chega de beliscar, ouviu?
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -31141,7 +31141,7 @@ pla-t03_npc_text_en.cfg.bin.txt
 ...! .........!!!<NL>.........?
 Prazer em vê-lo de novo!<NL>Você se divertiu atravessando o deserto?
 Diversão!? Estava fervendo, mun!
-Fervendo para você, talvez, miniatura.<NL>Eu sou um fantasma, e fantasmas não sentem o calor.<NL>Então é isso!
+Fervendo para você, talvez, baixinho.<NL>Eu sou um fantasma, e fantasmas não sentem o calor.<NL>Então é isso!
 O que você está fazendo aqui, Horace?
 Estou olhando para essas fontes. Eles são incríveis. Eles esguicham leite! Todo o leite que um menino pode beber! Eles são o que Al Mamoon é famoso.
 Mas o cheiro picante vindo daquela barraca de comida está se misturando com o cheiro do leite. É estranho.
@@ -32102,8 +32102,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Fairyground, certo?<NL>...Precisamos?
-De volta ao Fairyground, não é?<NL>...Ohh, Caramba.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, Caramba.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos entrar na minha mãe, não é?
@@ -32167,7 +32167,7 @@ Aquela cerimônia em Perdida vai começar logo, mun.<NL>É melhor irmos andando!
 O velho olhos de cachorrinho tem mais do que seu quinhão de amor.<NL>Acho que ele poderia nos poupar um pouco disso!
 Khulan precisa de uma dose de amor, não é?
 Acho que devemos pedir a Khulan para resolver Estrela da Manhã para nós, não acha?
-Para chegar a Nevermore, teremos que atravessar os Pântanos de Miasma. E para fazer isso, vamos precisar do Clarion. Então, vamos colocar nossos fundos em ação!
+Para chegar a Nevermore, teremos que atravessar os Pântanos de Miasma. E para fazer isso, vamos precisar da Triflauta. Então, vamos colocar nossos fundos em ação!
 Você acha que há mais guardiões por aí que possamos tirar orbes e convocar? Com mais alguns deles, seríamos praticamente imbatíveis, Olliezinho!
 Falta pouco para chegarmos ao covil de Shadar agora, Olliezinho! Assustado? Eu sei que estou virando bem, sou...
 Olhe para ele, todo brilhante e brilhante!<NL>Não é um pedaço de madeira normal, é?
@@ -32175,10 +32175,10 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Clarion, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -33135,12 +33135,12 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell,<NL>o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do <NL>pequeno escroto maldito.
 Fazendo isso apenas com suas garras? Há mais no velho King Tom do que aparenta! E lá estava eu pensando que ele era apenas uma bola de pelo gorda e preguiçosa!
 Agora só precisamos que o Marcassin aplique os retoques <NL>finalistas!
-Eu me pergunto que tipo de som esse Clarion faz.
-Então, precisamos ir aos Pântanos de Miasma e jogar o Clarion, não é? Então é só mais um passo para Nevermore...
+Eu me pergunto que tipo de som essa Triflauta faz.
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
 Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -33248,7 +33248,7 @@ Tão educado como sempre, pelo que vejo.<NL>Fulano de tal cabeça grande...
 De qualquer forma, parece que você está no caminho certo para se tornar um sábio agora, Ollie. Suponho que seu Nazcaan esteja indo bem também?
 Meu, hã...nas...car?
 “Nazcaan,” ele disse. É uma língua que as pessoas falavam há muito tempo. É muito antiga. Há pedaços dela em seu Companheiro do Mago, se você olhar.
-Bem, bem! Afinal, você sabe de alguma coisa,<NL>seu bisbilhoteiro!
+Bem, bem! Afinal, você sabe de alguma coisa,<NL>seu baixinho!
 Sim, o primeiro Companheiro do Mago foi escrito na escrita de Nazcaan...
 E ainda há pedaços dele em edições modernas como a sua também. É por isso que cada cópia contém um guia para o alfabeto Nazcaan!
 Uau ... Isso é muito legal.
@@ -33927,8 +33927,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, céus.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
 Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos contar piadas para minha mãe, não é?
@@ -33998,7 +33998,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele bisbilhoteiro, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -34091,8 +34091,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, céus.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
 Precisamos ir e dar a esses meninos suas partes engraçadas de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos ajudar a mãe, não é?
@@ -34162,7 +34162,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele bisbilhoteiro, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -34719,8 +34719,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, céus.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
 Precisamos ir e dar a esses meninos o que é deles, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos entrar na minha mãe, não é?
@@ -34793,7 +34793,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele bisbilhoteiro, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -34843,8 +34843,8 @@ Precisamos zarpar em busca de Outonia, mun!
 Hã? O que diabos está acontecendo, mun?
 ...Eh?<NL>Alguém pode me dizer o que está acontecendo?
 Hã? O que é tudo isso, então?
-Voltando para o Recanto das Fadas, certo?<NL>...Precisamos?
-De volta ao Recanto das Fadas, não é?<NL>...Ohh, céus.
+Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
+De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
 Precisamos ir e dar a esses meninos suas partes engraçadas de volta, não é?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos entrar na minha mãe, não é?
@@ -34917,7 +34917,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele bisbilhoteiro, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -34977,7 +34977,7 @@ Que dureza! Uma das grandes coisas de ser um fantasma é que posso ir a praticam
 De qualquer forma, dê uma olhada nas palavras neste quadro aqui. Eles estão escritos em letras engraçadas, não estão?
 Esses são da Idade da Pedra Sagely. Esta cidade é tão remota que ainda existem vestígios desses tempos aqui.
 Crikey! Eu não posso fazer cabeça nem cauda dessa escrita instável. Acho que eles se parecem um pouco com Nazcaan, agora que penso nisso.
-Talvez você não seja tão estúpido quanto parece, bisbilhoteiro. Na verdade, eles são baseados nas runas de Nazcaan.
+Talvez você não seja tão estúpido quanto parece, baixinho. Na verdade, eles são baseados nas runas de Nazcaan.
 E por falar em Nazcaan, já faz um tempo desde que te dei algo para decifrar.
 Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mago, encontrará pedaços de Nazcaan aqui e ali.
 Existe <color:#1>um certo personagem que só aparece em um local</color>. Minha pergunta é: <color:#1>onde</color> está?
@@ -34991,8 +34991,8 @@ E o único caractere que aparece uma vez é o "6" ao lado de "Jabal al-Dukhan".
 Parece que você está realmente conhecendo o Companheiro do Mago. Acho que isso merece uma recompensa!
 Puxa! Obrigado, Horácio! Tenho certeza que será muito útil!
 Ah, posso te perguntar uma coisa? Você sabe alguma coisa sobre uma pequena ilha que tem um monumento com a inscrição Nazcaan?
-No mar, a oeste de Recanto das Fadas, está.<NL>Você sabe o que queremos dizer?
-A oeste do Recanto das Fadas? Hmm... Oh, acho que houve uma grande batalha lá durante as Guerras dos Magos.
+No mar, a oeste da Terra das Fadas, está.<NL>Você sabe o que queremos dizer?
+A oeste da Terra das Fadas? Hmm... Oh, acho que houve uma grande batalha lá durante as Guerras dos Magos.
 Mas tenho certeza que costumava haver uma ilha muito maior lá. De onde pode ter surgido este novo?
 Bem, mamãe sempre nos disse, fadas, que ela fez todas as ilhas por lá. Talvez ela não estivesse falando sério afinal...
 É sério? Então a mãe das fadas pode fazer magia de criação? Interessante...
@@ -35000,7 +35000,7 @@ Hã? Você realmente acha que ela não estava mentindo? Rá! Há mais na minha v
 ...Hm? Como? Eu, hum...<NL>Essa é uma boa pergunta. Eu não me lembro.
 Você com certeza sabe muita coisa, Horace. Aposto que<NL>não há nada que você não saiba sobre<NL>o Companheiro do Mago!
 Qual é a sua história, mano? Como você sabe tudo sobre o passado obscuro e distante?
-Eu disse a você, bisbilhoteiro - eu sou o Sábio das Eras!
+Eu disse a você, baxinho, eu sou o Sábio das Eras!
 Essa não é uma resposta invertida!
 Mas é tudo que me lembro! Eu sou Horace, o Sábio das Eras... Além disso, seu palpite é tão bom quanto o meu...
 Você realmente não consegue se lembrar?
@@ -35456,7 +35456,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele bisbilhoteiro, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -35519,7 +35519,7 @@ Oliver! É você! Graças a Deus você está aqui!
 O que há de errado, Horácio?
 Me escondi a bordo de um navio em Castaway, mas quando acordei, estava aqui!
 Eu nunca soube que havia uma floresta inteira cheia desses pequenos malucos! Quando isto aconteceu?
-Ora, seu mendigo atrevido! O Recanto das Fadas aqui tem sido o centro da cultura das fadas por séculos!
+Ora, seu mendigo atrevido! a Terra das Fadas aqui tem sido o centro da cultura das fadas por séculos!
 Apenas séculos? Bem, não devia estar aqui quando eu estava viajando, então...
 Hã? O que você está falando?
 Nada. De qualquer forma, pode não ser onde eu esperava vê-lo a seguir, mas vamos dar-lhe o seu próximo quebra-cabeça de qualquer maneira,<NL>certo?
@@ -35747,7 +35747,7 @@ Hã? "Jimzinho"...? Você se refere a mim?
 Claro, mun! Quem mais eu quero dizer?<NL>Pare e coma alguma coisa, sim?
 Tem um cheirinho bem gostoso...
 Realmente faz! Hum, o que é?
-"O que é?" Ele disse! Você está me dizendo que nunca encontrou a comida mais famosa do Recanto das Fadas - <NL>fada rarebit?
+"O que é?" Ele disse! Você está me dizendo que nunca encontrou a comida mais famosa da Terra das Fadas - <NL>fada rarebit?
 Uh, não... eu não...
 Crikey! Eu sabia que deveria ter executado meu plano antes!
 Que plano é esse, mano?
@@ -35778,7 +35778,7 @@ Hã? É óbvio, não é?<NL>Estou praticando uma piada, não é?
 Hã? Oh, você quer dizer a piada de uma piada?<NL>Puxa, você com certeza está praticando, hum... muito.
 Essa é a única maneira de acertar, não é?<NL>A verdadeira comédia não vem fácil!
 Não importa acertar, mano!<NL>Eu quero acertar! Bata-o para fora do parque, como!
-De que outra forma vou me tornar o maior homem que o Recanto das Fadas já viu?
+De que outra forma vou me tornar o maior homem que a Terra das Fadas já viu?
 EITA, que grande <color:#1>ambição</color>, hein, Sr. Drippy?
 Você não está errado, Olliezinho.<NL>Ei, gostaria de nos dar uma mão, amigo?
 E agora?<NL>Não vê que estou muito ocupado?
@@ -35786,7 +35786,7 @@ Vá em frente, seu grande idiota!<NL>Não vai demorar um segundo.
 Tudo bem, tudo bem, se eu precisar.<NL>Mas só porque você pediu tão educadamente...
 Muito obrigado!<NL>Aguarde um segundo...
 O que diabos você acabou de fazer? Eu me sinto.. calmo... Hmm... Talvez eu esteja tentando um pouco demais, hein?
-Eu vou ser o maior homem que o Recanto das Fadas já viu!
+Eu vou ser o maior homem que a Terra das Fadas já viu!
 É preciso uma grande <color:#1>ambição</color> para ter um objetivo como esse.<NL>Oi, que tal nos dar uma mão, amigo?
 E agora?<NL>Não vê que estou muito ocupado?
 Vá em frente, seu grande idiota!<NL>Não vai demorar um segundo.
@@ -35991,14 +35991,14 @@ Hã? O que é tudo isso, então?
 Ahhhhhhh!!!
 Ahhhhhhh!!!
 Ahhhhhhh!!!
-O Clube da Cavidade fica perto da floresta, Olliezinho. Espero que alguém lá embaixo seja engraçado o bastante para fazer a mamãe rir...
+O Clube da Caverna fica perto da floresta, Olliezinho. Espero que alguém lá embaixo seja engraçado o bastante para fazer a mamãe rir...
 Minha nossa, mun! A mamãe é um pé no saco! Virar!
 Mam é tão imutável quanto as colinas, mun. Ela é uma colina! Aposto que ela surpreendeu a vida fora de você na primeira vez que você a viu, hein?
 Se juntarmos todas as peças de arte, poderemos fazer a mamãe rir sem problemas, mano.
 Certo! Oito peças de arte para reunir, não é? Vamos ajudar minhas bundas na estrada de volta para a cidade engraçada!
 Tente perguntar a alguns dos meninos nas lojas, não é? Deve haver algumas obras de arte por aí.
 Beleza! Hora de entregar as peças de arte para Hilário e Rabugento, não é?
-Ao Clube da Cavidade! Hilário e Rabugento aguardam!
+Ao Clube da Caverna! Hilário e Rabugento aguardam!
 Obrigado! Agora meus fiéis aprendizes não terão que se aposentar do negócio engraçado!
 Certo! Hora de fazer mamãe rir! Você está pronto para dividir suas montanhas?
 Quando estiver pronto, vá falar com Hilário e Rabugento, certo?
@@ -36072,7 +36072,7 @@ A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, fican
 O ladrão deve estar escondido em Ding Dong Dell, o canalha!
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
 Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquele bisbilhoteiro, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
+Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
 Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
@@ -36105,7 +36105,7 @@ Você precisa procurar aquela Cassiopeia no castelo dela, mun.
 Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
 É bom dar uma volta ocupada por aqui! Deve ser porque tem uma celebridade na cidade, não é? O que quer dizer com "quem?" Eu, é claro!
 Eu não estaria onde estou hoje sem minhas companheiras fadas, mun. Eles podem ser idiotas, mas são meus idiotas! São adoráveis!
-Clube da Cavidade é onde os maiores artistas de todos os tempos começaram a trabalhar. As pessoas vêm de todos os lugares para ter um glim desse palco. Lendário, é!
+O Clube da Caverna é onde os maiores artistas de todos os tempos começaram a trabalhar. As pessoas vêm de todos os lugares para ter um glim desse palco. Lendário, é!
 O que é esse brilho no seu olho? Você está se perguntando se pode usar fadas como Familiares, não é? Doente, você é, mun! Doente!
 Não preciso ir ver minha mãe, preciso? Dá algo podre para minha cabra, ela faz! Ela continua e continua... Oi! O que é esse olhar para!?
 Vamos nos mexer, certo?<NL>Estou entediado pra caramba, mun!
@@ -36305,13 +36305,13 @@ Oliver salva Myrtle em Motorville e, como resultado, torna-se amigo de Esther! P
 Tendo passado nos testes com louvor, Oliver e seus amigos são alertados para o fato de que Velho Fumacento está prestes a explodir, colocando Al Mamoon em perigo! Sem tempo de sobra, a equipe segue para o cume do vulcão!
 Oliver e seus amigos evitam com sucesso que Velho Fumacento entre em erupção, salvando Al Mamoon no processo. Seu próximo porto de escala é a cidade de Hamelin, onde outro Grande Sábio os espera. Mas primeiro, eles precisam encontrar um barco!
 Após uma breve altercação com um ladrão comum, Oliver e seus amigos adquirem um caldeirão e encontram o gênio que reside dentro dele. Eles também descobrem que não podem embarcar em um navio sem uma carta de passagem... De volta a Al Mamoon!
-Depois de saber que ela compartilha uma alma com a Srta. Leila, Oliver e seus amigos restauram a contenção de Vacalifa de coração partido. Em troca, eles recebem uma carta de passagem... Castaway espera mais uma vez!
+Depois de saber que ela compartilha uma alma com a Dona Leila, Oliver e seus amigos restauram a contenção de Vacalifa de coração partido. Em troca, eles recebem uma carta de passagem... Castaway espera mais uma vez!
 Ao chegar em Castaway, o grupo tem o retrato e a carta de passagem roubados por um ladrão incorrigível - que acaba por não ter comedimento! Cabe a Oliver restaurá-lo ao normal!
 O nome do ladrão é Swaine, e ele concorda em se juntar a Oliver e os outros em sua jornada. Dizem que o próximo Grande Sábio está em Hamelin, no continente oriental de Outonia. Hora de desenrolar as velas!
 Olho da Tempestade, convocado pelo próprio Shadar, deposita nossos heróis em uma ilha aparentemente desabitada... que acaba sendo o lar das fadas! Oliver e companhia resolvem dar uma olhada...
 Para descobrir por que os pequeninos não estão nascendo, Oliver e seus amigos devem se aventurar na Barriga da Mamãe... Mas o material de Hilário e Rabugento simplesmente não a faz rir! Hora de encontrar as obras de arte perdidas!
 A nova rotina de Hilário e Rabugento arranca muitas risadas da Fada Madrinha, permitindo que nossos heróis pulem para dentro - onde descobrem que os pequeninos estão sendo atacados por monstros aterrorizantes! Hora de salvar o dia!
-Com os pequeninos nascidos com segurança, tudo está bem no Recanto das Fadas. Tendo visto o quanto ele faz falta, Oliver decide deixar o Sr. Drippy na ilha... mas sua amiga fada não aceita nada disso! Reunidos mais uma vez, eles partiram para Outonia!
+Com os pequeninos nascidos com segurança, tudo está bem na Terra das Fadas. Tendo visto o quanto ele faz falta, Oliver decide deixar o Sr. Drippy na ilha... mas sua amiga fada não aceita nada disso! Reunidos mais uma vez, eles partiram para Outonia!
 Oliver e companhia finalmente chegam a Hamelin - uma cidade extensa governada por incontáveis decretos draconianos. Acreditando que o Grande Sábio esteja em algum lugar do palácio do Príncipe, o grupo se disfarça e tenta entrar sorrateiramente.
 Tendo sido expulso dos aposentos do príncipe de coração partido, Oliver e seus amigos são engolfados por uma estranha névoa que os envia de volta no tempo. No Hamelin do passado, dois príncipes precisam de sua ajuda!
 Para retornar ao seu próprio tempo, nossos heróis devem encontrar a varinha chamada Estrela da Manhã e o feitiço conhecido como Breach Time. Parece que ambos estão selados no final da perigosa Trilha da Lápide...
@@ -36427,10 +36427,10 @@ Há um pescador nervoso parado no cais em Castaway.
 Um pescador de Castaway de repente ficou com medo do mar e se recusa a entrar em seu barco.
 Algo está incomodando uma compradora de maiôs em Castaway.
 Uma mulher de Castaway não pode deixar de gastar todo o seu dinheiro em trajes de banho, embora já tenha o suficiente.
-Dizem que um lojista no Recanto das Fadas tornou-se incomumente mal-humorado e pouco comunicativo.
-Um lojista no Recanto das Fadas é totalmente incapaz de ser gentil com seus clientes.
-Um morador de Recanto das Fadas amante da comédia parece estar tendo um pouco de incômodo.
-Um morador do Recanto das Fadas se vê incapaz de parar de contar piadas em momentos inoportunos.
+Dizem que um lojista na Terra das Fadas tornou-se incomumente mal-humorado e pouco comunicativo.
+Um lojista na Terra das Fadas é totalmente incapaz de ser gentil com seus clientes.
+Um morador da Terra das Fadas amante da comédia parece estar tendo um pouco de incômodo.
+Um morador da Terra das Fadas se vê incapaz de parar de contar piadas em momentos inoportunos.
 Dizem que um jovem de Hamelin que passa seu tempo pesquisando medicina está agindo de maneira muito estranha.
 Um jovem de Hamelin está sendo estranhamente cruel com sua irmãzinha.
 Há um homem em Hamelin que está sendo oprimido por um fardo pesado de preocupação.
@@ -36731,10 +36731,10 @@ Um homem que visita Al Mamoon fica bastante perturbado depois de perder seu diá
 O diário deve estar debaixo de uma árvore perto do fundo do Velho Fumacento.
 Um homem visitando Al Mamoon perdeu seu diário - mas você o encontrou no sopé de Velho Fumacento!
 Missão concluída!
-Um homem visitando o Recanto das Fadas parece ter perdido algo importante.
-Um homem que visita o Recanto das Fadas fica bastante perturbado depois de perder seu diário mais uma vez.
+Um homem visitando a Terra das Fadas parece ter perdido algo importante.
+Um homem que visita a Terra das Fadas fica bastante perturbado depois de perder seu diário mais uma vez.
 O diário deve estar perto de um grande pedaço de madeira flutuante dentro de uma caverna em algum lugar da ilha de Teeheeti.
-Um homem visitando o Recanto das Fadas perdeu seu diário - mas você o encontrou em uma caverna na ilha de Teeheeti!
+Um homem visitando a Terra das Fadas perdeu seu diário - mas você o encontrou em uma caverna na ilha de Teeheeti!
 Missão concluída!
 Um homem visitando Hamelin parece ter perdido algo importante.
 Um homem que visita Hamelin fica bastante perturbado depois de perder seu diário mais uma vez.
@@ -36789,7 +36789,7 @@ Os cavaleiros pediram para você derrotar três mestres mágicos que despertaram
 Você derrotou os mestres mágicos, conforme solicitado pelos cavaleiros na Torre de Marfim.
 Hilário e Rabugento abriram uma loja de armas a bordo do Serpe de Ferro, mas parecem estar tendo problemas...
 Hilário e Rabugento precisam de algumas ideias para novas armas para atrair clientes para sua loja.
-Hilário e Rabugento pediram para você encontrar novas ideias de armas no Recanto das Fadas.
+Hilário e Rabugento pediram para você encontrar novas ideias de armas na Terra das Fadas.
 Hilário e Rabugento pediram que você tivesse uma ideia para uma arma relacionada à Grande Sábia Alicia.
 Um gruffian continua roubando produtos dos campos dos fazendeiros fora da cidade. Tem que ser tratado rapidamente - está quase na hora da colheita!
 Uma besta alada está atormentando os viajantes que se dirigem para a cidade. Deve ser tratado antes que machuque alguém!
@@ -38441,7 +38441,7 @@ Hamelin
 Castaway
 Natal
 Perdida
-O campo de fadas
+Terra das Fadas
 A Floresta Tenebrosa Oculta
 Ding Dong bem
 Velho Fumacento
