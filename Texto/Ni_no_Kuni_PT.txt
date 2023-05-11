@@ -631,8 +631,8 @@ Ervilha
 Marcasssin
 Marcasssin
 Gascon
-Risonho
-Grosseiro
+Hilário
+Zangado
 Príncipe Ali
 Príncipe Ali
 Sapo arco-iris
@@ -1883,8 +1883,8 @@ o
 o
 Dragão Vermelho
 Candelabracadabra
-Coração Vil
-Coração Vil
+Malcoração
+Malcoração
 Capitão Crossbones
 Tapo Gigio
 Moltaan
@@ -4787,7 +4787,7 @@ Agora, sua mãe, bem, ela compartilhava uma alma com<NL>a Grande Sábia Alicia. 
 Hã? Então minha mãe era uma sábia...?
 Mas... como isso nos ajuda a salvá-la?
 Bem, Alicia tentou enfrentar o Mago Sombrio.
-Mas seu poder era demais para ela, e ele<NL>a prendeu nesta joia negra chamada de Armadilha das Almas.
+Mas seu poder era demais para ela, e ele<NL>a prendeu nesta joia negra chamada de Armadilha de Almas.
 Quando isso aconteceu, a ligação entre a alma dela e de sua mãe teria sido cortada.
 <KEEP>
 Mas se você libertar Alicia, isso poderia consertar a ligação e, quem sabe, poderia até trazer sua mãe de volta!
@@ -4836,7 +4836,7 @@ E um desses mundos é o meu mundo.
 Isso mesmo, todo um outro mundo!
 Outro mundo...?
 Que rápido que você é!
-E eu—que sou o Lorde Supremo das Fadas—<NL>a razão de eu estar aqui neste mundo,<NL>bem, é porque há uma maçã podre tentando perturbar a paz de nossos dois mundos, entende?
+E eu—que sou o Lorde Supremo das Fadas—<NL>a razão de eu estar aqui neste mundo,<NL>bem, é porque há uma maçã podre tentando perturbar<NL>a paz de nossos dois mundos, entende?
 Shadar, o Mago Sombrio, é o nome dele.<NL>
 E o que ele fez foi tomar o coração das pessoas<NL>e espalhar a guerra e a ruína por todo o mundo.<NL>
 Tentei dete-lo, mas fui transformado em um boneco de pano<NL>e me expulsou do nosso mundo e me jogou no seu, aquele canalha!
@@ -4895,9 +4895,9 @@ Agora, sua mãe, bem, ela compartilhava uma alma com<NL>a Grande Sábia Alicia. 
 Hã? Então minha mãe era uma sábia...?
 Mas... como isso nos ajuda a salvá-la?
 Bem, Alicia tentou enfrentar o Mago Sombrio.
-Mas seu poder era demais para ela, e ele<NL>a prendeu nesta joia negra chamada Armadilha das Almas.
+Mas seu poder era demais para ela, e ele<NL>a prendeu nesta joia negra chamada Armadilha de Almas.
 Quando isso aconteceu,<NL>a ligação entre a alma dela e de sua mãe<NL>teria sido cortada.
-Mas se você libertar Alicia da Armadilha das Almas,<NL>isso poderia consertar a ligação e, quem sabe—<NL>poderia até trazer sua mãe de volta.
+Mas se você libertar Alicia da Armadilha de Almas,<NL>isso poderia consertar a ligação e, quem sabe—<NL>poderia até trazer sua mãe de volta.
 Isso é realmente verdade?
 Não posso te dar certeza agora,<NL>mas é possível, sim.
 Espere...
@@ -4965,7 +4965,7 @@ eva0155_text_en.cfg.bin.txt
 Certinho! Hora de encontrar uma varinha mágica!
 Quer dizer que há uma escondida em algum lugar por aqui? Igual ao livro de feitiços?
 Rá! Você tá me zoando se acha que vou facilitar assim, mano! O que você acha que eu sou?<NL>Feito de equipamentos mágicos!?
-Não, este vai ser um pouco mais difícil. Mas nossa jornada para o meu mundo é uma caça a Armadilha das Almas, entre outras coisas...
+Não, este vai ser um pouco mais difícil. Mas nossa jornada para o meu mundo é uma caça a Armadilha de Almas, entre outras coisas...
 Então, por que você não vê isso como um aquecimento? A caça aos ovos de Páscoa antes da caça ao ganso selvagem, se preferir.
 O...huh...?<NL>Hum, tudo bem. Eu acho...
 ...Ok, estou mentindo. O problema é que nunca trouxe uma varinha comigo.
@@ -8237,7 +8237,7 @@ Obrigado e boa noite.
 Um fiasco, eles são estes dias, mun.
 Quanto tempo isso vai durar?<NL>Isso é vergonhoso.
 Crikey... Outro fedorento...
-Ora, se não são meus velhos amigos Hilário e Rabugento!<NL>Como vão, rapazes?
+Ora, se não são meus velhos amigos Hilário e Zangado!<NL>Como vão, rapazes?
 Drippy!
 Como assim, mun?<NL>Quanto tempo sem te ver, hein?
 Nada de conversa fiada, seu par de preguiçosos! O que vocês estão fazendo aqui? Eu enviei você para espionar Shadar, não foi?
@@ -8247,11 +8247,11 @@ Estamos trabalhando duro, mun!<NL>Recebemos uma informação quentinha outro dia
 Ele tem todos os chifres na cabeça, não é!
 Bem, eu sei disso, não sei?<NL>Eu o vi em carne e osso!
 Então, as notícias que você recebia enquanto era um boneco,<NL>Sr. Drippy, eram de...
-Isso mesmo, Olliezinho! Hilário e Rabugento aqui eram meus olhos e ouvidos!
-Está treinando algum novo talento?<NL>Como? Eu sou Hilário de Hilário e Rabugento.
+Isso mesmo, Olliezinho! Hilário e Zangado aqui eram meus olhos e ouvidos!
+Está treinando algum novo talento?<NL>Como? Eu sou Hilário de Hilário e Zangado.
 Eles parecem um pouco molhados, mun. E esse aqui parece que vai beliscar a chupeta da boca de um bebê!
 O q—<NL>Seu pequeno atrevido—!
-Não leve para o lado pessoal, mun! É apenas o jeito dele - é por isso que o chamam de Rabugento, não é?
+Não leve para o lado pessoal, mun! É apenas o jeito dele - é por isso que o chamam de Zangado, não é?
 Hmph. É melhor do que ficar sorrindo o dia todo como esse idiota idiota aqui. De qualquer forma, prazer em conhecê-lo e tudo mais.
 Hum, prazer em conhecê-lo também. São essas as fadas que você disse que treinou, Drippy?
 Podemos conseguir que eles nos ajudem a fazer sua mãe rir?
@@ -8308,7 +8308,7 @@ Espere, espere! Precisamos praticar primeiro, não é? Não importa pular a arma
 Tudo bem. Vocês precisam praticar.<NL>Voltaremos quando vocês estiverem prontos.
 
 eve0095_text_en.cfg.bin.txt
-<color:#7>Obrigado, obrigado! Como?<NL>Somos Hilário e Rabugento!</color>
+<color:#7>Obrigado, obrigado! Como?<NL>Somos Hilário e Zangado!</color>
 <color:#6>Como?</color>
 <color:#7>Crikey, temos a casa cheia hoje à noite!<NL>Que adorável!</color>
 <color:#6>Mas não!<NL>É como um sonho, isso sim!</color>
@@ -8402,11 +8402,11 @@ eve0095_text_en.cfg.bin.txt
 <color:#6>Fleeeeecha!</color>
 <color:#7>Ah! Você daria um lojista de lixo, seu!<NL>Um cliente, e você está todo arrepiado!</color>
 Obrigado e boa noite!
-É o Show do Hilário e Rabugento!
+É o Show do Hilário e Zangado!
 <color:#7>Certo... Toc toc! Cha-ching!</color>
 
 eve0096_text_en.cfg.bin.txt
-<color:#7>Obrigado, obrigado! Como?<NL>Somos Hilário e Rabugento!</color>
+<color:#7>Obrigado, obrigado! Como?<NL>Somos Hilário e Zangado!</color>
 <color:#6>Como?</color>
 <color:#7>Crikey, temos a casa cheia hoje à noite!<NL>Que adorável!</color>
 <color:#6>Mas não!<NL>É como um sonho, isso sim!</color>
@@ -8500,12 +8500,12 @@ eve0096_text_en.cfg.bin.txt
 <color:#6>Fleeeeecha!</color>
 <color:#7>Ah! Você daria um lojista de lixo, seu!<NL>Um cliente, e você está todo arrepiado!</color>
 Obrigado e boa noite!
-É o Show do Hilário e Rabugento!
+É o Show do Hilário e Zangado!
 <color:#7>Certo... Toc toc! Cha-ching!</color>
 
 eve0099_text_en.cfg.bin.txt
 Floresta Élfica teatro comédia Daughton
-<color:#7>Olá! Somos Hilário e Rabugento!</color>
+<color:#7>Olá! Somos Hilário e Zangado!</color>
 <color:#6>Sim.</color>
 <color:#7>Hilário, olha os assentos! Está ficando cheio.</color>
 <color:#6>Um evento como um sonho!</color>
@@ -8858,7 +8858,7 @@ Você conhece o Shadar, senhora?
 Não!
 Ela está pegando o microfone?
 Desculpa amor! Claro que o conheço! Ele é aquele que estava voando em volta da minha cabeça, causando todo tipo de confusão! Pequeno terror apropriado, ele é!
-Hiláaaaario!<NL>Seveeero!<NL>Tragam suas bundas para cá!
+Hiláaaaario!<NL>Zangaaado!<NL>Tragam suas bundas para cá!
 Estamos aqui, estamos aqui.<NL>Mantenha seu cabelo, mun...
 O que foi, mamãe?<NL>Pare de gritar!
 Vocês dois podem dar uma olhada no castelo do Shadar para mim?
@@ -8873,7 +8873,7 @@ Por favor, meniiiinos! Para miiim? Você não gostaria de desapontar sua querida
 Você pode dizer isso de novo. Sabemos que não devemos irritá-lo. Parece que estamos tirando um período sabático<NL>então, hein?
 O que é isso? Se separar, você quer dizer?<NL>Certo. Pode ser, hein?
 Quantas vezes!? Não estamos nos separando!<NL>Eu quis dizer que teremos que fazer uma pausa apenas! Francamente!
-Obrigado, Hilário!<NL>Obrigado, Rabugento!
+Obrigado, Hilário!<NL>Obrigado, Zangado!
 Não nos agradeça, agradeça à mamãe. Foi uma ideia maluca dela.<NL>Ta, mamãe. De qualquer forma, vamos deixar o Drippyzinho saber se encontrarmos alguma coisa, não é?
 Obrigado!<NL>Falando em Drippy, onde ele está?
 Ele escorregou, não é? Provavelmente foi se despedir de todos os garotos da cidade, hein.
@@ -9880,7 +9880,7 @@ Essas três pedras foram então seladas, longe da própria varinha...
 Então... precisamos ir procurá-las, certo?
 Sim... Mas tenho um pedido de desculpas a esse respeito...
 Hã? Por quê? O que é que você fez?
-Um <color:#1>mapa</color> detalhando a localização das três pedras <NL>já esteve comigo. Receio, porém, que tenha sido roubado.
+Um <color:#1>mapa</color> detalhando a localização das três pedras <NL>já esteve comigo. Receio, porém, que tenha<NL>sido roubado.
 Roubado!?
 Enquanto eu estava com o coração partido, devo confessar que me tornei bastante negligente com os tesouros do palácio. Livros e mapas frequentemente desapareciam...
 Para minha vergonha, observei vários desses roubos...<NL>e não fiz nada.
@@ -10853,7 +10853,7 @@ Basta olhar para ele!<NL>É tão incrivelmente lindo...
 S-S-Sem falar que é incrivelmente f-frio. Brrr!<NL>E eu pensei que estava f-f-frio lá fora...
 Está um f-f-frio pra caramba, hein? Vamos acabar logo com isso e dar o f-f-fora daqui,<NL>vamos?
 Gah, por que vocês dois têm que reclamar sem parar como um par de velhos rabugentos o tempo todo?
-P-P-Porque SOMOS um par de velhos r-r-Rabugentos comparados a você! Brrrrr!
+P-P-Porque SOMOS um par de velhos r-r-Zangados comparados a você! Brrrrr!
 Não importa o quão frio esteja. Há uma <color:#1>pedra mágica</color> aqui e temos que encontrá-la. Temos que continuar, não importa o que aconteça. Cuidado por onde anda, pessoal...
 P-P-P-Pah! É fácil para você falar isso, g-g-garoto!<NL>Eu daria minha narina direita para ser um pequenino de novo...
 
@@ -11335,7 +11335,7 @@ O-Obrigado, Alteza! Parece que vai ser muito útil!
 Heh heh! Não parece nada mal, não é, Oliver? Shadar estará tremendo de medo!
 Agora você está mais preparado para enfrentar Shadar em batalha,<NL>porém um obstáculo significativo se interpõe entre você e qualquer encontro desse tipo.
 Oh, aqui vamos nós.<NL>O que é desta vez?
-Shadar mora no castelo de <color:#1>Semvolta</color>. Fica ao norte daqui, além dos <color:#1>Pântanos de Miasma</color>.
+Shadar mora no castelo de <color:#1>Nunca Mais</color>. Fica ao norte daqui, além dos <color:#1>Pântanos de Miasma</color>.
 Se um viajante descuidado for envolvido pela névoa escura pela qual os pântanos são conhecidos, ele estará perdido para sempre.
 Espere um segundo! Os Pântanos de Miasma?<NL>E-eu...
 O que é, Ester? Você já ouviu falar deles?
@@ -11994,13 +11994,13 @@ Pelo menos, é isso que eu acho. É o que eu acredito...
 Então isso significa que vamos visitar o castelo de Shadar, não é?
 Sim, temos que acabar com isso.
 É isso aí! Vamos lá, cara! Cuidado, Shadar,<NL>aqui vamos nós!
-É hora de ir para <color:#1>Semvolta</color>...
+É hora de ir para <color:#1>Nunca Mais</color>...
 
 evl0010_text_en.cfg.bin.txt
 Mwah ha ha ha ha!
 
 evl0070_text_en.cfg.bin.txt
-Bem-vindo a Semvolta.
+Bem-vindo a Nunca Mais.
 Saudações, garoto.
 Você ficou forte...
 Mas você é forte o suficiente para me derrotar?
@@ -13831,7 +13831,7 @@ evw0170_text_en.cfg.bin.txt
 Floresta fica...onde?
 
 evw0180_text_en.cfg.bin.txt
-Crikey, primeiro o Sorridente e o rabjuneto roubam nossa atenção no palco, e agora você nos dá uma surra! Mamãe nunca deixará isso de lado...
+Crikey, primeiro o Hilário e Zangado roubam nossa atenção no palco, e agora você nos dá uma surra! Mamãe nunca deixará isso de lado...
 Sou eu, o único Automateur!<NL>E você será meu próximo adversário, n'est-ce pas?
 Observe ao meu lado a maior criação robótica que o mundo já viu! Ze force, ze grâce... Você realmente acha que vai conseguir vencer ele?
 
@@ -13908,14 +13908,14 @@ Muahahaha! Seremos seus primeiros oponentes Rank-k-k-k<NL>! Pega leve conosco, b
 
 evw0390_text_en.cfg.bin.txt
 Eu pensei que tinha dito para você pegar leve conosco!? Se você é tão bom em jogos de azar quanto em luta, peço que fique longe do meu c-c-cassino!
-O que você quer dizer com teremos que dividir o ato se perdermos!? Quer me substituir por alguém sério, não é?  o Hilário e o Rabugento, hein!?
+O que você quer dizer com teremos que dividir o ato se perdermos!? Quer me substituir por alguém sério, não é?  o Hilário e Zangado, hein!?
 Bem, isso não vai acontecer, cara! Estamos vencendo essa luta, quer você goste ou não. Desculpe, Drippy-boy, mas isso é trabalho!
 
 evw0400_text_en.cfg.bin.txt
 Você deve estar se sentindo um pouco para baixo depois de sua derrota... Se você precisa de algo para esquecer isso, por que não fazer uma visita ao nosso c-c-cassino? Nós adoramos perdedores!
 
 evw0410_text_en.cfg.bin.txt
-Bem, isso foi um desastre! Talvez eu mesmo faça uma parceria com o Rabujento. "Hilário e o Rabugento" soa muito bem... Não, esqueça isso, ele é mais forte que você!
+Bem, isso foi um desastre! Talvez eu mesmo faça uma parceria com o Rabujento. "Hilário e Zangado" soa muito bem... Não, esqueça isso, ele é mais forte que você!
 Minha vez!
 Olá, Ollie! Ouvi falar da competição e pensei em tentar. Isso deve ser divertido!
 Agora você poderá ver por si mesmo do que o Sábio das Eras é realmente capaz!
@@ -21695,10 +21695,10 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos recuperar a madeira sagrada, não vamos a lugar nenhum rapidamente, amigo!
 Certo, vamos lá ver o Marcassin para que possamos completar a Triflauta, certo?
-Então precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Depois é apenas mais um passo até Nevermore...
-Só falta atravessarmos os Pântanos de Miasma, amigo! Depois é Nevermore e nada de olhar para trás!
+Então precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Depois é apenas mais um passo até Nunca Mais...
+Só falta atravessarmos os Pântanos de Miasma, amigo! Depois é Nunca Mais e nada de olhar para trás!
 Não vai demorar muito até a batalha final com Shadar, não é mesmo? Você está pronto? Estou super nervoso, amigo!
-Então só falta lutar com Shadar, certo?<NL>Acho que estou pronto como sempre estive...<NL>Nevermore, aqui vamos nós!
+Então só falta lutar com Shadar, certo?<NL>Acho que estou pronto como sempre estive...<NL>Nunca Mais, aqui vamos nós!
 Vamos lá contar para o velho Rei Tom o que aconteceu, que tal?
 Eles estão tendo uma festa em Ding Dong Dell, amigo! Vamos nos vestir bem e dançar!
 Você não precisa voltar para o seu mundo e encontrar a Pea? Eu não posso vê-la, mas sinto que ela é importante, sabe...
@@ -21887,10 +21887,10 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Aqui, é melhor irmos verificar se o Pip está melhor, não é?
 Se não recuperarmos a madeira sagrada, não vamos a lugar algum, mun!
 Certo, vamos lá ver o Marcassin para podermos concluir está Triflauta, vamos?
-Então precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Depois é só mais um passo para Nevermore...
-Agora só falta atravessar os Pântanos de Miasma, mun! Depois é Nevermore, e sem olhar para trás!
+Então precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Depois é só mais um passo para Nunca Mais...
+Agora só falta atravessar os Pântanos de Miasma, mun! Depois é Nunca Mais, e sem olhar para trás!
 Não falta muito para o confronto final com Shadar, né? Você está pronto? Eu estou morrendo de medo, mun!
-Então é só o Shadar para lutar, né?<NL>Acho que estou tão preparado quanto possível...<NL>Nevermore, aqui vamos nós!
+Então é só o Shadar para lutar, né?<NL>Acho que estou tão preparado quanto possível...<NL>Nunca Mais, aqui vamos nós!
 Vamos lá e informamos o velho Rei Tom sobre o que aconteceu, que tal?
 Eles estão tendo uma festa em Ding Dong Dell, mun! Vamos colocar nossas melhores roupas e dançar!
 Você não precisa voltar para o seu mundo e encontrar a Pea? Eu não posso vê-la, mas tenho a sensação de que ela é importante...
@@ -22075,10 +22075,10 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
-Então só falta lutar contra Shadar, né?<NL>Acho que estou pronto...<NL>Nevermore, aqui vamos nós!
+Então só falta lutar contra Shadar, né?<NL>Acho que estou pronto...<NL>Nunca Mais, aqui vamos nós!
 Vamos contar ao velho Rei Tom o que está acontecendo, que tal?
 Ouvi dizer que estão organizando uma festança em Ding Dong Dell. Vamos lá ver o velho Rei Tom, que tal?
 Você não precisa voltar para o seu mundo e encontrar a Pea? Eu não consigo vê-la, mas tenho a sensação de que ela é importante, sabe...
@@ -22768,7 +22768,7 @@ O condutor
 pla-d12_npc_text_en.cfg.bin.txt
 Caça à recompensa concluída!<NL>Apresente-se à Soluções Rápidas para receber sua recompensa!
 Cuecas! Mais um!?<NL>Isso dá quatorze pela minha conta. Quatro-jogando-adolescente!
-Os pântanos Miasma e Nevermore estão de volta a seus velhos e horríveis eus e tudo... O que diabos está acontecendo?
+Os pântanos Miasma e Nunca Mais estão de volta a seus velhos e horríveis eus e tudo... O que diabos está acontecendo?
 Não sei. Mas o que sei é que não podemos fugir disso.
 Cuidado, menino Ollie!
 Espere, você não disse literalmente que não poderíamos fugir disso? Faça você mudar de ideia, sim!
@@ -22791,14 +22791,14 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Nunca Mais, e sem olhar para trás!
 Afinal, Alicia era sua mãe...<NL>Bem, eu nunca...
 Olhe para sua cara, Olliezinho! Brilhante, você é!
 Aquele Estrela da Manhã dá um soco sério, hein? Beleza!
 Bem, aqui estamos finalmente, Olliezinho.
-Semvolta... Finalmente... Crikey, parece uma era invertida desde que começamos esta jornada. Não que não tenha sido uma experiência mágica, claro...
-Então isso é Semvolta, não é?<NL>Há algo sinistro...
+Nunca Mais... Finalmente... Crikey, parece uma era invertida desde que começamos esta jornada. Não que não tenha sido uma experiência mágica, claro...
+Então isso é Nunca Mais, não é?<NL>Há algo sinistro...
 Parece que acionamos algum tipo de mecanismo, não é?
 Então tocar naquelas coisinhas de cristal faz aparecer escadas, não é? Que tipo de sistema de inversão é esse!?
 Está quieto, maninho. Silencioso demais. Cuidado onde pisa, Olliezinho...
@@ -22809,7 +22809,7 @@ Olhe para o meu garotinho chorão! Quem diria que você cresceria e ficaria tão
 Você é o Coração Puro, Olliezinho.<NL>Eu soube no momento em que coloquei os olhos em você.<NL>Crikey, eu estou bem!
 Caramba, maninho! Há algum poder mágico sério por aqui em algum lugar. Eu posso sentir isso na minha lanterna...
 Pense em tudo que passamos, man...<NL>Você pode vencê-lo, Olliezinho. Eu sei que você pode.
-Escute, só estou contando isso porque chegamos até aqui, certo? O problema é que... Smiley 'n' Surly nunca me enviou nenhuma informação útil. ...A dupla de idiotas.
+Escute, só estou contando isso porque chegamos até aqui, certo? O problema é que... Hilário e Zangado nunca me enviou nenhuma informação útil. ...A dupla de idiotas.
 Não se preocupe, Olliezinho - Esther, Swaine e, claro, vocês de verdade - estamos bem atrás de você!
 Vamos deixar o velho Rei Tom saber o placar, certo?
 Ouvi dizer que eles estão organizando uma reunião em Ding Dong Dell. Vamos ver o velho Rei Tom, certo?
@@ -22838,7 +22838,7 @@ Acho que já é hora de irmos ver a Feiticeira Branca em seu castelo, hein?
 Ah-! Oh-! Ngggh! Crikey, minha coragem...!<NL>Desculpe, Olliezinho, você pode me dar um momento?<NL>Você pode querer ficar contra o vento, também...
 Para a frente e para cima, Olliezinho! E então para a frente um pouco mais, e para cima um pouco mais, e assim por diante, e assim por diante, para virar sempre...
 Ooh, é realmente assustador este lugar, hein?<NL>Ainda mais assustador do que o cesto de roupa suja da mamãe!<NL>E isso é realmente assustador, acredite em mim...
-Por que você acha que se chama "Semvolta"? Acho que é porque nunca houve lugar mais sombrio. Miserável propriamente dito, é...
+Por que você acha que se chama "Nunca Mais"? Acho que é porque nunca houve lugar mais sombrio. Miserável propriamente dito, é...
 Caramba. Finalmente aqui, hein? Quem diria que eu e o garotinho chorão chegaríamos tão longe... Bem, eu fiz, obviamente. Aham.
 Não tema, Drippy está aqui!<NL>Quer ele goste ou não...
 Você não... Ha ha! Você está, não é? <NL>Você está perdido! Que legal, Cirilo!
@@ -23007,7 +23007,7 @@ Aquelas ruínas eram realmente horríveis.<NL>Úmidas, elas eram, e escuras...
 Apenas o pensamento disso me deixa bem, maninho!
 Eu adoraria voltar para aquele outro mundo algum dia.<NL>Devidamente arrumado!
 Nada como um pouco de sol!
-Ah... Está bom e quente aqui.<NL>Semvolta vou sair de Bosque Dourado!
+Ah... Está bom e quente aqui.<NL>Nunca Mais vou sair de Bosque Dourado!
 Você aprendeu algumas fórmulas novas!<NL>Vá até o caldeirão para experimentá-las!
 Caça à recompensa concluída!<NL>Apresente-se à Soluções Rápidas para receber sua recompensa!
 O que está acontecendo aqui, hein?<NL>Tenho um mau pressentimento sobre isso...
@@ -23168,8 +23168,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, maninho!
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, maninho!
 Então é só lutar com o Shadar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -23453,8 +23453,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, maninho!
 Então é só lutar com o Shadar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -23644,7 +23644,7 @@ Assim, eles desenvolveram o que pode até ser chamado de uma cultura primitiva..
 Então...aquelas fotos no chão em Nazcaa...<NL>E as pedras que usamos esse tempo todo...<NL>Os magos fizeram tudo isso?
 Está correto. Eles foram responsáveis por criar quase tudo o que resta do período que chamamos de Idade da Pedra Sábia.
 Eles estavam deixando sinais que seus mestres poderiam usar para encontrá-los quando finalmente voltassem.
-... Mal sabendo que Semvolta os veriam.
+... Mal sabendo que Nunca Mais os veriam.
 Mas nós, pelo menos, voltamos, pela graça de<NL>nossa Rainha.
 ... E ainda não somos mais do que ilusões. Em breve, desapareceremos tão rapidamente e repentinamente quanto aparecemos.
 É por isso que... antes que esse dia chegasse... queríamos conceder paz àqueles que lutaram tão bravamente para manter viva a memória de Nazcaa. Que permaneceu tão fiel ainda...
@@ -23980,7 +23980,7 @@ Você acha? Limpo. Onde podemos obter alguns deles <NL>, então?
 Deixe isso comigo, maninho.<NL>Tenho um monte de ideias brilhantes, tenho!
 Você está brincando, não é? Eu não vou deixar você sair gastando enquanto eu estou aqui trabalhando como escravo na loja, seu tímido fulano de tal!
 Drippy-boy, vocês podem encontrar coisas boas para nós, não é?
-Claro que podemos! Deixe com a gente! Diga, Smiley - você pode nos dizer quais ideias você teve?
+Claro que podemos! Deixe com a gente! Diga, Hilário - você pode nos dizer quais ideias você teve?
 Claro, maninho! Minha primeira ideia incrível foi voltar para casa e perguntar a todos no <color:#1>Terra das Fadas</color>.
 Tem tanta gente lá embaixo que um deles deve ter uma ideia!
 Então, sua ideia incrível é continuar perguntando às pessoas até encontrar alguém com uma ideia real, não é? E pensar que duvidei de você...
@@ -24030,7 +24030,7 @@ Desculpe fazê-los esperar, rapazes!<NL>Tivemos as ideias que vocês estavam atr
 Virar, maninho! Você fez? Arrumado!<NL>De uma olhada, então!
 Eu sabia que você não iria nos decepcionar, Drippy-boy!<NL>Essa coisa é ouro, maninho! Ouro!
 Hã? Você acha?<NL>O da mamãe estava lançando lixo, eu pensei...
-Nah, maninho, não seja estúpido, maninho! Bangers apropriados, estes são!<NL>Mas não é, Smiley?
+Nah, maninho, não seja estúpido, maninho! Bangers apropriados, estes são!<NL>Mas não é, Hilário?
 ...Não. Mas não é.
 Ainda está faltando alguma coisa, e minha loja de armas dos sonhos não estará completa até que a tenhamos.
 Crikey, não há como agradar algumas pessoas, não é?<NL>Continue, então. O que é?
@@ -24078,7 +24078,7 @@ Você recebeu algumas novas fórmulas de alquimia!<NL>Vá até o caldeirão para
 Que minhas fórmulas lhe sirvam bem em suas viagens, rapaz!
 Bem, olá, senhor! Passamos um bom tempo montando<NL>essas coisas, por que você não gasta uma pilha arrumada<NL>comprando, hein?
 Tá! Que nossos itens excelentes permitam que você salve o mundo rapidamente e com um estilo impressionante!
-Bom Dia senhor! Posso interessá-lo em alguns de nossos principais produtos? Fale com o meu colega Smiley se algo lhe agradar!
+Bom Dia senhor! Posso interessá-lo em alguns de nossos principais produtos? Fale com o meu colega Hilário se algo lhe agradar!
 Precisamos zarpar em busca de Outonia, maninho!
 Hã? O que diabos está acontecendo, maninho?
 Hã? O que diabos está acontecendo, maninho?
@@ -24173,8 +24173,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, maninho!<NL>Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, maninho!<NL>Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, maninho!
 Então é só lutar com o Shadar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -24251,8 +24251,8 @@ Vamos nos mexer, certo?<NL>Estou entediado pra caramba, maninho!
 Vamos começar o novo dia como pretendemos continuar, certo? O melhor pé à frente, e o último a entrar é um ovo podre!
 Não sei o que você quer que eu lhe diga, maninho, mas infelizmente não posso ajudá-lo.
 O que há com você, hein?
-Risonho
-Grosseiro
+Hilário
+Zangado
 funcionário do cassino
 
 pla-d18_npc_text_en.cfg.bin.txt
@@ -24431,8 +24431,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, maninho!
 Então é só lutar com o Shadar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -24543,8 +24543,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir a Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, maninho! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, maninho!
 Então é só lutar com o Shadar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -25945,7 +25945,7 @@ Contando com você, estou, bach!
 Se você gosta de ver um pouco de comédia de fadas como deve ser feito, vá ao Clube da Caverna. É logo ali.
 Um exemplo impressionante da arquitetura das fadas antigas, é... Mais ou menos todos os pedaços que eles substituíram na outra semana... Que era a maioria deles...
 Crikey! Humanos! Não é incomum! O que é aquela coisa vermelha nas suas costas? Faz você voar, não é?
-Há um par de comediantes por aqui que costumavam ser os mais engraçados da floresta. Smiley 'n' Surly, eles são chamados.
+Há um par de comediantes por aqui que costumavam ser os mais engraçados da floresta. Hilário e Zangado, eles são chamados.
 O problema é que ultimamente eles têm uma boa porcaria.<NL>É embaraçoso assistir.
 HO HO HO HOOOOOOO!!!<NL>O que você acha? Estou praticando minha risada hilária estilo ajudante, viu? Nada mal, não é?
 Cuidado para não virar o assunto da cidade, maninho!
@@ -25987,8 +25987,8 @@ Temos uma daquelas lojas bacanas, a veloz, a do corvo, a coisa toda. Basta olhar
 Ultimamente, meu cabelo anda bem agitado.<NL>Acho que deve ser aquele xampu novo que comprei...
 Rá! Você pensou que eu não vi, não é? Você tentou me dar um golpe de comédia e errou completamente! Que limão caprichado! Yahaaa!
 Zzz... (bufando) Nnngh... Zzz...
-Risonho
-Grosseiro
+Hilário
+Zangado
 Fada madrinha
 npc_001(Pequena fada bege com orelhas do Mickey Mouse, traje de fada roxo.)
 npc_002(Pequena fada marrom-clara com orelhas do Mickey Mouse, traje de fada azul.)
@@ -26052,7 +26052,7 @@ Espere um pouco, Drippy-boy — são aquelas <color:#1>obras de arte</color> que
 Tid— Ah. Não é? Cuecas.
 Vocês estão prontos para ver mamãe se molhar?
 Bem, deixe-nos saber quando você estiver, não é?
-É hora do Smiley 'n' Surly Show!<NL>Você está pronto para nos ver dividir os lados da mamãe?
+É hora do Hilário e Zangado Show!<NL>Você está pronto para nos ver dividir os lados da mamãe?
 O quê? Por que não? Apresse-se, sim!<NL>Estamos loucos para começar!
 O palco está montado! As luzes estão acesas!<NL>Nós vamos acabar com ela, você vai lá dentro, certo?
 Sim. O que ele disse.<NL>Vamos ao que interessa?
@@ -26155,33 +26155,33 @@ Essa é a minha lição de casa feita, maninho! Beleza! Ta, maninho! Você me sa
 Ta pra você também, pequenininha! Tente fazer sua própria lição de casa da próxima vez, hein?
 Queria ter sua mágica... Eu poderia fazer algumas coisas engraçadas e impertinentes com ela... Heheheheheh!
 Beleza! Isso é um complemento completo de oito <color:#1>obras de arte</color> que montamos!
-Vamos levar este pacote de cuidados para Smiley 'n' Surly e trazer a luz do riso de volta às suas vidas miseráveis!
+Vamos levar este pacote de cuidados para Hilário e Zangado e trazer a luz do riso de volta às suas vidas miseráveis!
 Eles provavelmente ainda estão deprimidos no<NL><color:#1>Clube da Caverna</color>. Vamos voltar lá, certo?
 Você quer dizer o lugar com o grande palco ao ar livre?<NL>Claro! Vamos!
 Você tem que nos ajudar, Drippy-boy!<NL>Senão teremos que nos separar!
 Flip, maninho, estou explodindo de... de... de não sei o quê. É muito bom, seja o que for!
 Pare de falar sobre nós desistirmos, maninho!
-O que é todo o barulho por aí, hm? O que é isso? Hã? Peças de arte? Para tornar o Smiley 'n' Surly engraçado de novo? Desculpe, bach - não posso ajudá-lo!
+O que é todo o barulho por aí, hm? O que é isso? Hã? Peças de arte? Para tornar o Hilário e Zangado engraçado de novo? Desculpe, bach - não posso ajudá-lo!
 Vamos, então!<NL>Dê-nos uma boa gargalhada, aí estão bons rapazes!
 Contando com você, estou, bach!
-Viu o show do Smiley 'n' Surly, não é? É uma pena que eles tenham ficado tão sem graça. Costumavam me fazer rolar de rir, eles faziam...
+Viu o show do Hilário e Zangado, não é? É uma pena que eles tenham ficado tão sem graça. Costumavam me fazer rolar de rir, eles faziam...
 Então você conheceu a mamãe!<NL>...O que é isso? Como eu sei?
 Está em todo a Terra das Fadas, não é!<NL>As notícias correm bem rápido por aqui!
-Se você me perguntar, é culpa do Surly que ele e o Smiley tenham ido por água abaixo.
-Ele não consegue definir as linhas rápido o suficiente, então o pobre velho Smiley está ficando parado!
+Se você me perguntar, é culpa do Zangado que ele e o Hilário tenham ido por água abaixo.
+Ele não consegue definir as linhas rápido o suficiente, então o pobre velho Hilário está ficando parado!
 Certo, parceiro meu!<NL>É hora de ensaiar nosso novo ato inovador!
 ...Assim que você terminar de encher sua cara gorda!
 PARE!
 Oi! Você deveria dizer "Ai!" e cair toda engraçada, como! Virar, maninho! Não consigo pegar os sidekicks florescentes hoje em dia...
-Smiley 'n' Surly está jogando besteira hoje em dia!<NL>E todos nós estamos perdendo clientes por causa disso!
+Hilário e Zangado está jogando besteira hoje em dia!<NL>E todos nós estamos perdendo clientes por causa disso!
 Acho que um humano idiota como você poderia se sair melhor do que aquele par de vagabundos. Na verdade, isso seria muito engraçado! Gyuk Gyuk Gyuk!
 Nem todos nós, fadas, somos caras legais, você sabe.
 Alguns de nós são peças de trabalho desagradáveis.<NL>Leve-me, por exemplo. Aterrorizante, não é?
 Oi! O que diabos você está fazendo me batendo quando eu não estou pronto, maninho!?
-Dizem pela cidade que você está ajudando Smiley 'n' Surly.
+Dizem pela cidade que você está ajudando Hilário e Zangado.
 Não tem nada melhor para fazer do que fazer recados para um par de fracassados, não é?
 Estamos mais do que felizes por você desfrutar de nossa bela cidade natal, mas pedimos que você leve todo o lixo com você quando partir. Tá.
-Quem? Smiley 'n' Shirley?
+Quem? Hilário e Zangado?
 Desculpe, nunca ouvi falar deles. Eu não assisto comédia, maninho. Ocupa muito tempo comendo, não é?
 "Roll up, roll up! Adquira seus ingressos para o Grand Tour of Mam por aqui!" ...Sim. Acho que vai ser uma delícia quando eu configurar, maninho! Megabucks!
 Eu amo a atmosfera de todas essas barracas e lojas todas juntas. Excitante apropriado, é! Faz você se perguntar o que encontrará lá...
@@ -26191,18 +26191,18 @@ Você está brincando, não é?<NL>Estamos apenas começando!
 Garçom! Duas fatias extragrandes de torta de aranha!
 Oh, sim, maninho, uma boa pegadinha, ela era...<NL>Você deveria ter visto os lábios nela...<NL>E aqueles olhos...oh, você poderia se afogar neles...
 ...Peixe mais fresco que já comi!
-Todo mundo está dizendo que Smiley 'n' Surly perdeu o controle, mas acho que eles ainda são engraçados.
+Todo mundo está dizendo que Hilário e Zangado perdeu o controle, mas acho que eles ainda são engraçados.
 Quando eles ficam lá se debatendo como um par de plonkers, isso me deixa louco, maninho! Na-ah-ah-ah!
 Tornar-se um comediante é o sonho de toda fada. É por isso que trabalhamos duro para ser hilários a cada minuto de cada dia.
-Se você me perguntar, é culpa de Smiley que ele e Surly tenham ido para o fundo da panela.
-Surly estabelece uma linha de cracking, e ele apenas fica lá como uma pedra em forma de fada! Arruinando, ele é!
+Se você me perguntar, é culpa de Hilário que ele e Hilário tenham ido para o fundo da panela.
+Hilário estabelece uma linha de cracking, e ele apenas fica lá como uma pedra em forma de fada! Arruinando, ele é!
 Nós, fadas, podemos falar mal, mas temos corações de ouro, não é? Não literalmente, veja bem. Não gostaria que você tentasse desenterrar o meu ou nada...
 Obras de arte, você diz?<NL>Pergunte por aí, não é?
 É provável que haja algumas pessoas com algumas de sobra.
 O que você acha que devo fazer? Nada mal, hein?<NL>Não vem sem um pouco de trabalho duro, veja bem. No salão todos os dias, eu sou.
 Zzz... O que, maninho...? O quê?<NL>Nngh... Zzz...
-Risonho
-Grosseiro
+Hilário
+Zangado
 Fada madrinha
 npc_001(Pequena fada bege com orelhas do Mickey Mouse, traje de fada roxo.)
 npc_002(Pequena fada marrom-clara com orelhas do Mickey Mouse, traje de fada azul.)
@@ -26260,8 +26260,8 @@ Encontre mais quatro obras de arte!
 Encontre mais três peças de arte!
 Encontre mais duas peças de arte!
 Encontre a obra de arte final!
-Dê a Smiley 'n' Surly as peças de arte e cure sua arte quebrada!
-Avise Smiley ou Surly quando você estiver pronto para eles subirem ao palco.
+Dê a Hilário e Zangado as peças de arte e cure sua arte quebrada!
+Avise Hilário ou Zangado quando você estiver pronto para eles subirem ao palco.
 A Fada Madrinha está rindo! Apresse-se e pule na garganta dela!
 
 pla-e_050_010-t12_npc_text_en.cfg.bin.txt
@@ -26272,17 +26272,17 @@ Littlies não nascem imediatamente. Eles têm que aprender a falar e isso primei
 Veja bem, é a mãe que os ensina, então as palavras que eles sabem nem sempre são as que você esperaria...
 O heroico humano partiu em uma jornada até a barriga de mamãe para resgatar as crianças do perigo...
 ... Engraçado! Você estava parado bem aí!<NL>Que embaraçoso...
-Smiley 'n' Surly estava ficando hilário, maninho!<NL>O futuro parece brilhante para eles dois...
+Hilário e Zangado estavam ficando engraçados, maninho!<NL>O futuro parece brilhante para eles dois...
 Acho melhor pegar um autógrafo antes que comecem a cobrar por eles...
 Sempre quis experimentar a comédia, sim, mas nunca tive coragem.
 Se uma piada minha explodisse e a multidão ficasse quieta, acho que murcharia e morreria, maninho!
-Dizem que havia uma figura sinistra por trás do retorno de Smiley 'n' Surly à forma...
+Dizem que havia uma figura sinistra por trás do retorno de Hilário e Zangado à forma...
 Aparentemente, ele usou magia para torná-los engraçados novamente. Tudo muito impressionante, tenho certeza, mas usar feitiços para melhorar o desempenho é trapaça, não é?
-Parece que Smiley 'n' Surly está fora de seu caminho duvidoso. Aqui está um futuro brilhante e hilário!
-Mamãe não ria tanto desde que Drippy escorregou naquela pele de babana! Smiley 'n' Surly estão nas grandes ligas agora, maninho!
-O estilo de contar histórias pós-irônicos de Smiley 'n' Surly é muito bom, mas acho que a abordagem tradicional de gag dos Três Gêmeos oferece a risada mais regular.
-Se você me perguntar, Smiley é o melhor de Smiley 'n' Surly. Só um velho cínico de cara azeda pensaria o contrário!
-Smiley 'n' Surly estão de volta ao topo, maninho!<NL>Certo, parceiro meu - precisamos melhorar nosso jogo!
+Parece que Hilário e Zangado está fora de seu caminho duvidoso. Aqui está um futuro brilhante e hilário!
+Mamãe não ria tanto desde que Drippy escorregou naquela pele de babana! Hilário e Zangado estão nas grandes ligas agora, maninho!
+O estilo de contar histórias pós-irônicos de Hilário e Zangado é muito bom, mas acho que a abordagem tradicional de gag dos Três Gêmeos oferece a risada mais regular.
+Se você me perguntar, Hilário é o melhor de Hilário e Zangado. Só um velho cínico de cara azeda pensaria o contrário!
+Hilário e Zangado estão de volta ao topo, maninho!<NL>Certo, parceiro meu - precisamos melhorar nosso jogo!
 Oi! Você está me ouvindo?
 Oi-oi! É o meu herói! Como?<NL>Vi você voando para fora do canhão, eu vi!
 A maneira como você agitou os braços e as pernas no ar assim - ouro de comédia, foi! Queria poder fazer algo tão engraçado!
@@ -26291,28 +26291,28 @@ Que lenda, nos fazendo rir assim!<NL>Gênio, foi! Gyuk Gyuk Gyuk!
 Se você está aqui, deve significar que usou a passagem de trás de mamãe, hein?
 Bem, você pode entrar e sair por lá quando quiser, então fique à vontade.
 Oi! É para ser um golpe de comédia, não um soco de comédia! Essa virada doeu!
-Dizem pela cidade que vocês ajudaram Smiley 'n' Surly a voltar do túmulo da comédia.
+Dizem pela cidade que vocês ajudaram Hilário e Zangado a voltar do túmulo da comédia.
 Boa, Drippy-boy! Eu sabia que se alguém poderia ajudar aqueles rapazes pobres, era você.
 Estou pronto! Dê-me a sua melhor piada de comédia!<NL>Continue! Realmente coloque você de volta nisso!
 Eu estava olhando as estrelas ontem à noite, certo, e vi uma estrela cadente, exceto que tinha a forma de uma pessoa.
 Deve ter sido um anjo, não acha?<NL>Arrumado! Minha sorte está prestes a mudar!
 Flip, maninho, mamãe engoliu você inteiro!?<NL>Ela deve ter um apetite ainda maior do que eu! E isso quer dizer alguma coisa!
-Certo, vamos ver... Temos chaveiros Smiley 'n' Surly, bonecas Smiley 'n' Surly, palhacinhos da edição exclusiva do Smiley 'n' Surly...
+Certo, vamos ver... Temos chaveiros Hilário e Zangado, bonecas Hilário e Zangado, palhacinhos da edição exclusiva do Hilário e Zangado...
 Este lote vai me dar uma boa pilha!<NL>Megabucks!
 Você viu mamãe rindo? Crikey, isso era algo para se ver! Eu pensei que ia levar uma surra!
-Espere, maninho, você nunca gostou do Smiley 'n' Surly, não é?
+Espere, maninho, você nunca gostou do Hilário e Zangado, não é?
 Eu não sei o que deu em mim, maninho, honestamente!<NL>Eu só... tive que... dar uma surra em você! Yuk yuk yuk!
 Claro que sim, maninho! Esperava que eles encontrassem sua forma novamente há anos, eu tenho! Vamos lá, vamos comemorar!
 Garçom! Dez tortas bogey e deixe-as ranhosas!
 Hmm... Bem, não é ruim.<NL>É definitivamente engraçado, tipo...
-Mas depois de ver Smiley 'n' Surly esmagá-lo assim, todo o resto parece um pouco... inofensivo.
+Mas depois de ver Hilário e Zangado esmagá-lo assim, todo o resto parece um pouco... inofensivo.
 Sim, cara. Curso, maninho. Estou ouvindo. Prossiga...
 Ei, cara, tem mais um prato de linguiça de cachorro, sim?
 Eu sei, maninho! De todas as maneiras de chegar lá - um grande canhão enorme como esse...
 E o olhar em seu rosto quando ele estava voando pelo ar! Inestimável, foi! Na-ah-ah-ah!
 A comida por aqui é a culinária mais rica e complexa que se possa imaginar! Quer se trate de ovos de caracol ou joanetes com mel, você não pode errar!
-Todos na Terra das Fadas estão discutindo como loucos sobre quem é melhor em Smiley 'n' Surly.
-Se você me perguntar, Surly é o melhor por milhas. Apenas um plonker total pensaria o contrário!
+Todos na Terra das Fadas estão discutindo como loucos sobre quem é melhor em Hilário e Zangado.
+Se você me perguntar, Hilário é o melhor por milhas. Apenas um plonker total pensaria o contrário!
 Comédia não é apenas tagarelar de uma forma engraçada, você sabe. Você precisa praticar set-ups e piadas e tudo mais. Trabalho duro adequado, é.
 Nós, fadas, podemos falar mal, mas temos corações de ouro, não é?
 Por que outra razão estaríamos tão alegres o tempo todo?<NL>Você nunca verá uma fada mal-humorada!
@@ -26321,8 +26321,8 @@ Então, se você não se prepara para nada, estará igualmente pronto para tudo!
 Como vai, homenzinho!<NL>Qual foi a sensação, então?<NL>Voar pelo ar assim, quero dizer...
 Yahahahahahahaaaa! Virar, maninho! Isso foi muito engraçado! Não consigo parar de rir! Meus lados invertidos estão prestes a se dividir!
 Zzz... Nah, maninho... Claro que não, maninho...<NL>Mmm... Zzz...
-Risonho
-Grosseiro
+Hilário
+Zangado
 Fada madrinha
 npc_001(Pequena fada bege com orelhas do Mickey Mouse, traje de fada roxo.)
 npc_002(Pequena fada marrom-clara com orelhas do Mickey Mouse, traje de fada azul.)
@@ -26393,18 +26393,18 @@ Os pequeninos fizeram um belo trabalho ao sair da mamãe. Forma perfeita, aterri
 Plop, plop, plop, plop, plop!<NL>Só assim! Coisa de beleza, foi!
 Bem-vindo ao lar, você!<NL>...Hã? Esta não é a sua casa?
 Não fique assim, maninho! Você nasceu com os pequeninos!<NL>Você é um de nós agora!
-Smiley 'n' Surly é engraçado, mas há uma competição séria subindo nas fileiras.
+Hilário e Zangado é engraçado, mas há uma competição séria subindo nas fileiras.
 O Tidy Titters Comedy Festival vai ser uma competição e uma metade deste ano! Mal posso esperar, maninho!
 Vamos, maninho...<NL>Quando começa o próximo show?
 Eu ouvi tudo sobre você nascer com os pequeninos! Incrível!
 Ah, e feliz aniversário!
 Drippy-boy tem enviado destaques selecionados de suas aventuras de volta para casa para todos nós através da velha telepatia!
 Cada parcela é um verdadeiro roedor de unhas!<NL>Na ponta do meu assento toda vez, eu estou!<NL>Continue com o bom trabalho, pessoal!
-O retorno surpresa de Smiley 'n' Surly me deu um grande impulso. Inspirou-me a experimentar o velho jogo de comédia.
+O retorno surpresa de Hilário e Zangado me deu um grande impulso. Inspirou-me a experimentar o velho jogo de comédia.
 Sim. Eu vou ganhar o Tidy Titters Comedy Festival e ser o assunto da Terra das Fadas, espere e verá!
 Como vai, Drippy-boy!<NL>Você vai assistir ao próximo programa antes de partir?
 número que está por vir são apenas jovens.<NL>A próxima grande coisa, eu acho.<NL>Você deveria dar uma olhada.
-O renascimento de Smiley 'n' Surly realmente revigorou o circuito de comédia.
+O renascimento de Hilário e Zangado realmente revigorou o circuito de comédia.
 Eles elevaram a fasquia e, como resultado, todo mundo está se esforçando um pouco mais.
 Você já viu o lote de pequeninos deste ano?<NL>Eles são redondos e suaves como você gosta!<NL>Eu adoraria dar uma boa surra em um deles!
 Se você me perguntar, eles serão bons ajudantes! Cada um!
@@ -26501,8 +26501,8 @@ Engraçado! Engraçado!<NL>Hee hee! Ha ha!
 Diversão! Diversão! Diversão!
 Arrumado! Arrumado!
 Jogar! Jogue!<NL>Diversão! Diversão! Diversão!
-Risonho
-Grosseiro
+Hilário
+Zangado
 Fada madrinha
 npc_001(Pequena fada bege com orelhas do Mickey Mouse, traje de fada roxo.)
 npc_002(Pequena fada marrom-clara com orelhas do Mickey Mouse, traje de fada azul.)
@@ -26649,16 +26649,16 @@ Oh, você é aquele garotinho viajante, não é? <NL>Conte-nos uma história sob
 Eu preciso de um pouco de material novo, veja. Vamos!<NL>E faça-o bom e suculento! Har dee ha dee ha!
 Bem-vindo ao lar, você!<NL>...Hã? Esta não é a sua casa?
 Não fique assim, maninho! Você nasceu com os pequeninos!<NL>Você é um de nós agora!
-Smiley 'n' Surly é engraçado, mas há uma competição séria subindo nas fileiras.
+Hilário e Zangado é engraçado, mas há uma competição séria subindo nas fileiras.
 O Tidy Titters Comedy Festival vai ser uma competição e uma metade deste ano! Mal posso esperar, maninho!
 Vamos, maninho...<NL>Quando começa o próximo show?
 Drippy-boy tem enviado destaques selecionados de suas aventuras de volta para casa para todos nós através da velha telepatia!
 Cada parcela é um verdadeiro roedor de unhas!<NL>Na ponta do meu assento toda vez, eu estou!<NL>Continuem com o bom trabalho, pessoal!
-O retorno surpresa de Smiley 'n' Surly me deu um grande impulso. Inspirou-me a experimentar o velho jogo de comédia.
+O retorno surpresa de Hilário e Zangado me deu um grande impulso. Inspirou-me a experimentar o velho jogo de comédia.
 Sim. Eu vou ganhar o Tidy Titters Comedy Festival e ser o assunto da Terra das Fadas, espere e verá!
 Como vai, Drippy-boy!<NL>Você vai assistir ao próximo programa antes de partir?
 número que está por vir são apenas jovens.<NL>A próxima grande coisa, eu acho.<NL>Você deveria dar uma olhada.
-O renascimento de Smiley 'n' Surly realmente revigorou o circuito de comédia.
+O renascimento de Hilário e Zangado realmente revigorou o circuito de comédia.
 Eles elevaram a fasquia e, como resultado, todo mundo está se esforçando um pouco mais.
 Se você me perguntar, este lote de pequeninos precisa de treinamento intensivo de habilidades de ajudante desde o início!
 Parece que todo mundo quer ser comediante hoje em dia. A competição esquentou!
@@ -26713,8 +26713,8 @@ Hee hee! Ha ha!<NL>Engraçado! Engraçado!
 Coma! Comendo!<NL>Din dins!
 Diversão! Diversão! Diversão!
 Jogar! Jogue!<NL>Diversão! Diversão! Diversão!
-Risonho
-Grosseiro
+Hilário
+Zangado
 npc_001(Pequena fada bege com orelhas do Mickey Mouse, traje de fada roxo.)
 npc_002(Pequena fada marrom-clara com orelhas do Mickey Mouse, traje de fada azul.)
 npc_004(Pequena fada amarela pálida com orelhas do Mickey Mouse, traje de fada laranja.)
@@ -26784,7 +26784,7 @@ Dizem que as engrenagens sob os prédios são tão grandes que cem homens não c
 Todo homem, mulher e criança em Hamelin sabe a diferença entre um virabrequim e uma haste de pistão. Que lugar iluminado!
 Máquinas e chuva não combinam. É por isso que temos um grande telhado cobrindo toda a cidade.
 Ela é minha aluna número um. Um dia, suas descobertas mudarão o mundo, você marca minhas palavras.
-Ninguém esquece a primeira procissão real que vê em Hamelin. Você Semvolta verá os prédios da mesma maneira!
+Ninguém esquece a primeira procissão real que vê em Hamelin. Você Nunca Mais verá os prédios da mesma maneira!
 Ah, eu digo! Eu quase tinha esquecido como as pessoas<NL>ficavam sem uma máscara de porco.
 Bem, além do servo do príncipe, é claro. Ele nunca usa um.
 Já faz um bom tempo que usamos armaduras aqui em Hamelin, e elas ficam mais pesadas a cada ano que passa. Ai estou ficando velho...
@@ -27510,7 +27510,7 @@ Use aquele <color:#1>feitiço</color> seu nele e veja o que ele tem a dizer, man
 Boa ideia, Sr. Drippy!
 Ahhh... essa é a vida! Muita comida, ondas suaves... É o paraíso dos caranguejos!
 Claro, não foi isso que pensei quando cheguei aqui. Eu estava convencido de que acabaria vivendo como<NL>um eremita...
-Mas este lugar é muito mais relaxante do que Encosta Abandonada. Eu realmente saí da minha concha, sabe - e Semvolta vou voltar!
+Mas este lugar é muito mais relaxante do que Encosta Abandonada. Eu realmente saí da minha concha, sabe - e Nunca Mais vou voltar!
 Então você morava em Encosta Abandonada, hein?<NL>Você era amigo de outro caranguejo azul que mora lá?
 O-O quê!? Me belisque se eu estiver sonhando, mas...<NL>Você realmente consegue entender o que estou dizendo!?
 como você sabe sobre meu amigo?<NL>Aquele que mora em Encosta Abandonada?
@@ -27964,7 +27964,7 @@ Para onde vamos, Olliezinho?
 Ahh, eu adoro voar em Tengri, adoro!<NL>É melhor do que caminhar qualquer dia!
 Não muito tempo agora, e Estrela da Manhã estará de volta com uma vingança!
 Caramba! Só falta uma pedra para conseguir!
-Eu me pergunto o que Smiley e Surly estão tramando...<NL>Indo para o castelo de Shadar armado apenas com um palpite, aposto...
+Eu me pergunto o que Hilário e Zangado estão tramando...<NL>Indo para o castelo de Shadar armado apenas com um palpite, aposto...
 Vamos dar um churrasco no Marcassin, certo?
 Corra para Hamelin! Apressado, como!
 O que você acha que está acontecendo com aquele soldado de Xanadu na frente do palácio em Hamelin, hein?
@@ -27985,10 +27985,10 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
 Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Não falta muito para o confronto final com Shadar, hein? Você está pronto? Estou virando o jogo, mun!
-Então é só Shadar para lutar, eh?<NL>Estou pronto como sempre estarei... aqui vamos nós!
+Então é só Shadar para lutar, eh?<NL>Estou pronto como sempre estarei...<NL>aqui vamos nós!
 Vamos deixar o velho Rei Tom saber o placar, certo?
 Eles estão dando uma festa em Ding Dong Dell, mun! Vamos vestir nossos trapos alegres e dançar!
 Você não precisa voltar para o seu mundo e encontrar aquela ervilha? Não posso vê-la pessoalmente, mas tenho a sensação de que ela é importante, tipo...
@@ -28047,7 +28047,7 @@ Para onde vamos, Olliezinho?
 Ahh, eu adoro voar em Tengri, adoro!<NL>É melhor do que caminhar qualquer dia!
 Não muito tempo agora, e Estrela da Manhã estará de volta com uma vingança!
 Crikey! Só falta uma pedra para pegar!
-Eu me pergunto o que Smiley e Surly estão tramando... Indo para o castelo de Shadar armado apenas com um palpite, aposto...
+Eu me pergunto o que Hilário e Zangado estão tramando... Indo para o castelo de Shadar armado apenas com um palpite, aposto...
 Vamos dar uma bronca no Marcassin, certo?
 Corra para Hamelin! Apressado, como!
 O que você acha que está acontecendo com aquele soldado de Xanadu na frente do palácio em Hamelin, hein?
@@ -28068,8 +28068,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Aqui, é melhor irmos verificar se Pip está melhor, não é?
 Se não conseguirmos aquela madeira sagrada de volta, não iremos a lugar nenhum rápido, mun!
 Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
-Então, precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir para os Pântanos de Miasma e tocar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Não falta muito para o confronto final com Shadar, eh? Você está pronto? Estou virando o jogo, mun!
 Então só resta Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -28347,7 +28347,7 @@ Mas tenho falado com ela como se fosse uma criança comum!
 Há mais uma cidade para salvar, Oliver!
 Quer dizer, eu quero saber mais sobre Ervilha...<NL>Mas primeiro temos que ajudar essas pessoas!
 Meu pai às vezes mencionava um "lugar proibido, envolto em trevas"...
-Eu sempre pensei que ele estava falando sobre Nevermore...<NL>Mas talvez ele estivesse falando sobre Nazcaä?
+Eu sempre pensei que ele estava falando sobre Nunca Mais...<NL>Mas talvez ele estivesse falando sobre Nazcaä?
 Então os três reinos estão unindo forças para lutar contra a Feiticeira Branca...
 E eu pensei que tocar a Triflauta deveria trazer paz ao mundo...
 Mas se tivermos que lutar, é o que faremos!<NL>E com meu pai lutando ao nosso lado, não temos nada a temer!
@@ -28463,7 +28463,7 @@ E-Ei, talvez não tenha sido um desperdício! Shadar se foi, mas ainda temos uma
 Tenho certeza de que poderemos usar as armas que você<NL>trouxe!
 V-você quer dizer...?
 Ahhh, entendo o que você quer dizer!<NL>Aí está um rapaz esperto!
-Sim, essa é uma boa ideia! E sempre foi seu sonho, não é, Smiley? Você sabe, fornecer aos heróis as ferramentas de seu ofício e isso...
+Sim, essa é uma boa ideia! E sempre foi seu sonho, não é, Hilário? Você sabe, fornecer aos heróis as ferramentas de seu ofício e isso...
 Mas não!
 Claro, estamos apenas começando no negócio de armas, então não espere descontos ou nada...
 VOCÊ O QUE!? Você quer que nós PAGUEMOS você!? Você está dando uma gargalhada!? Oooh, estou pensando em enfiar vocês dois em um canhão e atirar em vocês de volta para casa! Pagar-lhe, de fato...
@@ -28737,7 +28737,7 @@ Uma vez que todos nós somos abençoados, podemos viver juntos em perfeita felic
 Não precisamos pensar. Não precisamos fazer nada.<NL>Se isso não é liberdade, diga-me o que é.
 Ah, certamente isso é o que significa ser verdadeiramente livre...
 Dizem que tudo será lavado...<NL>Todos serão purificados.
-Dizem que Nevermore terei que me preocupar...
+Dizem que Nunca Mais terei que me preocupar...
 Olá! Olha para ela! Ela é muito fofa, não é? Ela é a llapaca mais fofa de todas!
 Quando ela crescer, talvez ela também receba as bênçãos da Rainha Khulan!
 Por que ela bale? O que está errado?
@@ -29026,7 +29026,7 @@ pla-k_110_010_guide_text_en.cfg.bin.txt
 Deixe a Triflauta tocar através dos Pântanos de Miasma!
 
 pla-k_120_010_guide_text_en.cfg.bin.txt
-Atravesse os Pântanos de  Miasma e siga para Nevermore!
+Atravesse os Pântanos de  Miasma e siga para Nunca Mais!
 
 pla-k_130_010_guide_text_en.cfg.bin.txt
 O que é este lugar...?
@@ -29134,7 +29134,7 @@ npc_011(Homem inca/maia rechonchudo de meia-idade. Bigode. Poncho azul e capuz v
 npc_012(Mulher inca/maia rechonchuda de meia-idade. Vestido laranja. Cardigã verde e chapéu. Carrega comida.)
 
 pla-l_010_010_guide_text_en.cfg.bin.txt
-Entre no Nevermore!
+Entre no Nunca Mais!
 Derrote Shadar, o Djin Sombrio!
 
 pla-map_region_text_en.cfg.bin.txt
@@ -29224,11 +29224,11 @@ A Gruta Brilhante
 A Gruta Brilhante
 Pântanos de miasma
 Pântanos de miasma
-Nevermore
-Nevermore
-Nevermore
-Nevermore
-Nevermore
+Nunca Mais
+Nunca Mais
+Nunca Mais
+Nunca Mais
+Nunca Mais
 Bosque Dourado
 Bosque Dourado
 Templo das Provações
@@ -29314,7 +29314,7 @@ O cofre das lágrimas
 A trilha da lápide
 A Gruta Brilhante
 Pântanos de miasma
-Nevermore
+Nunca Mais
 Bosque Dourado
 Templo das Provações
 A Torre de Marfim
@@ -29486,7 +29486,7 @@ Eu sabia que ele veria o bom senso, mun. Você só tem que saber falar com essas
 O-O quê!? Meu capacete...?<NL>Espera! O que você está jogando!?
 Ordens diretas de Sua Alteza, o Príncipe!<NL>O Palácio está agora estritamente fora dos limites.
 Nenhuma ralé ou ralé passará.<NL>...E sim, estou me referindo a você.
-Você está procurando um quarto, eu suponho?<NL>Bem, lamento dizer que estamos lotados.
+Você está procurando um quarto, eu suponho?<NL>Bem, lamento dizer que estamos lotados.<NL>Talvez você possa voltar outra hora?
 Você é madrugador! Ainda estou abrindo a loja.<NL>Ainda não tenho tarefas para você.
 Desculpe. Um verdadeiro bando de clientes desceu sobre nós hoje cedo, e agora estou sem estoque.
 Cau! Espero que você não tenha viajado muito para chegar aqui.<NL>O Príncipe proibiu qualquer um de comprar armas sem sua permissão.
@@ -29506,7 +29506,7 @@ Dizem que as engrenagens sob os prédios são tão grandes que cem homens não c
 Todo homem, mulher e criança em Hamelin sabe a diferença entre um virabrequim e uma haste de pistão. Que lugar iluminado!
 Máquinas e chuva simplesmente não combinam.<NL>É por isso que temos um grande telhado cobrindo toda a cidade de Hamelin.
 Ela é minha aluna número um.<NL>Um dia, suas descobertas vão mudar o mundo, você marca minhas palavras.<NL>
-Ninguém esquece a primeira procissão real que vê em Hamelin. Você Nevermore verá os prédios da mesma maneira!
+Ninguém esquece a primeira procissão real que vê em Hamelin. Você Nunca Mais verá os prédios da mesma maneira!
 Ah, eu digo! Eu quase tinha esquecido como as pessoas ficavam sem uma máscara de porco.
 Bem, exceto o servo do príncipe, é claro.<NL>Ele nunca usa um.
 Já faz um bom tempo que usamos armaduras aqui em Hamelin, e elas ficam mais pesadas a cada ano que passa. Ai estou ficando velho...
@@ -29905,8 +29905,8 @@ Vamos, Olliezinho! Dê a Phil uma parte de sua ambição! Rápido!
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -30526,7 +30526,7 @@ Oh, isso é perrperfeito, simplesmente perrperfeito! <NL>Você encontrou para mi
 Com certeza.<NL>Não perca de novo agora, ok?
 Eu prometo! Eu nunca vou perdê-lo novamente!
 Ah, aqui. Este é um presente para você.<NL>Muito obrigado!
-Prometo Nevermore perder meu brinco!<NL>Nunca, jamais!
+Prometo Nunca Mais perder meu brinco!<NL>Nunca, jamais!
 Mmmyohhh...<NL>Ainda não é purretty o suficiente...
 Fazendo um pouco de decoração, não é? Bem, eu sempre digo que você não pode vencer uma ou duas flores! Ilumine as coisas sem fim, eles fazem!
 Que esperto da sua parte! Eu estava pensando em usar algumas flores! Estou tentando deixar minha porta mais limpa, entende?
@@ -30643,7 +30643,7 @@ Ei, recuperamos seus bigodes.<NL>Desculpe por termos demorado tanto...
 Oh meu, oh meu, oh meu!<NL>Meus queridos bigodes de gato!<NL>Obrigado! Obrigado!
 Eu, eu não sei como poderei recompensá-lo...
 Só não os belisque de novo, certo?
-Não, não, não vou, não vou!<NL>Eles Nevermore sairão de minha vista!<NL>Nem por um único segundo!
+Não, não, não vou, não vou!<NL>Eles Nunca Mais sairão de minha vista!<NL>Nem por um único segundo!
 Ah, e devo lhe dar uma recompensa.<NL>Aqui, por favor, aceite isso...
 Eles não serão roubados novamente, pela minha honra!
 Parecem as pegadas de alguém...
@@ -30998,8 +30998,8 @@ Graças a Deus, recuperamos aquela madeira sagrada!<NL>Vamos nos apressar e escu
 Ele? Montando uma Varredora de Nuvens?<NL>Não me faça rir, mun!<NL>Eles não vêm em tamanhos de mouse!
 E chega de beliscar, ouviu?
 Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Obrigado, Olliezinho! Obrigado!<NL>Muito obrigado, meu rapaz!
@@ -31749,7 +31749,7 @@ Al Mamoon fica no coração do nosso continente. Isso o torna o lugar perfeito p
 É por isso que os meus pombos-correios são tão procurados.
 .........
 Coo ho ho! Voltei para casa!<NL>Não sou inteligente?
-Estou tão triste por deixar meu mestre preocupado.<NL>Nevermore vou chegar tarde em casa.<NL>Coo! Coo!
+Estou tão triste por deixar meu mestre preocupado.<NL>Nunca Mais vou chegar tarde em casa.<NL>Coo! Coo!
 Coo... Está tão quente. Está sempre tão quente. Adoraria ir tomar um bom banho de pássaros no oásis...
 Maldições... Faltam-me os ingredientes necessários...<NL>O que fazer, o que fazer...?
 Está tudo bem?
@@ -31968,8 +31968,8 @@ Tendo estado um tanto perdido nas brumas da criatividade, é claro, qual árvore
 Desculpe fazê-lo esperar, senhor!<NL>Este é o seu diário, não é?
 Ah, eu digo! Você é uma maravilha!<NL>Um tesouro! Um tijolo de primeira ordem!
 Tente não perdê-lo novamente, ok?
-Com certeza! Você tem minha promessa mais solene, meu voto de cavalheiro, de que Nevermore sairá de minha vista. Aqui! Uma recompensa, querido menino!
-Obrigado mil vezes! Nevermore perderei meu diário, dou-lhe minha solene palavra de cavalheiro!
+Com certeza! Você tem minha promessa mais solene, meu voto de cavalheiro, de que Nunca Mais sairá de minha vista. Aqui! Uma recompensa, querido menino!
+Obrigado mil vezes! Nunca Mais perderei meu diário, dou-lhe minha solene palavra de cavalheiro!
 Por crime, é bem sufocante! Receio não estar vestida para a ocasião...
 Parece que consertamos as brechas que o personagem do Maestro estava falando, hein?
 É melhor avisá-lo, não é?
@@ -32167,7 +32167,7 @@ Aquela cerimônia em Perdida vai começar logo, mun.<NL>É melhor irmos andando!
 O velho olhos de cachorrinho tem mais do que seu quinhão de amor.<NL>Acho que ele poderia nos poupar um pouco disso!
 Khulan precisa de uma dose de amor, não é?
 Acho que devemos pedir a Khulan para resolver Estrela da Manhã para nós, não acha?
-Para chegar a Nevermore, teremos que atravessar os Pântanos de Miasma. E para fazer isso, vamos precisar da Triflauta. Então, vamos colocar nossos fundos em ação!
+Para chegar a Nunca Mais, teremos que atravessar os Pântanos de Miasma. E para fazer isso, vamos precisar da Triflauta. Então, vamos colocar nossos fundos em ação!
 Você acha que há mais guardiões por aí que possamos tirar orbes e convocar? Com mais alguns deles, seríamos praticamente imbatíveis, Olliezinho!
 Falta pouco para chegarmos ao covil de Shadar agora, Olliezinho! Assustado? Eu sei que estou virando bem, sou...
 Olhe para ele, todo brilhante e brilhante!<NL>Não é um pedaço de madeira normal, é?
@@ -32178,8 +32178,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir está Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -32940,7 +32940,7 @@ Então você foi cercado por monstros?
 Sim, isso é sobre o tamanho dele. Então, se eu fosse arriscar um palpite, diria que o diário está nos <color:#1>trilhos de trem perto da entrada da mina</color>.
 Então está em alguns <color:#1>trilhos de trem perto da entrada de uma mina</color>... Entendi!
 Eu realmente estou muito grato, querido menino.
-Querido menino! Peço-lhe que me faça este favor!<NL>Juro que Nevermore deixarei cair essa coisa estúpida!
+Querido menino! Peço-lhe que me faça este favor!<NL>Juro que Nunca Mais deixarei cair essa coisa estúpida!
 Querido menino, parece uma eternidade desde nosso passeio naquela ilha das fadas! Você tem um timing impecável, devo dizer!
 Dez guilders diz que perdeu seu diário folheado de novo...
 Temo-lo em um, eu estou com medo. Parece que o deixei cair<NL>na pressa de escapar de alguns monstros totalmente antidesportivos<NL>.
@@ -32949,7 +32949,7 @@ Se eu fosse arriscar um palpite sobre o paradeiro do diário, diria que ele caiu
 Apenas fique atento a essa multidão monstruosa!<NL>Eles não se importam nem um pouco com regras de conduta cavalheirescas!
 Encontramos seu diário, senhor!
 Mas se algum dia eu ouvir você dizer que perdeu seu<NL>diário idiota de novo... você e eu teremos uma<NL>desentendimento decente, garoto!
-Você tem minha palavra de cavalheiro de que Nevermore perderei este diário. Agora, por favor, pegue isso.
+Você tem minha palavra de cavalheiro de que Nunca Mais perderei este diário. Agora, por favor, pegue isso.
 Eis o triunfo do homem sobre a natureza!<NL>Vapor! Polias! Engrenagens! Fumaça! Barulho!
 ...Em Hamelin, eu vi o futuro!<NL>Puxa, estou muito feliz que minhas andanças me trouxeram<NL>até aqui, querido menino!
 Parece que consertamos as brechas que o personagem do Maestro estava falando, hein?
@@ -33140,10 +33140,10 @@ Precisamos tirar aquela madeira sagrada do <NL>pequeno escroto maldito.
 Fazendo isso apenas com suas garras? Há mais no velho King Tom do que aparenta! E lá estava eu pensando que ele era apenas uma bola de pelo gorda e preguiçosa!
 Agora só precisamos que o Marcassin aplique os retoques <NL>finalistas!
 Eu me pergunto que tipo de som essa Triflauta faz.
-Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nevermore...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nevermore, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar a Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
-Então é só Shadar lutar, hein?
+Então é só o Shadar que falta para lutar, né?<NL>Bem, suponho que estou pronto como sempre...<NL>Lá vamos nós, Nunca Mais!"
 Vamos deixar o velho Rei Tom saber o placar, certo?
 Ouvi dizer que eles estão organizando uma reunião em Ding Dong Dell. Vamos ver o velho King Tom, certo?
 Você não precisa voltar para o seu mundo e encontrar aquela ervilha? Não posso vê-la pessoalmente, mas tenho a sensação de que ela é importante, tipo...
@@ -34001,8 +34001,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então chegaremos a Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então chegaremos a Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -34165,8 +34165,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -34796,8 +34796,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, mun! E então chegaremos em Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! E então chegaremos em Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Está pronto? Eu estou ansioso, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -34920,8 +34920,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -35459,8 +35459,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Olliezinho, o que você está fazendo!?
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
@@ -35917,7 +35917,7 @@ Como vão, rapazes?<NL>Quanto tempo sem ver, hein?
 Drippy! Como?<NL>O que está acontecendo?
 Bem, eu tenho algo para te perguntar, como vai.
 Algo para nos perguntar? O que foi, mun?<NL>Não estamos com problemas, estamos?
-Hilário e Rabugento realmente tem uma loja de armas, não é?<NL>Eu pensei que era apenas parte de sua rotina, tipo.
+Hilário e Zangado realmente tem uma loja de armas, não é?<NL>Eu pensei que era apenas parte de sua rotina, tipo.
 Nah, mun, é tudo verdade. E eles precisam de estoque, não é?
 E quanto ao seu velho palhaço, Drippy? Não há muitas armas mais lendárias do que isso, não é?
 Minha palhaçada? Não seja idiota! O que alguém iria querer com aquele velho pedaço de lixo, mun?
@@ -35928,13 +35928,13 @@ Mas não é. Suas piadas são o material da lenda das fadas, Drippy. Ninguém ma
 É por isso que os jovens estão loucos por réplicas de suas famosas palhaçadas, não é?
 É sério? Imagina isso... Aham! Quero dizer, er... não há como explicar o gosto, suponho. Você tem os detalhes dessa réplica em mãos?
 Tá, rapazes!<NL>Isso vai ser bem útil!
-Fico feliz em ser útil, Drippy-boy!<NL>Dê lembranças ao Hilário e Rabugento, hein?
+Fico feliz em ser útil, Drippy-boy!<NL>Dê lembranças ao Hilário e Zangado, hein?
 Você teve a ideia para a pastelão sentimental!
 Maaaaaaaaaam!<NL>Tô muuuito bom!
 É você, Drippy? Por que você nunca me avisa antes de voltar para casa, hein? Deixando sua velha mãe no escuro, honestamente...
 Eu não fiz meu cabelo ou minha maquiagem ou nada! Olha o meu estado! Só Deus sabe o que seus amigos devem pensar de mim! A vergonha!
 Cale a boca, sim? Ninguém se importa com a sua aparência!<NL>Pare de me envergonhar!
-De qualquer forma, há coisas mais importantes para falar. Hilário e Rabugento está em apuros, e precisamos dobrar seu ouvido sobre isso.
+De qualquer forma, há coisas mais importantes para falar. Hilário e Zangado está em apuros, e precisamos dobrar seu ouvido sobre isso.
 Escute o que ele diz, diabinho atrevido... E ele era um pequenino tão querido e meigo. O que aconteceu com o rapaz que amava sua Mamãezinha, hein?
 É isso, é? Bem, isso é fácil o suficiente. Eu sei exatamente o que você precisa. Veio até mim enquanto você estava tagarelando.
 Vá em frente, então - diga-nos!
@@ -35997,15 +35997,15 @@ Mam é tão imutável quanto as colinas, mun. Ela é uma colina! Aposto que ela 
 Se juntarmos todas as peças de arte, poderemos fazer a mamãe rir sem problemas, mano.
 Certo! Oito peças de arte para reunir, não é? Vamos ajudar minhas bundas na estrada de volta para a cidade engraçada!
 Tente perguntar a alguns dos meninos nas lojas, não é? Deve haver algumas obras de arte por aí.
-Beleza! Hora de entregar as peças de arte para Hilário e Rabugento, não é?
-Ao Clube da Caverna! Hilário e Rabugento aguardam!
+Beleza! Hora de entregar as peças de arte para Hilário e Zangado, não é?
+Ao Clube da Caverna! Hilário e Zangado aguardam!
 Obrigado! Agora meus fiéis aprendizes não terão que se aposentar do negócio engraçado!
 Certo! Hora de fazer mamãe rir! Você está pronto para dividir suas montanhas?
-Quando estiver pronto, vá falar com Hilário e Rabugento, certo?
-Mal posso esperar para ver como é o novo material do Hilário e Rabugento, mun. É melhor que seja bom, ou terei suas entranhas como ligas...
+Quando estiver pronto, vá falar com Hilário e Zangado, certo?
+Mal posso esperar para ver como é o novo material do Hilário e Zangado, mun. É melhor que seja bom, ou terei suas entranhas como ligas...
 Ela riu, mun! Ela riu! Rápido, Olliezinho! Avante! Na barriga da mamãe!
 Depressa, mun! Antes que ela feche sua enorme boca grande de novo!
-Ela está rindo a ponto de explodir, mun! Hilário e Rabugento ficou bom no final! Claro, sendo meus aprendizes, eu sempre soube que eles iriam...
+Ela está rindo a ponto de explodir, mun! Hilário e Zangado ficou bom no final! Claro, sendo meus aprendizes, eu sempre soube que eles iriam...
 Temos alguns negócios inacabados para resolvermos, mun!
 Precisamos ir ajudar esses pequeninos!<NL>Vamos!
 Vamos lá, tem um escorregador esperando a gente descer!
@@ -36075,8 +36075,8 @@ Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapa
 Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
 Precisamos tirar aquela madeira sagrada do maldito atrevido.
 Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Semvolta...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Semvolta, e sem olhar para trás!
+Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
+Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
 Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
 Então é só Shadar lutar, hein?
 Vamos deixar o velho Rei Tom saber o placar, certo?
@@ -36122,8 +36122,8 @@ Parry o Purrprietário
 Tecwyn, o Capataz
 Huw a Hootenanny
 Cai, o Cawtermaster
-Risonho
-Grosseiro
+Hilário
+Zangado
 Fada madrinha
 ???
 Horácio
@@ -36309,8 +36309,8 @@ Depois de saber que ela compartilha uma alma com a Dona Leila, Oliver e seus ami
 Ao chegar em Castaway, o grupo tem o retrato e a carta de passagem roubados por um ladrão incorrigível - que acaba por não ter comedimento! Cabe a Oliver restaurá-lo ao normal!
 O nome do ladrão é Swaine, e ele concorda em se juntar a Oliver e os outros em sua jornada. Dizem que o próximo Grande Sábio está em Hamelin, no continente oriental de Outonia. Hora de desenrolar as velas!
 Olho da Tempestade, convocado pelo próprio Shadar, deposita nossos heróis em uma ilha aparentemente desabitada... que acaba sendo o lar das fadas! Oliver e companhia resolvem dar uma olhada...
-Para descobrir por que os pequeninos não estão nascendo, Oliver e seus amigos devem se aventurar na Barriga da Mamãe... Mas o material de Hilário e Rabugento simplesmente não a faz rir! Hora de encontrar as obras de arte perdidas!
-A nova rotina de Hilário e Rabugento arranca muitas risadas da Fada Madrinha, permitindo que nossos heróis pulem para dentro - onde descobrem que os pequeninos estão sendo atacados por monstros aterrorizantes! Hora de salvar o dia!
+Para descobrir por que os pequeninos não estão nascendo, Oliver e seus amigos devem se aventurar na Barriga da Mamãe... Mas o material de Hilário e Zangado simplesmente não a faz rir! Hora de encontrar as obras de arte perdidas!
+A nova rotina de Hilário e Zangado arranca muitas risadas da Fada Madrinha, permitindo que nossos heróis pulem para dentro - onde descobrem que os pequeninos estão sendo atacados por monstros aterrorizantes! Hora de salvar o dia!
 Com os pequeninos nascidos com segurança, tudo está bem na Terra das Fadas. Tendo visto o quanto ele faz falta, Oliver decide deixar o Sr. Drippy na ilha... mas sua amiga fada não aceita nada disso! Reunidos mais uma vez, eles partiram para Outonia!
 Oliver e companhia finalmente chegam a Hamelin - uma cidade extensa governada por incontáveis decretos draconianos. Acreditando que o Grande Sábio esteja em algum lugar do palácio do Príncipe, o grupo se disfarça e tenta entrar sorrateiramente.
 Tendo sido expulso dos aposentos do príncipe de coração partido, Oliver e seus amigos são engolfados por uma estranha névoa que os envia de volta no tempo. No Hamelin do passado, dois príncipes precisam de sua ajuda!
@@ -36325,7 +36325,7 @@ O Grande Sábio final, Khulan, já governou o reino aéreo de Xanadu. Embora Xan
 Tendo sido libertado do controle de Shadar, o coração partido Khulan é curado pelo amor no coração de Kublai e restaura o verdadeiro poder de Estrela da Manhã. Em seguida, o grupo deve criar o lendário Triflauta, instrumento da paz!
 A madeira sagrada necessária para fazer o Triflauta foi roubada por Pip - um rato que compartilha uma alma com o melhor amigo de Oliver, Phil. Hora de ir para Motorville para uma alegre reunião!
 Depois de consertar o coração partido de Phil, Oliver recupera a madeira sagrada e a leva para King Tom, que começa a esculpir o Triflauta. Agora, cabe a Hamelin aplicar os retoques finais!
-Depois que Marcassin e Swaine trabalham juntos para completar o Triflauta, nossos heróis viajam para Miasma Marshes. Lá, Esther usa o lendário instrumento para abrir caminho para Semvolta, onde o Djin Sombrio aguarda...
+Depois que Marcassin e Swaine trabalham juntos para completar o Triflauta, nossos heróis viajam para Miasma Marshes. Lá, Esther usa o lendário instrumento para abrir caminho para Nunca Mais, onde o Djin Sombrio aguarda...
 Ao saber da trágica verdade sobre sua mãe, Oliver perde a vontade de seguir em frente, mas suas forças são restauradas quando Pea mostra a ele todas as pessoas que ele ajudou. Finalmente chegou a hora de enfrentar o Djin Sombrio!
 Parece que Lucien - que adotou o nome de Shadar - queria proteger o mundo, não destruí-lo. Inspirado por seu sonho, Oliver e seus amigos decidem criar uma nova era de paz e felicidade!
 Cinzas brancas caíram do céu, transformando as pessoas em monstros retorcidos. Talvez Pea, que apareceu no sonho de Oliver, tenha alguma ideia do que fazer. Ela deveria estar em Motorville...
@@ -36359,7 +36359,7 @@ Volte para Castaway, carta de passagem em mãos!
 Recupere o retrato roubado e a carta de passagem!
 Hamelin espera! Navegue para o continente de Outonia!
 Siga Drippy e as outras fadas na floresta!
-Devolva ao Smiley e ao Surly suas obras de arte!
+Devolva ao Hilário e o Zangado suas obras de arte!
 Monstros na Barriga da Múmia!? Salve os pequeninos!
 Navegue para Hamelin mais uma vez!
 Entre no palácio disfarçado!
@@ -36375,7 +36375,7 @@ Procure Khulan, Rainha dos Céus!
 Obtenha a madeira sagrada da Vacalifa de Al Mamoon!
 Vá falar com Phil em Motorville!
 Peça a Marcassin para completar o Triflauta!
-Atravesse os Pântanos de  Miasma e siga para Semvolta!
+Atravesse os Pântanos de  Miasma e siga para Nunca Mais!
 Derrote Shadar, o Djin Sombrio!
 O mundo está em paz mais uma vez! Hora de celebrar!
 Pea é a chave!?<NL>Volte para Motorville!
@@ -36787,10 +36787,10 @@ Os cavaleiros da Torre de Marfim pediram para você derrotar quatro magicechs qu
 Você derrotou os magimechs, conforme solicitado pelos cavaleiros na Torre de Marfim.
 Os cavaleiros pediram para você derrotar três mestres mágicos que despertaram em Nazcaa.
 Você derrotou os mestres mágicos, conforme solicitado pelos cavaleiros na Torre de Marfim.
-Hilário e Rabugento abriram uma loja de armas a bordo do Serpe de Ferro, mas parecem estar tendo problemas...
-Hilário e Rabugento precisam de algumas ideias para novas armas para atrair clientes para sua loja.
-Hilário e Rabugento pediram para você encontrar novas ideias de armas na Terra das Fadas.
-Hilário e Rabugento pediram que você tivesse uma ideia para uma arma relacionada à Grande Sábia Alicia.
+Hilário e Zangado abriram uma loja de armas a bordo do Serpe de Ferro, mas parecem estar tendo problemas...
+Hilário e Zangado precisam de algumas ideias para novas armas para atrair clientes para sua loja.
+Hilário e Zangado pediram para você encontrar novas ideias de armas na Terra das Fadas.
+Hilário e Zangado pediram que você tivesse uma ideia para uma arma relacionada à Grande Sábia Alicia.
 Um gruffian continua roubando produtos dos campos dos fazendeiros fora da cidade. Tem que ser tratado rapidamente - está quase na hora da colheita!
 Uma besta alada está atormentando os viajantes que se dirigem para a cidade. Deve ser tratado antes que machuque alguém!
 Uma serraria apareceu ao sul de Bosque Dourado. As raízes dessas criaturas sempre alcançam um preço decente...
@@ -36834,7 +36834,7 @@ Uma orbe negra apareceu no Vault of Tears, levando as criaturas residentes à lo
 Uma orbe negra apareceu no norte desta ilha, e risadas podem ser ouvidas vindo de dentro. Vá e investigue!
 Uma orbe negra apareceu na Gruta Reluzente, e um uivo misterioso pode ser ouvido vindo de dentro. Vá e investigue!
 O caminho de Perdida para os pântanos Miasma abriu novamente... Vá e descubra o que está acontecendo.
-O caminho através dos Pântanos de  Miasma para Semvolta parece estar claro... Descubra o que está acontecendo!
+O caminho através dos Pântanos de  Miasma para Nunca Mais parece estar claro... Descubra o que está acontecendo!
 Uma nova orbe negra se materializou e parece mais sinistra do que qualquer outra antes... Deve ser investigada, e logo.
 Ulk geralmente são criaturas dóceis, mas um deles começou a atacar as pessoas. Alguém tem que acabar com isso!
 Os comerciantes estão reclamando de ter seus produtos roubados por um corvo gigante. Alguém precisa lhe dar uma lição!
@@ -37262,8 +37262,8 @@ Derrote os dois mestres mágicos restantes.
 Derrote o único mestre magimech restante.
 Informe os cavaleiros na Torre de Marfim.
 Missão concluída!
-Faça uma visita à loja de armas de Hilário e Rabugento.
-Concorde em ajudar Hilário e Rabugento.
+Faça uma visita à loja de armas de Hilário e Zangado.
+Concorde em ajudar Hilário e Zangado.
 Vá e encontre algumas ideias para novas armas.
 Vá e encontre uma ideia para uma nova arma.
 Missão concluída!
@@ -37310,7 +37310,7 @@ No cofre das lágrimas (Terras do Verão)
 Perto da Coroa Quebrada (Nordeste de Outonia)
 Na Gruta Brilhante (Winter Isles)<NL>
 Nos Pântanos de  Miasma (Outono)
-Em Semvolta (Outono)
+Em Nunca Mais (Outono)
 No Ara Memoriae (Nazcaa)
 Nas Mesas do Gigante (Terras do Verão)<NL>
 Na Ilha dos Cisnes (Norte das Terras do Verão)
@@ -38277,7 +38277,7 @@ Viajar de volta para a entrada do Vault of Tears?
 Viajar de volta ao início da trilha Tombstone?
 Viajar de volta para a entrada da Gruta Reluzente?
 Viajar de volta para o outro lado dos Pântanos de  Miasma?
-Viajar de volta para a entrada de Semvolta?
+Viajar de volta para a entrada de Nunca Mais?
 Viajar para a entrada do palácio?
 Viajar para a entrada de Hamelin?
 Viajar para a rua principal de Hamelin?
@@ -38331,7 +38331,7 @@ O feitiço mais assustador do Djin Sombrio foi<NL>adicionado ao Companheiro do M
 Marcassin e seu familiar se juntaram ao seu grupo!
 Agora você pode trocar de personagem <NL>e fora de sua escalação de batalha através da opção de menu<NL><color:#1>Amigos e Familiares</color>.
 Pea agora está viajando com você!
-Hilário e Rabugento abriu uma loja de armas<NL>a bordo do Serpe de Ferro!
+Hilário e Zangado abriu uma loja de armas<NL>a bordo do Serpe de Ferro!
 O feitiço mais formidável da Bruxa Branca<NL>foi adicionado ao Companheiro do Mago.
 A serenidade do coração do Guardião da Floresta<NL>desvendou uma história no<NL><color:#1>Companheiro do Mago</color>!
 A descarada presunção do coração da <NL>Tear Fairy revelou uma história<NL>no <color:#1>Companheiro do Mago</color>!
@@ -38449,7 +38449,7 @@ O cofre das lágrimas
 A trilha da lápide
 A Gruta Brilhante
 Os Pântanos de Miasma
-Semvolta
+Nunca Mais
 Bosque Dourado
 O Templo das Provações
 A Torre de Marfim
@@ -38474,7 +38474,7 @@ Quadro de recados
 Caixa
 Raj Mahal
 Mem-O-Vision
-Hilário e Rabugento
+Hilário e Zangado
 Soluções Rápidas
 Loja de Cawtermaster
 Hootique
@@ -38483,7 +38483,7 @@ Gêngis
 Sr. Gêngis, senhor
 Shadar
 Príncipe Porcino
-Hilário e Rabugento
+Hilário e Zangado
 Vale Ding-Dong
 Top Babana
 Senhor Guilderberg
@@ -38501,7 +38501,7 @@ Roxana
 Brigadeiro Bellicosiano
 Rashaad
 Pit Boss
-Grosseiro
+Zangado
 Horácio
 Sábio Supremo Solomon
 Jogador: {PLAYER_NAME}<NL>Nível de Oliver: {CHARA_LEVEL}<NL>Localização: {SAVE_PLACE}<NL>Meta atual: {PURPOSE}<NL>Tempo de jogo: {HH99:02}:{MM:02}<NL>{CLEAR}
@@ -38597,7 +38597,7 @@ Uma audiência com o Rei Gato
 O Apetite Gigante de Vacalifa
 A Procissão Real
 Deslizamento da máscara do príncipe
-Chegando em Semvolta
+Chegando em Nunca Mais
 Despedidas e novos começos
 BLURB DO EVENTO DE TESTE
 Todo um outro mundo
@@ -38696,7 +38696,7 @@ Uma audiência com o Rei Gato
 O Apetite Gigante de Vacalifa
 A Procissão Real
 Deslizamento da máscara do príncipe
-Chegando em Semvolta
+Chegando em Nunca Mais
 Despedidas e novos começos
 NOME DO EVENTO DE TESTE
 Todo um 'outro mundo
