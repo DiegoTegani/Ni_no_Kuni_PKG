@@ -5477,7 +5477,7 @@ Peça com educação e tenho certeza de que ele lhe emprestará.
 Claro, vou tentar o meu melhor.
 
 evb0160_text_en.cfg.bin.txt
-Beleza! Parece que você tem<NL>um medalhão de entusiasmo!
+Beleza! Parece que você tem<NL>um Medalhão de entusiasmo!
 Agora é só dar <NL>para o nosso amigo aí.
 Ok, aqui vai!
 
@@ -5750,7 +5750,7 @@ Se seu <color:#1>Medalhão brilhar</color> de repente, sabemos que estamos no ca
 Entendi! Vamos, Sr. Drippy!
 
 evb0283_text_en.cfg.bin.txt
-Olhe, Sr. Drippy!<NL>O medalhão — está brilhando!
+Olhe, Sr. Drippy!<NL>O Medalhão — está brilhando!
 Beleza! Então tem alguém por aqui com um pedaço de coração para compartilhar, não é?
 E a única pessoa por aqui é... ele! E olhe para ele, mun! Ele mal consegue ficar parado, ele está tão ansioso! Conseguimos!
 Quer dizer que você acha que ele tem algum <color:#1>entusiasmo</color> para compartilhar?
@@ -7233,7 +7233,7 @@ Eu me curvo a você, Mestre!<NL>Agora e para sempre!
 Prazer em conhece-lo também!
 Mestre, devo prestar-lhe homenagem.<NL>Por favor, aceite estes humildes presentes!
 Você deve combinar esses itens com o poder da alquimia! Eles produzirão um resultado maravilhoso e mágico!
-E para esta sua primeira experiência alquímica, apresento-lhe também uma fórumla! Contemple!
+E para esta sua primeira experiência de alquimia, apresento-lhe também uma fórumla! Contemple!
 
 evd0017_text_en.cfg.bin.txt
 Todo mundo aqui está vestindo um traje de banho, né?
@@ -7666,7 +7666,7 @@ Por favor, você deve fazer tudo o que puder para ajudar a Vossa Muujestade.
 evd0080_text_en.cfg.bin.txt
 <color:#1>Moderação</color>, hein? Você consegue pensar em alguém com muita moderação, Esther?
 Hmm, deixe-me ver...<NL>Deve haver alguém...
-Podemos usar o medalhão para tentar procurar alguém, mas esta é uma grande e antiga cidade, mun. Vamos tentar com os lojistas primeiro, certo?
+Podemos usar o Medalhão para tentar procurar alguém, mas esta é uma grande e antiga cidade, mun. Vamos tentar com os lojistas primeiro, certo?
 É uma boa ideia, Sr. Drippy! Os donos das lojas conhecem todo mundo na cidade e também ficam sabendo de todas as novidades.
 Eles sabem, não é? Ótimo!<NL>Vamos perguntar em todas as lojas, então!
 Sim? Oh, é mesmo?<NL>Ora, ora, ora...
@@ -7995,7 +7995,7 @@ Não falhe comigo, Executor.
 evd1016_text_en.cfg.bin.txt
 É um sucesso, Mestre!<NL>Realmente, uma maravilha!
 Seu caldeirão é capaz de muitos outros milagres! Pode produzir armas, armaduras, remédios e tesouros de todos os tipos!
-Você deve pegar seu Companheiro do Mago e experimentar tudo o que as artes alquímicas têm a oferecer!
+Você deve pegar seu Companheiro do Mago e experimentar tudo o que as artes de alquimia têm a oferecer!
 Eu irei, Sr. Gênio!<NL>Muito obrigado!
 Estou ansioso para servi-lo, Mestre!<NL>Ha ha haa!
 Isso é útil, hein, Olliezinho? Agora é só arrumar um barco e tudo estará arrumado!
@@ -11463,7 +11463,7 @@ Siga... seus sonhos...
 Eu sei que é o que minha Mãe teria desejado.
 Você não pode desistir dos seus sonhos!
 Hã?
-Nossa, eu nunca iria esperar por isso, Olliezinho!<NL>É o seu próprio coração que está fazendo o medalhão brilhar!
+Nossa, eu nunca iria esperar por isso, Olliezinho!<NL>É o seu próprio coração que está fazendo o Medalhão brilhar!
 Seu coração está cheio de <color:#1>ambição</color>! Eu deveria saber!
 Mas... Mas o que devo fazer?<NL>...Posso realmente pegar um pedaço do meu próprio coração?
 Bem, não custa tentar agora, não é mesmo? E isso será uma mudança em relação a ficar pedindo emprestado para outras pessoas! Vá em frente, tente, não custa nada!
@@ -14379,7 +14379,7 @@ O <color:#1>Medalhão</color> não é apenas um receptáculo para pedaços de co
 Conforme você cuida de seus negócios, ele brilhará espontaneamente de vez em quando.
 O <color:#1>Medalhão</color> está respondendo à presença de alguém que possui uma ou outra virtude em abundância.
 Essas almas também serão destacadas no minimapa<NL>no canto superior direito da tela. Procure pontos <NL>brilhantes nela.
-Espero que tenha gostado de desvendar alguns dos mistérios do maravilhoso medalhão. Estou ansioso para falar com você novamente em breve.
+Espero que tenha gostado de desvendar alguns dos mistérios do maravilhoso Medalhão. Estou ansioso para falar com você novamente em breve.
 Ah, então você quer aprender mais sobre como abrir baús de tesouro com a Pistola de Batedor, não é?
 Certo, seu desejo é uma ordem! Você encontrará <color:#1>baús verdes</color> bastante inacessíveis enquanto percorre cidades e masmorras.
 É quando seu colega Swaine pode realmente se destacar.
@@ -14449,7 +14449,7 @@ Verifique o que seu grupo está equipado selecionando <color:#1>Amigos e Familia
 Agora, meu jovem amigo, espero que você esteja indo embora como uma pessoa mais sábia. Estou ansioso para falar com você novamente.
 Vamos nos voltar agora para os mistérios arcanos da alquimia, um dos meus tópicos favoritos.
 Ao misturar combinações complexas de ingredientes no <color:#1>caldeirão</color>, você pode criar novos itens.
-Existem dois caminhos para o sucesso alquímico.<NL>Vamos olhar para ambos.
+Existem dois caminhos para o sucesso em alquimia.<NL>Vamos olhar para ambos.
 <REACTION>Se você possui as receitas necessárias, basta selecionar <color:#1>Seguir a Receita</color> e seus itens estarão prontos em um piscar de olhos.
 <REACTION>Almas mais ousadas podem se virar sem uma fórumla, selecionando <color:#1>Misturar e combinar</color> e combinando os ingredientes como quiserem.
 Simplesmente selecione os ingredientes para colocar no caldeirão com [menu][btn_ok] e pressione [menu][btn_squ] para mexê-los.
@@ -14727,7 +14727,7 @@ O material final da alquimia criado pelos deuses antigos. No entanto, é apenas 
 As belas flores alaranjadas desta planta iluminam as planícies abertas em que crescem.
 A dureza e a superfície lisa desse couro o tornam um material preferido entre os artesãos de todo o mundo.
 Água limpa de uma fonte escondida no subsolo. Embalado com minerais e extremamente saborosa.
-Ervas que são usadas principalmente para aumentar a eficácia de poções, especialmente na fabricação de remédios alquímicos.
+Ervas que são usadas principalmente para aumentar a eficácia de poções, especialmente na fabricação de remédios de alquimia.
 Uma flor que contém uma toxina altamente letal. Mantenha-a longe dos antídotos de veneno, pois eles são facilmente confundidos.
 Um cogumelo misterioso que emite um leve brilho carmesim. Embora comestível, seu sabor deixa muito a desejar.
 Tão preto que parece irradiar escuridão, este vidro extremamente duro pode ser usado para fazer lâminas afiadas mortais.
@@ -15482,730 +15482,730 @@ Cura a cegueira.
 Cura todas as doenças.
 o
 a
-loaf of
+pão de
 DUMMY_BREAD
-the
-some
-loaves of
+o
+alguns
+pães de
 DUMMY_BREAD
 <TC>o
 <TC>a
-<TC>loaf of
-<TC>white <TC>bread
-<TC>o
+<TC>pão de
+<TC>pão <TC>branco
+<TC>a
 <TC>alguns
-<TC>loaves of
-<TC>white <TC>bread
+<TC>pães de
+<TC>pão <TC>branco
 <TC>o
 <TC>a
-<TC>sandwich
+<TC>sanduíche
 <TC>o
 <TC>alguns
-<TC>sandwiches
+<TC>sanduíches
 <TC>o
 <TC>a
-<TC>fishburger
+<TC>hambúrger de peixe
 <TC>o
 <TC>alguns
-<TC>fishburgers
+<TC>hambúrgueres de peixe
 <TC>o
 <TC>a
-<TC>cheeseburger
+<TC>hambúrger de queijo
 <TC>o
 <TC>alguns
-<TC>cheeseburgers
+<TC>hambúrgueres de queijo
 <TC>o
 <TC>a
-<TC>tonic
-<TC>o
+<TC>tônico
+<TC>a
 <TC>alguns
-<TC>tonics
+<TC>tônicos
 <TC>o
 <TC>a
-<TC>bacia de
+<TC>tigela de
+<TC>tikka <TC>mahala
+<TC>a
+<TC>algumas
+<TC>tegelas de
 <TC>tikka <TC>mahala
 <TC>o
-<TC>alguns
-<TC>bowls of
-<TC>tikka <TC>mahala
+<TC>a
+<TC>garrafa de
+<TC>orvalho de<TC>fada
+<TC>a
+<TC>algumas
+<TC>garrafas de
+<TC>orvalho de<TC>fada
 <TC>o
 <TC>a
 <TC>garrafa de
-<TC>pixie <TC>dew
-<TC>o
-<TC>alguns
+<TC>orvalho de<TC>duende
+<TC>a
+<TC>algumas
 <TC>garrafas de
-<TC>pixie <TC>dew
+<TC>orvalho de<TC>duende
 <TC>o
 <TC>a
 <TC>garrafa de
-<TC>sprite <TC>dew
-<TC>o
-<TC>alguns
+<TC>café <TC>gelado
+<TC>a
+<TC>algumas
 <TC>garrafas de
-<TC>sprite <TC>dew
+<TC>café <TC>gelado
 <TC>o
 <TC>a
-<TC>garrafa de
-<TC>iced <TC>coffee
-<TC>o
-<TC>alguns
-<TC>garrafas de
-<TC>iced <TC>coffee
-<TC>o
+<TC>copo de
+<TC>café <TC>forte
 <TC>a
-<TC>cup of
-<TC>strong <TC>coffee
-<TC>o
 <TC>alguns
-<TC>cups of
-<TC>strong <TC>coffee
+<TC>copos de
+<TC>café <TC>forte
 <TC>o
 <TC>a
 <TC>cappuccino
-<TC>o
+<TC>a
 <TC>alguns
 <TC>cappuccinos
 <TC>o
-<TC>uma
+<TC>um
 <TC>espresso
-<TC>o
+<TC>a
 <TC>alguns
 <TC>espressos
 <TC>o
 <TC>a
 <TC>garrafa de
 <TC>nostrum
-<TC>o
+<TC>a
 <TC>alguns
 <TC>garrafas de
 <TC>nostrum
 <TC>o
 <TC>a
-<TC>frasco de
-<TC>sage's <TC>secret
-<TC>o
+<TC>frasco da
+<TC>poção do<TC>sábio
+<TC>a
 <TC>alguns
-<TC>vials of
-<TC>sage's <TC>secret
+<TC>frascos da
+<TC>poção do<TC>sábio
 <TC>o
 <TC>a
-<TC>frasco de
-Great Sage's <TC>secret
-<TC>o
+<TC>frasco da
+poção do<TC>grande sábio
+<TC>a
 <TC>alguns
-<TC>vials of
-Great Sage's <TC>secret
+<TC>frascos da
+poção do<TC>grande sábio
 <TC>o
 <TC>a
-<TC>frasco de
-Wizard King's <TC>secret
-<TC>o
+<TC>frasco da
+poção do<TC>rei mago
+<TC>a
 <TC>alguns
-<TC>vials of
-Wizard King's <TC>secret
+<TC>frascos da
+poção do<TC>rei mago
 <TC>o
 <TC>a
-<TC>phoenix <TC>feather
-<TC>o
-<TC>alguns
-<TC>phoenix <TC>feathers
+<TC>pena de<TC>fênix
+<TC>a
+<TC>algumas
+<TC>penas de<TC>fênix
 <TC>o
 <TC>a
-<TC>phoenix <TC>tear
-<TC>o
-<TC>alguns
-<TC>phoenix <TC>tears
+<TC>lágrima da<TC>fênix
+<TC>a
+<TC>algumas
+<TC>lágrimas da<TC>fênix
 <TC>o
 <TC>a
-<TC>pouch of
-<TC>phoenix <TC>breath
-<TC>o
-<TC>alguns
-<TC>pouches of
-<TC>phoenix <TC>breath
+<TC>bolsa de
+<TC>sopro de<TC>fênix
+<TC>a
+<TC>algumas
+<TC>bolsas de
+<TC>sopro de<TC>fênix
 <TC>o
 <TC>a
-<TC>poison-<TC>be-<TC>gone
-<TC>o
-<TC>alguns
-<TC>poison-<TC>be-<TC>gones
+<TC>escama <TC>robusta
+<TC>a
+<TC>algumas
+<TC>escama <TC>robusta
 <TC>o
 <TC>a
-<TC>nix-<TC>be-<TC>gone
-<TC>o
+<TC>silêncio-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>nix-<TC>be-<TC>gones
+<TC>silêncio-<TC>se-<TC>vá
 <TC>o
 <TC>a
-<TC>confusion-<TC>be-<TC>gone
-<TC>o
+<TC>confusão-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>confusion-<TC>be-<TC>gones
+<TC>confusão-<TC>se-<TC>vá
 <TC>o
 <TC>a
-<TC>sleep-<TC>be-<TC>gone
-<TC>o
+<TC>sono-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>sleep-<TC>be-<TC>gones
+<TC>sono-<TC>se-<TC>vá
 <TC>o
 <TC>a
-<TC>stone-<TC>be-<TC>gone
-<TC>o
+<TC>petrificar-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>stone-<TC>be-<TC>gones
+<TC>petrificar-<TC>se-<TC>vá
 <TC>o
 <TC>a
-<TC>curse-<TC>be-<TC>gone
-<TC>o
+<TC>maldição-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>curse-<TC>be-<TC>gones
+<TC>maldição-<TC>se-<TC>vá
 <TC>o
 <TC>a
-<TC>blindness-<TC>be-<TC>gone
-<TC>o
+<TC>cegueira-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>blindness-<TC>be-<TC>gones
+<<TC>cegueira-<TC>se-<TC>vá
 <TC>o
 <TC>uma
-<TC>all-<TC>be-<TC>gone
-<TC>o
+<TC>tudo-<TC>se-<TC>vá
+<TC>a
 <TC>alguns
-<TC>all-<TC>be-<TC>gones
+<TC>tudo-<TC>se-<TC>vá
 o
 a
-dummy stone
+pedra fictícia
 o
-slguns
-dummy stones
+algumas
+pedras fictícias
 <TC>o
 <TC>a
-<TC>plainswort <TC>flower
-<TC>o
-<TC>alguns
-<TC>plainswort <TC>flowers
+<TC>flor <TC>tugarida
+<TC>a
+<TC>algumas
+<TC>flores <TC>tugaridas
 <TC>o
 <TC>a
 <TC>pedaço de
-<TC>supple <TC>leather
-<TC>o
+<TC>couro <TC>flexível
+<TC>a
 <TC>alguns
 <TC>pedaços de
-<TC>supple <TC>leather
+<TC>couro <TC>flexíveis
 <TC>o
 <TC>a
 <TC>garrafa de
-<TC>springwater
-<TC>o
-<TC>alguns
+<TC>água fresca
+<TC>a
+<TC>algumas
 <TC>garrafas de
-<TC>springwater
+<TC>águas frescas
 <TC>o
 <TC>a
 <TC>bando de
-<TC>booster <TC>shoots
-<TC>o
+<TC>ervaficácia
+<TC>a
 <TC>alguns
-<TC>cachos de
-<TC>booster <TC>shoots
+<TC>montes de
+<TC>ervaficácias
 <TC>o
 <TC>a
-<TC>baneflower
-<TC>o
+<TC>comigo-<TC>-ninguém-<TC>pode
+<TC>a
 <TC>alguns
-<TC>baneflowers
+<TC>comigo-<TC>-ninguém-<TC>pode
 <TC>o
 <TC>a
-<TC>glowcap
-<TC>o
-<TC>alguns
-<TC>glowcaps
-<TC>o
+<TC>cogusol
 <TC>a
-<TC>pedaço de
-<TC>shadowglass
-<TC>o
 <TC>alguns
-<TC>pedaços de
-<TC>shadowglass
-<TC>o
-<TC>uma
-<TC>emberstone
-<TC>o
-<TC>alguns
-<TC>emberstones
-<TC>o
-<TC>a
-<TC>pacote de
-<TC>slumbernot <TC>leaves
-<TC>o
-<TC>alguns
-<TC>pacotes de
-<TC>slumbernot <TC>leaves
-<TC>o
-<TC>a
-<TC>rings-a-<TC>bell
-<TC>o
-<TC>alguns
-<TC>rings-a-<TC>bells
-<TC>o
-<TC>a
-<TC>wetstone
-<TC>o
-<TC>alguns
-<TC>wetstones
-<TC>o
-<TC>a
-<TC>sturdy <TC>shinbone
-<TC>o
-<TC>alguns
-<TC>sturdy <TC>shinbones
-<TC>o
-<TC>a
-<TC>gnomebeard
-<TC>o
-<TC>alguns
-<TC>gnomebeards
-<TC>o
-<TC>uma
-<TC>umagula
-<TC>o
-<TC>alguns
-<TC>umagulas
-<TC>o
-<TC>a
-<TC>sprocket
-<TC>o
-<TC>alguns
-<TC>sprockets
+<TC>cogusóis
 <TC>o
 <TC>a
 <TC>pedaço de
-<TC>raw <TC>steel
-<TC>o
+<TC>obsidiana
+<TC>a
 <TC>alguns
 <TC>pedaços de
-<TC>raw <TC>steel
+<TC>obsidianas
+<TC>o
+<TC>uma
+pedra de<TC>fogo
+<TC>a
+<TC>algumas
+pedras de<TC>fogo
 <TC>o
 <TC>a
-<TC>rumblenut
-<TC>o
+<TC>maço de
+<TC>capim <TC>não-durma
+<TC>a
 <TC>alguns
-<TC>rumblenuts
+<TC>maços de
+<TC>capins <TC>não-durma
 <TC>o
 <TC>a
-<TC>drill <TC>screw
-<TC>o
+<TC>não-me-<TC>esqueça
+<TC>a
 <TC>alguns
-<TC>drill <TC>screws
+<TC>não-me-<TC>esqueças
 <TC>o
 <TC>a
-<TC>bass <TC>bell
-<TC>o
+<TC>pedra molhada
+<TC>a
 <TC>alguns
-<TC>bass <TC>bells
+<TC>pedras molhadas
 <TC>o
 <TC>a
-<TC>fogdrop
-<TC>o
+<TC>osso duro <TC>de roer
+<TC>a
 <TC>alguns
-<TC>fogdrops
+<TC>ossos duros <TC>de roer
 <TC>o
 <TC>a
-<TC>jade <TC>marble
+<TC>barba de gnomo
+<TC>a
+<TC>algumas
+<TC>barbas de gnomos
 <TC>o
-<TC>alguns
-<TC>jade <TC>marbles
+<TC>uma
+<TC>angula
+<TC>a
+<TC>algumas
+<TC>algunlas
 <TC>o
 <TC>a
-<TC>gustplume
-<TC>o
-<TC>alguns
-<TC>gustplumes
-<TC>o
+<TC>engrenagem
 <TC>a
-<TC>blizzard <TC>bloom
-<TC>o
-<TC>alguns
-<TC>blizzard <TC>blooms
+<TC>algumas
+<TC>engrenagens
 <TC>o
 <TC>a
 <TC>pedaço de
-<TC>tealwood
-<TC>o
+<TC>aço <TC>puro
+<TC>a
 <TC>alguns
 <TC>pedaços de
-<TC>tealwood
+<TC>aços <TC>puros
 <TC>o
 <TC>a
-<TC>snowflake
-<TC>o
-<TC>alguns
-<TC>snowflakes
+<TC>noz chocalho
+<TC>a
+<TC>algumas
+<TC>nozes chocalho
 <TC>o
 <TC>a
-<TC>coldstone
-<TC>o
-<TC>alguns
-<TC>coldstones
+<TC>brocafuso
+<TC>a
+<TC>algumas
+<TC>brocafusos
 <TC>o
 <TC>a
-<TC>drakestone
+<TC>sino <TC>grave
+<TC>a
+<TC>alguns
+<TC>sinos <TC>graves
+<TC>o
+<TC>a
+<TC>flor de neve
+<TC>a
+<TC>algumas
+<TC>flores de neve
+<TC>o
+<TC>a
+<TC>esfera de<TC>jade
+<TC>a
+<TC>algumas
+<TC>esferas de<TC>jade
+<TC>o
+<TC>a
+<TC>pena afiada
+<TC>a
+<TC>algumas
+<TC>penas afiadas
+<TC>o
+<TC>a
+<TC>flor <TC>glacial
+<TC>a
+<TC>algumas
+<TC>flores <TC>glaciais
+<TC>o
+<TC>a
+<TC>pedaço de
+<TC>madeira azul
+<TC>a
+<TC>alguns
+<TC>pedaços de
+<TC>madeiras azuis
+<TC>o
+<TC>a
+<TC>floco de neve
+<TC>a
+<TC>alguns
+<TC>flocos de neve
+<TC>o
+<TC>a
+<TC>pedra gélida
+<TC>o
+<TC>algumas
+<TC>pedras gélidas
+<TC>o
+<TC>a
+<TC>pedra ígnea
+<TC>o
+<TC>algumas
+<TC>pedras ígneas
+<TC>o
+<TC>um
+<TC>Diamente de<TC>ferro
 <TC>o
 <TC>alguns
-<TC>drakestones
-<TC>o
-<TC>uma
-<TC>iron <TC>diamond
-<TC>o
-<TC>alguns
-<TC>iron <TC>diamonds
+<TC>diamantes de<TC>ferro
 <TC>o
 <TC>a
 <TC>bando de
-<TC>sour <TC>grapes
-<TC>o
+<TC>uva <TC>azeda
+<TC>a
 <TC>alguns
 <TC>cachos de
-<TC>sour <TC>grapes
+<TC>uvas <TC>azedas
 <TC>o
 <TC>a
-<TC>powerstone
-<TC>o
-<TC>alguns
-<TC>powerstones
+<TC>pedra do poder
+<TC>a
+<TC>algumas
+<TC>pedras do poder
 <TC>o
 <TC>a
-<TC>bubble <TC>pipe
-<TC>o
+<TC>cachimbinho
+<TC>a
 <TC>alguns
-<TC>bubble <TC>pipes
+<TC>cachimbinhos
 <TC>o
 <TC>a
-<TC>tachestone
-<TC>o
+<TC>bigolito
+<TC>a
 <TC>alguns
-<TC>tachestones
+<TC>bigolitos
 <TC>o
 <TC>a
-<TC>Precioso de
-<TC>crownberries
-<TC>o
-<TC>alguns
-<TC>Preciosos de
-<TC>crownberries
+<TC>preciosa
+<TC>fruta real
+<TC>a
+<TC>algumas
+<TC>preciosas
+<TC>frutas reais
 <TC>o
 <TC>a
-<TC>big <TC>babana
-<TC>o
-<TC>alguns
-<TC>big <TC>babanas
+<TC>banana <TC>grande
+<TC>a
+<TC>algumas
+<TC>bananas <TC>grandes
 <TC>o
 <TC>a
-<TC>meteorite <TC>fragment
-<TC>o
+<TC>fragmento de<TC>meteorito
+<TC>a
 <TC>alguns
-<TC>meteorite <TC>fragments
+<TC>fragmentos de<TC>meteorito
 <TC>o
 <TC>a
-<TC>blowpipe
-<TC>o
+<TC>cachimbo da paz
+<TC>a
 <TC>alguns
-<TC>blowpipes
+<TC>cachimbos da paz
 <TC>o
 <TC>a
-<TC>star <TC>pearl
-<TC>o
-<TC>alguns
-<TC>star <TC>pearls
+<TC>pérola <TC>estrela
+<TC>a
+<TC>algumas
+<TC>pérolas <TC>estrela
 <TC>o
 <TC>a
 <TC>par de
-<TC>black <TC>wings
-<TC>o
+<TC>asa <TC>negra
+<TC>a
 <TC>alguns
 <TC>pares de
-<TC>black <TC>wings
+<TC>asas <TC>negras
 <TC>o
 <TC>a
-<TC>bando de
-<TC>old <TC>oak <TC>leaves
-<TC>o
+<TC>maço de
+<TC>folha do<TC>carvalho <TC>ancião
+<TC>a
 <TC>alguns
-<TC>cachos de
-<TC>old <TC>oak <TC>leaves
+<TC>maços de
+<TC>folhas do<TC>carvalho <TC>ancião
 <TC>o
 <TC>a
-<TC>ritestone
-<TC>o
-<TC>alguns
-<TC>ritestones
+<TC>pedra ritual
+<TC>a
+<TC>algumas
+<TC>pedras rituais
 <TC>o
 <TC>a
-<TC>Precioso de
-<TC>seeds of <TC>discord
+<TC>preciosa de
+<TC>semente da <TC>discórdia
+<TC>a
+<TC>algumas
+<TC>Preciosas de
+<TC>sementes da <TC>discórdia
 <TC>o
+<TC>um
+<TC>olho<TC>que tudo <TC>vê
+<TC>a
 <TC>alguns
-<TC>Preciosos de
-<TC>seeds of <TC>discord
-<TC>o
-<TC>uma
-<TC>all-<TC>seeing <TC>eye
-<TC>o
-<TC>alguns
-<TC>all-<TC>seeing <TC>eyes
+<TC>olhos<TC>que tudo <TC>vê
 <TC>o
 <TC>a
-<TC>kaleidostone
-<TC>o
-<TC>alguns
-<TC>kaleidostones
+<TC>pedra kaleido
+<TC>a
+<TC>algumas
+<TC>pedras kaleido
 <TC>o
 <TC>a
-<TC>grupo de
-<TC>troll's <TC>tears
-<TC>o
-<TC>alguns
-<TC>grupos de
-<TC>troll's <TC>tears
+<TC>quantidade de
+<TC>lágrima de<TC>troll
+<TC>a
+<TC>algumas
+<TC>quantidades de
+<TC>lágrimas de<TC>troll
 <TC>o
 <TC>a
-<TC>glowstone
-<TC>o
-<TC>alguns
-<TC>glowstones
+<TC>pedra brilhante
+<TC>a
+<TC>algumas
+<TC>pedras brilhantes
 <TC>o
 <TC>a
 <TC>par de
-<TC>umagel's <TC>wings
-<TC>o
+<TC>assas de<TC>anjo
+<TC>a
 <TC>alguns
 <TC>pares de
-<TC>umagel's <TC>wings
+<TC>assas de<TC>anjos
 <TC>o
-<TC>uma
-<TC>evil <TC>eye
-<TC>o
+<TC>um
+<TC>olho <TC>demoniaco
+<TC>a
 <TC>alguns
-<TC>evil <TC>eyes
+<TC>olhos <TC>demoniacos
 <TC>o
 <TC>a
-<TC>scroll of <TC>truth
-<TC>o
+<TC>pergaminho da <TC>verdade
+<TC>a
 <TC>alguns
-<TC>scrolls of <TC>truth
+<TC>pergaminhos da <TC>verdade
 <TC>o
 <TC>a
-<TC>jarra de
-<TC>bumbler <TC>honey
-<TC>o
+<TC>pote de
+<TC>mel de <TC>abelha
+<TC>a
 <TC>alguns
-<TC>jarras de
-<TC>bumbler <TC>honey
+<TC>potes de
+<TC>mel de <TC>abelha
 <TC>o
 <TC>a
-<TC>dumpty <TC>egg
-<TC>o
+<TC>ovo <TC>enjeitado
+<TC>a
 <TC>alguns
-<TC>dumpty <TC>eggs
+<TC>ovos <TC>enjeitado
 <TC>o
 <TC>a
-<TC>cabeça de
-<TC>crispy <TC>lettuce
-<TC>o
+<TC>pé de
+<TC>alface <TC>fresco
+<TC>a
 <TC>alguns
-<TC>cabeças de
-<TC>crispy <TC>lettuce
+<TC>pés de
+<TC>alfaces <TC>fresco
 <TC>o
 <TC>a
-<TC>crunchy <TC>carrot
-<TC>o
-<TC>alguns
-<TC>crunchy <TC>carrots
+<TC>cenoura <TC>fresca
+<TC>a
+<TC>algumas
+<TC>cenouras <TC>frescas
 <TC>o
 <TC>a
-<TC>montante de
-<TC>tender <TC>beef
-<TC>o
+<TC>pedaço de
+<TC>carne <TC>macia
+<TC>a
 <TC>alguns
-<TC>montantes de
-<TC>tender <TC>beef
+<TC>pedaços de
+<TC>carnes <TC>macias
 <TC>o
 <TC>a
-<TC>bando de
-<TC>babanas
-<TC>o
+<TC>cacho de
+<TC>babana
+<TC>a
 <TC>alguns
 <TC>cachos de
 <TC>babanas
 <TC>o
 <TC>a
 <TC>garrafa de
-<TC>creamy <TC>milk
-<TC>o
-<TC>alguns
+<TC>leite <TC>cremoso
+<TC>a
+<TC>algumas
 <TC>garrafas de
-<TC>creamy <TC>milk
+<TC>leites <TC>cremosos
 <TC>o
 <TC>a
-<TC>bacia de
-<TC>yogurt
+<TC>taça de
+<TC>iogurte
+<TC>a
+<TC>algumas
+<TC>taças de
+<TC>iogurtes
+<TC>o
+<TC>a
+<TC>prato
+<TC>arroz <TC>soltinho
+<TC>a
+<TC>alguns
+<TC>pratos de
+<TC>arrozes <TC>soltinhos
+<TC>o
+<TC>a
+<TC>dourado
 <TC>o
 <TC>alguns
-<TC>bowls of
-<TC>yogurt
+<TC>dourados
 <TC>o
 <TC>a
-<TC>placa de
-<TC>fluffy <TC>rice
-<TC>o
+<TC>caramarão luminoso
+<TC>a
 <TC>alguns
-<TC>placas de
-<TC>fluffy <TC>rice
+<TC>caramarões luminosos
 <TC>o
 <TC>a
-<TC>dumbflounder
-<TC>o
-<TC>alguns
-<TC>dumbflounders
-<TC>o
-<TC>a
-<TC>glowshrimp
-<TC>o
-<TC>alguns
-<TC>glowshrimps
-<TC>o
-<TC>a
-<TC>bando de
-<TC>green <TC>grapes
+<TC>cacho de
+<TC>uva <TC>verde
 <TC>o
 <TC>alguns
 <TC>cachos de
-<TC>green <TC>grapes
+<TC>uvas <TC>verdes
 <TC>o
 <TC>a
-<TC>black <TC>truffle
+<TC>trufa <TC>negra
 <TC>o
-<TC>alguns
-<TC>black <TC>truffles
-<TC>o
-<TC>a
-<TC>Precioso de
-<TC>caramels
-<TC>o
-<TC>alguns
-<TC>Preciosos de
-<TC>caramels
+<TC>algumas
+<TC>trufas <TC>negras
 <TC>o
 <TC>a
-<TC>snow <TC>radish
+<TC>punhado de
+<TC>caramelo
 <TC>o
 <TC>alguns
-<TC>snow <TC>radishes
+<TC>punhados de
+<TC>caramelos
 <TC>o
 <TC>a
-<TC>sun <TC>crystal
-<TC>o
+<TC>rabanete <TC>nevado
+<TC>a
 <TC>alguns
-<TC>sun <TC>crystals
+<TC>rabanetes <TC>nevados
 <TC>o
 <TC>a
-<TC>star <TC>crystal
-<TC>o
+<TC>cristal <TC>solar
+<TC>a
 <TC>alguns
-<TC>star <TC>crystals
+<TC>cristais <TC>solares
 <TC>o
 <TC>a
-<TC>moon <TC>crystal
-<TC>o
+<TC>cristal <TC>estrelar
+<TC>a
 <TC>alguns
-<TC>moon <TC>crystals
+<TC>cristais <TC>estelares
 <TC>o
 <TC>a
-<TC>planet <TC>crystal
+<TC>cistal <TC>lunar
+<TC>a
+<TC>alguns
+<TC>cristais <TC>lunares
+<TC>o
+<TC>a
+<TC>crital <TC>planetário
 <TC>o
 <TC>alguns
-<TC>planet <TC>crystals
+<TC>cristais <TC>planetários
 <TC>o Companheiro do Mago
 Companheiro do Magos
 <TC>o
 <TC>a
-Locket
+Medalhão
 o
 alguns
-Lockets
+Medalhões
 <TC>o
 <TC>a
-Mirror of Truth
-o
+Espelho da Verdade
+a
 alguns
-Mirrors of Truth
+Espelhos da Verdade
 <TC>o
 <TC>o
-Proof of Wits
-o
-alguns
-Proofs of Wits
+Prova de Inteligência
+a
+algumas
+Provas de Inteligência
 <TC>o
 <TC>o
-Proof of Friendship
-o
-alguns
-Proofs of Friendship
+Prova de Amizade
+a
+algumas
+Provas de Amizade
 <TC>o
 <TC>o
-Proof of Strength
-o
-alguns
-Proofs of Strength
+Prova de Força
+a
+algumas
+Provas de Força
 <TC>o
 <TC>a
-<TC>peculiar <TC>pot
-o
+<TC>vaso <TC>peculiar
+a
 alguns
-peculiar pots
+vasos peculiares
 <TC>o
 <TC>a
-<TC>cauldron
-o
+<TC>caldeirão
+a
 alguns
-cauldrons
+caldeirões
 <TC>o
 <TC>a
-<TC>giant <TC>cheese <TC>wedge
-o
-alguns
-giant cheese wedges
+<TC>fatia de<TC>queijo <TC>gigante
+a
+algumas
+fatias de queijo gigante
 <TC>o
 <TC>a
-<TC>portrait
+<TC>retrato
 o
 alguns
-portraits
+retratos
 <TC>o
 <TC>a
-<TC>letter of <TC>passage
-o
+<TC>carta de <TC>passagem
+a
 alguns
-letters of passage
+cartas de passagem
 <TC>o
 <TC>a
-<TC>Piece of <TC>Art
+<TC>Obra de <TC>Arte
 <TC>o
-<TC>alguns
-<TC>Pieces of <TC>Art
+<TC>algumas
+<TC>Obras de <TC>Arte
 <TC>o
 <TC>a
-<TC>skeleton <TC>key
-o
-alguns
-skeleton keys
+<TC>chave <TC>esqueleto
+a
+algumas
+chaves de esqueleto
 <TC>o
 <TC>uma
-RIP <TC>pass
+passe <TC>RIP
 o
 alguns
-RIP passes
+passes RIP
 <TC>o
 <TC>a
 <TC>bronze <TC>ticket
@@ -19970,10 +19970,10 @@ Então precisamos dar a esse guarda o <color:#1>entusiasmo</color> que recebemos
 Isso mesmo, Olliezinho.<NL>O magia que você vai precisar desta vez é <color:#8>Entregar Virtude</color>, não é?
 Eu sei que soa como o outro, mas não os confunda, faça o que fizer!
 Não se preocupe, Sr. Drippy! <color:#8>Entregar Virtude</color> é aquele para reparar corações partidos. Vou me lembrar disso!
-Agora, ao conjurar <color:#8>Entregar Virtude</color>, você precisará escolher o pedaço de coração que deseja restaurar de seu <color:#1>Locket</color>.
+Agora, ao conjurar <color:#8>Entregar Virtude</color>, você precisará escolher o pedaço de coração que deseja restaurar de seu <color:#1>Medalhão</color>.
 Claro, você só tem um lá no momento, então nem você pode estragar tudo! Vá em frente, devolva a esse guarda seu <color:#1>entusiasmo</color>!
 Tudo bem, aqui vai!
-<color:#8>Entregar Virtude</color>, Olliezinho! Esse é o magia que você precisa! Tire esse <color:#1>entusiasmo</color> do seu medalhão e entregue-o ao guarda!
+<color:#8>Entregar Virtude</color>, Olliezinho! Esse é o magia que você precisa! Tire esse <color:#1>entusiasmo</color> do seu Medalhão e entregue-o ao guarda!
 (suspirar)...
 Isso é uma vergonha! Estou aqui há horas!<NL>Quando vão começar a deixar as pessoas entrarem!?
 Eu me pergunto por que eles não estão deixando ninguém entrar...
@@ -20327,7 +20327,7 @@ Encontre o amado red herring do rei!
 Encontre o amado red herring do rei!
 Encontre o amado red herring do rei!
 Dê o red herring para o guarda no portão!
-Use o medalhão para encontrar alguém com entusiasmo de sobra!
+Use o Medalhão para encontrar alguém com entusiasmo de sobra!
 Fale com o menino com a vassoura!
 Restaure o entusiasmo perdido de King Tom!
 Dirija-se à Cawtermaster's Store para encontrar algumas armas e armaduras!
@@ -23544,7 +23544,7 @@ Como poderia reparar o que fiz?<NL>Foi... imperdoável.
 Reduzido a um espírito, condenado a vagar pelo mundo por toda a eternidade, como eu poderia salvar aquela pobre garota de seu destino?
 É por isso que devo humildemente pedir-lhe que corrija meu erro - salve a Rainha. Você é o único que pode, Oliver.
 ...Não se preocupe, Horace. Salvaremos a Rainha Cassiopeia.<NL>Salvaremos o mundo inteiro, você verá!
-Você tem meus agradecimentos. E tenho algumas fórmulas alquímicas para você. Fórmulas que deixei de incluir no Companheiro do Mago.
+Você tem meus agradecimentos. E tenho algumas fórmulas de alquimia para você. Fórmulas que deixei de incluir no Companheiro do Mago.
 Rezo para que eles o ajudem em sua busca.
 E agora, para minha contribuição final para sua causa.<NL>Por favor, aceite isso...
 Falo do próprio livro que você está carregando, Oliver.<NL>Certamente você sabe a resposta?
@@ -24599,7 +24599,7 @@ Yah hah haaah! Não há nada que eu NÃO saiba sobre caldeirões, meu jovem! Voc
 Eles me chamam de "O Alquimista"! Ninguém vivo sabe mais sobre caldeirões e fórmulas do que eu!
 Mas estou mais do que feliz em passar meu conhecimento para a próxima geração. Então que tal, rapaz? Você quer aprender um pouco de alquimia REAL?
 Yah hah haaah! Esse é o espírito! Bom para você!
-Agora então... por onde começar? Ah sim! A síntese alquímica de um <color:#1>machado do deus da guerra</color> parece um assunto adequado para uma criança. Crianças gostam de machados, não é?
+Agora então... por onde começar? Ah sim! A síntese de alquimia de um <color:#1>machado do deus da guerra</color> parece um assunto adequado para uma criança. Crianças gostam de machados, não é?
 O machado de um deus da guerra, hein? Parece muito bacana.<NL>Continue, o que precisamos fazer?
 Bem... A primeira coisa que você precisa fazer é alquimizar um <color:#1>machado do demônio</color>.
 Caramba, isso também não soa tão mal!
@@ -24634,7 +24634,7 @@ Eu fiz isso! Eu fiz um machado do deus da guerra!
 Kyaaah ha ha ha ha! Maravilhoso!<NL>Eu realmente não pensei que você tivesse isso em você, garoto!
 Bem, não foi fácil...<NL>Mas com certeza aprendi muito ao longo do caminho!
 Yah hah haaah! Claro que você fez! Continue assim e você será um grande mago um dia, marque minhas palavras!
-Agora, eu quero que você fique com isso.<NL>Considere isso uma recompensa por todos os seus esforços alquímicos.
+Agora, eu quero que você fique com isso.<NL>Considere isso uma recompensa por todos os seus esforços em alquimia.
 Também darei a você algumas fórmulas novas e empolgantes<NL>para experimentar!
 Continue com o bom trabalho e um dia você poderá se intitular o segundo maior alquimista do mundo!
 campo da alquimia é mais complexo do que você imagina, rapaz. Mas se você for curioso o suficiente e dedicado o suficiente, ALGUNS de seus segredos PODEM se revelar para você!
@@ -24680,9 +24680,9 @@ Um visitante!? Yah hah haaah!<NL>Não recebemos muitos visitantes por aqui...<NL
 Oh! O que é isso que eu espio? Um caldeirão? Hah haaah!<NL>O menino é um MÁGICO! Um menino mago visitante!
 Hã? ...Você sabe sobre caldeirões?
 Yah hah haaah! Não há nada que eu NÃO saiba sobre caldeirões, meu jovem! Você não é o único mago nesta caverna, sabe!
-...Embora eu deva dizer, suas habilidades alquímicas parecem precisar de um pouco de trabalho.
+...Embora eu deva dizer, suas habilidades de alquimia parecem precisar de um pouco de trabalho.
 Volte quando tiver aprendido a lidar com esse seu caldeirão. Então eu vou te ensinar um pouco de alquimia REAL!
-Mais inspiração alquímica!<NL>Vá até o caldeirão para ver o que você pode fazer!
+Mais inspiração em alquimia!<NL>Vá até o caldeirão para ver o que você pode fazer!
 Ahh, é adorável e legal aqui, hein? Você nunca saberia que havia um deserto fervente lá fora, não é? Beleza!
 Não vejo como alguém poderia morar aqui, mun - é tão apertado quanto qualquer coisa! Minúsculo, é! Até eu teria problemas para caber, e sou bem pequena!
 Grama crescendo sob seus pés? O que é esse cara, hein? Algum tipo de milagreiro?
@@ -25526,7 +25526,7 @@ Sr. Abull, senhor! Descobrimos alguém com muita <color:#1>contenção</color>!
 Você fez? Esta é uma excelente notícia.<NL>Você deve me dizer - quem é?
 É você!
 Meu? Mas—<NL>Impossível!
-Nem um pouco, Peter Patience! <NL>Olhe para o medalhão do Olliezinho - está brilhando, uma delícia!
+Nem um pouco, Peter Patience! <NL>Olhe para o Medalhão do Olliezinho - está brilhando, uma delícia!
 Você poderia nos emprestar um pouco de sua <color:#1>contenção</color>, Sr. Abull?
 Hum? Bem, eu... Claro que você pode.<NL>Para Sua  Muujestade, qualquer coisa...
 O que devo fazer?
@@ -27780,7 +27780,7 @@ Por aqui, mun! Por aqui!
 Está perdido ou algo assim?<NL>Não vejo motivos para as lágrimas, tudo bem?
 Está perdido ou algo assim?<NL>Não vejo motivos para as lágrimas, tudo bem?
 Se houver alguma coisa que você queira saber mais, tenho certeza que a Pedra Falante adoraria responder a todas as suas perguntas!
-Vamos, mun! Use o medalhão para ajudar aquele guarda de coração partido!
+Vamos, mun! Use o Medalhão para ajudar aquele guarda de coração partido!
 Chop-chop, então, Olliezinho! <NL>Volte para Ding Dong Dell para consertar o coração partido daquele guarda!
 Temos que descer para Ding Dong Dell, mun!
 Temos que descer para Ding Dong Dell, mun!
@@ -28234,7 +28234,7 @@ Tem tudo isso? Bom! Se você tiver bom senso, usará quantas dessas gotas puder 
 Puxa, outra fórmula! Obrigado!
 Certo, Olliezinho e Familiares são todos muito interessantes, mas resolver o problema do velho Tengri é nossa principal prioridade, não é!?
 Sim você está certo. Precisamos ir até <color:#1>Motorville</color> e encontrar a alma gêmea de Tengri!
-Olliezinho, mun! Olhe para o seu medalhão, sim? Está brilhando como ninguém! Tenho certeza que não estava fazendo isso antes.
+Olliezinho, mun! Olhe para o seu Medalhão, sim? Está brilhando como ninguém! Tenho certeza que não estava fazendo isso antes.
 Então é...Kublai!? Bem, acho que ele tem muita <color:#1>confiança</color>...
 Você falou meu nome, garoto? Ora, então suponho que você tenha uma cura para o meu dragão!
 Hã... Ainda não, senhor. Desculpe...
@@ -30254,7 +30254,7 @@ Mmmooohhh nãooo, não posso... Ganhei ano passado por um triz, sabe, e o campe�
 Hã? Você é o campeão?<NL>Então por que você está com medo de participar?
 Eu sei porque, Olliezinho. É porque um certo trabalho desagradável roubou a <color:#1>confiança</color> do nosso pobre amigo, não é?
 Ele nunca vai ganhar em um estado como este. <NL>Lamentável, é. O que devemos fazer?
-Beleza! Esse é o espírito, Olliezinho!<NL>Agora vamos pegar um medalhão cheio de <color:#1>confiança</color>!
+Beleza! Esse é o espírito, Olliezinho!<NL>Agora vamos pegar um Medalhão cheio de <color:#1>confiança</color>!
 Ah, assim, é? Bem, suponho que não seja o fim do mundo, mas mesmo assim...
 Mmmyooohhh nãooo... O Grande Torneio de Puxão-de-Cauda começa tão cedo... O que devo fazer? Só sei que vou colocar um ronronar de pata...
 Se você está tão preocupado com isso, não pode simplesmente dar suas desculpas e desistir?
@@ -30836,7 +30836,7 @@ Se não o entregarmos logo, ele ficará todo molenga!<NL>Bem, mais molenga... Vo
 Por que eu tenho que carregar essa coisa de flipping flop, afinal?
 Se você se agachar eu vou conseguir te entender muito melhor, sabe...
 O próprio rei está com o coração partido!<NL>Quem diria, hein?
-Fique de olho no medalhão, mun!<NL>Você sabe o que significa se ele começar a brilhar!<NL>...É melhor você lançar, de qualquer maneira!
+Fique de olho no Medalhão, mun!<NL>Você sabe o que significa se ele começar a brilhar!<NL>...É melhor você lançar, de qualquer maneira!
 Tanto entusiasmo, e ele apenas um jovem! Isso é incrível!
 Vamos nos mexer e falar com aquele jovem, certo?
 Usando uma panela na cabeça? Bem, se o soldado não der certo, o garoto tem futuro na comédia, pelo menos!
@@ -31469,7 +31469,7 @@ Você acha? ...Sim, eu entendo o que você quer dizer.<NL>Eu olharia o negócio 
 Sr. Drippy...
 Uh, oh, Desculpe, Olliezinho. Eu me empolguei um pouco, né. Você tem que admitir, a garota pode vender...
 Rolar! Rolar! Tecidos finos para colocar um sorriso em seu rosto e uma mola em seu passo!
-Olhar! O medalhão está brilhando!
+Olhar! O Medalhão está brilhando!
 E acho que sei por quê essa jovem tem mais <color:#1>entusiasmo</color> do que uma escola cheia de crianças de seis anos!
 Uh, desculpe-me senhora, eu tenho algo para lhe perguntar...
 O que é isso, jovem? Você está interessado em alguns dos nossos tecidos finos? Posso oferecer-lhe um excelente preço!
@@ -32639,7 +32639,7 @@ Mas este ano eu tive que trabalhar e ela não gostou nem um pouco disso. Então 
 Problemas no paraíso, parece!
 Ah, não é nada sério! Tudo vai acabar.<NL>Ela está um pouco triste por passar nosso aniversário<NL>separados, mas não acho que ela esteja realmente brava.
 Ela é uma esposa maravilhosa, embora às vezes<NL>tenha dificuldade em expressar seus sentimentos.
-Olhar! O medalhão está brilhando!
+Olhar! O Medalhão está brilhando!
 Uau! Acho que encontramos um coração<NL>cheio até a borda com <color:#1>crença</color>.
 Desculpe incomodá-lo, senhor, mas queria saber se poderíamos pedir-lhe um favor...
 Um favor, você diz? Certamente. Por que não? Agora que estou na rua, tenho muito pouco mais a fazer.
@@ -33376,7 +33376,7 @@ Puxa... Isso parece meio triste...<NL>Ele fez algo de errado?
 Não. Ele tem sido um perfeito cavalheiro. Eu simplesmente não<NL>o amo mais. E, no entanto... não suporto quando estamos<NL>longe...
 Quer saber, garoto Ollie? Acho que ela está com o coração partido. Alguém beliscou o <color:#1>coração</color> dela, não foi?
 Eu não o amo - isso eu sei.<NL>Por que então não possa ficar sem ele?<NL>Oh, o que devo fazer...?
-Você tem um pedaço de <color:#1>amor</color> queimando um buraco em seu medalhão, não é, Olliezinho? Em seguida, lance <color:#8>Entregar Virtude</color> e ajude nossos amigos!
+Você tem um pedaço de <color:#1>amor</color> queimando um buraco em seu Medalhão, não é, Olliezinho? Em seguida, lance <color:#8>Entregar Virtude</color> e ajude nossos amigos!
 Nossa... não sei porque, mas... não vejo a hora de ver o meu par! Quero dizer o amor que estou sentindo!
 Ótimo! Você, hã, gosta dele de novo, então?
 Claro que sim! Eu o amo!<NL>Eu o amo tanto quanto no dia em que nos conhecemos...
@@ -33490,7 +33490,7 @@ Tem certeza disso?<NL>Parece muito doloroso para mim...
 Sim, parece muito ruim!<NL>A maioria das crianças estaria chorando muito agora!
 Então talvez eu seja diferente da maioria das crianças. O meu pai me disse que os rapazes não choram, por isso prometi que <NL>nunca choraria.
 Então você está segurando tudo, hein?<NL>Para manter sua promessa, quero dizer.
-Vou te dizer uma coisa, Olliezinho, o coração deste rapaz está transbordando de <color:#1>contenção</color>. Olhe para o seu medalhão, todo brilhante!
+Vou te dizer uma coisa, Olliezinho, o coração deste rapaz está transbordando de <color:#1>contenção</color>. Olhe para o seu Medalhão, todo brilhante!
 Puxa, você está certo!<NL>Diga, hã, você se importaria de nos ajudar com uma coisa?
 Você precisa da minha ajuda?<NL>Certamente, sim... Mas o que você quer que eu faça?
 Ah, você não precisa fazer nada. Só queremos pegar emprestado um pouco da sua moderação.
@@ -33797,7 +33797,7 @@ Eu li que os magos podem fazer quase tudo misturando materiais em um caldeirão!
 Com certeza é! Na verdade, é muito fácil se você tiver os ingredientes certos!
 Fácil para alguém como você, eu acho! Ahh, ser um bruxo deve ser muito maravilhoso... Será que...? Você poderia me mostrar como a alquimia funciona?
 Você poderia me fazer um <color:#1>cortador de velas</color>, talvez?
-Ouvi dizer que os <color:#1>cortadores de velas</color> só podem ser feitos usando métodos alquímicos! Eu adoraria ver um<NL>para mim!
+Ouvi dizer que os <color:#1>cortadores de velas</color> só podem ser feitos usando métodos de alquimia! Eu adoraria ver um<NL>para mim!
 Oh, maravilhoso!<NL>Acho que nunca fiquei tão empolgado!
 Agora, para fazer um cortador de velas, você precisará de uma <color:#1>punhal de pederneira</color> e também uma <color:#1>pedra de brasa</color>!
 Poxa! Você não sabe metade das suas coisas!
@@ -34306,7 +34306,7 @@ As pessoas desta cidade são muito amigáveis!<NL>Muito calorosas! Estamos muito
 Mas não! Coabitando em paz e harmonia, eles estão!
 Sim, estamos, sim! E nunca brigando!<NL>Sempre estamos sendo amigos!
 Que lindo! Não é sempre que você ouve uma história comovente de comunidades se unindo assim, não é?
-Olhe, Sr. Drippy!<NL>O medalhão — está brilhando!
+Olhe, Sr. Drippy!<NL>O Medalhão — está brilhando!
 E acho que sei por quê. Nossa amiga aqui está transbordando de <color:#1>crença</color>, não é?
 Diga, Sr. Tomte...<NL>Posso perguntar uma coisa?
 Está me perguntando?<NL>Sim, claro, por favor!
@@ -34354,7 +34354,7 @@ Você está me fazendo corar, sim?
 Tão fofo fofo fofo!<NL>Quase fofo demais fofo fofo!<NL>Você também está pensando assim, não é?
 Ele é, hein!<NL>Ele é muito fofo!
 Ele é, ele é, ele é!<NL>Eu amo meu fofo fofo fofo!<NL>Não há outro para mim!
-EITA, olhem o medalhão! Acho que ela realmente tem muito <color:#1>amor</color> por sua amiga, hein?
+EITA, olhem o Medalhão! Acho que ela realmente tem muito <color:#1>amor</color> por sua amiga, hein?
 Parece, hein?
 Ei, você poderia nos dar um pouco do amor que você sente por seu amigo fofo?
 Sim-Sim-Sim! Estou preocupada por amá-lo demais! Por favor, você deve ficar com alguns!
@@ -34364,7 +34364,7 @@ Vamos usá-lo para ajudar as pessoas que não têm amor suficiente.
 É sério? Eles também vão se tornar amantes do meu fofo fofo fofo?
 Puxa, eu não sei...<NL>Uh, quero dizer, com certeza eles vão!
 Eu amo meu fofo fofo fofo!<NL>Não há outro para mim!
-EITA, olhem o medalhão! Acho que ela realmente tem muito <color:#1>amor</color> por sua amiga, hein?
+EITA, olhem o Medalhão! Acho que ela realmente tem muito <color:#1>amor</color> por sua amiga, hein?
 Parece, hein?
 Ei, você poderia nos dar um pouco do amor que você sente por seu amigo fofo?
 Sim-Sim-Sim! Estou preocupada por amá-lo demais! Por favor, você deve tomar alguns!
@@ -35076,14 +35076,14 @@ Uau, e você também é muito determinado, hein?<NL>Você está ensaiando para u
 Bem, sim, de certa forma. Quando meu canto melhorar, adoraria cantar para todos.
 Então viajarei para Al Mamoon e me tornarei o cantor mais famoso do mundo!
 Eita! Você com certeza pensa grande! Mas se você trabalhar muito, tenho certeza que seu sonho um dia se tornará realidade.
-Olha, Olliezinho! Seu medalhão está ofuscando minha lanterna! Essa garota tem <color:#1>ambição</color> de sobra, sem dúvida!
+Olha, Olliezinho! Seu Medalhão está ofuscando minha lanterna! Essa garota tem <color:#1>ambição</color> de sobra, sem dúvida!
 Hum, ouça... Se não se importa, gostaríamos de pedir um favor.
 Um favor?<NL>Bem, vou tentar ajudar...
 EI! Você se importaria de fechar os olhos por apenas alguns segundos?
 Tê ei! Este jogo é divertido!<NL>Agora, vou fechar os olhos!
 Tê ei! O que aconteceu? Meu coração... Fez cócegas um pouco...
 Um dia, viajarei para Al Mamoon e me tornarei o cantor mais famoso do mundo!
-Olha, Olliezinho! Seu medalhão está ofuscando minha lanterna! Essa garota tem <color:#1>ambição</color> de sobra, sem dúvida!
+Olha, Olliezinho! Seu Medalhão está ofuscando minha lanterna! Essa garota tem <color:#1>ambição</color> de sobra, sem dúvida!
 Hum, ouça... Se não se importa, gostaríamos de pedir um favor.
 Um favor?<NL>Bem, vou tentar ajudar...
 EI! Você se importaria de fechar os olhos por apenas alguns segundos?
@@ -35287,7 +35287,7 @@ Ah, declaro que comi o suficiente!<NL>Minha barriga está prestes a explodir!
 Obrigado por satisfazer meus caprichos e levar esta humilde llapaca em um turbilhão gastronômico pelo mundo.
 Antes de você entregar aqueles pedaços delicados, eu havia provado apenas feno... e um sapato, por curiosidade. Fique tranquilo, não vou esquecer os sabores que você tão gentilmente me apresentou!
 Agora, eu prometi que iria recompensá-lo, e assim o farei. Aqui vai...
-Ah, e tem mais! Tenho uma ótima fórumla para você usar em seus experimentos alquímicos.
+Ah, e tem mais! Tenho uma ótima fórumla para você usar em seus experimentos de alquimia.
 Use-o para fazer algo saboroso... e sinta-se à vontade para aparecer e compartilhar comigo a qualquer momento.
 Ele tem uma bochecha piscando! Ele não pensa em nada além de seu estômago, ou o quê?
 Muito obrigado! E lembre-se, se você tiver algum pedaço saboroso que queira compartilhar, você me encontrará aqui... comendo feno.
@@ -36295,7 +36295,7 @@ O Carvalho Ancião ensina a Oliver um magia que lhe permite invocar um familiar 
 Tendo restaurado o Guardião da Floresta ao normal, Oliver recebe o Medalhão do Carvalho Ancião, que o ensina a dar e receber pedaços de coração. Oliver agora tem os meios para consertar o coração partido do guarda do portão!
 Depois de consertar o coração partido do porteiro, Oliver e o Sr. Drippy finalmente entram em Ding Dong Dell e se dirigem ao castelo em busca de uma nova varinha!
 Oliver e o Sr. Drippy tentam entrar no castelo, apenas para descobrir que o peixe favorito do rei desapareceu e que ninguém pode entrar até que seja encontrado! A dupla não tem escolha a não ser começar a procurar...
-King Tom também está com o coração partido! E ele está sem entusiasmo, assim como seu porteiro antes dele. Oliver deve usar seu medalhão para encontrar alguém com entusiasmo de sobra!
+King Tom também está com o coração partido! E ele está sem entusiasmo, assim como seu porteiro antes dele. Oliver deve usar seu Medalhão para encontrar alguém com entusiasmo de sobra!
 O coração do Rei Tom está completo mais uma vez... mas agora ele desapareceu! Pensando que a alma gêmea do rei, Timmy Toldrum, pode ter alguma pista sobre seu paradeiro, Oliver volta para Motorville!
 Tendo encontrado Timmy, o gato caçando ratos em Motorville, Oliver descobre que Ding Dong Well está infestado de roedores. Pode ser aqui que o rei foi? Só há uma maneira de descobrir!
 Nossos heróis encontram o monarca desaparecido travado em batalha com Tapo Gigio. Depois de derrotar o rato travesso e resgatar o Rei, Oliver é recompensado com uma varinha! Em seguida, Al Mamoon, onde um Grande Sábio espera!
@@ -36708,7 +36708,7 @@ Você derrotou o collum áurico nos Degraus do Gênio, conforme solicitado por D
 Derwin pediu para você derrotar o shellmet que reside na ilha de No Longer Mine, ao sul de Outonia.
 Você derrotou o shellmet na ilha de No Longer Mine, conforme solicitado por Derwin.
 Missão concluída!
-Dizem que uma jovem em Enseada Naufrágio tem um grande interesse em todas as coisas alquímicas.
+Dizem que uma jovem em Enseada Naufrágio tem um grande interesse em todas as coisas de alquimia.
 Uma jovem em Enseada Naufrágio leu sobre alquimia em um livro e adoraria ver alguns sendo executados.
 Uma jovem em Enseada Naufrágio pediu para você criar um cortador de velas em seu caldeirão e mostrá-lo a ela.
 Missão concluída!
@@ -36717,7 +36717,7 @@ Os habitantes da floresta que vivem na Costa dos Naufrágios dizem que podem ens
 Os habitantes da floresta que vivem na Costa dos Naufrágios contaram a você os materiais necessários para fazer uma lança real.
 Missão concluída!
 Dizem que um velho estranho habita uma caverna no topo dos Degraus do Gênio, a sudeste das Areias Cintilantes.
-Um velho que habita uma caverna no topo dos Degraus do Gênio diz que está disposto a ensinar a você algumas técnicas alquímicas avançadas.
+Um velho que habita uma caverna no topo dos Degraus do Gênio diz que está disposto a ensinar a você algumas técnicas de alquimia avançadas.
 Um velho que habita uma caverna no topo dos Degraus do Gênio desafiou você a criar um machado de demônio em seu caldeirão.
 Um velho que habita uma caverna no topo dos Degraus do Gênio desafiou você a criar um machado do deus da guerra em seu caldeirão.
 Missão concluída!
@@ -37185,7 +37185,7 @@ Aprenda a criar uma lança real em seu caldeirão.
 Crie uma lança real e mostre-a aos habitantes da floresta.
 Missão concluída!
 Vá e faça uma visita à caverna do velho.
-Aprenda técnicas alquímicas com o Alquimista.
+Aprenda técnicas alquimia com o Alquimista.
 Crie um machado de demônio e mostre-o ao Alquimista.
 Crie um machado do deus da guerra e mostre-o ao Alquimista.
 Missão concluída!
@@ -37322,7 +37322,7 @@ Grandes novidades de Philip
 Casa para a mãe
 Levando ela para dar uma volta
 A fada e o livro
-Por falta de uma varinha
+Por falta de uma Varinha
 Um presente de uma garota?
 Outro mundo!
 O coração partido
@@ -37333,7 +37333,7 @@ O Amado Peixe do Rei Tom
 Precisando de Entusiasmo
 O Rei Desaparecido
 Ratos travessos
-A varinha que alguém queria
+A Varinha que alguém queria
 Al Mamoon
 Rashaad e Esther
 O Templo das Provações
@@ -37791,7 +37791,7 @@ Rechonchudo
 Barriga Buster
 Wallop
 Arremessar Chama
-Bico de água<->
+Bico de<->água
 Splish Slash
 Sopro polar
 Neve<->bola
@@ -37804,12 +37804,12 @@ Pebble Pelt
 Pedra de estilingue
 Terremoto
 Rocha<->cair
-soprador de neve<->
+soprador<->de neve
 Brilha Brilha
 Arma de raios
 Super Slash
 Black Blast
-Fabricante de feno<->
+Fabricante de<->feno
 Drop Chop
 Corte solto
 Orelha <-> divisor
@@ -37881,7 +37881,7 @@ Aluguel de vida
 Ups-Daisy
 Yoo-Hoo
 Sanguessuga
-Melodia enlouquecedora
+Melodia<->enlouquecedora
 Ventilador de chama
 Rest<->orer Aurora
 Luz Fantástica<->tic
@@ -37899,14 +37899,14 @@ Marcha rápida
 Refrão
 Hino
 Caco<->falso
-Hino de Cura<->
+Hino de<->Cura
 Canto
 Alegrar
 Caneca<->shot
 Rotshot
-<->tiro cego
+tiro<->cego
 Instantâneo
-Tiro de dispersão<->
+Tiro de<->dispersão
 Pedra<->tiro
 Lesma<->tiro
 Morto<->tiro
@@ -37927,7 +37927,7 @@ Terra Infirma
 Tridente de fogo
 Absoluto<->luto Zero
 Vento<->queda
-Incrível Ulk
+Incrível<->Ulk
 Rato<->fogo
 Rato<->fogo
 Cauda<->giro
@@ -37935,10 +37935,10 @@ Sempre<->lâmina
 Golpe Selvagem
 Coração duro
 Palava
-Devastação
+Devas<->tação
 Selo da Alma
 Mangual da cauda
-Rugido <->vulcânico
+Rugido<->vulcânico
 Al Khombo
 Porco Salvo
 Canhão de gamão
@@ -37952,9 +37952,9 @@ Chuva de terror
 Nevasca Uivante
 Guarda glacial
 Pedra fria
-Golpe da Serpente <->
+Golpe da<->Serpente
 Parafuso preto
-Respiração ardente
+Respiração<->ardente
 Pira
 Solstício de inverno
 Vento Caiu
@@ -38015,15 +38015,15 @@ Parafuso Estelar
 Pilares da Escuridão
 Estrela caída
 Noite<->sombra
-Chifres angustiantes
+Chifres<->angustiantes
 Aniquilação<->ação
 Ira<->Ataque total
 Gota Mortal
 Salto de fé
 Incitar
-Cofre Celestial
+Cofre<->Celestial
 suspiro de tristeza
-Olhar Penetrante
+Olhar<->Penetrante
 Caos
 Choque<->explosão
 Pilares da Escuridão
@@ -38033,7 +38033,7 @@ Lanterna maluca
 Porco<->tiro
 Porcos<->vão
 Força interior
-Impunidade
+Impu<->nidade
 Ceifador
 Novo amanhecer
 Buraco negro
@@ -38059,10 +38059,10 @@ Vulcão
 Dedos leves
 Coração em chamas
 Solo<->ondulação
-Bênção dos Príncipes<->
+Bênção dos<->Príncipes
 
 system_npc_text_en.cfg.bin.txt
-Espere aí, Olliezinho! Você já tem<NL>um pouco desse no seu medalhão, não é?
+Espere aí, Olliezinho! Você já tem<NL>um pouco desse no seu Medalhão, não é?
 Você não pode monopolizar tudo para você!<NL>Vá e compartilhe o pouco que você tem agora com<NL>alguém necessitado primeiro, aí está um bom rapaz.
 E onde exatamente você pensa que está indo?<NL>Acabamos de chegar aqui, pelo amor de Deus!
 Temos que ir e dar o <color:#1>arenque<NL>vermelho</color> para a guarda do palácio!
@@ -38142,7 +38142,7 @@ Você foi restaurado à sua verdadeira forma!
 Você ativou uma armadilha nix!
 Você ativou uma armadilha de maldição!
 Você foi envenenado!
-O medalhão está vazio no momento.
+O Medalhão está vazio no momento.
 Você obteve alguns <HEART_TYPE>!
 Você deu o presente de <HEART_NAME>!
 Oliver e seus amigos se levantam levemente do chão, permitindo que flutuem inofensivamente sobre as armadilhas.
@@ -38281,10 +38281,10 @@ Viajar de volta para a entrada de Nunca Mais?
 Viajar para a entrada do palácio?
 Viajar para a entrada de Hamelin?
 Viajar para a rua principal de Hamelin?
-Agora você pode usar o <color:#1>Menu principal</color>!
+Agora você pode usar o <color:#1>Menu Principal</color>!
 Agora você pode usar o <color:#1>Menu de Magias</color>!
 A <color:#1>Bolsa sem Fundo</color> agora pode ser acessada no menu principal!
-O <color:#1>medalhão</color> agora pode ser acessado no menu principal!
+O <color:#1>Medalhão</color> agora pode ser acessado no menu principal!
 O <color:#1>Caldeirão</color> agora pode ser acessado no Menu Principal!
 O <color:#1>Diário</color> agora pode ser acessado no Menu Principal!
 Seus <color:#1>Amigos e Familiares</color> agora podem ser acessados no Menu Principal!
@@ -38609,7 +38609,7 @@ Uma Premonição
 A despedida de uma mãe
 Conhecendo o Sr. Drippy
 O Companheiro do Mago
-Em busca de uma varinha
+Em busca de uma Varinha
 Orientação de uma garotinha
 Em frente, para Ding Dong Dell!
 O velho da floresta
@@ -38708,7 +38708,7 @@ Uma Premonição
 A despedida de uma mãe
 Conhecendo o Sr. Drippy
 O Companheiro do Mago
-Em busca de uma varinha
+Em busca de uma Varinha
 Orientação de uma garotinha
 Em frente, para Ding Dong Dell!
 O velho da floresta
