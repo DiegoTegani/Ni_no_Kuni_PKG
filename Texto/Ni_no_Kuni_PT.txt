@@ -2,7 +2,7 @@ battle_command_text_en.cfg.bin.txt
 Atacar o Líder Marcado
 Atacar um Alvo Diferente
 Atacar o Alvo mais Fraco
-<color:4FF79B>Ataque total</color>
+<color:4FF79B>Ataque total!</color>
 <color:FCA2F0>Defesa total!</color>
 Não se preocupe, Olliezinho! Deixe seu velho amigo Drippy<NL>conversar com você sobre os fundamentos de batalha!
 Primeiro, dê uma olhada naquele <color:#4>medidor verde</color> ali.<NL>Isso mostra seus <color:#4>pontos de vida (HP)</color>.
