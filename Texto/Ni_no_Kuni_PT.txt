@@ -670,15 +670,14 @@ Roxana
 Brigadeiro Belicosiano
 Pit Boss
 o
-o
 a
 <TC>mite
 o
 a
-<TC>mighty <TC>mite
+<TC>poderoso <TC>mite
 o
 a
-<TC>dynamite
+<TC>dinamite
 o
 a
 <TC>mermite
@@ -687,55 +686,55 @@ a
 <TC>drongo
 o
 a
-<TC>strongo
+<TC>forongo
 o
 a
-<TC>fluorongo
+<TC>furiongo
 o
 an
-<TC>electrongo
+<TC>eletrongo
 o
 a
-<TC>hurly
+<TC>corpulento
 o
 a
-<TC>burly <TC>hurly
+<TC>montanha
 o
 a
-<TC>hurlcules
+<TC>hércules
 o
 a
-<TC>hurlabaloo
+<TC>colosso
 o
 a
-<TC>toko
+<TC>tolo
 o
 a
-<TC>tokotoko
+<TC>tololo
 o
 a
-<TC>tokotocold
+<TC>getolo
 o
 a
-<TC>docotoko
+<TC>doutolo
 o
 a
-<TC>minor <TC>byrde
+<TC>menor <TC>ave
 o
 a
-<TC>major <TC>byrde
+<TC>maior <TC>ave
 o
 a
-<TC>firebyrde
+<TC>flamejante <TC>ave
 o
 a
-<TC>thunderbyrde
+<TC>eletrizante <TC>ave
 o
 a
-<TC>ruff
+<TC>valentão
 o
 a
-<TC>ruff
+<TC>valentão
 o
 a
 <TC>ruffian
@@ -1536,16 +1535,16 @@ a
 <TC>napdragon
 o
 a
-<TC>draggle
+<TC>draguino
 o
 a
-<TC>dragette
+<TC>dragete
 o
 a
-<TC>dragamuffin
+<TC>dravesso
 o
 a
-<TC>bedraggle
+<TC>drapático
 o
 a
 <TC>hullaballoon
@@ -1638,10 +1637,10 @@ a
 <TC>mite
 o
 a
-<TC>mighty <TC>mite
+<TC>poderoso <TC>mite
 o
 a
-<TC>dynamite
+<TC>dinamite
 o
 a
 <TC>mermite
@@ -1650,49 +1649,49 @@ a
 <TC>drongo
 o
 a
-<TC>strongo
+<TC>forongo
 o
 a
-<TC>fluorongo
+<TC>furiongo
 o
 an
-<TC>electrongo
+<TC>eletrongo
 o
 a
-<TC>hurly
+<TC>corpulento
 o
 a
-<TC>burly <TC>hurly
+<TC>montanha
 o
 a
-<TC>hurlcules
+<TC>hércules
 o
 a
-<TC>hurlabaloo
+<TC>colosso
 o
 a
-<TC>toko
+<TC>tolo
 o
 a
-<TC>tokotoko
+<TC>tololo
 o
 a
-<TC>tokotocold
+<TC>getolo
 o
 a
-<TC>docotoko
+<TC>doutolo
 o
 a
-<TC>draggle
+<TC>draguino
 o
 a
-<TC>dragette
+<TC>dragete
 o
 a
-<TC>dragamuffin
+<TC>dravesso
 o
 a
-<TC>bedraggle
+<TC>drapático
 o
 a
 <TC>teeny <TC>bopper
@@ -3822,7 +3821,7 @@ Draggoon
 Draggly
 Draggonia
 Draggaloo
-Dragette
+Dragete
 Draglicia
 Dragelina
 Dragetta
@@ -3830,7 +3829,7 @@ Dragamuff
 Muffin
 Muffler
 Dragamar
-Bedraggle
+Drapático
 Bedhead
 Bedmond
 Bedward
@@ -4195,13 +4194,13 @@ Major Byrdes, Beachheads e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
 Ocorrendo naturalmente
-Ocorrendo naturalmente<NL>Strongos, Adamantigers e outros
+Ocorrendo naturalmente<NL>Forongos, Adamantigers e outros
 Grandsuns, Psychophants e outros
 Jabberguppies, Hackrabbots e outros
 Ocorrendo naturalmente<NL>Snowhawks, Claptraps e outros
 Ocorrendo naturalmente<NL>Gruffians e outros
 Plessies estressantes, Wincies e outros
-Hurlies Corpulentos, Brigadeiros de Ossos e Outros
+Montanha, Brigadeiros de Ossos e Outros
 Ocorrendo naturalmente <NL>Imperatriz Eldritch e outros
 Gobforsakens de ocorrência natural e outros
 Gatos que ocorrem naturalmente<NL>em barcos e outros
@@ -14866,7 +14865,7 @@ Um bilhete familiar que pode ser trocado por um dinoceros.
 Um bilhete familiar que pode ser trocado por um idler.
 Um bilhete familiar que pode ser trocado por um golden tin-man.
 Um bilhete familiar que pode ser trocado por um mandragorer.
-Um bilhete familiar que pode ser trocado por um draggle.
+Um bilhete familiar que pode ser trocado por um draguino.
 Um bilhete familiar que pode ser trocado por um golden mite.
 Um bilhete familiar que pode ser trocado por um golden drongo.
 Um bilhete familiar que pode ser trocado por um golden hurly.
@@ -16571,10 +16570,10 @@ traveler's diaries
 <TC>mandragorer <TC>tickets
 <TC>o
 <TC>a
-<TC>draggle <TC>ticket
+<TC>draguino <TC>ticket
 <TC>o
 <TC>alguns
-<TC>draggle <TC>tickets
+<TC>draguino <TC>tickets
 <TC>o
 <TC>a
 <TC>mite <TC>ticket
@@ -16589,10 +16588,10 @@ traveler's diaries
 <TC>drongo <TC>tickets
 <TC>o
 <TC>a
-<TC>hurly <TC>ticket
+<TC>corpulento <TC>ticket
 <TC>o
 <TC>alguns
-<TC>hurly <TC>tickets
+<TC>corpulento <TC>tickets
 <TC>o
 <TC>a
 <TC>sapdragon <TC>ticket
@@ -24818,7 +24817,7 @@ Jackpotty
 Touca de burro
 purrloiner
 Gato em Barcos
-Toko
+Tolo
 
 pla-d52_npc_text_en.cfg.bin.txt
 Ei, olhe! Há algo no chão aqui...<NL>Parece o diário daquele cavalheiro!
