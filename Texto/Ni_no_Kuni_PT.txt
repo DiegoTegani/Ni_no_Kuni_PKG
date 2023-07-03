@@ -297,7 +297,7 @@ Seu traje estranho reflete o fato de que esta criatura esqueceu quem ela realmen
 Este rapaz pesado habita em bosques e planícies, e pode disparar poderosos jatos de água de seu tronco.
 Quando está animado, borrifa água à esquerda, à direita e ao centro e gosta de atacar inimigos poderosos.
 Atirar-se contra os inimigos pode ser um negócio contundente, então essa criatura protege seus pontos sensíveis com uma armadura resistente.
-Outrora um rufião furioso, adquiriu um comportamento estudioso desde que bateu com a cabeça em uma pedra.
+Outrora um esquentadinho furioso, adquiriu um comportamento estudioso desde que bateu com a cabeça em uma pedra.
 Seu corpo metálico faz um barulho terrível quando anda, então pode ser ouvido vindo a uma milha de distância.
 Seu barulho alto, batidas e batidas fazem com que as criaturas próximas fujam para salvar suas vidas.
 Impulsionada pelo grande poder do vapor, esta criatura pode achatar até mesmo o inimigo mais robusto com uma carga imparável.
@@ -384,7 +384,7 @@ Geralmente plácido, mas tem um temperamento que pode fazer o mar se agitar e se
 Ele banha a área ao seu redor com uma luz divina e alguns acreditam que ele serve ao deus do mar.
 Este alegre brincalhão faz sua casa no Velho Fumacento. Seu hábito de brincar com fogo é altamente perigoso.
 Este sujeito atrevido pode ser encontrado no Velho Fumacento, carregando um par de pedras flamejantes para onde quer que vá. Ninguém sabe por quê.
-Este rufião turbulento está permanentemente de mau humor, sua cabeça queimando mais brilhante à medida que fica mais irritado.
+Este esquentadinho turbulento está permanentemente de mau humor, sua cabeça queimando mais brilhante à medida que fica mais irritado.
 A máscara dessa criatura a protege das altas temperaturas e faz com que ninguém saiba como ela é.
 Uma dançarina talentosa cujos movimentos graciosos servem para acalmar os espíritos de seus companheiros.
 Este sujeito de rosto peludo aperta uma babana firmemente em sua cauda o tempo todo. Alega que é para emergências.
@@ -507,7 +507,7 @@ Uma rara criatura de ouro com uma presa semelhante a uma adaga. Alguns afirmam t
 Este rapaz pesado habita em bosques e planícies, e pode disparar poderosos jatos de água de seu tronco.
 Quando está animado, borrifa água à esquerda, à direita e ao centro e gosta de atacar inimigos poderosos.
 Atirar-se contra os inimigos pode ser um negócio contundente, então essa criatura protege seus pontos sensíveis com uma armadura resistente.
-Outrora um rufião furioso, adquiriu um comportamento estudioso desde que bateu com a cabeça em uma pedra.
+Outrora um esquentadinho furioso, adquiriu um comportamento estudioso desde que bateu com a cabeça em uma pedra.
 Seu corpo metálico faz um barulho terrível quando anda, então pode ser ouvido vindo a uma milha de distância.
 Seu barulho alto, batidas e batidas fazem com que as criaturas próximas fujam para salvar suas vidas.
 Impulsionada pelo grande poder do vapor, esta criatura pode achatar até mesmo o inimigo mais robusto com uma carga imparável.
@@ -737,127 +737,127 @@ a
 <TC>valentão
 o
 a
-<TC>ruffian
+<TC>esquentadinho
 o
 a
-<TC>gruffian
+<TC>somasozin
 o
 a
-<TC>scruffian
+<TC>abrasadinho
 o
 a
-<TC>rhinosaur
+<TC>rinosauro
 o
 a
-<TC>rhinosnore
+<TC>rinsolente
 o
 a
-<TC>rhinobore
+<TC>rinobroca
 o
 a
-<TC>rhinosaw
+<TC>rinosserronte
 o
 a
-<TC>monolith
+<TC>monolítico
 o
 a
-<TC>megalith
+<TC>megalítico
 o
 a
-<TC>paleolith
+<TC>paleolítico
 o
 a
-<TC>neolith
+<TC>neolítico
 o
 a
-<TC>danglerfish
+<TC>meluzente
 o
 a
-<TC>stranglerfish
+<TC>menebrozo
 o
 a
-<TC>manglerfish
+<TC>esculumino
 o
 a
-<TC>spanglerfish
+<TC>hipnolumino
 o
 a
-<TC>little <TC>bighorn
+<TC>chifrinho
 o
 a
-<TC>bighorn
+<TC>grande <TC>chifre
 o
 a
-<TC>batterhorn
+<TC>real <TC>chifre
 o
 a
-<TC>splatterhorn
+<TC>chiferoz
 o
 a
-<TC>crowhawk
+<TC>asno
 o
 a
-<TC>mohawk
+<TC>asnoraptor
 o
 a
-<TC>prohawk
+<TC>asnossauro
 o
 a
-<TC>snowhawk
+<TC>asnogelado
 o
 a
-<TC>jabber
+<TC>tagarela
 o
 a
-<TC>stabber
+<TC>traquina
 o
 a
-<TC>stabberwocky
+<TC>travesso
 o
 a
-<TC>jabberguppy
+<TC>taganso
 o
 a
-<TC>taddlywink
+<TC>bolinha
 o
 a
-<TC>tadolescent
+<TC>bolescente
 o
 a
-<TC>tadabout
+<TC>bolandante
 o
 a
 <TC>tadorable
 o
 a
-<TC>sunshine
+<TC>solastro
 o
 a
-<TC>grandsun
+<TC>mario <TC>sol
 o
 a
-<TC>wayward <TC>sun
+<TC>de fel <TC>sol
 o
 a
-<TC>godsun
+<TC>rei <TC>sol
 o
 a
-<TC>baatender
+<TC>beeezinho
 o
 a
-<TC>baabarian
+<TC>beeerbáro
 o
 a
-<TC>baabie
+<TC>beeélico
 o
 a
-<TC>baarndancer
+<TC>beeeilarino
 o
 an
-<TC>oroboros
+<TC>ouroboros
 o
 a
-<TC>chloroboros
+<TC>clouroboros
 o
 an
 <TC>obscuroboros
@@ -866,370 +866,370 @@ a
 <TC>fluoroboros
 o
 a
-<TC>sore <TC>boar
+<TC>javalino
 o
 a
-<TC>crashing <TC>boar
+<TC>jaivoso
 o
 a
-<TC>hyperboar
+<TC>javalente
 o
 a
-<TC>full <TC>boar
+<TC>javaligno
 o
 a
-<TC>lagoon <TC>naiad
+<TC>do lago <TC>náiade
 o
 a
-<TC>lagoon <TC>naiad
+<TC>do lago <TC>náiade
 o
 a
-<TC>sea <TC>naiad
+<TC>do mar <TC>náiade
 o
 a
-<TC>lesser <TC>spotted <TC>naiad
+<TC>menos <TC>vista <TC>náiade
 o
 a
-<TC>greater <TC>naiad
+<TC>divina <TC>náiade
 o
 a
-<TC>lumberwood
+<TC>tubérculo
 o
 a
-<TC>limberwood
-o
-an
-<TC>umberwood
-o
-a
-<TC>wildwood
-o
-a
-<TC>worker <TC>bumbler
-o
-a
-<TC>drone <TC>bumbler
-o
-a
-<TC>soldier <TC>bumbler
-o
-a
-<TC>queen <TC>bumbler
-o
-a
-<TC>bubbud
-o
-a
-<TC>sponge <TC>bubbud
-o
-a
-<TC>lotus <TC>bubbud
-o
-a
-<TC>tropical <TC>bubbud
-o
-a
-<TC>floret
-o
-a
-<TC>flummox <TC>floret
-o
-a
-<TC>horrid <TC>floret
-o
-a
-<TC>florid <TC>floret
-o
-a
-<TC>whippersnapper
-o
-a
-<TC>trapper <TC>snapper
-o
-a
-<TC>snaptrap
-o
-a
-<TC>claptrap
+<TC>florbérculo
 o
 an
-<TC>ice <TC>maiden
+<TC>âmbérculo
+o
+a
+<TC>selvabérculo
+o
+a
+<TC>florbelha
+o
+a
+<TC>florbeiro
+o
+a
+<TC>flodurão
+o
+a
+<TC>florarca
+o
+a
+<TC>broto
+o
+a
+<TC>esponja <TC>broto
+o
+a
+<TC>de lótus <TC>broto
+o
+a
+<TC>brotrópico
+o
+a
+<TC>cactuso
+o
+a
+<TC>cactafunde
+o
+a
+<TC>cactorrível
+o
+a
+<TC>cactorido
+o
+a
+<TC>pitoco
+o
+a
+<TC>tampinha
+o
+a
+<TC>sombreado
+o
+a
+<TC>obscuro <TC>cogu
+a
+uma
+<TC>dongela
+a
+uma
+<TC>cruela <TC>cruel
+a
+uma
+<TC>maléfica
+o
+a
+<TC>májestade
+o
+a
+<TC>gasparzinho
+o
+a
+<TC>espicha
+o
+a
+<TC>gordo
+o
+a
+<TC>catinga
+o
+a
+<TC>zarabatinho
+o
+a
+<TC>zarabatano
+o
+a
+<TC>zarabravo
+o
+a
+<TC>zarabatão
+o
+a
+<TC>engrenado <TC>bebê
+o
+a
+<TC>engrenado
+o
+a
+<TC>super <TC>condutor
+o
+a
+<TC>condensador
+o
+a
+<TC>verde <TC>penca
+o
+a
+<TC>de vez <TC>penca
 o
 an
-<TC>ice <TC>queen
+<TC>madura <TC>penca
 o
 an
-<TC>eldritch <TC>empress
+<TC>podre <TC>penca
 o
 a
-<TC>sinister <TC>sovereign
+<TC>coelhobô
 o
 a
-<TC>bougie
+<TC>coelhodróide
 o
 a
-<TC>boo-<TC>bougie
+<TC>coelhoborg
 o
 a
-<TC>bougie-<TC>woogie
-o
-a
-<TC>bougieman
-o
-a
-<TC>spitoo
-o
-a
-<TC>spitooligan
-o
-a
-<TC>lickety-<TC>spitoo
-o
-a
-<TC>sniper <TC>spitoo
-o
-a
-<TC>sprog <TC>cog
-o
-a
-<TC>hot <TC>cog
-o
-a
-<TC>supercogductor
-o
-a
-<TC>cogdenser
-o
-a
-<TC>green <TC>buncher
-o
-a
-<TC>yellow <TC>buncher
+<TC>coelhaço
 o
 an
-<TC>underripe <TC>buncher
+<TC>nuvencéfalo
+o
+a
+<TC>brisacéfalo
+o
+a
+<TC>foncéfalo
+o
+a
+<TC>trovacéfalo
+o
+a
+<TC>chavinho
+o
+a
+<TC>chaveiro
+o
+a
+<TC>das chaves <TC>mestre
+o
+a
+<TC>chaverudito
+o
+a
+<TC>morcégalo
+o
+a
+<TC>vampiresco
+o
+a
+<TC>morcepiro
+o
+a
+<TC>vantástico <TC>capitão
+o
+a
+<TC>rélix
 o
 an
-<TC>overripe <TC>buncher
+<TC>elétrix
 o
 a
-<TC>rabbot
-o
-a
-<TC>jackrabbot
-o
-a
-<TC>whackrabbot
-o
-a
-<TC>hackrabbot
+<TC>médix
 o
 an
-<TC>airhead
+<TC>angelix
 o
 a
-<TC>beachhead
+<TC>mandragorador
 o
 a
-<TC>fountainhead
+<TC>pandoragorador
 o
 a
-<TC>thunderhead
+<TC>curagorador
 o
 a
-<TC>dinkey
+<TC>tundraforador
 o
 a
-<TC>turnkey
+<TC>lanceiro
 o
 a
-<TC>master <TC>key
+<TC>linguado <TC>lanceiro
 o
 a
-<TC>don <TC>key
+<TC>elegante <TC>lanceiro
 o
 a
-<TC>whambat
+<TC>pescado <TC>lanceiro
 o
 a
-<TC>wishing <TC>whambat
+<TC>patitinho
 o
 a
-<TC>whampire <TC>bat
+<TC>patitinho
 o
 a
-<TC>captain <TC>whamtastic
+<TC>patito
 o
 a
-<TC>relixx
+<TC>patizul
+o
+a
+<TC>paticórnio
+o
+a
+<TC>da natureza <TC>espírito
+o
+a
+<TC>floral <TC>espírito
+o
+a
+<TC>alado <TC>espírito
+o
+a
+<TC>violeta <TC>espírito
+o
+a
+<TC>miauliante
+o
+a
+<TC>miaufeitor
+o
+a
+Felinquente
+o
+a
+Miaustrado
+o
+a
+<TC>prometida
+o
+a
+<TC>sombria <TC>prometida
+o
+a
+<TC>elegante <TC>prometida
+o
+a
+<TC>obscura <TC>prometida
 o
 an
-<TC>electrixx
+<TC>infante
 o
 a
-<TC>medixx
+<TC>psicofante
+o
+a
+<TC>triunfante
+o
+a
+<TC>hierofante
+o
+a
+<TC>lata-<TC>homem
 o
 an
-<TC>angelixx
+<TC>de ferro <TC>homem
 o
 a
-<TC>mandragorer
+<TC>máquina-<TC>homem
 o
 a
-<TC>pandoragorer
+<TC>blindado-<TC>homem
 o
 a
-<TC>mendragorer
+<TC>penada <TC>alma
 o
 a
-<TC>tundragorer
+<TC>sussurante <TC>fantasma
 o
 a
-<TC>tyke
+<TC>assasina <TC>alma
 o
 a
-<TC>spike <TC>tyke
+<TC>sangrenta <TC>alma
 o
 a
-<TC>psych <TC>tyke
-o
-a
-<TC>pike <TC>tyke
-o
-a
-<TC>teeny <TC>bopper
-o
-a
-<TC>teeny <TC>bopper
-o
-a
-<TC>big <TC>bopper
-o
-a
-<TC>duck-<TC>billed <TC>bopper
-o
-a
-<TC>unibopper
-o
-a
-<TC>seed <TC>sprite
-o
-a
-<TC>sprout <TC>sprite
-o
-a
-<TC>sweetpea <TC>sprite
-o
-a
-<TC>sugarplum <TC>sprite
-o
-a
-<TC>purrloiner
-o
-a
-<TC>cutpurrse
-o
-a
-Puss in Bouts
-o
-a
-Puss in Boats
-o
-a
-<TC>lightshade
-o
-a
-<TC>sunshade
-o
-a
-<TC>starshade
-o
-a
-<TC>nightshade
+<TC>namoniada
 o
 an
-<TC>inphant
-o
-a
-<TC>psychophant
-o
-a
-<TC>triumphant
-o
-a
-<TC>hierophant
-o
-a
-<TC>tin-<TC>man
-o
-an
-<TC>iron-<TC>man
-o
-a
-<TC>steam-<TC>man
-o
-a
-<TC>beam-<TC>man
-o
-a
-<TC>wisp
-o
-a
-<TC>ghost <TC>wisperer
-o
-a
-<TC>kill-o'-o-<TC>wisp
-o
-a
-<TC>wispula
-o
-a
-<TC>girlfiend
-o
-an
-<TC>ex-<TC>girlfiend
+<TC>ex-<TC>namoniada
 o
 a
 <TC>phantasma
 o
 a
-<TC>grandamned
+<TC>condenada <TC>alma
 o
 a
-<TC>shrimpaler
+<TC>diabrete
 o
 an
-<TC>impaler
+<TC>empalador <TC>diabrete
 o
 a
-<TC>grimpaler
+<TC>ceifador <TC>diabrete
 o
 a
-<TC>hymnpaler
+<TC>alado <TC>diabrete
 o
 a
-<TC>clinketyclank
+<TC>mecânico
 o
 a
-<TC>clinketyclank <TC>mk. 2
+<TC>mk. 2 <TC>mecânico
 o
 a
-<TC>clinketyclank LX
+<TC>mecânico LX
 o
 a
-<TC>clinketyclank DX
+<TC>mecânico DX
 o
 a
-<TC>potty
+<TC>ânfora
 o
 a
-<TC>jackpotty
+<TC>anforão
 o
 a
-<TC>crackpot
+<TC>anforoso
 o
 a
-<TC>hotpot
+<TC>anfordente
 o
 a
 <TC>turbandit
@@ -1694,28 +1694,28 @@ a
 <TC>drapático
 o
 a
-<TC>teeny <TC>bopper
+<TC>patitinho
 o
 a
-<TC>big <TC>bopper
+<TC>patito
 o
 a
-<TC>duck-<TC>billed <TC>bopper
+<TC>patizul
 o
 a
-<TC>unibopper
+<TC>paticórnio
 o
 an
-<TC>inphant
+<TC>infante
 o
 a
-<TC>psychophant
+<TC>psicofante
 o
 a
-<TC>triumphant
+<TC>triunfante
 o
 a
-<TC>hierophant
+<TC>hierofante
 o
 a
 <TC>tin-<TC>man
@@ -4165,12 +4165,12 @@ Ding Dong Dell Hootique e outros lugares
 Ding Dong Dell Hootique e outros lugares
 Ding Dong Dell Hootique e outros lugares
 Ding Dong Dell Hootique e outros lugares
-Ruffians, Whambats e outros
+Esquentadinhos, Vampirescos e outros
 Batatas fritas, Shonky-Honkers e outros
 Hullaballoons, Purrloiners e outros
-Shrimpalers, Hog-Goblins e outros
+Diabretes, Hog-Goblins e outros
 Ocorrendo naturalmente
-Bebês, pompons e outros
+Infantes, pompons e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
 Ocorrendo naturalmente
@@ -4180,23 +4180,23 @@ Sunshines, Batatas Fritas e Outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
 Ocorrendo naturalmente
-Ocorrendo naturalmente<NL>Spike Tykes, Hurlies e outros
+Ocorrendo naturalmente<NL>Lanceiros Linguados, Hurlies e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
-Sprog Cogs, Clinketyclanks e outros
+Sprog Cogs, Mecânicos e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
-Ocorrendo naturalmente<NL>Homens de lata, empaladores e outros
+Ocorrendo naturalmente<NL>Homens-Lata, empaladores e outros
 Ocorrendo naturalmente<NL>Zombos, penicos e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
-Major Byrdes, Beachheads e outros
+Aves Maiores, Brisacéfalos e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
 Ocorrendo naturalmente
 Ocorrendo naturalmente<NL>Forongos, Adamantigers e outros
 Grandsuns, Psychophants e outros
-Jabberguppies, Hackrabbots e outros
+Tagansos, Coelhaços e outros
 Ocorrendo naturalmente<NL>Snowhawks, Claptraps e outros
 Ocorrendo naturalmente<NL>Gruffians e outros
 Plessies estressantes, Wincies e outros
@@ -4206,15 +4206,15 @@ Gobforsakens de ocorrência natural e outros
 Gatos que ocorrem naturalmente<NL>em barcos e outros
 Beam-Men, Demoliceroses e outros
 Baarndancers, Neoliths e outros
-Relixx, egípcios e outros
+rélixs, egípcios e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
-Flores Floridas, Nightshades e Outros
+Flores Floridas, Prometidas Obscuras e Outros
 Splatterhorns, Honky-Tonkers e outros
 Golden Tokotocolds, Golden Bedraggles e outros
-Golden Teeny Boppers e Golden Honky-Tonkers
+Patitinhos Ouro e Golden Honky-Tonkers
 Dragettes Douradas, Psicofantes Dourados e Outros
-Golden Uniboppers, Golden Gobforsakens e outros
+Paticórnios Ouro, Golden Gobforsakens e outros
 Golden Tokotokos e Golden Trumpy-Pumpers
 Golden Tokos, Golden Hog-Goblins e outros
 Ding Dong Dell Hootique
@@ -11200,7 +11200,7 @@ Estou ansioso para ver quanta <NL>luta você vai fazer desta vez...
 <KEEP>
 <KEEP>
 Você acha que a rainha Khulan está de volta ao que era antes?
-Kublai! ...Como você ousa!? Que um rufião imoral como você presumisse se intrometer nos assuntos de uma rainha!
+Kublai! ...Como você ousa!? Que um esquentadinho imoral como você presumisse se intrometer nos assuntos de uma rainha!
 Grahaharrr! Minhas desculpas, Alteza!<NL>Eu nunca soube qual era meu lugar, não é?
 E o mesmo vale para o resto de vocês! Que negócios sua espécie indisciplinada pode ter com alguém como eu?
 Charmosa, não é? Parece que a Rainha dos Céus ainda está com o coração partido.
@@ -14772,7 +14772,7 @@ Uma pedra que emite um brilho pálido, lembrando a lua. Popularmente usado como 
 Essas asas angelicais emitem uma luz pura que se acredita ser inextinguível.
 Uma joia vermelha esférica que dizem conter a alma de um demônio. É ao mesmo tempo fascinante e inquietante de se olhar.
 Dizem que todo o conhecimento do mundo está inscrito nesses pergaminhos. Infelizmente, eles são lacrados e não podem ser abertos.
-Mel natural produzido pela abelha. Muito amado por sua fragrância e sabor intensamente doce.
+Um mel natural produzido pela abelha. Muito amado por sua fragrância e sabor intensamente doce.
 Um ovo fresco e oval repleto de nutrientes. Uma parte importante de qualquer café da manhã saudável.
 Um vegetal crocante para salada, sua textura ajuda a adicionar sabor a toda uma variedade de pratos.
 Uma cenoura doce e suculenta. Deliciosas quando comidos crus, também podem ser usados para fazer guloseimas para os Familiares.
@@ -14843,7 +14843,7 @@ Um piquenique de tamanho generoso, feito com amor por uma esposa para seu marido
 Uma raiz rara colhida da madeira da floresta. Seca e moída, torna-se um tempero muito popular.
 Sementes vermelhas brilhantes que geralmente são encontradas em regiões vulcânicas. Eles são um tempero muito popular.
 Uma mistura de especiarias raras, feitas em Al Mamoon de acordo com uma fórumla secreta.
-Uma folha extremamente bonita, deixada pela florete. Mantenha-a em um lugar fresco, ou ela murchará.
+Uma folha extremamente bonita, deixada pelo cactuso. Mantenha-a em um lugar fresco, ou ela murchará.
 O acessório preferido de todo comediante de fadas. Este modelo tem um tom fino e uma alça fácil de segurar e antiderrapante.
 Apesar de parecer pouco apetitoso, esse fungo raro tem o poder de curar todas as doenças conhecidas.
 Uma peça de aeronave quebrada que parece estar precisando de reparo.
@@ -14859,12 +14859,12 @@ Um diário contando a jornada de alguém pela Pig Iron Plain.
 Um diário contando a jornada de alguém pelas Winter Wonderlands.
 Um diário contando a jornada de alguém para Nazcaa.
 Um diário contando a história de como alguém descobriu ruínas antigas ao sul de Ding Dong Dell.
-Um bilhete familiar que pode ser trocado por uma lumberwood.
-Um ingresso familiar que pode ser trocado por um relixx.
+Um bilhete familiar que pode ser trocado por um tubérculo.
+Um ingresso familiar que pode ser trocado por um rélix.
 Um bilhete familiar que pode ser trocado por um dinoceros.
 Um bilhete familiar que pode ser trocado por um idler.
-Um bilhete familiar que pode ser trocado por um golden tin-man.
-Um bilhete familiar que pode ser trocado por um mandragorer.
+Um bilhete familiar que pode ser trocado por um homem-lata ouro.
+Um bilhete familiar que pode ser trocado por um mandragorador.
 Um bilhete familiar que pode ser trocado por um draguino.
 Um bilhete familiar que pode ser trocado por um golden mite.
 Um bilhete familiar que pode ser trocado por um golden drongo.
@@ -16534,16 +16534,16 @@ alguns
 traveler's diaries
 <TC>o
 <TC>a
-<TC>lumberwood <TC>ticket
+<TC>tubérculo <TC>ticket
 <TC>o
 <TC>alguns
-<TC>lumberwood <TC>tickets
+<TC>tubérculo <TC>tickets
 <TC>o
 <TC>a
-<TC>relixx <TC>ticket
+<TC>rélix<TC>ticket
 <TC>o
 <TC>alguns
-<TC>relixx <TC>tickets
+<TC>rélix <TC>tickets
 <TC>o
 <TC>a
 <TC>dinoceros <TC>ticket
@@ -16558,16 +16558,16 @@ traveler's diaries
 <TC>idler <TC>tickets
 <TC>o
 <TC>a
-<TC>tin-<TC>man <TC>ticket
+<TC>lata-<TC>homem <TC>ticket
 <TC>o
 <TC>alguns
-<TC>tin-<TC>man <TC>tickets
+<TC>lata-<TC>homem <TC>tickets
 <TC>o
 <TC>a
-<TC>mandragorer <TC>ticket
+<TC>mandragorador <TC>ticket
 <TC>o
 <TC>alguns
-<TC>mandragorer <TC>tickets
+<TC>mandragorador <TC>tickets
 <TC>o
 <TC>a
 <TC>draguino <TC>ticket
@@ -18993,7 +18993,7 @@ Você recebeu uma página descrevendo a magia <color:#8>Cinzas da Ressurreição
 Você recebeu uma página descrevendo a magia <color:#8>Estrela da Manhã</color>!
 Você obteve algumas novas fórmulas!
 Você obteve uma nova fórmula!
-Você obteve uma página descrevendo o mandragorer!
+Você obteve uma página descrevendo o mandragorador!
 Você obteve uma página descrevendo o Guardião da Floresta!
 Você obteve uma página descrevendo Gladiataur!
 Você obteve uma página descrevendo Bashura!
@@ -22898,7 +22898,7 @@ Whaaarrrgggh!<NL>É isso, mun! Eu sou um caso perdido!
 Drippy, mun! Me ajudem!
 A-Você está bem?
 Quase, mun, quase.<NL>Aquele monstro era muito assustador...
-Isso foi um javali completo, veja.<NL>Muito mais resistentes do que os outros monstros, eles são.
+Isso foi um javaligno, veja.<NL>Muito mais resistentes do que os outros monstros, eles são.
 Bem, não se preocupe. Eles já se foram.
 O quê!? Não acredito!<NL>Ta, rapazes! A floresta está segura mais uma vez!
 Pegue isso, ok?<NL>É um símbolo de como todos nós somos gratos, não é?
@@ -23214,15 +23214,15 @@ Vamos começar o novo dia como pretendemos continuar, certo? O melhor pé à fre
 Drippy
 Marido
 Fada
-hiperjavali 01 (bicho da tarefa)
-hiperjavali 02 (bicho da tarefa)
-hiperjavali 03 (bicho da tarefa)
-javali completo (bicho da tarefa)
-fada 01
-fada 02
-fada 03
-fada 04
-fada 05
+Javalente 01 (bicho da tarefa)
+Javalente 02 (bicho da tarefa)
+Javalente 03 (bicho da tarefa)
+javaligno (bicho da tarefa)
+Fada 01
+Fada 02
+Fada 03
+Fada 04
+Fada 05
 Formulário de revanche pós-limpeza de Gladiataur
 (criatura de tarefa mágica)
 
@@ -23304,7 +23304,7 @@ Boa sorte na próxima classificação.
 Lute um pouco mais em breve!
 Boa sorte na próxima classificação.
 Lute um pouco mais em breve!
-Só existe um bilhete como este no mundo. Você pode trocá-lo pelo precioso mandragorer.
+Só existe um bilhete como este no mundo. Você pode trocá-lo pelo precioso mandragorador.
 A metamorfose desta criatura é...interessante. Eu te desejo sorte.
 Não atrase. Leve o bilhete para o meu mestre.
 Volte um dia.
@@ -23915,7 +23915,7 @@ Puxa... Parece que eles são muito importantes para você.
 Que são, rapaz, que são!<NL>E sem os meus, sinto-me nua como uma criança!
 Diga agora... você não pensaria em me encontrar uma nova <color:#1>gustplume</color>, não é?
 Você irá? Estou em dívida com você, rapaz!<NL>Não vou esquecer!
-Gustplumes podem ser saqueados de feras conhecidas como <color:#1>beachheads</color>. Eles rondam <color:#1>os mares ao redor destas partes</color>.
+Gustplumes podem ser saqueados de feras conhecidas como <color:#1>brisacéfalos</color>. Eles rondam <color:#1>os mares ao redor destas partes</color>.
 Sim, sim, senhor!<NL>Deixe isso conosco, Sr. Pirata do Céu!
 Conto com você, moço!
 Você não vai? Mas o que devo fazer?<NL>Arr, isso é um golpe, rapaz. Um verdadeiro golpe...
@@ -23927,7 +23927,7 @@ Arrr! É isso mesmo, rapaz! E um bom também!<NL>Uma lufada de vento — o maior
 Com esta belezura no bolso, não temerei a mais feroz das tempestades!
 Isso é ótimo!<NL>Fico feliz que pudemos ajudar.
 Arr, mas onde estão minhas boas maneiras?<NL>Aqui, é o mínimo que posso fazer.
-Gustplumes podem ser saqueados de feras conhecidas como <color:#1>beachheads</color>. Eles rondam <color:#1>os mares ao redor destas partes</color>.
+Gustplumes podem ser saqueados de feras conhecidas como <color:#1>brisacéfalos</color>. Eles rondam <color:#1>os mares ao redor destas partes</color>.
 Você tem que encontrar um para mim, rapaz!<NL>Minha vida depende disso!
 Ainda tenho a pluma de rajada que vocês me encontraram, companheiros!<NL>Não vou perder esta, podem apostar nisso!
 Nós, piratas do céu, carregamos uma pluma de rajada para nos proteger. Como amuletos da sorte, você pode dizer.
@@ -24812,8 +24812,8 @@ Você acha que se fizermos Esther tocar uma música dessas, eles se tornarão se
 Náiade
 Náiade do Mar
 Náiade malhada menor
-Clinketyclank
-Jackpotty
+Mecânico
+Anforão
 Touca de burro
 purrloiner
 Gato em Barcos
@@ -24863,16 +24863,16 @@ Sinto que ela quer me dizer algo...<NL>O que devo fazer, Sr. Drippy?
 Hã? Você está brincando, certo? Faça a mesma coisa que você sempre faz, Olliezinho! Lance um <color:#1>magia</color> e salve o dia,<NL>não é!?
 Você pode me ver!?
 Oh, sim! Sim, de fato! Mas o que uma jovem gho, quero dizer, uma garota como você está fazendo por aqui, afinal?
-Bem... estou preocupado com meu <color:#1>jabberguppy</color>...
+Bem... estou preocupado com meu <color:#1>taganso</color>...
 Costumávamos estar sempre juntos, sabe.<NL>Desde que eu era uma garotinha...
 Mas então, um dia, fomos pegos por uma enorme nevasca enquanto estávamos brincando e, bem... isso aconteceu comigo.
-O problema é que meu jabberguppy não saiu do meu lado desde então. Acho que ele está com medo...
+O problema é que meu taganso não saiu do meu lado desde então. Acho que ele está com medo...
 Estou muito preocupada com ele.<NL>Ele não pode ficar comigo para sempre...
 Mas... Você não quer ficar junto?
 Não é sobre o que eu quero. Estou... estou morto! É sobre o que é certo para ele. Ele tem que aprender a sobreviver por conta própria e seguir com sua vida.
 Ei, talvez você possa ajudar! Você se importaria em endurecê-lo para mim? Isso tem que ser feito!
 Uau, aí está maduro! Traz-me uma lágrima ao olho, sim—<NL>Devo estar a ficar mole...
-Bem, o mínimo que podemos fazer é ajudá-lo, não é?<NL>Faremos de seu amigo o jabberguppy mais autoconfiante deste lado de Hamelin, marque minhas palavras!
+Bem, o mínimo que podemos fazer é ajudá-lo, não é?<NL>Faremos de seu amigo o taganso mais autoconfiante deste lado de Hamelin, marque minhas palavras!
 Realmente!? Obrigado!
 Então... Que tal trazê-lo de volta para cá quando ele<NL><color:#1>subir mais dez níveis</color>?
 Tudo bem, nos vemos então!
@@ -24882,21 +24882,21 @@ Oh... Não parece que você pode levá-lo com você agora. Acho que você tem mu
 Talvez você possa arranjar alguém para cuidar de um ou dois deles por um tempo?
 Você pode me ver!?
 Oh, sim! Sim, de fato! Mas o que uma jovem gho, quero dizer, uma garota como você está fazendo por aqui, afinal?
-Bem... estou preocupado com meu <color:#1>jabberguppy</color>...
+Bem... estou preocupado com meu <color:#1>taganso</color>...
 Desde que eu morri, ele se recusou a sair do meu lado.<NL>Acho que ele está com medo...
 Estou muito preocupada com ele.<NL>Ele não pode ficar comigo para sempre...
 Ei, talvez você possa ajudar! Você se importaria em endurecê-lo para mim? Isso tem que ser feito!
-Você poderia voltar aqui quando meu jabberguppy<NL><color:#1>subir mais dez níveis</color>?
+Você poderia voltar aqui quando meu taganso<NL><color:#1>subir mais dez níveis</color>?
 Bem, então, o que você acha?<NL>Ele parece bem sério agora, não é?
-Meu querido jabberguppy! Não acredito!<NL>Esses músculos... Acho que você não terá problemas para sobreviver sem mim agora!
+Meu querido taganso! Não acredito!<NL>Esses músculos... Acho que você não terá problemas para sobreviver sem mim agora!
 Hum... Posso te pedir mais um favor?
 Claro! O que é?
-Você se importaria de deixar meu jabberguppy acompanhá-lo em sua jornada?
+Você se importaria de deixar meu taganso acompanhá-lo em sua jornada?
 Ele parece realmente gostar de você, e eu ficaria mais feliz sabendo que ele não estava sozinho...
 Claro! Nós o levaremos conosco!
-Obrigado! Aqui está uma coisinha para o seu problema.<NL>Por favor, seja gentil com meu jabberguppy!
+Obrigado! Aqui está uma coisinha para o seu problema.<NL>Por favor, seja gentil com meu taganso!
 Oh... E suponho que seja melhor dar-lhe isto também.
-Não acho que meu jabberguppy possa mais se metamorfosear, mas talvez isso ajude um de seus outros Familiares a ficar mais forte.
+Não acho que meu taganso possa mais se metamorfosear, mas talvez isso ajude um de seus outros Familiares a ficar mais forte.
 Muito obrigado por tudo.<NL>Estou triste por vê-lo partir, mas... é o melhor.<NL>Seja legal com ele!
 ...
 ...!<NL>...! ...!
@@ -24981,11 +24981,11 @@ Que monstros são esses, eu me pergunto?<NL>Muitos, não é mesmo?
 <color:#1>Rinoboro</color>! Grande! Vemos <color:#1>cinco</color>!
 Eu fico. Você vai.<NL>Fuja! Fugir!
 De jeito nenhum, mun! Nós vamos ajudá-lo a lidar com essas coisas desagradáveis. Pronto, menino Ollie?
-Vá com cuidado!<NL><color:#1>Cinco rinocerontes</color>... Não é fácil.
+Vá com cuidado!<NL><color:#1>Cinco rinobroca</color>... Não é fácil.
 <color:#1><quest_exb008:qs0004></color> foi embora!<NL><color:#1><quest_exb009:qs0004></color> ainda está aqui!
 <color:#1><quest_exb008:qs0004></color> foi embora!<NL><color:#1><quest_exb009:qs0004></color> ainda está aqui!
 <color:#1><quest_exb008:qs0004></color> foi embora!<NL><color:#1><quest_exb009:qs0004></color> ainda está aqui!
-Esses rinocerontes não vão mais te incomodar!
+Esses rinobrocas não vão mais te incomodar!
 I-Isto é verdade?<NL>Seu...forte!
 Bem, o jovem Olliezinho fez sua parte, é verdade. Mas se não fosse pelo Senhor Grão-Senhor das Fadas, sua floresta ainda estaria em um pote certo!
 Obrigado!<NL>Este...presente! Para você!
@@ -26808,8 +26808,8 @@ Não se preocupe, certifiquei-me de apagar todas as luzes antes de sair de casa.
 Seja paciente, eu disse a você! Você ainda está crescendo! Essa armadura vai caber perfeitamente se você esperar o suficiente!
 Gah! Você acredita que as crianças também são forçadas a usar armaduras? Custa um bom dinheiro mantê-los equipados, posso garantir.
 Apenas seja paciente! Se eu já lhe disse uma vez... <NL>Oh... Oh, me desculpe! Bravos javalis como você não deveriam ter que me ouvir reclamando e delirando.
-As planícies ao redor de Hamelin estão cheias de lebres. Eles são realmente decentes, então por que não tentar recrutar um?
-Ah, e se você está procurando uma boa criatura pronta para a batalha, recomendo adicionar um clinketyclank ao seu número. Eles são duros e rápidos em seus pés também.
+As planícies ao redor de Hamelin estão cheias de coelhodróides. Eles são realmente decentes, então por que não tentar recrutar um?
+Ah, e se você está procurando uma boa criatura pronta para a batalha, recomendo adicionar um mecânico ao seu time. Eles são duros e rápidos com seus pés também.
 Olá, jovem. Espero que você e seus amigos não estejam aqui para fazer travessuras.
 ...tenho certeza que não. É que já encontrei alguns tipos de rum no passado.
 Agora então, jovem, brincando de se fantasiar, não é? Você espera que eles deixem você se juntar ao exército?
@@ -27309,7 +27309,7 @@ Eu me pergunto se teremos que continuar usando essa armadura para sempre.
 Seja paciente, eu disse a você! É difícil para sua velha avó também! As solas dos meus pés estão coçando, mas o que posso fazer a respeito?
 Hm... Talvez seja finalmente hora de tirar essa armadura e pendurá-la no fundo do guarda-roupa.
 Parece um desperdício jogá-lo fora, de alguma forma.
-As planícies ao redor de Hamelin estão cheias de lebres. Eles não querem fazer mal algum, então pegue leve com eles.
+As planícies ao redor de Hamelin estão cheias de coelhodróides. Eles não querem fazer mal algum, então pegue leve com eles.
 Ah, as coisas estão realmente mudando. Não precisamos mais passar metade do dia tentando memorizar todas as novas regras e regulamentos.
 Ah, é bom ver nossos soldados tratando os jovens com respeito, para variar.
 Bem, parece que tudo está indo muito bem para você. Estou feliz em vê-lo.
@@ -27374,7 +27374,7 @@ Um capacete é como uma pequena sala de vapor para o rosto. Respirar pode ser um
 que era aquele pó branco? Lembro-me de olhar para ele, então minha cabeça começou a doer...
 Agora minha pele está toda seca e tenho bolsas grandes sob meus olhos. Que provação foi esta!
 Mestre! Comprei muita graxa! É perfeito para impedir que as engrenagens fiquem enferrujadas!
-Mestre! Eu trouxe um bando de coelhos e lebres. Parece que nos damos maravilhosamente bem.
+Mestre! Eu trouxe um bando de coelhorobôs e coelhodróides. Parece que nos damos maravilhosamente bem.
 Estou pensando em contratá-los como meus aprendizes!
 Mestre! Você está bem!?
 ...Mestre!!!
@@ -28124,11 +28124,11 @@ Não tema, Drippy está aqui!<NL>Quer ele goste ou não...
 ???
 Sindbah
 Fada madrinha
-rinoceronte 01
-rinoceronte 02
-rinoceronte 03
-rinoceronte 04
-rinoceronte 05
+rinobroca 01
+rinobroca 02
+rinobroca 03
+rinobroca 04
+rinobroca 05
 caranguejo
 navio pirata 01
 navio pirata 02
@@ -28169,9 +28169,9 @@ mestre magicmech 03
 Atingir a região 01
 Atingir a região 02
 Atingir a região 03
-o rude
+o somasozin
 grumpeafowl
-a lumberwood
+a tubérculo
 o brigadeiro de osso
 o adamantiger
 o gobspeed
@@ -28721,7 +28721,7 @@ Precisamos de uma concha cheia de <color:#1>amor</color> do velho Cara de pirata
 Obrigado, Capitão Kublai! Puxa... Com certeza é muito <color:#1>amor</color>! Isso deve ser mais do que suficiente!
 Agora só precisamos dar um empréstimo ao velho Khulan!
 Conto com você, rapaz! Use sua magia para dar a ela meu amor e traga-a de volta para mim!
-Maldito seja, Kublai! Não preciso do amor de um rufião imoral como você.
+Maldito seja, Kublai! Não preciso do amor de um esquentadinho imoral como você.
 Você sabe o que fazer, Olliezinho! Espalhe esse <color:#1>amor</color> do jeito dela e ela ficará perfeita!
 M-Mas... C-Como...!?<NL>Meu... Meu coração...
 Por que você teve que interferir!? ...V-Você estragou tudo! Vá embora! Não me atormente mais!
@@ -29525,7 +29525,7 @@ Não é só para procissões. Às vezes, eles mudam de rua só porque podem.
 Eles dizem que a localização do Mercado Negro muda toda vez. Onde poderia estar agora,<NL>eu me pergunto?
 Não se preocupe, certifiquei-me de apagar todas as luzes antes de sair de casa. Eu conheço a lei!
 Meus netos estão crescendo tão rápido que custa um bom dinheiro mantê-los em armaduras de porco.
-As planícies ao redor de Hamelin estão cheias de lebres. Eles não querem fazer mal algum, então pegue leve com eles.
+As planícies ao redor de Hamelin estão cheias de coelhodróides. Eles não querem fazer mal algum, então pegue leve com eles.
 Olá, jovem. Espero que você e seus amigos não estejam aqui para fazer travessuras.
 ...tenho certeza que não. É que já encontrei alguns tipos de rum no passado.
 Em Hamelin, não competimos uns com os outros. Todos nós trabalhamos juntos para o bem maior do Império.
@@ -30408,9 +30408,9 @@ He he he he! Ele parece muito mais saudável agora!<NL>Não falta muito para ele
 que você está fazendo aí?
 Eek! Você me deu um susto! Isso... É um segredo, o que eu estava dizendo agora, certo?
 Hã? O que era? Desculpe, eu não estava ouvindo.<NL>O que é um segredo?
-Umm, oh... Bem... Veja bem...<NL>Achei este baatender péssimo.
+Umm, oh... Bem... Veja bem...<NL>Achei este beeezinho péssimo.
 E eu estive cuidando dele, e mantendo isso em segredo de todos.
-Um batedor? Isso é algum tipo de bicho, hein?<NL>Isso não é um pouco perigoso?
+Um beeezinho? Isso é algum tipo de bicho, hein?<NL>Isso não é um pouco perigoso?
 Ele não é perigoso! Ele é um bom cordeirinho!<NL>Ele tinha medo de mim no começo, mas agora somos melhores amigos!
 Uau! Imagine fazer amizade com uma fera!<NL>Não há muitos que tenham o dom para isso!
 Mas tem jeito, hein, cuidando das feridas dele e tudo mais?
@@ -30420,7 +30420,7 @@ Claro que sim.<NL>Mas também temos um favor a lhe pedir, ok?
 Tudo bem. O que é?
 Você poderia ficar parado por apenas um segundo?
 Ooh, meu peito está todo leve... Certo, é melhor eu ir cuidar do meu cordeirinho!
-Encontrei um baatender ferido e cuidei dele.<NL>Mas ele é um menino muito bom! Ele nunca me machucaria, nós somos melhores amigos!
+Encontrei um beeezinho ferido e cuidei dele.<NL>Mas ele é um menino muito bom! Ele nunca me machucaria, nós somos melhores amigos!
 Uau! Imagine fazer amizade com uma fera!<NL>Ela deve ter muita <color:#1>bondade</color>, fazendo isso...
 Diga, você se importaria se pegássemos emprestado um pouco de sua gentileza, garotinha?
 Não, não me importo.<NL>Mas o que devo fazer?
@@ -31242,7 +31242,7 @@ Não penses nisso, rapaz. O prazer é meu. Volte para mim quando tiver os ingred
 (suspiro) Até respirar é um esforço digno dos Antigos...
 Ao trabalho!<NL>As especiarias não se misturam!
 Devo dizer-lhe novamente? Para criar minhas especiarias especiais, vou precisar de <color:#1>uma raiz de açafrão</color> e <color:#1>três pitadas generosas de sementes picantes</color>.
-A raiz de açafrão pode ser obtida de uma fera conhecida como <color:#1>lumberwood</color>.
+A raiz de açafrão pode ser obtida de uma fera conhecida como <color:#1>tubérculo</color>.
 Os Antigos sorriem para você, garoto, pois este inimigo feroz apareceu recentemente a meras léguas daqui! Visite a Soluções Rápidas para saber mais.
 As <color:#1>Sementes picantes</color> podem ser obtidas apenas nos solos mais quentes — talvez os de um grande vulcão.
 Pelos Antigos! Você reuniu os ingredientes que eu pedi a você! Misturá-los é obra de meros momentos para um mestre como eu!
@@ -33572,14 +33572,14 @@ Só preciso adquirir os materiais, e minha visão será realizada... Ah! Talvez 
 Ué... Nós? É sério?
 Sim! SIM! Você faria algo por mim, talvez? Em nome dos Antigos e tudo o que é elegante?
 Meu novo design de maiô requer um certo material que é... raro, mas de forma alguma inalcançável. Gostaria de saber se você poderia buscá-lo para mim, talvez?
-Obrigado! São as <color:#1>folhas de arco-íris</color> que eu preciso, elas geralmente são carregadas por <color:#1>floretes</color>. <color:#1>Três</color> devem ser o suficiente, eu acho.
-Hã... O que é uma florete?
+Obrigado! São as <color:#1>folhas de arco-íris</color> que eu preciso, elas geralmente são carregadas por <color:#1>cactusos</color>. <color:#1>Três</color> devem ser o suficiente, eu acho.
+Hã... O que é um cactuso?
 Ótima pergunta, Olliezinho! São criaturas que vagam pelas Areias Cintilantes! Você já deve ter visto algumas. A coisa é com folhas de arco-íris, embora—
 AH! Esta fada conhece sua moda, eu acho!<NL>Há de fato uma complicação adicional...
-As folhas de arco-íris que as floretes carregam devem ser <color:#1>esfriadas</color> antes de você colhê-las. Caso contrário, elas murcharão diante de seus olhos.
+As folhas de arco-íris que os cactusos carregam devem ser <color:#1>esfriadas</color> antes de você colhê-las. Caso contrário, elas murcharão diante de seus olhos.
 Isso torna a vida difícil, eu percebo, mas a vida do designer nunca foi fácil!
-Mas ... como devemos esfriá-los se as floretes os estão segurando?
-Hum... Ah! O que é aquele magia gelado que você aprendeu? <color:#8>Nevasca</color>, não é? Tente derrubar as floretes com isso, deve manter as folhas bonitas e frescas, eu acho!
+Mas ... como devemos esfriá-los se os cactusos os estão segurando?
+Hum... Ah! O que é aquele magia gelado que você aprendeu? <color:#8>Nevasca</color>, não é? Tente derrubar os cactuso com isso, deve manter as folhas bonitas e frescas, eu acho!
 Isso parece um plano, Sr. Drippy!<NL>Vamos tentar!
 Hmph. E pensei que você entendesse o que significava ser um designer...
 Eu sou designer. Um designer de maiôs, nada menos.<NL>A forma mais pura de design, eu acho!
@@ -33587,7 +33587,7 @@ Enseada Naufrágio é a capital mundial do design de trajes de banho, o apetite 
 Na verdade, acabei de visualizar minha última obra-prima, será um grande sucesso em breve, tenho certeza!
 O próximo passo é torná-lo realidade, é claro.<NL>Mas primeiro devo adquirir os materiais necessários...
 Ah! Você estaria disposto a me ajudar, talvez? Eu imploro em nome dos Antigos e tudo o que é elegante!
-São as <color:#1>folhas de arco-íris</color> que eu preciso, elas geralmente são carregadas por <color:#1>floretes</color>. <color:#1>Três</color> devem ser suficientes, eu acho.
+São as <color:#1>folhas de arco-íris</color> que eu preciso, elas geralmente são carregadas pelos <color:#1>cactusos</color>. <color:#1>Três</color> devem ser suficientes, eu acho.
 Ah, e lembre-se de <color:#1>resfriar as folhas</color> antes de pegá-las! Caso contrário, elas murcharão rapidamente!
 Trouxe aquelas folhas de arco-íris que você queria!
 Sim! SIM! Esses são perfeitos, eu acho! Você prestou um grande serviço ao mundo da moda, meu jovem!
@@ -34570,9 +34570,9 @@ Claro. O que é?
 Você pode derrotar <color:#1>cinco</color> deles para mim, por favor?
 Cinco, hein? Claro que podemos!
 Eles estão com medo do fogo, certo? Derrotá-los com a <color:#1>lâmina flamejante</color> que o mascate está vendendo fará com que eles não voltem tão cedo.
-Você deve estar derrotando os <color:#1>Peixes Mangler</color> em nossa cidade de Yule, certo?
+Você deve estar derrotando os <color:#1>esculuminos</color> em nossa cidade de Yule, certo?
 Eles estão com medo do fogo, certo? Derrotá-los com a <color:#1>lâmina flamejante</color> que o mascate está vendendo fará com que eles não voltem tão cedo.
-Hmmm. O problema dos peixes-mangler ainda não acabou, certo? Você deve derrotar para mim outro <color:#1><quest_exb009:qs0023></color> deles, por favor.
+Hmmm. O problema dos esculuminos ainda não acabou, certo? Você deve derrotar para mim outro <color:#1><quest_exb009:qs0023></color> deles, por favor.
 Conseguimos, senhor!
 Ohhh! Você os está derrotando, não é?<NL>E minha compressa fria está terminando.
 Aqui, para você. E, por favor, cumprimente meu amigo de Perdida, obrigado.
@@ -35303,7 +35303,7 @@ A ciência agradece.
 (suspiro) Que tipo de criaturas ele vai nos mandar correndo depois dessa hora, então?
 Ultimamente, tenho conduzido pesquisas altamente estimulantes sobre o processo de metamorfose. Mas existem algumas criaturas cujas formas avançadas ainda não observei.
 Há três espécimes que eu gostaria muito que você me trouxesse.
-O primeiro espécime de interesse é uma <color:#1>wispula</color>, a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
+O primeiro espécime de interesse é uma <color:#1>alma sangrenta</color>, a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 Eu também gostaria de ver em primeira mão um <color:#1>flash fry</color>—uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
 Finalmente, gostaria de examinar uma curiosa criatura musical conhecida como a...erm...<color:#1>trumpy</color>... (murmúrio) Tenho certeza que você conhece a espécie em questão! E não, não vou me repetir.
 Puxa, isso não parece que vai ser fácil.
@@ -35312,7 +35312,7 @@ Ainda assim, com uma combinação de dedicação e astúcia animal, é estatisti
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
 Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Claramente você acredita que o avanço do conhecimento humano é menos importante do que... o que quer que você faça.<NL>Acho que você descobrirá que está errado.
-O primeiro espécime de interesse é uma <color:#1>wispula</color>, a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
+O primeiro espécime de interesse é uma <color:#1>alma sangrenta</color>, a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 Eu também gostaria de ver em primeira mão um <color:#1>flash fry</color>—uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
 Finalmente, gostaria de examinar uma curiosa criatura musical conhecida como a...erm...<color:#1>trumpy</color>... (murmúrio) Tenho certeza que você conhece a espécie em questão! E não, não vou me repetir.
 Pouco se sabe sobre as criaturas mencionadas, então estou mais do que o normal ansioso para vê-las em carne e osso.
@@ -35328,8 +35328,8 @@ Oh, você mal está ciente da escala da contribuição que deu à minha pesquisa
 Estou à beira de uma descoberta verdadeiramente importante. Em breve, os mistérios mais profundos da humanidade serão revelados a mim, e a ciência será a beneficiária.
 Bem, espero que a ciência seja mais grata do que você!
 ...O que é que foi isso? Não importa. Em troca de sua ajuda contínua, vou recompensá-lo. Aqui.
-Acho que você descobrirá que solicitei três espécimes, enquanto você coletou apenas dois. Ainda preciso de uma <color:#1>wispula</color>.
-Como afirmei claramente, a <color:#1>wispula</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
+Acho que você descobrirá que solicitei três espécimes, enquanto você coletou apenas dois. Ainda preciso de uma <color:#1>alma sangrenta</color>.
+Como afirmei claramente, a <color:#1>alma sangrenta</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
 Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Acho que você descobrirá que solicitei três espécimes, enquanto você coletou apenas dois. Eu ainda preciso de um <color:#1>flash fry</color>.
@@ -35340,14 +35340,14 @@ Acho que você descobrirá que solicitei três espécimes, enquanto você coleto
 Como afirmei claramente, o... hum... espécime em questão é uma criatura curiosamente musical... Certamente isso é informação mais do que suficiente.
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
 Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
-Acho que você descobrirá que <color:#1>wispula</color> e <color:#1>flash fry</color> se destacam pela ausência.
-Como afirmei claramente, a <color:#1>wispula</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
+Acho que você descobrirá que <color:#1>alma sangrenta</color> e <color:#1>flash fry</color> se destacam pela ausência.
+Como afirmei claramente, a <color:#1>alma sangrenta</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 O <color:#1>flash fry</color>, por sua vez, é uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
 Não volte até encontrá-los!
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
 Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
-Acho que você descobrirá que <color:#1>wispula</color> e, hum, <color:#1>trumpy</color>... (murmúrio) ...são notáveis por sua ausência.
-Como afirmei claramente, a <color:#1>wispula</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
+Acho que você descobrirá que <color:#1>alma sangrenta</color> e, hum, <color:#1>trumpy</color>... (murmúrio) ...são notáveis por sua ausência.
+Como afirmei claramente, a <color:#1>alma sangrenta</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 Enquanto o <color:#1>trumpy</color>...um, criatura, como nós, familiarologistas, o chamamos, é uma besta curiosamente musical...
 Não volte até encontrá-los!
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
@@ -35810,7 +35810,7 @@ Dê uma mão, mun, aí está um amigo! Traga <color:#1>todos os três pastéis</
 Se você conseguir recuperá-los a tempo, ele nunca saberá que roubei... er, peguei emprestado, não é?
 Boa, mun! Você é um salva-vidas absoluto!
 Então, você se lembra que tipo de criatura roubou<NL>as palhaçadas?
-Sim. <color:#1>Muito arrogantes</color>, eles eram. Fugiram parecendo muito satisfeitos consigo mesmos, os pequenos atrevidos.
+Sim, eles eram <color:#1>Vampirescos</color>. Fugiram parecendo muito satisfeitos consigo mesmos, os pequenos atrevidos.
 Acho que eles devem gostar muito de pastelão, hein?<NL>Eles podem não desistir deles tão facilmente.
 Exatamente! É por isso que você precisa <color:#1>cegá-los</color> primeiro! Então eles não serão capazes de impedir que você pegue o saque de volta depois de vencê-los.
 Cegue-os, vença-os e traga de volta <color:#1>todos os três palhaços</color>. Mamão com açúcar! Agora vá em frente!
@@ -35818,7 +35818,7 @@ Ora, seu pequeno mesquinho...!
 Ei, espere um momento!<NL>Você teria um minuto para uma fada necessitada?
 Eu fui e peguei todas as <color:#1>pastilhas</color> que eu podia, veja.
 E se eu não recuperá-los, é o fim da nossa dupla de comediantes com certeza! Acha que pode recuperá-los para nós?
-<color:#1>Wambats desejosos</color>, são chamadas as criaturas que os roubaram. E você terá que <color:#1>cegar</color> os blighters antes de vencê-los.
+As criaturas que roubaram, são os <color:#1>Vampirescos</color>, e você terá que <color:#1>cegar</color> esses malditos antes de vencê-los.
 Faça isso e você poderá arrancar <color:#1>todos os três palhaços</color> de suas luvas de ladrão sem problemas! Vá em frente, então!
 Como? Você trouxe as palhaçadas de volta para mim?
 ...O quê? Apenas um? Isso não é bom! Apresse-se e pegue <color:#1>os outros dois</color>, certo? Estou acabado de outra forma!
@@ -36550,7 +36550,7 @@ Você encontrou o caranguejo perdido em uma ilha a leste da Enseada Naufrágio.
 Missão concluída!
 Uma fada de Teeheeti parece estar em pânico depois de perder algo importante.
 Uma fada em Teeheeti está em pânico depois de perder alguns pastéis que "emprestou" de um amigo.
-A fada em Teeheeti aconselhou você a cegar os desejosos whambats que roubaram os pastéis antes de derrotá-los.
+A fada em Teeheeti aconselhou você a cegar os vampirescos que roubaram os pastéis antes de derrotá-los.
 Missão concluída!
 Uma fada de Teeheeti parece estar em um mau caminho.
 Uma fada em Teeheeti pegou um resfriado depois de pular no rio.
@@ -36590,11 +36590,11 @@ Rusty gentilmente concordou em consertar o booster quebrado para você.
 Missão concluída!
 Um pirata do céu em Skull Mountain parece ter algo em mente.
 Um pirata do céu em Skull Mountain está em um estado terrível depois de perder seu amuleto da sorte.
-Um pirata do céu na Montanha da Caveira pediu que você trouxesse para ele uma das rajadas de vento ocasionalmente lançadas por cabeças de praia.
+Um pirata do céu na Montanha da Caveira pediu que você trouxesse para ele uma das rajadas de vento ocasionalmente lançadas por brisacéfalos.
 Missão concluída!
 O fantasma de uma jovem foi avistado em uma caverna a sudeste de Yule.
-Uma jovem está preocupada sobre como seu animal de estimação jabberguppy está lidando desde que se tornou um fantasma.
-O fantasma de uma jovem pediu que você treinasse seu jabberguppy de estimação até o nível 40, garantindo assim sua segurança futura.
+Uma jovem está preocupada sobre como seu animal de estimação o taganso está lidando desde que se tornou um fantasma.
+O fantasma de uma jovem pediu que você treinasse seu taganso de estimação até o nível 40, garantindo assim sua segurança futura.
 Missão concluída!
 Uma mulher de Yule que anseia por visitar climas mais quentes parece estar pensando profundamente em algo.
 Uma mulher de Yule gostaria de nada mais do que colocar as mãos em um maiô estiloso.
@@ -36618,10 +36618,10 @@ Missão concluída!
 Um velho em Perdida parece estar sentindo muita dor.
 Um velho em Perdida está sofrendo de uma terrível dor nas costas.
 Um velho em Perdida pediu para você trazer uma compressa fria de Yule.
-Em troca de uma compressa fria, um tomte no Yule gostaria que você lidasse com alguns peixes-mangler problemáticos.
-Você derrotou <quest_exb008:qs0023> manglerfish usando uma lâmina flamejante, conforme solicitado por um tomte no Yule.
-Você derrotou <quest_exb008:qs0023> manglerfish usando uma lâmina flamejante, conforme solicitado por um tomte no Yule.
-Você derrotou cinco peixes-mangler, cumprindo assim sua promessa de um tomte no Yule.
+Em troca de uma compressa fria, um tomte no Yule gostaria que você lidasse com alguns esculuminos problemáticos.
+Você derrotou <quest_exb008:qs0023> esculumino usando uma lâmina flamejante, conforme solicitado por um tomte no Yule.
+Você derrotou <quest_exb008:qs0023> esculumino usando uma lâmina flamejante, conforme solicitado por um tomte no Yule.
+Você derrotou cinco esculumino, cumprindo assim sua promessa de um tomte no Yule.
 Você recebeu uma compressa fria de um tomte no Yule, permitindo aliviar o sofrimento de um homem de Perdidan.
 Missão concluída!
 Uma llapaca em Perdida está mostrando pouco interesse em seu feno. Sera que está doente?
@@ -36791,9 +36791,9 @@ Hilário e Zangado abriram uma loja de armas a bordo do Serpe de Ferro, mas pare
 Hilário e Zangado precisam de algumas ideias para novas armas para atrair clientes para sua loja.
 Hilário e Zangado pediram para você encontrar novas ideias de armas na Terra das Fadas.
 Hilário e Zangado pediram que você tivesse uma ideia para uma arma relacionada à Grande Sábia Alicia.
-Um gruffian continua roubando produtos dos campos dos fazendeiros fora da cidade. Tem que ser tratado rapidamente, está quase na hora da colheita!
+Um somasozin continua roubando produtos dos campos dos fazendeiros fora da cidade. Tem que ser tratado rapidamente, está quase na hora da colheita!
 Uma besta alada está atormentando os viajantes que se dirigem para a cidade. Deve ser tratado antes que machuque alguém!
-Uma serraria apareceu ao sul de Bosque Dourado. As raízes dessas criaturas sempre alcançam um preço decente...
+Um tubérculo apareceu ao sul de Bosque Dourado. As raízes dessas criaturas sempre alcançam um preço decente...
 Uma fera ossuda continua desafiando os viajantes para duelos no deserto. Parece um adversário feroz, mas deve ser tratado!
 Finalmente encontramos o demônio que está roubando nossas babanas! É assustadoramente veloz, então não o deixe escapar!
 Um monstro tem atacado mercadores viajantes e roubado suas mercadorias. Deve ser tratado o mais rápido possível!
@@ -36979,7 +36979,7 @@ Descubra o que está incomodando o morador da floresta.
 Concorde em ajudar a derrotar os rinocerontes.
 Derrote todos os cinco rinocerontes.
 Derrote os rinocerontes <quest_exb009:qs0004> restantes.
-Derrote o rinoceronte restante.
+Derrote o rinobroca restante.
 Diga a ele que os rinocerontes foram derrotados.
 Missão concluída!
 Vá e veja o que está incomodando a mulher.
@@ -37009,7 +37009,7 @@ Dê a Raj os três ingredientes que você reuniu.
 Missão concluída!
 Vá e descubra o que o designer quer.
 Ouça o favor que o designer tem para lhe pedir.
-Derrote floretes usando Nevasca e colete folhas de arco-íris.
+Derrote cactusos usando Nevasca e colete folhas de arco-íris.
 Missão concluída!
 Vá e descubra o que está incomodando o caranguejo azul.
 Concorde em ajudar o caranguejo azul.
@@ -37061,8 +37061,8 @@ Concorde em ajudar o pirata do céu com seu problema.
 Dê ao pirata do céu a pluma de rajada que ele pediu.
 Missão concluída!
 Vá e investigue a caverna em questão.
-Concorde em cuidar do jabberguppy de estimação da garota.
-Mostre à garota que seu jabberguppy atingiu o nível 40.
+Concorde em cuidar do taganso de estimação da garota.
+Mostre à garota que seu taganso atingiu o nível 40.
 Missão concluída!
 Vá para Yule e fale com a mulher.
 Ouça o pedido da mulher.
@@ -37086,9 +37086,9 @@ Missão concluída!
 Descubra o que há de errado com o velho.
 Concorde em ajudar o velho.
 Vá buscar uma compressa fria no Yule.
-Derrote cinco peixes-mangler usando uma lâmina flamejante.
-Derrote <quest_exb009:qs0023> mais peixes-mangler.
-Derrote <quest_exb009:qs0023> mais peixes-mangler.
+Derrote cinco esculumino usando uma lâmina flamejante.
+Derrote <quest_exb009:qs0023> mais esculumino.
+Derrote <quest_exb009:qs0023> mais esculumino.
 Reporte ao tomte.
 Leve a compressa fria para o velho em Perdida.
 Missão concluída!
@@ -37767,7 +37767,7 @@ Duplicata
 Parafuso Estelar
 Pilares da Escuridão
 Estrela caída
-Nightshade
+Prometida Obscura
 Chifres angustiantes
 Aniquilação
 Corrida Colérica
@@ -38346,7 +38346,7 @@ Você teve a ideia para a pastelão sentimental!
 Você teve a ideia para a lança da canção de ninar!
 Você teve a ideia das garras defeituosas!
 Você teve a ideia da panela favorita da mamãe!
-Você caçou o peixe-mangler com sucesso!<NL>Apresente-se ao tomte para reivindicar sua recompensa!
+Você caçou o esculumino com sucesso!<NL>Apresente-se ao tomte para reivindicar sua recompensa!
 Lançar feitiços que Oliver aprendeu.
 Coloque seu nome no Companheiro do Mago!
 Lance <color:#8>Portal</color>!
