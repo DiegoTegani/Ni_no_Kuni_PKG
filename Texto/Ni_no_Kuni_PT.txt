@@ -1232,307 +1232,307 @@ a
 <TC>anfordente
 o
 a
-<TC>turbandit
+<TC>turbandinho
 o
 a
-<TC>turburn
+<TC>turbandoleiro
 o
 a
-<TC>turban <TC>myth
+<TC>turbamítico
 o
 a
-<TC>turban <TC>legend
+<TC>turbandísta
 o
 an
-<TC>idler
+<TC>vagabundo
 o
 a
-<TC>wild <TC>idler
+<TC>selvagem <TC>vagabundo
 o
 an
-<TC>all-<TC>seeing <TC>idler
+<TC>curioso <TC>vagabumdo
 o
 an
-<TC>evil <TC>idler
+<TC>maléfico <TC>vagabundo
 o
 a
-<TC>bonehead
+<TC>caveira
 o
 a
-<TC>bone <TC>ranger
+<TC>rasa <TC>caveira
 o
 a
-<TC>bone <TC>brigadier
+<TC>caveira <TC>capitão
 o
 a
-<TC>bone <TC>baron
+<TC>caveira <TC>coronel
 o
 a
-<TC>pom <TC>pom
+<TC>muco
 o
 a
-<TC>pond <TC>pom
+<TC>do mar <TC>muco
 o
 a
-<TC>pompeii
+<TC>abrasivo <TC>muco
 o
 a
-<TC>pomagranite
+<TC>caolho <TC>muco
 o
 a
 <TC>naja
 o
 a
-<TC>najalisk
+<TC>najalisca
 o
 a
-<TC>mahanaja
+<TC>real <TC>naja
 o
 a
 <TC>najapatra
 o
 a
-<TC>fightingale
+<TC>gansoldado
 o
 a
-<TC>knightingale
+<TC>gavaleiro
 o
 a
-<TC>paladin <TC>partridge
+<TC>gansoberano
 o
 a
-<TC>bushido <TC>bantam
+<TC>gansamurai
 o
 a
-<TC>hog-<TC>goblin
+<TC>javalebre
 o
 a
-<TC>gobfather
+<TC>javalião
 o
 a
-<TC>gobspeed
+<TC>javalépido
 o
 a
-<TC>gobforsaken
+<TC>javardiloso
 o
 a
 <TC>zombo
 o
 a
-<TC>zomboatswain
+<TC>zombarino
 o
 a
-<TC>cap'n <TC>zombo
+<TC>capitão <TC>zombo
 o
 a
-<TC>mumbo <TC>zombo
+<TC>zombruxo
 o
 a
-<TC>clubber <TC>cub
+<TC>tigreteka
 o
 a
-<TC>lubber <TC>cub
-o
-an
-<TC>adamantiger
+<TC>lutador <TC>tigre
 o
 an
-<TC>elegantiger
-o
-a
-<TC>sillymander
-o
-a
-<TC>slamander
-o
-a
-<TC>pyromander
-o
-a
-<TC>petramander
-o
-a
-<TC>splisher
-o
-a
-<TC>splasher
-o
-a
-<TC>snapper
-o
-a
-<TC>snipper
-o
-a
-<TC>plessie
-o
-a
-<TC>messy <TC>plessie
-o
-a
-<TC>stressy <TC>plessie
-o
-a
-<TC>blessy <TC>plessie
-o
-a
-<TC>small <TC>fry
-o
-a
-<TC>deep <TC>fry
-o
-a
-<TC>firefry
-o
-a
-<TC>flash <TC>fry
-o
-a
-<TC>thumbelemur
-o
-a
-<TC>dumbelemur
+<TC>ferrenho <TC>tigre
 o
 an
-<TC>aye-<TC>aye <TC>sir
+<TC>vertiginoso <TC>tigre
+o
+a
+<TC>viborante
+o
+a
+<TC>lagarjante
+o
+a
+<TC>pirogarta
+o
+a
+<TC>petrigarta
+o
+a
+<TC>esguicho
+o
+a
+<TC>borbotão
+o
+a
+<TC>golfudo
+o
+a
+<TC>esguicortante
+o
+a
+<TC>dragartixia
+o
+a
+<TC>revoltixa
+o
+a
+<TC>tempestixa
+o
+a
+<TC>sacerdotixa
+o
+a
+<TC>fritado
+o
+a
+<TC>fritango
+o
+a
+<TC>refrito
+o
+a
+<TC>sofrito
+o
+a
+<TC>dançalêmure
+o
+a
+<TC>bobolêmure
 o
 an
-<TC>aye-<TC>aye <TC>catcher
+<TC>capitão <TC>Lêmure
 o
 an
-<TC>flutterby
-o
-a
-<TC>forest <TC>flutterby
-o
-a
-<TC>midnight <TC>flutterby
-o
-a
-<TC>midday <TC>flutterby
-o
-a
-<TC>hooray
-o
-a
-<TC>hip-<TC>hooray
-o
-a
-<TC>grimray
-o
-a
-<TC>springray
-o
-a
-<TC>sasquish
-o
-a
-<TC>sasquash
-o
-a
-<TC>papa <TC>sasquash
-o
-a
-<TC>mama <TC>sasquash
+<TC>salvador <TC>Lêmure
 o
 an
-<TC>griffy
+<TC>fulterina
 o
 a
-<TC>greater <TC>griffy
+<TC>coperina
 o
 a
-<TC>griffurnace
+<TC>eterina
+o
+a
+<TC>mariposina
+o
+a
+<TC>dançante <TC>raia
+o
+a
+<TC>raintasma
+o
+a
+<TC>tenebraia
+o
+a
+<TC>raiante
+o
+a
+<TC>yeti
+o
+a
+<TC>jovaem <TC>yeti
+o
+a
+<TC>papai <TC>yeti
+o
+a
+<TC>mamãe <TC>yeti
 o
 an
-<TC>griffrigerator
+<TC>grifoso
 o
 a
-<TC>sleepeafowl
+<TC>supremo <TC>grifoso
 o
 a
-<TC>hippeafowl
+<TC>grifurna
+o
+an
+<TC>grifrigerador
 o
 a
-<TC>grumpeafowl
+<TC>dorminhoca <TC>coruja
 o
 a
-<TC>wimpeafowl
+<TC>assustada <TC>coruja
 o
 a
-<TC>fuddy-<TC>daddy
+<TC>irritada <TC>coruja
 o
 a
-<TC>big <TC>daddy
+<TC>covarde <TC>coruja
 o
 a
-<TC>grand-<TC>daddy
+<TC>barbudão
 o
 a
-<TC>baddy-<TC>daddy
+<TC>barbino
 o
 a
-<TC>dinoceros
+<TC>barbastro
 o
 a
-<TC>destroceros
+<TC>barbodioso
 o
 a
-<TC>demoliceros
+<TC>dinoceronte
 o
 a
-<TC>catastroceros
+<TC>destroceronte
 o
 a
-<TC>boggly-<TC>boo
+<TC>demoliceronte
 o
 a
-<TC>boggly-<TC>boo
+<TC>catastroceronte
 o
 a
-<TC>bigger-<TC>boggle
+<TC>sustinho
 o
 a
-<TC>hoggle-<TC>boggle
+<TC>sustinho
 o
 a
-<TC>moggle-<TC>boggle
+<TC>assustador
 o
 a
-<TC>tu-<TC>whit
+<TC>medonho
 o
 a
-<TC>tu-<TC>whoo
+<TC>horripilante
 o
 a
-<TC>sharp-<TC>hooter
+<TC>corujito
 o
 a
-<TC>hooting-<TC>star
+<TC>corujo
 o
 a
-<TC>kipper
+<TC>corujafiado
 o
 a
-<TC>red <TC>napper
+<TC>corujaval
 o
 a
-<TC>sweet <TC>bream
+<TC>arrenque
 o
 a
-<TC>siestar <TC>fish
+<TC>arrencura
 o
 a
-<TC>sapdragon
+<TC>arrenaqua
 o
 a
-<TC>flapdragon
+<TC>najapatra
 o
 a
-<TC>scrapdragon
+<TC>seiva <TC>dragão
 o
 a
-<TC>napdragon
+<TC>oscilante <TC>dragão
+o
+a
+<TC>dragãonicórnio
+o
+a
+<TC>sonâmbulo <TC>dragão
 o
 a
 <TC>draguino
@@ -1547,91 +1547,91 @@ a
 <TC>drapático
 o
 a
-<TC>hullaballoon
+<TC>balãotuante
 o
 a
-<TC>balloonatic
+<TC>balãonático
 o
 a
-<TC>hot-<TC>air <TC>balloonatic
+<TC>ar-<TC>quente <TC>balão
 o
 a
-<TC>water <TC>balloonatic
+<TC>aquático <TC>balão
 o
 an
-<TC>auroralynx
+<TC>auroralince
 o
 an
-<TC>umbralynx
+<TC>das sombras <TC>lince
 o
 an
-<TC>astralynx
+<TC>astral <TC>lince
 o
 a
-<TC>dualynx
+<TC>dualince
 o
 an
-<TC>incy
+<TC>tarantina
 o
 a
-<TC>wincy
+<TC>taranto
 o
 a
-<TC>web <TC>master
+<TC>taranturna
 o
 a
-<TC>weaver <TC>diva
+<TC>tarantela
 o
 a
-<TC>sparkee
+<TC>ampere
 o
 a
-<TC>wattee
+<TC>coulomb
 o
 an
-<TC>acee
+<TC>volt
 o
 a
-<TC>deecee
+<TC>watt
 o
 an
-<TC>eggroll
+<TC>ovendado
 o
 a
-<TC>scrambled <TC>eggroll
+<TC>mexido <TC>ovo
 o
 a
-<TC>humpty <TC>bumpty
+<TC>sarado <TC>ovo
 o
 an
-<TC>eggyptian
+<TC>ovegípcio
 o
 a
-<TC>napcap
+<TC>coguinho
 o
 a
-<TC>duncecap
+<TC>albino <TC>cogu
 o
 a
-<TC>madcap
+<TC>louco <TC>cogu
 o
 a
-<TC>nightcap
+<TC>obscuro <TC>cogu
 o
 a
-<TC>shonky-<TC>honker
+<TC>buzina
 o
 a
-<TC>shonky-<TC>honker
+<TC>corneta
 o
 a
 <TC>sharper-<TC>parper
 o
 a
-<TC>trumpy-<TC>pumper
+<TC>trompete
 o
 a
-<TC>honky-<TC>tonker
+<TC>trombone
 o
 a
 <TC>mite
@@ -1718,64 +1718,64 @@ a
 <TC>hierofante
 o
 a
-<TC>tin-<TC>man
+<TC>lata-<TC>homem
 o
 an
-<TC>iron-<TC>man
+<TC>de ferro <TC>homem
 o
 a
-<TC>steam-<TC>man
+<TC>máquina-<TC>homem
 o
 a
-<TC>beam-<TC>man
+<TC>blindado <TC>homem
 o
 a
-<TC>hog-<TC>goblin
+<TC>javalebre
 o
 a
-<TC>gobfather
+<TC>javalião
 o
 a
-<TC>gobspeed
+<TC>javalépido
 o
 a
-<TC>gobforsaken
+<TC>Javardiloso
 o
 a
-<TC>shonky-<TC>honker
+<TC>buzina
 o
 a
-<TC>sharper-<TC>parper
+<TC>corneta
 o
 a
-<TC>trumpy-<TC>pumper
+<TC>trompete
 o
 a
-<TC>honky-<TC>tonker
+<TC>trombone
 o
 a
-<TC>hubber <TC>blubber
+<TC>terrorca
 o
 a
-<TC>blubber <TC>bubbler
+<TC>terremorca
 o
 a
-<TC>prince of <TC>whales
+<TC>príncipe das <TC>orcas
 o
 a
-<TC>lone <TC>shark
+<TC>Insaciorca
 o
 a
-<TC>fluvius <TC>maximus
+<TC>barrigudo
 o
 a
-<TC>tempestus <TC>majora
+<TC>barrigudaço
 o
 an
-<TC>igneous <TC>supremus
+<TC>barrigudão
 o
 a
-<TC>celestius <TC>primus
+<TC>barrigélido
 o
 a
 <TC>magmoiselle
@@ -1790,92 +1790,92 @@ a
 <TC>magmadiva
 o
 an
-<TC>earth <TC>ogrrr
+<TC>das cavernas <TC>ogro
 o
 a
-<TC>water <TC>ogrrr
+<TC>do mar <TC>ogro
 o
 an
-<TC>ice <TC>ogrrr
+<TC>glacial <TC>ogro
 o
 a
-<TC>fire <TC>ogrrr
+<TC>fogoso <TC>ogro
 o
 a
-<TC>collum
+<TC>cólum
 o
 a
-<TC>doric <TC>collum
+<TC>doricólum
 o
 an
-<TC>ionic <TC>collum
+<TC>ionicólum
 o
 an
-<TC>auric <TC>collum
+<TC>aurocólum
 o
 a
-<TC>fug
+<TC>bafo
 o
 a
-<TC>dusty <TC>fug
+<TC>poeirento <TC>bafo
 o
 a
-<TC>smoggy <TC>fug
+<TC>poluído <TC>bafo
 o
 a
-<TC>grubby <TC>fug
+<TC>podre <TC>bafo
 o
 a
-<TC>magimech
+<TC>magitron
 o
 a
-<TC>manic <TC>magimech
+<TC>maníacotron
 o
 a
-<TC>magimech <TC>sentry
+<TC>sentinelatron
 o
 a
-<TC>magimech <TC>master
+<TC>enigmatron
 o
 a
-<TC>shellraiser
+<TC>jaturga
 o
 a
-<TC>shellfire
+<TC>Incendioturga
 o
 a
-<TC>shellshocker
+<TC>choturga
 o
 a
-<TC>shellmet
+<TC>gortuga
 Gogo
 Gunther
 Joules
 Jabbo
 Pesadelo de Rusty
-pesadelo de Swaine
+Pesadelo de Swaine
 Pesadelo de Khulan
-pesadelo de denny
-o pesadelo de Philip
+Pesadelo de Denny
+Pesadelo de Philip
 o
 o
-guardião da floresta
-gladiatauro
+Guardião da Floresta
+Gladiatauro
 o
-um
+an
 <TC>ulk
 Bashura
-Cerbóreas
+Cerboreas
 o
 o
-Geléia real
+Água-viva Real
 o
 a
-<TC>geléia <TC>bebê
+<TC>água-vida <TC>bebê
 Aapep
 o
 o
-pássaro de guerra
+perdição
 o
 o
 Porco Grosso
@@ -1885,14 +1885,14 @@ Dragão Vermelho
 Candelabracadabra
 Malcoração
 Malcoração
-Capitão Crossbones
+Cap. Puro Osso
 Tapo Gigio
 Moltaan
 Al-Khemi
 Jetsam
 Gallus
-shadar
-shadar
+Shadar
+Shadar
 Cavaleiro Eterno
 o
 o
@@ -1918,753 +1918,753 @@ o
 guardião dos mundos
 o
 o
-fúria da floresta
+Fúria da Floresta
 Dickory Dock
-badiatauro
+Badiatauro
 Smashura
-vulcânica
+Vulcânica
 o
 o
-geléia imperial
+Imperial Jelly
 o
 a
-<TC>geléia <TC>adolescente
+<TC>jelly <TC>teen
 o
 o
 Porco Rosso
-candelabro cadaver
+Candelabracadaver
 o
 o
-Dragão dourado
-mehen
-Comodoro Crossbones
+Golden Dragon
+Mehen
+Commodore Crossbones
 Cerborealis
 Bileheart
-Cavaleiro Terror
+Knight Terror
 o
 o
-zodiarcanjo
+|Zodiarcanjo
 o
 a
 <TC>domínio
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>desgraçado
+<TC>miserável
 o
 a
-<TC>diligente <TC>médico
+<TC>diligent <TC>doctor
 o
 a
-<TC>marceneiro covarde <TC>
+<TC>cowardly <TC>cabinetmaker
 o
 a
-<TC>lavrador <TC>meticuloso
+<TC>fastidious <TC>farm-<TC>hand
 o
 a
-<TC>professor <TC>erudito
+<TC>scholarly <TC>schoolmaster
 o
 a
-<TC>arenque <TC>pastor
+<TC>herring <TC>herder
 o
-um
-<TC>proprietário do <TC>restaurante
+an
+<TC>eatery <TC>owner
 o
 a
-<TC>garoto de <TC>grande <TC>coração
+<TC>big-<TC>hearted <TC>boy
 o
 a
-<TC>mummer <TC>cantarolando
+<TC>humming <TC>mummer
 o
 a
-<TC>menestrel sinuoso <TC>
+<TC>meandering <TC>minstrel
 o
-um
-<TC>homem de <TC>sorvete <TC>
+an
+<TC>ice-<TC>cream <TC>man
 o
-um
-<TC>amante de <TC>sorvete <TC>
+an
+<TC>ice-<TC>cream <TC>lover
 o
 a
-<TC>padeiro de <TC>babana
+<TC>babana <TC>baker
 o
-um
-<TC>idiota <TC>ocioso
+an
+<TC>idle <TC>oaf
 o
 a
-<TC>apostador <TC>ressestado
+<TC>parched <TC>punter
 o
 a
-<TC>gato <TC>estudioso <TC>medroso
+<TC>scaredy-<TC>cat <TC>scholar
 o
 a
-<TC>vendedor <TC>ambulante
+<TC>traveling <TC>salesman
 o
 a
-<TC>barbeiro de <TC>rua
+<TC>backstreet <TC>barber
 o
-um
-<TC>armeiro <TC>industrioso
+an
+<TC>industrious <TC>armorer
 o
 a
-<TC>monstro <TC>maníaco
+<TC>monster <TC>maniac
 o
 a
-<TC>aldeia <TC>idiota
+<TC>village <TC>idiot
 o
 a
-<TC>mestre <TC>mecânico
+<TC>master <TC>mechanic
 o
 a
-<TC>bobo da <TC>corte alegre
+<TC>jolly <TC>jester
 o
 a
-<TC>growler <TC>grisalho
+<TC>grizzled <TC>growler
 o
-um
-<TC>aventureiro <TC>intrépido
+an
+<TC>intrepid <TC>adventurer
 o
 a
-<TC>companheiro de <TC>cinco <TC>barrigas
+<TC>five-<TC>bellied <TC>fellow
 o
 a
-<TC>assobiador <TC>extravagante
+<TC>whimsical <TC>whistler
 o
 a
-<TC>bom <TC>companheiro
+<TC>jolly <TC>good <TC>fellow
 o
 a
-<TC>lenhador errante <TC>
+<TC>wandering <TC>woodcutter
 o
 a
-<TC>filho do <TC>agricultor
+<TC>farmer's <TC>son
 o
 a
-<TC>viajante <TC>mestre de trupe
+<TC>traveling <TC>troupemaster
 o
 a
-<TC>vendedor ambulante <TC>gritando
+<TC>hollering <TC>hawker
 o
 a
-<TC>adorador de <TC>babana
+<TC>babana <TC>worshipper
 o
 a
-<TC>queijeiro <TC>alegre
+<TC>chirpy <TC>cheesemonger
 o
 a
-<TC>homem de <TC>babana
+<TC>babana <TC>man
 o
 a
-<TC>barão <TC>ladrão
+<TC>robber <TC>baron
 o
 a
-<TC>abana <TC>astuto
+<TC>wily <TC>wag
 o
 a
-<TC>ferreiro <TC>assustador
+<TC>scary <TC>smith
 o
 a
-<TC>frequentador de <TC>feiras
+<TC>fayre-<TC>goer
 o
 a
-<TC>fulano <TC>sonolento
+<TC>sleepy <TC>so-and-<TC>so
 o
 a
-<TC>barman <TC>de rua
-Guilherme Abel
+<TC>backstreet <TC>barkeep
+William Abel
 o
 a
-<TC>pensionista <TC>pomposo
+<TC>pompous <TC>pensioner
 o
 a
-<TC>chaveiro rabugento <TC>
+<TC>curmudgeonly <TC>keymaker
 o
 a
-<TC>cozinheiro do rei <TC>
+<TC>king's <TC>cook
 o
 a
-<TC>guarda-costas <TC>de rua
+<TC>backstreet <TC>bodyguard
 o
 a
-Guarda do <TC>Palácio Porcino
+Porcine Palace <TC>guard
 o
 a
-<TC>carpinteiro astuto <TC>
+<TC>crafty <TC>carpenter
 o
 a
-<TC>bronzeador <TC>tenaz
+<TC>tenacious <TC>tanner
 o
-um
-<TC>ocioso <TC>incurável
+an
+<TC>incurable <TC>idler
 o
 a
-<TC>grande <TC>grande <TC>comilão
+<TC>great <TC>big <TC>glutton
 o
 a
-Soluções Rápidas <TC>resistente
+Swift Solutions <TC>stalwart
 o
 a
-<TC>ragamuffin voraz <TC>
+<TC>ravenous <TC>ragamuffin
 o
 a
-<TC>mestre <TC>carpinteiro
+<TC>master <TC>carpenter
 o
 a
-<TC>ferreiro <TC>corpulento
+<TC>burly <TC>blacksmith
 o
 a
-<TC>lojista <TC>tímido
+<TC>shy <TC>shopkeeper
 o
 a
-<TC>homem ensopado de <TC>leite <TC>
+<TC>milk-<TC>soaked <TC>man
 o
 a
-<TC>sol-<TC>shunner
+<TC>sun-<TC>shunner
 o
 a
-<TC>curry-<TC>criança enlouquecida <TC>
+<TC>curry-<TC>crazed <TC>kid
 o
 a
-<TC>companheiro <TC>amigável
+<TC>friendly <TC>fellow
 o
 a
-<TC>amigo <TC>astuto
+<TC>crafty <TC>crony
 o
-um
-<TC>estranho
+an
+<TC>oddfellow
 o
 a
-<TC>marceneiro do rei <TC>
+<TC>king's <TC>cabinetmaker
 o
 a
-<TC>ferreiro <TC>grosseiro
+<TC>surly <TC>smith
 o
-um
-Empório <TC>comprador
+an
+Emporium <TC>shopper
 o
 a
-<TC>mestre <TC>relojoeiro
+<TC>master <TC>watchmaker
 o
 a
-<TC>cirurgião de rua <TC>
+<TC>backstreet <TC>surgeon
 o
 a
-<TC>jovem <TC>bonito
+<TC>handsome <TC>youth
 o
 a
-<TC>cozinheiro <TC>capaz
+<TC>capable <TC>cook
 o
 a
-<TC>empregada <TC>do tecelão
+<TC>weaver's <TC>maid
 o
 a
-<TC>dona de casa <TC>heroica
+<TC>heroic <TC>housewife
 o
 a
-<TC>lavadeira
+<TC>washerwoman
 o
 a
-<TC>empregada do chapeleiro <TC>
+<TC>milliner's <TC>maid
 o
 a
-<TC>recém-casado <TC>nervoso
+<TC>nervous <TC>newlywed
 o
 a
-<TC>vovó<TC>cuidando do <TC>túmulo
+<TC>grave-<TC>tending <TC>grandma
 o
 a
-<TC>dona de casa <TC>prestativa
+<TC>helpful <TC>housewife
 o
 a
-<TC>vendedora <TC>bonita
+<TC>pretty <TC>peddler
 o
 a
-<TC>gastador <TC>esbanjador
+<TC>giddy <TC>spendthrift
 o
 a
-<TC>excelente <TC>cantor popular <TC>
+<TC>fine <TC>folk <TC>singer
 o
 a
-<TC>dona de casa hiperativa <TC>
+<TC>hyperactive <TC>housewife
 o
 a
-<TC>donzela <TC>moradora de <TC>sapatos
+<TC>shoe-<TC>dwelling <TC>damsel
 o
 a
-<TC>donzela <TC>atrevida
+<TC>spritely <TC>maiden
 o
 a
-<TC>cientista <TC>sensível
+<TC>sensible <TC>scientist
 o
 a
-<TC>pesquisadora <TC>arrebatadora
+<TC>ravishing <TC>researcher
 o
 a
-<TC>empregada de <TC>alfaiate
+<TC>tailor's <TC>maid
 o
 a
-<TC>cozinha da <TC>rainha
+<TC>queen of the <TC>cookshop
 o
 a
-<TC>donzela <TC>que ama <TC>cães
+<TC>dog-<TC>loving <TC>damsel
 o
 a
-<TC>cartomante <TC>suspeito <TC>
+<TC>fishy <TC>fortune-<TC>teller
 o
 a
-<TC>contador de histórias
+<TC>storyteller
 o
 a
-<TC>rato de biblioteca <TC>escavador
+<TC>burrowing <TC>bookworm
 o
 a
-<TC>empregada <TC>doméstica
+<TC>mummer's <TC>maid
 o
 a
-<TC>amante do <TC>mummer
+<TC>mummer's <TC>mistress
 o
 a
-<TC>cozinheiro do <TC>castelo
+<TC>castle <TC>cook
 o
 a
-<TC>bom <TC>jovem <TC>
+<TC>nice <TC>young <TC>man
 o
 a
-<TC>mestre <TC>herbanário
+<TC>master <TC>herbalist
 o
 a
-<TC>tagarela
+<TC>chatterbox
 o
 a
-<TC>mestre <TC>oleiro
+<TC>master <TC>potter
 o
 a
-<TC>grimalkin <TC>mal-humorado
+<TC>grumpy <TC>grimalkin
 o
 a
-<TC>turista
+<TC>sightseer
 o
 a
-<TC>estalajadeiro <TC>alegre
+<TC>jolly <TC>innkeeper
 o
 a
-<TC>vendedor ambulante <TC>atencioso
+<TC>helpful <TC>hawker
 o
 a
-<TC>zelador<TC>da casa <TC>de curry
+<TC>curry-<TC>house <TC>keeper
 o
 a
-<TC>ajudante<TC>da casa <TC>de curry
+<TC>curry-<TC>house <TC>helper
 o
-um
-<TC>velho<TC>que <TC>tudo <TC>sabe
+an
+<TC>all-<TC>knowing <TC>old-<TC>timer
 o
 a
-<TC>fulano <TC>de tal <TC>suado
+<TC>sweaty <TC>so-and-<TC>so
 o
 a
-<TC>fulano <TC>de tal <TC>encharcado <TC>de suor
+<TC>sweat-<TC>soaked <TC>so-and-<TC>so
 o
 a
-<TC>farmacêutico <TC>de visão <TC>
+<TC>far-<TC>seeing <TC>pharmacist
 o
 a
-<TC>mestre <TC>encanador
+<TC>master <TC>plumber
 o
 a
-<TC>fabricante de brinquedos
+<TC>toymaker
 o
 a
-<TC>joalheiro
+<TC>jeweler
 o
 a
-<TC>homem <TC>musculoso
+<TC>muscular <TC>man
 o
 a
-<TC>mecânico <TC>maníaco
+<TC>manic <TC>mechanic
 o
 a
-<TC>aprendiz de guarda <TC>
+<TC>guardsman's <TC>apprentice
 o
-um
-<TC>erudito <TC>editor
+an
+<TC>erudite <TC>editor
 o
 a
-<TC>retratista do <TC>palácio
+<TC>palace <TC>portraitist
 o
 a
-<TC>velha <TC>senhora <TC>preguiçosa
+<TC>lazy <TC>old <TC>lady
 o
-um
-<TC>artista itinerante <TC>
+an
+<TC>itinerant <TC>artist
 o
 a
-<TC>alegre <TC>saltitante
+<TC>merry <TC>mummer
 o
 a
-<TC>donzela travessa <TC>
+<TC>mischievous <TC>maiden
 o
 a
-<TC>donzela <TC>despreocupada
+<TC>carefree <TC>maiden
 o
 a
-<TC>catnapper <TC>fofinho
+<TC>cuddly <TC>catnapper
 o
 a
-<TC>felino<TC>de rabo <TC>peludo
+<TC>furry-<TC>tailed <TC>feline
 o
 a
-<TC>princesa da <TC>hora de brincar
+<TC>playtime <TC>princess
 o
 a
-<TC>planta de <TC>conhecimento <TC>furadora
+<TC>plant <TC>lore <TC>bore
 o
 a
-<TC>vendedora <TC>de língua prateada <TC>
+<TC>silver-<TC>tongued <TC>salesgirl
 o
 a
-<TC>famosa <TC>cartomante <TC>
+<TC>famous <TC>fortune-<TC>teller
 o
 a
-<TC>princesa <TC>pombo
+<TC>pigeon <TC>princess
 o
 a
-<TC>mulher de <TC>sangue quente <TC>
+<TC>warm-<TC>blooded <TC>woman
 o
 a
-Comprador do Mercado Negro <TC>
+Black-Market <TC>buyer
 o
 a
-<TC>sapateiro <TC>escuro
+<TC>shady <TC>shoemaker
 o
 a
-<TC>cão mimado <TC>
+<TC>pampered <TC>pooch
 o
 a
-<TC>comerciante <TC>negro
+<TC>black <TC>marketeer
 o
 a
-<TC>donzela <TC>corajosa
+<TC>doughty <TC>damsel
 o
 a
-<TC>vendedor ambulante <TC>de hardware
+<TC>hardware <TC>hawker
 o
 a
-<TC>matemático <TC>maluco
+<TC>madcap <TC>mathematician
 o
 a
-cliente <TC>Cama de Gato
+Cat's Cradle <TC>customer
 o
 a
-<TC>fábula vacilante <TC>
+<TC>faltering <TC>fabler
 o
 a
-<TC>verdureiro
+<TC>greengrocer
 o
 a
-<TC>assassino <TC>gigante
+<TC>giant <TC>killer
 o
 a
-<TC>pombo <TC>criador
+<TC>pigeon <TC>fancier
 o
 a
-<TC>gentilmente <TC>curador
+<TC>kindly <TC>curate
 o
 a
-Porteiro de <TC>Ding-Dong
+Ding-Dong <TC>doorman
 o
 a
-Porteiro de <TC>Ding-Dong
+Ding-Dong <TC>doorman
 o
 a
-<TC>trovador <TC>viajante
+<TC>traveling <TC>troubadour
 o
 a
-<TC>guarda do <TC>palácio
+<TC>palace <TC>guard
 o
 a
-<TC>guarda <TC>novato
+<TC>greenhorn <TC>guardsman
 o
 a
-<TC>curry <TC>beberrão
+<TC>curry <TC>guzzler
 o
 a
-<TC>regateador <TC>deslumbrante
+<TC>dazzling <TC>haggler
 o
 a
-<TC>guarda do <TC>palácio
+<TC>palace <TC>guard
 o
 a
-<TC>fabricante de <TC>remédios
+<TC>medicine <TC>maker
 o
 a
-<TC>recruta <TC>raw
+<TC>raw <TC>recruit
 o
 a
-<TC>cabeça de <TC>porco <TC>privado
+<TC>pig-<TC>headed <TC>private
 o
-um
-<TC>artista itinerante <TC>
+an
+<TC>itinerant <TC>artist
 o
 a
-<TC>grunhido
+<TC>grunt
 o
 a
-<TC>javali <TC>bravo
+<TC>brave <TC>boarrior
 o
 a
-Guarda do <TC>Palácio Porcino
+Porcine Palace <TC>guard
 o
 a
-Guarda do <TC>Palácio Porcino
+Porcine Palace <TC>guard
 o
 a
-<TC>porco preguiçoso <TC>
+<TC>lazy <TC>swine
 o
 a
-<TC>porco <TC>pessimista
+<TC>pessimistic <TC>porker
 o
 a
-<TC>bebê-<TC>chorão <TC>grunhindo
+<TC>cry-<TC>baby <TC>grunting
 o
 a
-<TC>javali <TC>gritando
+<TC>bellowing <TC>boarrior
 o
 a
-porco <TC>positivo <TC>
+<TC>positive <TC>porker
 o
 a
-<TC>porquinho <TC>privado
+<TC>porky <TC>private
 o
 a
-<TC>javali <TC>inteligente
+<TC>brainy <TC>boarrior
 o
 a
-<TC>billy espumoso <TC>
+<TC>swilly <TC>billy
 o
 a
-<TC>javali <TC>ossudo
+<TC>bony <TC>boarrior
 o
 a
-<TC>prático <TC>presunto de <TC>armas
+<TC>handy <TC>ham-at-<TC>arms
 o
 a
-<TC>javali <TC>benevolente
+<TC>benevolent <TC>boarrior
 o
 a
-<TC>sujo chique <TC>
+<TC>swanky <TC>swine
 o
 a
-<TC>madeira <TC>astuta
+<TC>wily <TC>woodsman
 o
 a
-<TC>correio <TC>de pés rápidos <TC>
+<TC>quick-<TC>footed <TC>courier
 o
 a
-<TC>jardineiro <TC>de dedos verdes <TC>
+<TC>green-<TC>fingered <TC>gardener
 o
 a
-<TC>filho do moleiro <TC>
+<TC>miller's <TC>son
 o
 a
-<TC>jack <TC>preguiçoso
+<TC>lazy <TC>jack
 o
 a
-<TC>menino <TC>encantado
+<TC>spellbound <TC>boy
 o
-um
-<TC>boticário
+an
+<TC>apothecary
 o
 a
-Guarda de <TC>Mamooni
+Mamooni <TC>guardsman
 o
 a
-<TC>lojista <TC>amigável
+<TC>friendly <TC>shopkeeper
 o
 a
-<TC>pensionista <TC>perplexo
+<TC>perplexed <TC>pensioner
 o
 a
-<TC>espadachim de <TC>coração forte<TC>
+<TC>stout-<TC>hearted <TC>swordsman
 o
 a
-<TC>turista a <TC>beira-mar
+<TC>seaside <TC>sightseer
 o
 a
-<TC>comerciante de <TC>ferramentas
+<TC>tool <TC>tradesman
 o
 a
-<TC>observador de feras
+<TC>beastwatcher
 o
 a
-<TC>estudioso <TC>espírituoso
+<TC>spirited <TC>scholar
 o
 a
 <TC>fayre-<TC>folkster
 o
 a
-<TC>remendador de <TC>porco
+<TC>porco <TC>patcher
 o
 a
-<TC>barman
+<TC>barkeep
 o
 a
-<TC>conselho <TC>do rei
+<TC>king's <TC>counsel
 o
 a
-<TC>escultor do soberano <TC>
+<TC>sovereign's <TC>sculptor
 o
 a
-<TC>seguidor do <TC>festival
+<TC>festival <TC>follower
 o
-um
-<TC>alquimista <TC>ávido
+an
+<TC>avid <TC>alchemist
 o
 a
 <TC>mollycoddled <TC>mog
 o
 a
-<TC>colegial de <TC>olhos estrelados <TC>
+<TC>starry-<TC>eyed <TC>schoolgirl
 o
 a
-<TC>água <TC>bebê
+<TC>water <TC>baby
 o
 a
-<TC>menina das <TC>flores
+<TC>flower <TC>girl
 o
 a
-<TC>moça <TC>solitária
+<TC>lonely <TC>lass
 o
 a
-<TC>moça <TC>adorável
+<TC>lovable <TC>lass
 o
-um
-<TC>filha da velha <TC>dama <TC>
-o
-a
-<TC>felino que<TC>teme <TC>peixe
+an
+<TC>old <TC>dame's <TC>daughter
 o
 a
-<TC>nadador habilidoso <TC>
+<TC>fish-<TC>fearing <TC>feline
 o
 a
-<TC>donzela <TC>que odeia <TC>leite
+<TC>skillful <TC>swimmer
 o
 a
-<TC>criança<TC> enlouquecida <TC>por curry
+<TC>milk-<TC>hating <TC>maiden
 o
 a
-<TC>moça de <TC>cabelos exuberantes <TC>
+<TC>curry-<TC>crazed <TC>kid
 o
 a
-Cliente do <TC>Cama de Gato
+<TC>lush-<TC>haired <TC>lassie
 o
 a
-<TC>criança <TC>doente
+Cat's Cradle <TC>customer
 o
 a
-<TC>boneco <TC>brincalhão
+<TC>sickly <TC>child
 o
 a
-<TC>proprietário <TC>da loja <TC>de foto
-o
-um
-<TC>arquivista <TC>especialista
+<TC>playful <TC>poppet
 o
 a
-Pirralho do Mercado Negro <TC>
+<TC>picture-<TC>shop <TC>proprietor
+o
+an
+<TC>expert <TC>archivist
 o
 a
-<TC>boca tagarela
+Black-Market <TC>brat
 o
 a
-<TC>moleca <TC>caindo
+<TC>blabbermouth
 o
 a
-<TC>menina <TC>alegre
+<TC>tumbling <TC>tomboy
 o
 a
-<TC>pequeno <TC>leitor ávido
+<TC>gleeful <TC>girl
 o
 a
-<TC>mulher <TC>trabalhadora <TC>
-o
-um
-<TC>neto da velha <TC>dama <TC>
+<TC>little <TC>bookworm
 o
 a
-<TC>tot <TC>chorosa
+<TC>well-<TC>working <TC>woman
+o
+an
+<TC>old <TC>dame's <TC>grandchild
 o
 a
-<TC>moça <TC>atrevida
+<TC>tearful <TC>tot
 o
 a
-<TC>criança barulhenta <TC>
+<TC>sassy <TC>lassie
 o
 a
-<TC>pequeno <TC>pássaro canoro
+<TC>boisterous <TC>bairn
 o
 a
-<TC>dançarina <TC>delicada
+<TC>little <TC>songbird
 o
 a
-<TC>neto mal-humorado <TC>
+<TC>dainty <TC>dancer
 o
 a
-<TC>criança de <TC>bochechas rosadas <TC>
+<TC>grumpy <TC>grandchild
 o
 a
-<TC>dançarina <TC>deliciosa
+<TC>rosy-<TC>cheeked <TC>child
 o
 a
-<TC>noiva <TC>do javali
-o
-um
-<TC>aspirante a <TC>cientista
+<TC>delightful <TC>dancer
 o
 a
-<TC>fabricante de lanternas
+<TC>boarrior's <TC>bride
+o
+an
+<TC>aspiring <TC>scientist
 o
 a
-<TC>esposa do alfaiate <TC>
+<TC>lanternmaker
 o
 a
-<TC>tamancos inteligentes <TC>
-o
-um
-<TC>arqueólogo
+<TC>tailor's <TC>wife
 o
 a
-<TC>inocente de <TC>olhos <TC>arregalados
+<TC>clever <TC>clogs
+o
+an
+<TC>archaeologist
 o
 a
-<TC>nascido <TC>romântico
+<TC>wide-<TC>eyed <TC>innocent
+o
+a
+<TC>born <TC>romantic
 Mitey
 Matey
 Mito
@@ -3462,7 +3462,7 @@ Darren
 Sharon
 Aaron
 Pommie
-Pom
+Muco
 Whinger
 Sook
 Pondius
@@ -4170,7 +4170,7 @@ Batatas fritas, Shonky-Honkers e outros
 Hullaballoons, Purrloiners e outros
 Diabretes, Hog-Goblins e outros
 Ocorrendo naturalmente
-Infantes, pompons e outros
+Infantes, Mucos e outros
 Ocorrendo naturalmente
 Ocorrendo naturalmente
 Ocorrendo naturalmente
@@ -6044,7 +6044,7 @@ Você salvou a vida de alguém lá atrás!
 Parece que você está se sentindo um pouco melhor agora, hein,<NL>Vossa Miaujestade?
 Mas você não foi sequestrado, afinal. É engraçado... meu raciocínio estava um pouco lento... Você não acha que estou perdendo meu jeito, acha, Olliezinho?
 Estou feliz que o Rei esteja a salvo! Isso é o mais importante, não é, Vossa Miaujestade?
-Mmmiauh, não importa tudo isso! Um está simplesmente furioso porque aquele vilão Hickory Dock levou a melhor sobre um!
+Mmmiauh, não importa tudo isso! Um está simplesmente furioso porque aquele vilão Tapo Gigio levou a melhor sobre um!
 E tudo porque a perda do entusiasmo levou a pessoa a ser pega cochilando!
 E pensar que ele conseguiu roubar o maior tesouro de alguém! Mmmiauh, isso é imperdoável!
 Mas a varinha de alguém está de volta em sua posse agora. Isso é a questão principal. Agora alguém pode finalmente concedê-lo a você.
@@ -11881,7 +11881,7 @@ Eu lembro.
 Tem mais! Ouça!
 <KEEP>
 <KEEP>
-Miaau!? Hickory Dock está aprontando de novo?<NL>Logo alguém vai dar um jeito nesse patife!
+Miaau!? Tapo Gigio está aprontando de novo?<NL>Logo alguém vai dar um jeito nesse patife!
 <KEEP>
 <KEEP>
 Adivinhe, Dona Leila!<NL>Meu pai levantou cedo para preparar o café da manhã! E isso não é tudo...
@@ -14832,7 +14832,7 @@ Uma peça premiada da engenharia vintage de Hamelin. Pode ser usado para melhora
 Uma parte curiosa sobre a qual nada se sabe, exceto que aparentemente pode melhorar o desempenho de revólveres.
 Esta etiqueta prova que seu vínculo com seus Familiares é tão profundo que eles até permitem que você mude seus nomes.
 Um pingente que foi dado a Allie por Lucien. Ele contém nada além de puro amor maternal.
-Um orbe verde profundo que pertencia ao Guardião das Florestas. Um vento forte está selado dentro dele.
+Um orbe verde profundo que pertencia ao Guardião da Floresta. Um vento forte está selado dentro dele.
 Um orbe vermelho-sangue que pertencia a um guerreiro poderoso. Um espírito de luta indomável está selado dentro dele.
 Uma orbe carmesim que pertenceu a uma besta com duas lâminas. Inúmeros golpes de espada ressoam de dentro.
 Uma orbe ardente que pertenceu a um gigante enorme e ardente. Chamas rugindo são seladas dentro.
@@ -14862,7 +14862,7 @@ Um diário contando a história de como alguém descobriu ruínas antigas ao sul
 Um bilhete familiar que pode ser trocado por um tubérculo.
 Um ingresso familiar que pode ser trocado por um rélix.
 Um bilhete familiar que pode ser trocado por um dinoceros.
-Um bilhete familiar que pode ser trocado por um idler.
+Um bilhete familiar que pode ser trocado por um vagabundo.
 Um bilhete familiar que pode ser trocado por um homem-lata ouro.
 Um bilhete familiar que pode ser trocado por um mandragorador.
 Um bilhete familiar que pode ser trocado por um draguino.
@@ -16552,10 +16552,10 @@ traveler's diaries
 <TC>dinoceros <TC>tickets
 <TC>o
 <TC>uma
-<TC>idler <TC>ticket
+<TC>vagabundo <TC>ticket
 <TC>o
 <TC>alguns
-<TC>idler <TC>tickets
+<TC>vagabundo <TC>tickets
 <TC>o
 <TC>a
 <TC>lata-<TC>homem <TC>ticket
@@ -18995,7 +18995,7 @@ Você obteve algumas novas fórmulas!
 Você obteve uma nova fórmula!
 Você obteve uma página descrevendo o mandragorador!
 Você obteve uma página descrevendo o Guardião da Floresta!
-Você obteve uma página descrevendo Gladiataur!
+Você obteve uma página descrevendo Gladiatauro!
 Você obteve uma página descrevendo Bashura!
 Você obteve uma página descrevendo Moltaan!
 Você obteve uma página descrevendo a Geléia Real!
@@ -20670,12 +20670,12 @@ Oh... Já parou de nevar?<NL>Estava ansioso por uma boa guerra de bolas de neve.
 Parece que o ratinho que vi perto da Loja do Mestre dos Membros estava fazendo um favor para o dono da loja! Talvez nem todos sejam tão ruins, né?
 Eu te causei muitos problemas, não foi...?
 Mas vou compensar tudo! Até vou deixar você dar uma voltinha na minha Varredora de Nuvens quando estiver pronta!
-Nós dois podemos ser ratos, mas eu não sou nada parecido com aquele malvado Hickory Dock. Ele é muito maior, pra começar!
+Nós dois podemos ser ratos, mas eu não sou nada parecido com aquele malvado Tapo Gigio. Ele é muito maior, pra começar!
 Olha, eu sei que o que ele fez foi ruim... mas não consigo deixar de ficar impressionado com qualquer rato que enfrenta um gato!
 (ofegante) Acabei de levar o maior susto da minha vida! (ofegante)<NL>Lá estava eu, cuidando da minha vida, quando esse garoto maluco começa a me perseguir com uma vassoura!
 (ofegante) O engraçado é... (ofegante) ...tudo o que eu conseguia pensar era em colocar um motor nela! (suspiro) Queria que minha Varredora de Nuvens estivesse pronta!
 Assim que as coisas começaram a ficar escuras, eu fui me esconder no Poço Ding Dong...
-Hickory Dock estava se escondendo lá também, parecendo absolutamente aterrorizado.
+O Tapo Gigio estava se escondendo lá também, parecendo absolutamente aterrorizado.
 Ele ficava gritando, "Eu sabia!" e algo sobre como o Rei Tom era um monstro o tempo todo.
 A força aérea Mamooni tem as Varredoras de Nuvens mais legais do mundo todo!
 Ouvi dizer que elas seriam implantadas em algum lugar perto daqui. Espero conseguir ver uma!
@@ -21740,7 +21740,7 @@ O que é? Você queria me perguntar algo? Desembuche, mun! Não sou bom em jogos
 Ei!
 Carvalho Ancião
 Drippy
-Guardião da floresta
+Guardião da Floresta
 
 pla-d04_npc_text_en.cfg.bin.txt
 Caça à recompensa concluída!<NL>Apresente-se à Soluções Rápidas para receber sua recompensa!
@@ -21930,8 +21930,8 @@ Qual é o problema com você, hein?
 Quer que eu diga algo, né? Desculpe, mun, eu não tenho nada para você. Nada. Nadinha. Zero. Ah... absolutamente nada.
 Eu não sei o que você quer que eu lhe diga, mun, mas temo que não possa ajudá-lo.
 Você não... Ha ha! Você está, não é? <NL>Você está perdido! Que legal, Cirilo!
-Hickory Dock
-Hickory Dock
+Tapo Gigio
+Tapo Gigio
 Rei Tom XIV
 Rei Tom XIV
 Dickory Dock
@@ -23223,7 +23223,7 @@ Fada 02
 Fada 03
 Fada 04
 Fada 05
-Formulário de revanche pós-limpeza de Gladiataur
+Formulário de revanche pós-limpeza de Gladiatauro
 (criatura de tarefa mágica)
 
 pla-d14_npc_text_en.cfg.bin.txt
@@ -30986,7 +30986,7 @@ A seguir, King Tom!<NL>O gato para o corte!
 Você realmente acha que foi roubado, não é?<NL>Tem certeza que não deixou cair em algum lugar?
 Quero dizer, é um grande tronco girando, mun.<NL>Como você não notou algo assim desaparecendo?
 É melhor refazer nossos passos, hein?
-Lançando ratos novamente! E desta vez, é algo especial, não aquele Hickory Dock... Eu odeio virar ratos!
+Lançando ratos novamente! E desta vez, é algo especial, não aquele Tapo Gigio... Eu odeio virar ratos!
 Beliscou, ele fez! E só para ganhar dinheiro rápido!<NL>Me dá nojo, dá!
 Prova? Caramba, não sei...<NL>Vamos achar aquele rato especial, não é?
 Vamos ver Phil em Motorville!<NL>Er...brilhante!
@@ -31674,7 +31674,7 @@ Olliezinho, nosso orgulho está em jogo aqui! Precisamos bater bem nesses mendig
 Claro! Vamos lá, Sr. Drippy!
 (suspiro) Muito bem. Derrote <color:#1>dez cabeças de osso</color>. Isso será suficiente para permitir que nossos fornecedores cheguem até nós.
 É o melhor.<NL>Este não é um trabalho para meras crianças.
-Bandidos <color:#1>estúpidos</color> descarados têm atacado mercadores errantes que atravessam as areias do deserto.
+As estúpidas <color:#1>caveiras</color> descaradas, têm atacado mercadores errantes que atravessam as areias do deserto.
 Sem os suprimentos que eles nos trazem, perderemos<NL>nossos meios de subsistência...
 Parece que eles estão em apuros, hein, Olliezinho?<NL>Devemos oferecer uma mão amiga?
 Hahahahaha! Oi, Duvidoso Dilys, demos uma surra naqueles dez <color:#1>cabeças duras</color> para você, moleza!
@@ -31682,8 +31682,8 @@ Pelas barbas dos Antigos!<NL>V-Você...? Mas como...?
 Agora seus suprimentos podem passar com segurança, senhora!<NL>Tenha um bom dia!
 Eu... não tenho como agradecer.<NL>Você salvou meu sustento.
 Por favor, você deve aceitar isso como sua recompensa.
-Você realmente pretende enfrentar a ameaça estúpida?<NL>Não posso ser responsabilizado pelo que pode acontecer<NL>com você, sabe...
-Pelos Antigos!<NL>Você realmente está lidando com a ameaça estúpida!
+Você realmente pretende enfrentar o caveira?<NL>Não posso ser responsabilizado pelo que pode acontecer<NL>com você, sabe...
+Pelos Antigos!<NL>Você realmente está lidando com o caveira!
 Mas, a menos que você derrote outra <color:#1><quest_exb009:qs0006></color>, temo que seus esforços serão de pouca utilidade. Talvez você deva desistir enquanto ainda tem saúde...
 Você derrotou mais deles?<NL>Só falta mais um <color:#1><quest_exb009:qs0006></color>! Não desista agora!
 Você derrotou ainda mais deles? Só falta mais um <color:#1>um</color>! Não desista agora!
@@ -36522,8 +36522,8 @@ Missão concluída!
 Um comerciante idoso perto das fontes de leite em Al Mamoon parece estar preocupado com alguma coisa.
 Um comerciante idoso de Al Mamoon está preocupado porque suas linhas de abastecimento estão sendo atacadas.
 As mercadorias não podem ser entregues em Al Mamoon porque cabeças-duras estão atacando mercadores enquanto eles atravessam o deserto.
-Você derrotou <quest_exb008:qs0006> cabeças de osso, conforme solicitado pelo mercador em Al Mamoon.
-Você derrotou <quest_exb008:qs0006> cabeça de osso, conforme solicitado pelo mercador em Al Mamoon.
+Você derrotou <quest_exb008:qs0006> caveiras, conforme solicitado pelo mercador em Al Mamoon.
+Você derrotou <quest_exb008:qs0006> caveira, conforme solicitado pelo mercador em Al Mamoon.
 Você derrotou com sucesso dez cabeças de osso, como o comerciante em Al Mamoon pediu.
 Missão concluída!
 Um menino parado no portão principal de Al Mamoon parece estar esperando que alguém volte.
