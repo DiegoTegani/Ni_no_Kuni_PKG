@@ -24613,8 +24613,8 @@ Youer not going to just leave him like this, are you,<NL>Ollie-boy? Youer a fine
 But there's so much that needs doing, mun! Washing youer face, brushing youer teeth, and having a bit of breakfast, for a start!
 Ohh, my poor befuddled brain...
 Here, you've got a drop of <color:#1>enthusiasm</color> by there, en't it, Ollie-boy? Time to cast <color:#8>Give Heart</color>, I reckon!
-Neato! So you really weren't lazy, after all.<NL>You were just brokenhearted, huh?
 Oh, my! Suddenly, I feel wide awake and full of life!
+Neato! So you really weren't lazy, after all.<NL>You were just brokenhearted, huh?
 I was...? (gasp) But this is terrible! I...I...<NL>I haven't even eaten my breakfast yet!
 That's why my stomach is rumbling!<NL>And there are the fields to tend, too!<NL>Whatever have I been doing?
 Not a lot, pal. Not a lot.
@@ -24637,13 +24637,8 @@ That she must, Ollie-boy. And missing a healthy dose of <color:#1>enthusiasm</co
 Don't forget now, Ollie-boy: <color:#1>enthusiasm</color>, and fast!
 Don't be a heartless ape, mun!<NL>Give the pooer woman her enthusiasm back, will you?
 It's all so tiring! The cleaning, the washing, the shopping... Ugh...
-Would you listen to her! Whatever happened to the determined young woman I married?
-She suddenly got tired of it all, huh?
-That's right. How could my dear, dedicated wife have become so...lifeless?
 I think the lady here is missing a spot of the old <color:#1>enthusiasm</color>, Ollie-boy. Brokenhearted, she is,<NL>and no mistake.
-Haa... I think I'll just go home and have a nap...
 Whatever can be done?
-Here, you've got a drop of <color:#1>enthusiasm</color> by there, en't it, Ollie-boy? Time to cast <color:#8>Give Heart</color>, I reckon!
 Hm? Oh, my! What am I...?<NL>Whatever am I doing?
 My dear! How do you feel?
 Darling! Oh, goodness!<NL>What am I doing standing around like this?
@@ -24666,11 +24661,7 @@ Do I ever. Lacking <color:#1>enthusiasm</color>, she is, or I'm not tall and han
 Her friends must sure be worried about her, huh?<NL>And she can't go on cutting class...<NL>We have to do something!
 Then it's <color:#1>enthusiasm</color>-hunting time for you, my lad!<NL>Get to it!
 Leaving her in the lurch, is it? And the pooer dab's friends are probably worried sick about her, and all...
-Mmmyuh... School again...<NL>How purrfectly boring...
-What's wrong? You know every kid has to go to school, right?
-But it's such an awful lot of work...<NL>I just can't see the purrpose of it all.
 Looks like the pooer dab's lacking <color:#1>enthusiasm</color>, Ollie-boy. Well? You going to help her, or what?
-Mmmyuh... School again...<NL>How purrfectly boring...
 Righto, time to cast <color:#8>Give Heart</color> and serve up a dose of the old <color:#1>enthusiasm</color>!
 Mmmyuh? What time is it? Oh no! I'm going to be late!<NL>How purrfectly terrible!
 Then you should get going! I bet your friends can't wait to see you at school!
@@ -24684,7 +24675,6 @@ Oh no! I'm going to be late, too!<NL>Come on, we have to run!
 Come, we must protect our fields from the menace of the ravenous ruffs!
 I'm just not cut out for monster hunting...<NL>Maybe it's time I called it a day...<NL>The soldier's life just isn't for me anymore.
 But, Sergeant! Why would you say such a thing,<NL>all of a sudden?
-Is everything okay?
 It's the Sergeant. He's suddenly started talking about giving up soldiering.
 I just don't have any fight left in me.<NL>And the beasts...they scare me....
 Don't say that! What has happened to you?<NL>You used to be the bravest of us all!
@@ -24694,12 +24684,8 @@ Leave it to us! The Sergeant will be a brave soldier again soon, I promise!
 Do you really think you can help him?
 No sweat, mun! We'll go and grab a bit of <color:#1>courage</color>, and be back before you know it!
 Really? Fair enough, I s'pose...if you think he'll be all right, I mean...without a speck of <color:#1>courage</color> to his name...
-I'm just not cut out for monster hunting...<NL>Maybe it's time I called it a day...<NL>The soldier's life just isn't for me anymore.
-Is everything okay?
 It's the Sergeant. He's suddenly started talking about giving up soldiering. And to think he used to be the bravest of us all!
 Say, Mr. Drippy, you don't think the Sergeant has lost his <color:#1>courage</color>, do you?
-He certainly seems brokenhearted, en't it?<NL>What do you want to do about it, Ollie-boy?
-I'm just not cut out for monster hunting...<NL>Maybe it's time I called it a day...<NL>The soldier's life just isn't for me anymore.
 Here, you've got some <color:#1>courage</color>, en't it?<NL>Cast <color:#8>Give Heart</color> and hand it over, why don't you?
 Hm? Why, whatever's going on here?<NL>We should be out on patrol!
 Sergeant! You're back!
@@ -24707,9 +24693,7 @@ Neato!<NL>We saved him, huh?
 Thank you so much! I don't know how you managed it, but the Sergeant's back to his old self!
 It's not much, but please, accept this by way of thanks.
 Come, we must protect visitors to our realm from the scourge of the sleepeafowl!
-But, Sergeant! Why would you say such a thing,<NL>all of a sudden?
 What has happened to you?<NL>You used to be the bravest of us all!
-Thank you so much! I don't know how you managed it, but the Sergeant's back to his old self!
 Let's have a race to school!<NL>I bet I'll lick you easily!
 Mmmyoh, go away!<NL>I can walk to school on my own!
 What's wrong?<NL>Why don't we walk together like normal?
@@ -24723,9 +24707,6 @@ This time, it's <color:#1>kindness</color> she's lacking. Reckon you've guessed 
 You'll save the day again, won't you, Ollie-boy?
 If she goes on upsetting people like this, she won't have any friends left. We have to do something!
 Leaving her in the lurch, is it?<NL>There's selfish...
-Mmmyoh, go away!<NL>I can walk to school on my own!
-What's wrong?<NL>Why don't we walk together like normal?
-I'd have more fun changing my litter tray!<NL>Go away!
 Hey, don't talk like that! Wouldn't it be fun to walk to school with your friend?
 There's no mistaking the brokenheartedness on this little one. Missing a bucket or two of <color:#1>kindness</color>, she is.
 Why should I walk to school with you?<NL>You can go on your own, can't you?<NL>You're not a little baby! Mmmyugh!
@@ -24736,7 +24717,6 @@ Looks like you're okay now.<NL>Be nice to your friends now, won't you?
 I will, I purromise! It was you who helped me, wasn't it? Just like before, I mean... Here. This is for you.<NL>Thank you so much!
 Come on! Let's walk to school together! There's nothing like a lovely purromenade with your best friend, after all!
 All right! I won't let you beat me, though!<NL>On your marks... Get set...
-What's wrong?<NL>Why don't we walk together like normal?
 What's happened to her?<NL>She was so nice until yesterday...
 Yay! Come on!
 The Great Tug-o'-Tail Tournament begins soon... I had better start purracticing.
@@ -24755,9 +24735,6 @@ Tidy! That's the spirit, Ollie-boy!<NL>Now let's bag us a locketful of <color:#1
 Oh, like that, is it? Well, I s'pose it's not the end of the world, but still...
 Mmmyooohhh nooo... The Great Tug-o'-Tail Tournament begins so soon... What shall I do? I just know I'm going to put in a paw purrformance...
 If youer that worried about it, can't you just make youer excuses and pull out?
-Mmmyooohhh nooo, I can't... I won last year by a whisker, you see, and the champion has to enter...
-Huh? You're the champion?<NL>Then how come you're scared to take part?
-I know why, Ollie-boy. It's because a certain nasty piece of work has stolen ouer pooer friend's <color:#1>confidence</color>, en't it?
 Myooohhh nooo... It's no good...<NL>I'll never win it in my state...
 Looks like youer ready to cast <color:#8>Give Heart</color> and restore ouer friend here's <color:#1>confidence</color>. And not a moment too soon...
 Mmmyuh? I... What am I doing here? I should be purracticing for the Great Tug-o'-Tail Tournament!
@@ -24781,10 +24758,6 @@ Too right he is! He's had the <color:#1>love</color> stolen from his heart, en't
 Sure I will, Mr. Drippy!<NL>Let's go find some <color:#1>love</color>!
 Really? There's sad.<NL>Well, I s'pose you have youer reasons...
 Haa... What's wrong with me?<NL>I just don't want to be with my wife anymore...
-Jeepers... But they make such a swell couple...<NL>Why would he...?
-Use youer eyes, Ollie-boy!<NL>It's obvious, en't it?
-Hm? Of course!<NL>He's heartbroken, huh?
-Too right he is! He's had the <color:#1>love</color> stolen from his heart, en't he? Proper tragic, it is! You'll help, won't you?
 Come on, Ollie-boy! Cast <color:#8>Give Heart</color> and bring the <color:#1>love</color> back into their lives!
 ...Hmm? Where am I...?
 Are you okay?
@@ -24795,7 +24768,6 @@ But you don't want to dump youer wife anymore,<NL>en't it, though?
 Eurgh, come on, mun, for shame! I've only just had my lunch! ...S'pose that means he's better though, eh?
 Thank you! Thank you so much!<NL>Here, this is for you.
 I don't think we can be together anymore.<NL>I just need some time on my own.
-There's still a lot to do, but with a loving wife beside me, there's nothing I can't achieve!
 Not again...
 But we've come so far...<NL>Was it something I did?
 Ahh, now we can open our dream shop at last!
@@ -24874,9 +24846,7 @@ Thank you!<NL>Okay, just hold still a moment...
 How strange... My chest feels all fluttery...<NL>Anyway, I'd better think about purracticing!
 It's the Great Tug-o'-Tail Tournament soon!<NL>I didn't win a single match last time, but I can't wait to try again!
 Can't wait, eh? There's marvelous!<NL>Overflowing with <color:#1>enthusiasm</color>, this one is!
-Say, I don't suppose you'd mind if we borrowed some of your enthusiasm?
 Borrow it? How can you borrow it?<NL>Sounds purretty strange to me...<NL>Mmmyah, who cares!? I'm curious! Go fur it!
-Thank you!<NL>Okay, just hold still a moment...
 I'd better start doing some tug-o'-tail purractice!
 Ahh, another fine day!<NL>And soon I shall be off to work!
 Boy, you sure are full of beans!<NL>What line of work are you in, Mister?
@@ -24937,7 +24907,6 @@ Uh, say, Ma'am... We have a favor to ask...<NL>Would you mind?
 A favor? What kind of favor?
 You'd sure be helping us an awful lot if you'd let us borrow some of your belief...
 Borrow my belief?<NL>By all means—that sounds like fun!
-Thank you very much!
 Hm hm! That tickles! Oh, but my heart feels...all aflutter!<NL>How lovely!
 My husband is a brave explorer, and no matter how far away he goes, I know he'll always come home to me.
 Ahh, youer my kind of wife, you are—full to the brim with <color:#1>belief</color>!
@@ -24992,13 +24961,8 @@ Uh, thank you.
 Farewell! I eagerly await the day when my fabled love proves the salvation of all the beauties of this fair and virtuous world!
 I love all the damsels of the kingdom—nay, all the maidens of this fair world!
 Excuse me, Sir—may we have a little of the <color:#1>love</color> in your heart to give to someone who doesn't have enough?
-Hmm... This person who wants for love...<NL>Is she a fair maiden?
-Um, I guess she could be, sure...
-Then let it be so! I will gladly sacrifice a morsel of my most precious love for the sake of a damsel in distress!
-Uh, thank you.
 Oh, woe is me... Such a cruel, cruel choice...
 Mmmyohhh... Which pot did I put it in again?
-Is everything okay?
 Mmmwell, it's my purrecious treasure, you see...<NL>I can't remember which pot I hid it in.
 Gee, that's tough.<NL>What sort of treasure is it?
 My grandmother's <color:#1>red earring</color>.<NL>It's such a purretty color...
@@ -25039,9 +25003,6 @@ Thank you very much, you're a pair of purrfect<NL>little gentlemen!
 Mmmyohhh, that's a shame. And I was going to teach you something useful, too...
 I'm trying to make my doorway purrettier, and I'm thinking I might use some flowers.
 You are? What kind of flowers?
-Mmmwell, now... I want something nice and bright...<NL>And I'll need some fresh, clean water to give them, too.
-Mmmyaha! I know, you can help me!<NL>Can you spare the time? Purretty please?
-Now, I'll need you to bring me <color:#1>two plainswort flowers</color> and <color:#1>two bottles of springwater</color>, all right?
 Plainswort blooms in the hills <color:#1>to the southeast of town</color>, and springwater can be found <color:#1>beside rivers and lakes</color>.
 Mmmyoh my! You've found it all already!
 Yes, Ma'am! Are these the things you were looking for?
@@ -25058,14 +25019,12 @@ Ahh, a mother's life is never easy, no matter where you<NL>go, eh?
 You don't have a spare moment, do you?<NL>Could you go and find my boys for me?
 I'm sorry to put you to such trouble... But if you could let me know when you've found them, I'd be ever so grateful.
 Well, that's not very nice, is it?<NL>You should help others in need, you know.
-Goodness me! Wherever have those little rascals run<NL>off to now?
 Is something the matter?
 It's my boys. The <color:#1>three of them</color> have run off and not<NL>come back.
 You don't have a spare moment, do you?<NL>Could you go and find them for me?
 Thank you so much.<NL>I'm sure they're fine, but you know how it is...
 You helped my boy, didn't you?<NL>Thank you so much!<NL>You don't know what it means to me!
 I hope you find the other two soon!
-You helped my boy, didn't you?<NL>Thank you so much!<NL>You don't know what it means to me!
 I hope finding my other boy doesn't take up too much of your time!
 Thank you so much for finding all three of my boys!
 And you patched the little rascals up as well!<NL>You're a treasure! An absolute treasure!
@@ -25164,8 +25123,6 @@ Ah, it's you.<NL>Are you ready to take my research seriously?
 The subjects of my current study are beasts so ferocious that they cannot be caught.
 And due to the impossibility of capture, they can only be studied once they have been subdued in combat.
 Now, do you want to help the progress of science or not? The answer is "yes," by the way...
-The first is of the species <color:#1>grubby fug</color>. Its habitat is the island of <color:#1>Jack Frost's Playground</color>.
-This fearsome creature surrounds itself with a protective cloud of poisonous gas, and must be approached with the utmost caution.
 The next research subject is the <color:#1>auric collum</color>, which nests atop the <color:#1>Genie's Steps</color> to the southeast of the <color:#1>Shimmering Sands</color>.
 If my sources are to be believed, the body of this mysterious creature glows with a majestic golden hue.
 The last creature I require you to hunt is the <color:#1>shellmet</color>. I think you'll find it on the island of <color:#1>No Longer Mine, to the south of Autumnia</color>.
@@ -25239,10 +25196,7 @@ But you're my only hope, dear boy!<NL>Without you, I'm bally well scuppered!
 Oh, hello, dear boy! Why, I haven't seen you since...oh, it must be Castaway Cove, what?
 Well, I've news for you—I'm finally packing the traveling lark in and heading homeward!
 I made rather a splendid discovery that should top off my story nicely, so I'm calling it a day.
-I wrote the details down for posterity, of course. Let me just grab the old diary—
 ...Oh, I say! I could have sworn it was...<NL>Oh, blast and botheration!
-For goodness' flipping—<NL>No need to explain—we know the drill.<NL>Shall we, Ollie-boy?
-I went for a stroll in the countryside, dontcha know. <color:#1>Made a beeline south from town</color>, and ended up in a forest that was very deep indeed...
 I wandered on, deeper and deeper, and ended up by a <color:#1>rather large ruined door</color>. That's where I left it, I'll bet my bally arm!
 We found your diary, Sir...again!
 Jolly good show, old thing! Now I can retire to the old homestead and commit the tale of my travels to posterity at last!
@@ -25265,7 +25219,6 @@ Your custom is always apurreciated!<NL>Have a nice nap!
 Your custom is always apurreciated!<NL>Mmmyoh, you look a little...unusual.<NL>You're a traveler, I purresume?
 Then I encourage you to take a nap at each of our inns, wherever your travels may take you!
 We're very purroud of our deep and comfortable beds, and we hope you enjoy them as much as we do!
-Thank you very much!
 ...Eh? Look at youer Wizard's Companion—there's something different about it...
 Ah! There's useful! The memories of all the travelers who've stayed here have filled it back up a bit!
 Gee, I never expected that...
@@ -25358,7 +25311,6 @@ What's the matter with you, eh?<NL>Shouldn't you be looking for the King?
 Southward we go, to Golden Grove!
 After Golden Grove, it's on to Al Mamoon!
 Oi! En't you s'posed to be restoring the Spring of Life to its former glory?
-After Golden Grove, it's on to Al Mamoon!
 En't we s'posed to be going and meeting that Rashaad bloke?
 Come on, Ollie-boy!<NL>Let's get over to youer world!
 Get a move on!<NL>We've got to help Rusty, en't it!?
@@ -25418,7 +25370,6 @@ Let's get these boys back to the palace in Hamelin, shall we?
 The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
 We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
 We going back to the palace in Hamelin, or what, mun?
 Let's get some belief off that Marcassin, shall we?
@@ -25607,6 +25558,11 @@ Red Herring North 1
 Red Herring North 2
 Red Herring North 3
 
+pla-t02_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
+
 pla-t03_npc_text_en.cfg.bin.kup
 ...! .........!!!<NL>.........?
 Nice to see you again!<NL>Did you have fun crossing the desert?
@@ -25737,9 +25693,6 @@ No? Really? And you reckon these two'll be all right if we don't help them, do y
 Give my picture book back to me!<NL>Yesterday you told me you would return it!
 No! It is only a picture book—and a poor one at that!<NL>Who cares?
 You can't just keep the things other people lend you,<NL>you know.
-Ach! Stop bothering me and go away!
-Crikey, either he's had his heart broken and every ounce of <color:#1>kindness</color> squeezed out of it, or he needs putting over someone's knee!
-Ach! Stop bothering me and go away!
 You got some <color:#1>kindness</color> there, en't it? Cast <color:#8>Give Heart</color> and hand it over!
 Hm...? What... What happened? I intended to return the picture book, but then I...
 Truly? You meant to return it?
@@ -25774,7 +25727,6 @@ Tidy! Let's get to it then, shall we?
 Really? Youer just going to leave him in this lily-livered mess, are you...?
 I am so filled with terror that I am unable to depart on my journey of discovery...
 That doesn't sound like your average change of heart, huh, Mr. Drippy? Do you think he's...?
-Brokenhearted? I reckon he might be, Ollie-boy.<NL>Lacking in <color:#1>courage</color>, if I'm not mistaken.
 Here, you've got some <color:#1>courage</color>, en't it? Cast <color:#8>Give Heart</color> and hand it over, why don't you?
 ...By the beards of the Ancients! I am filled with a most powerful boldness! I fear neither beast nor man!
 I can endure any hardship if my efforts might further the advancement of ice cream!
@@ -25800,9 +25752,6 @@ That's decided, then! Let's get this boy a bit of heart to bolster his <color:#1
 Fair enough. It's sad to see him like that, but we're busy people, en't it? Maybe another time...
 I just can't help thinking that my beloved has given her heart to another... Ohhh! I'm so worried I can't think!
 Well, it doesn't take a doctor to tell that this fretful young fellow's suffering for want of a little <color:#1>belief</color>.
-Gee, he's in a real bad way.<NL>If only he could learn to trust her...
-We can't leave the pooer lad like this.<NL>We've got to help him out, en't it?
-Ohhh! I'm so worried I can't think!
 I guess I better cast <color:#8>Give Heart</color> and hand over that <color:#1>belief</color>, huh?
 Hm? I don't feel worried any more! How could I have doubted my beloved? I've been a complete fool!
 That you have, my lad, there's no denying it!<NL>Fretting like that won't get you nowhere!
@@ -25824,9 +25773,6 @@ Tidy. All you need to do is bring him some <color:#1>confidence</color>, and Bob
 I sure feel sorry for him, but we already have so much<NL>to do...
 None would part with their hard-won guilders for a picture so tasteless, so...ugly. It seems I have no talent, after all...
 I don't know...it looks pretty good to me.<NL>Why don't you let your customers decide?
-How can I, when it is so painfully apparent that I lack even the smallest grain of talent? It is time I put away my brushes for good...
-Ahh, so that's it, is it? I see, I see. He's brokenhearted, en't it, Ollie-boy? Lost his <color:#1>confidence</color>, he has.
-So you think we should help him out, huh?
 I have no talent after all.<NL>It is time I put away my brushes for good...
 Looks like youer ready to cast <color:#8>Give Heart</color> and restore ouer friend here's <color:#1>confidence</color>.
 By the Ancients! Why was I gripped so with doubt? With fear that I was not the artist I always believed myself to be?
@@ -25851,9 +25797,6 @@ We should help him out, en't it?
 Tidy! Where is the <color:#1>love</color>?<NL>You'd better find out!
 Youer just going to leave him like this, are you?<NL>There's charitable. And what do you think will<NL>happen to all those lovely babanas, hm?
 Perhaps my farming days are at an end...<NL>I have lost my passion for the babana...
-It seems kinda weird that he would just stop loving babanas all of a sudden, huh, Mr. Drippy?<NL>Do you think he might be...?
-Yeah, I reckon he might be, Ollie-boy. If you ask me, ouer friend here's lacking a bit of the old <color:#1>love</color>.
-We should help him out, en't it?
 You got some <color:#1>love</color> there, en't it?<NL>Cast <color:#8>Give Heart</color> and hand it over!
 What is this feeling...?<NL>I feel...better!
 By the Ancients! I must return to the farm immediately! My beloved babanas will wither and die without my care and attention!
@@ -25882,10 +25825,7 @@ Yep. Brokenhearted, she is. Robbed of the power to dream—drained of her <color
 What shall we do, Ollie-boy?<NL>We going to help her, or what?
 We can't leave her like this!<NL>We have to get her <color:#1>ambition</color> back!
 I sure feel sorry for her, but we already have so much<NL>to do...
-(sigh) I must leave the world of entertainment behind me. I cannot bring myself to practice anymore, let alone perform...
-Wh— But— You have talked of achieving fame as a singer since childhood! Did you not always tell me it was your greatest dream?
 Hmm... Looks like this young lady's been robbed of<NL>her <color:#1>ambition</color>...
-What shall we do, Ollie-boy?<NL>We going to help her, or what?
 Don't worry, Miss, I'm going to cast <color:#8>Give Heart</color> and give you back your <color:#1>ambition</color>.
 Wh-What is this sensation? It is as if a weight has been lifted from my soul! I must sing! I must sing, or my heart will burst!
 Whatever was I thinking? How could I ever have<NL>considered giving up my greatest passion!<NL>I must practice harder than ever before!
@@ -25912,19 +25852,15 @@ It should? Hmm...
 ...Yes. We have to cure him.<NL>We can't just leave people who need our help.
 En't it, though? Let's get a wriggle on and find us some <color:#1>enthusiasm</color> then, shall we?
 Can't be bothered to lend a helping hand, eh?<NL>Well, it's up to you, I s'pose...
-Who cares about the stupid shop? Selling things is such a lot of effort. Let's not bother anymore.
 Where's the fire you had when we set out from Ding Dong Dell? What's happened to you?
 He looks kinda...funny.<NL>Do you think there's something wrong with him?
 'Course there is, mun! He's brokenhearted, en't it? In need of a healthy injection of <color:#1>enthusiasm</color>, if I'm not mistaken!
 He is? Hmm...
-You got some <color:#1>enthusiasm</color> there, en't it? Cast <color:#8>Give Heart</color> and hand it over!
 Hm? Where am I? What was I doing...? Oh, that's it!<NL>We need to make enough money to open our dream shop!<NL>Let's get to work!
 Darling! You're back to your old self!<NL>Thank goodness!
 Sorry, my darling! Did I worry you? I'm so, so sorry.<NL>I'm better now. Let's get to work, shall we?
 Neato! We cured him!
 Thank you so much for helping me out.<NL>You deserve an extra special free gift!
-Who cares about the stupid shop? Selling things is such a lot of effort. Let's not bother anymore.
-Time to knuckle down and work hard! We need to make enough money to open our dream shop!
 Hmph! Whatever is the matter with you?
 I suppose I have no choice but to do all the work myself...
 I have to say, I'm very impressed.<NL>You're quite the little miracle worker!
@@ -25970,9 +25906,7 @@ Thank you very much, Sir!
 Oh-ho! What a marvelous sensation!<NL>My heart—my very soul—overflows with warmth!
 Soon I must purchase presents for my beloved grandchildren! Oh, I look forward so to seeing their smiles of gratitude!
 There's generous of him. You don't see <color:#1>kindness</color> like that every day.
-Uh, Sir, would you mind helping us out with something?<NL>It could save people in trouble.
 It could? Then how can I possibly refuse?
-Thank you very much, Sir!
 Ahh, I look forward so to purchasing gifts for my grandchildren! Each one is as precious to me as all the jewels of the world!
 By the beards of the Ancients! We punished them so severely last time, and yet they are back once more to sow unrest in the fields!
 What's the matter, Ma'am?
@@ -25989,8 +25923,6 @@ Thank you very much, Ma'am!
 How odd... My heart feels...light, yet...warm.<NL>It is a strange feeling, but not unpleasant.<NL>Is that all you need of me? Very well.
 I will not allow those evil creatures to ruin my livelihood and lay waste to my beautiful babana fields! I will destroy them!
 A woman her age fighting monsters? Blimey, she must have <color:#1>courage</color> coming out of her flipping ears, mun!
-Say, would you mind if we borrowed a little of your bravery to help people in need, Ma'am?
-People in need, you say? To see a child as young as yourself striving to do good in the world is a fine thing indeed! Borrow from me what you will!
 Thank you very much, Ma'am!<NL>Just hold still for one second...
 Soon I must go out on patrol!<NL>Our precious fields must not be left unprotected!
 It is getting late...<NL>Where can he be...?
@@ -26015,10 +25947,6 @@ Perhaps I have overstretched myself...<NL>I cannot face this foe alone...
 Yes. I must ask Swift Solutions to locate a bounty hunter worthy of the task.
 The infernal titan may be a mighty foe, but injured or not, I will drive him out! He will harm my people no more.
 Well, he's not lacking for <color:#1>courage</color>, this one.<NL>But you need to give it a rest, pal, or youer going to get youerself proper done in.
-There is no time to rest!<NL>If the beast is not defeated soon, then—
-Oh, for flip's sake! Fine! Go and get youerself bashed up even more! Ollie-boy, cast <color:#8>Take Heart</color> before he runs off to get walloped, will you?
-Huh? Oh, sure!
-Perhaps I have overstretched myself...<NL>I cannot face this foe alone...
 Welcome to Al Mamoon, jewel of the desert!
 Your journey across the sands must have been a tiring one. Please, make yourselves at home in our fair city.
 Ach, it is hot...so fiercely hot...
@@ -26039,8 +25967,6 @@ This sensation...it is...intriguing...<NL>And I feel...cooler. Incredible...
 I am proud to serve my country, and protect the peace of our great realm! I would endure any amount of ferocious sunshine for the glory of Al Mamoon!
 Flipping heck, he's sweating like a drain, mun!<NL>He must have some serious <color:#1>restraint</color> to be able to stand there like that. Oi, Ollie-boy, grab some, en't it!
 Sure. Excuse me, Sir. There are people out there who have lost their restraint, and I was hoping we might borrow some of yours to help them out...
-Your words mystify me. But if I can be of help to those in need, I will gladly assist you.
-Thank you so much, Sir!
 I must continue to stand guard over the glorious realm of Al Mamoon, and to keep the peace of our beloved kingdom!
 This will be my next big seller, I am sure of it.<NL>Yes, I must stock up on these...
 Whatever do you mean, husband!? Do you not remember the last time? I will not be left with box upon box of unsold items again!
@@ -26067,10 +25993,6 @@ I have caused my dear wife much worry... Perhaps I<NL>should think a little more
 Am I really hearing these words coming from your mouth, husband? This is thanks to you, is it not, boy? Truly, you are a worker of miracles!
 This will be my next big seller, I am sure of it. Yes, I must stock up on these... My instincts do not lie! I have the utmost confidence!
 Uh, excuse me, Sir...<NL>Could we maybe borrow a little of your <color:#1>confidence</color>?
-Hm? Borrow my confidence...?<NL>Whatever do you mean?
-Well, uh, we could maybe help you stop taking such big risks with your big sellers...
-Ha ha ha! I doubt even the Ancients had the power to perform such miracles! But you are welcome to try!
-Thank you. Could you hold still for just a moment?
 Yes, I see now that guaranteed sales of staple items form the basis of sound commerce...
 Hmm... If the desert continues to grow at this rate, the oasis on which the town relies will surely...
 We must act swiftly to prevent such an occurrence...<NL>Yes, I must continue my research...
@@ -26095,9 +26017,6 @@ Thank you. With your support, I am sure I can achieve my goal at last!
 Perhaps I am merely dreaming, but my ambition is to discover plants that can grow even in the arid expanse of the desert.
 Wow! That's some <color:#1>ambition</color>, huh, Mr. Drippy?
 En't it, though!
-Say, Mister, could you let us have some of your ambition so that we can help out people who need it?
-It will help those in need, you say?<NL>Then of course you may have some!
-Thanks so much!
 I must continue my research!<NL>For the glory—and the future—of Al Mamoon!
 Oh, it is a tragedy! How will my poor darling dear<NL>ever survive?
 Something the matter, love?
@@ -26114,10 +26033,8 @@ You want us to take it to <color:#1>Golden Grove</color>?<NL>Sure! Leave it to u
 You will aid me in my hour of need? My little hero! Here, this is the lunch I prepared for my best beloved with all the devotion of a faithful wife!
 You must not be tempted to try it, no matter how delicious it may smell! It is a meal for lovers only!
 You will not help me in my hour of greatest need?<NL>By the Ancients! Whatever am I to do...?
-My soul, my one, my only dearest husband has traveled to Golden Grove in search of delicious mushrooms—but he has forgotten to take his lunch!
 And the wild beasts of the forest prevent me from delivering it to him myself! Oh, whatever shall I do?
 Gee, he must be real hungry by now.
-It is a great inconvenience, I am sure, but this is an emergency! Please, you must deliver my dear darling husband's lunch to him!
 I hope my dearest darling husband has not collapsed with hunger... Oh, I am so worried! So very, very worried for my love!
 We delivered your husband's lunch, Ma'am!
 You did? Oh, you marvelous, marvelous boy!<NL>You truly are my little hero!
@@ -26127,7 +26044,6 @@ I must thank you somehow...<NL>Ah, yes. Here!
 Ohhh, will my dearest darling, darling dear never come home? I do miss him so...
 It is truly marvelous to be newly married!<NL>Such exquisite happiness!
 Ohhh, this will never do...<NL>It is bad for business. Very bad...
-What's the matter, Ma'am?
 The desert is filled with marauding <color:#1>boneheads</color>!
 The traveling merchants who bring us fresh goods are being attacked. I fear that soon our lines of supply will be severed entirely!
 If only there were someone who could rid us of those skeletal scoundrels...
@@ -26143,7 +26059,6 @@ Sure! Let's do it, Mr. Drippy!
 It is for the best.<NL>This is no job for mere children.
 Brazen <color:#1>bonehead</color> bandits have been assaulting wandering merchants making their way across the desert sands.
 Without the supplies they bring us, we will lose<NL>our livelihoods...
-Seems like they're in a proper pickle, eh, Ollie-boy?<NL>Shall we offer a helping hand?
 Hahahahaha! Oi, Doubting Dilys, we battered those ten <color:#1>boneheads</color> for you easy-flipping-peasy!
 By the beards of the Ancients!<NL>Y-You...? But...how...?
 Now your supplies can get through safely, Ma'am!<NL>Have a nice day!
@@ -26176,9 +26091,7 @@ Thank you! One of my pigeons has returned to me!<NL>Now only <color:#1>two</colo
 Thank you! Two of my pigeons have returned to me!<NL>Now only <color:#1>one</color> is missing!
 I send my pigeons out to deliver messages across the land.
 Unfortunately, several have failed to return.
-Gee, I sure hope nothing bad has happened to them.
 No, no. This has happened before. I am sure they are merely loitering somewhere. But I have messages for them to deliver...
-If you have time, would you be able to find them for me?
 Hey, this bird—is it...?
 Look at that, mun! This pigeon en't scared of people at all! Tame as anything, he is!
 Hey, look at his little face!<NL>D'you think he's...?
@@ -26219,7 +26132,6 @@ Coo hoo hoo! I made it back home!<NL>Aren't I clever?
 I'm so sad I made my master worry.<NL>I'll never be late home ever again.<NL>Coo! Coo!
 Coo... It's so hot. It's always so hot. I'd love to go and have a nice bird bath in the oasis...
 Curses... I lack the necessary ingredients...<NL>What to do, what to do...?
-Is everything okay?
 The recipe for the most legendary of Mamooni dishes has come into my possession, but I do not have the ingredients it requires...
 What kind of dish is it?
 It is known as the <color:#1>tikka mahala</color>.
@@ -26236,7 +26148,6 @@ Well that sounds like a good place to start, eh? Let's shake a leg and find ouer
 If you have any further questions, please do not hesitate to ask. Good luck, friends!
 And to think I was so close to recreating the most fabled of all curries... Such a disappointment...
 Curses... I lack the necessary ingredients...<NL>What to do, what to do...
-Is everything okay?
 The recipe for the most legendary of Mamooni dishes, the <color:#1>tikka mahala</color>, has come into my possession.
 But I lack the ingredients necessary to complete this fabled curry.
 Perhaps you would be kind enough to gather the ingredients for me?
@@ -26252,7 +26163,6 @@ This is surely not enough to compensate you for your troubles, but please, I mus
 Welcome, welcome! Please, take the weight off your feet and sample some of my fine curries!
 I have it at last! Now I can revive the legendary tikka mahala! I have waited my whole life for this moment!
 It is no good. Without a model to inspire me, I shall never complete it...
-What's wrong?
 The picture I am currently painting... I cannot seem to get it right, no matter how hard I try. The wellspring of my vision has run dry...
 It has, huh? What kind of picture is it?
 It is a study of the fierce and noble beauty of <color:#1>a girl child, wild as the hills and forests of our fair land</color>!
@@ -26264,8 +26174,6 @@ Will you find me a model who embodies my vision, and bring her to me?
 Thank you! You are truly a patron of the arts!
 The child I seek is <color:#1>a girl, wild as the hills</color>—a forest dweller, perhaps? She has short hair...and a necklace! Yes, the necklace is most important.
 You will not? Then I have no choice but to find her myself. My apologies for troubling you.
-It is no good. Without a model to inspire me, I shall never complete it...
-What's wrong?
 I am trying to paint <color:#1>a girl child, wild as the hills and forests of our fair land</color>, but I cannot seem to capture<NL>her likeness.
 If I could only find a suitable model, perhaps I would be able to shake off this creative malaise!
 Will you help me to complete my masterpiece? Will you find me a model who embodies my vision, and bring her to me?
@@ -26300,28 +26208,19 @@ Very well. The first delivery is to the <color:#1>Sheikh of Spice</color> here i
 No worries, mun!<NL>Leave it to Ollie's Delivery Service!
 You will not help? Curses...<NL>I was counting on your aid...
 Will you at least enjoy some of my curry while you<NL>are here?
-Phew! So much still to do!<NL>I must hurry!
-You sure look busy today...
-I am indeed! My tikka mahala has proved so popular that I have almost more orders than I can meet!
-Perhaps if you have time, you might consider helping me?
 I need someone to deliver curries to the people who have ordered them...
 The first delivery is to the <color:#1>Sheikh of Spice</color> here in Al Mamoon. Please, it must be delivered to him with all haste!
 Ah, but perhaps you will enjoy some curry before you go?
 The next delivery is to <color:#1>the most illustrious personage in all of Castaway Cove</color>! Please, it must be delivered with all haste!
-Ah, but perhaps you will enjoy some curry before you go?
 The next delivery is to <color:#1>one who prides himself on selling every item under the sun</color>! Please, it must be delivered with all haste!
-Ah, but perhaps you will enjoy some curry before you go?
 The next delivery is to <color:#1>one who is all bones</color>!<NL>Please, it must be delivered with the utmost haste!
-Ah, but perhaps you will enjoy some curry before you go?
 The next delivery is to <color:#1>one who dwells in the forest to the west of Ding Dong Dell</color>! Please, it must be delivered with all haste!
-Ah, but perhaps you will enjoy some curry before you go?
 Welcome back!<NL>The delivery went well, I trust?
 I wish I were able to allow you a moment's rest.
 But there are still customers awaiting deliveries of delicious curry! Will you oblige me once more?
 Sure we will!<NL>Who's next on the list?
 The next delivery is to <color:#1>the most illustrious personage in all of Castaway Cove</color>!
 Castaway Cove. Got it!<NL>We'll be right back!
-Welcome back!<NL>The delivery went well, I trust?
 So sorry, but I have another order for you to deliver.<NL>The next is for someone in the Empire of Hamelin.
 Hamelin!? Jeepers, the orders sure are coming in from<NL>far away!
 Who exactly is it for?
@@ -26329,7 +26228,6 @@ Let me see, now... Curses! I have been so busy that my notes are in terrible dis
 I cannot find the name, but it is for <color:#1>one who runs a shop that prides itself on selling every item under the sun</color>!
 Well, that's not very helpful, is it, mun? You reckon we'll be able to deliver it based on that load of garbled old nonsense, do you?
 We'll just have to do our best!
-Welcome back!<NL>The delivery went well, I trust?
 Hamelin is very far from here. Without your help, I could never have completed the order. Truly, you are my savior!
 And I am afraid you will have to come to my rescue once more. I have just received another order. I hope you can oblige me.
 Sure we can! Who is it for this time?
@@ -26338,7 +26236,6 @@ Let me see, now...it was for, um...<color:#1>one who is all bones</color>! Yes..
 Jeepers. It sounds like he needs that food real soon.<NL>I hope we can get it to him in time...
 I seem to remember his location being somewhere that sounded most dark and foreboding...
 Dark and foreboding. Got it!<NL>We'll be right back!
-Welcome back!<NL>The delivery went well, I trust?
 It sure did!<NL>Where to next, Sir?
 Ha ha! You had guessed there would be another, I see.<NL>But thankfully, this will be the last.
 The customer is <color:#1>one who dwells in a lost village hidden deep in a forest to the west of Ding Dong Dell</color>.
@@ -26380,10 +26277,7 @@ Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so plea
 Run along, then. Bring them both back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 Don't worry, speccy! We'll be back with the beasties before you can say "cryptozoology"!
 You don't want to be part of scientific history?<NL>Your loss...
-Interesting. Very interesting. Unless I'm very much mistaken—which, of course, I'm not—you keep familiars. Am I correct?
-Uh, yes. But...<NL>Why do you ask?
 How would you like to help advance the field of familiarology?
-I would like to offer you the exciting opportunity to assist in some groundbreaking research by taming certain creatures, and bringing them to me for study.
 Excellent. Oh, yes. Just look at that...
 The bunching of the babaniform protuberances...possibly for defensive purposes? And the rich purple of the turban...I think you'll find that's to discourage predators...
 Yes, these are indeed the creatures I wished to study.<NL>Not the best specimens, perhaps, but they'll do...
@@ -26394,15 +26288,8 @@ It's no use, mun. Speccy here's in a world of his own. Come on, let's leave him 
 ...Oh. Here.
 It certainly looks like a bunch of unripe babanas... Yes. This is the one.
 Now, where's the other one? The one with the <color:#1>purple turban</color>? I think you'll find I instructed you to bring me two species.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring them both back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 Well, it certainly seems to be wearing a purple turban... Yes. This is the one.
 Now, where is the one that <color:#1>resembles a bunch of unripe babanas</color>? I think you'll find I instructed you to bring me two species.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring them both back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
-I need to collect data on <color:#1>a species of creature said to resemble a bunch of unripe babanas</color>, and <color:#1>one that wears a purple turban</color>.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring them both back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 I really made some rather excellent observations there, even if the specimens you brought me were somewhat inferior...
 Collecting data in these arid climes can be a struggle even for the most dedicated scientist. But I think you'll find it pays dividends...
 Oh, I say! It's the young fellow I met in Ding Dong Dell! And here you are again, old thing! What are the chances, eh? Jolly good to see you!
@@ -26413,7 +26300,6 @@ Hardly! As my maiden aunt always remarked, I'm not the most courageous of fellow
 And jolly well worth it, it was, too! It inspired me to write rather a marvelous little passage for my memoirs. Let me recite it to you...
 ...Oh, bother!
 ...Oh, dash and bother and confound it all!
-What's wrong?
 Well, ah...I seem to have misplaced the old diary yet again, dashed fool that I am...
 Jolly embarrassing, of course, given my solemn promise to you last time we met. I must seem rather a scatterbrained old lemon...
 I say, you couldn't come to the aid of the party once more, could you, old stick?
@@ -26425,13 +26311,9 @@ Having been somewhat lost in the mists of creativity, of course, quite which tre
 Find the tree, and you'll find my diary, sure as eggs is eggs! Thanks awfully, old boy!
 Well now, that's rather mean-spirited of you, I must say. Schools these days really are turning out the most frightful young ingrates...
 Jolly good to see you again, old stick! Did I mention I've just been on a jaunt up the old volcano?
-Jeepers! You climbed Old Smoky!?
-Hardly! As my maiden aunt always remarked, I'm not the most courageous of fellows. But I did pootle around the foot of the old place a little, what!
-And jolly well worth it, it was, too! It inspired me to write rather a marvelous little passage for my memoirs. Let me recite it to you...
 ...Oh, dash and bother and confound it all! I seem to have misplaced the old diary yet again, damned fool that I am...
 I say, you couldn't come to the aid of the party once more, could you, old boy?
 If my suspicions are correct, I dropped it while composing a little something under <color:#1>a tree at the foot of the old volcano</color> there.
-Having been somewhat lost in the mists of creativity, of course, quite which tree escapes me. I didn't venture too far up the slopes, mind you...
 Sorry to keep you waiting, Sir!<NL>This is your diary, isn't it?
 Oh, I say! You are a marvel!<NL>A treasure! A brick of the first order!
 Try not to lose it again, okay?
@@ -26550,7 +26432,6 @@ Let's have a look round the shops in Al Mamoon, shall we? We're bound to find so
 Even the Cowlipha's brokenhearted... That Shadar's got a lot to answer for. A heckuva lot...
 D'you get the feeling we're being watched? Ahh, it's probably nothing. Just one of my fans or something...
 That Abull fellow had a proper heartful of restraint, didn't he? I should have known, mun...
-Crikey! The sight of her face when she was stuffing that cheese down! I've seen less scary Nightmares!
 That Abull bloke looked proper put-upon, eh? I reckon he must have restraint coming out of his flipping ears, mun!
 Come on, mun, let's give the Cowlipha her restraint, back, en't it?
 All we need to do is hand over that restraint, and— boom!—job done!
@@ -26585,7 +26466,6 @@ Let's get these boys back to the palace in Hamelin, shall we?
 The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
 We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
 We going back to the palace in Hamelin, or what, mun?
 Let's get some belief off that Marcassin, shall we?
@@ -26680,15 +26560,85 @@ Purrprietor
 Taskmaster
 Hootenanny
 Cawtermaster
+掲示板
+マル
 Rashaad
 Horace
 Prince Ali
 Princess Yasmina
 Sheikh of Spice
+行商人（夫）
+行商人（妻）
 Raj
 Con the Artist
 Derwin
+ハト01
+ハト02
+ハト03
 Wolf Flower
+qs0040大富豪
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
+npc_025
+npc_026
+npc_027
+npc_028
+npc_029
+npc_030
+npc_031
+npc_032
+npc_033
+npc_034
+npc_035
+npc_036
+npc_037
+npc_038
+npc_039
+衛兵
+npc_041
+npc_042
+npc_043
+npc_044
+大道芸人
+npc_049
+npc_051
+ハト1
+ハト2
+ハト3
+ハト4
+ハト5
+ハト6
+ハト7
+ハト8
+ハト9
+シズク
+
+pla-t03_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
 
 pla-t04_npc_text_en.cfg.bin.kup
 ...!<NL>.........!
@@ -26720,7 +26670,6 @@ Gee, thanks Horace!
 Now, I think it's about time I had a look around this mechanical metropolis, so I'll be off.
 When I get tired of all the smoke and noise, I'll be<NL>ready to try an island with a little more in the way<NL>of natural beauty...
 See you again soon.
-When I get tired of all the smoke and noise, I'll be<NL>ready to try an island with a little more in the way<NL>of natural beauty...
 Just one last push, and the cure shall be complete! Ah, to see the smile on my dear sister's face will make it all worthwhile!
 Well, there you have it.<NL>It was all an utter waste of time.
 A waste of time?<NL>What do you mean, Sir?
@@ -26786,7 +26735,6 @@ There's no time to lose, mun.<NL>Let's restore his <color:#1>restraint</color>, 
 Are you just going to let this pooer lad snooze himself out of a job? Proper harsh, that is!
 The work's piling up... (yawn)<NL>Oh...if I could just have forty winkzzz... Zzz...
 Oi! Stop sleeping on the job, or get used to not having one!
-Hey! Wake up, Mister!<NL>Your boss will fire you if you don't!
 I-I'm so sorry, Guvnor! It's not that I don't want to work, honest! It's just that when I get tired, I can't... I can't resist... I can't rezzz... Zzz...
 I've got it! What Sleeping Beauty's missing is some good old-fashioned <color:#1>restraint</color>!
 There's no time to be lost, mun. Flex that wand of youers, cast <color:#8>Give Heart</color>, and restore his <color:#1>restraint</color>!
@@ -26811,17 +26759,13 @@ Jeepers. What if he stops letting people through the gate? We have to find him s
 Use youer head, Ollie-boy! If we don't help him,<NL>he'll stop folks from going through this gate.
 Oi! You in the cape! Stop right there!<NL>I know a spy when I smell one!
 N-No, you've got it all wrong, Sir!<NL>I'm not a spy!
-Hold on! You're another one, aren't you?<NL>I've uncovered a whole spy ring!
 Youer accusing the Lord High Lord of the Fairies<NL>of being a spy? A lovable character like me!?
-Enough of your chatter! You're not from Hamelin, therefore you're a spy! End of bleeding story!
-Oh, knickers! Either this guard's brokenhearted,<NL>or I'm a flipping spy! The suspicious so-and-so's<NL>lost his <color:#1>belief</color> in people, en't it?
 Come on, Ollie-boy! You know the drill!<NL>Cast <color:#8>Give Heart</color> and give this guard his <color:#1>belief</color> back.
 ...Hm? I-I say...<NL>What in the world have I been doing?
 Neato! It looks like you're back to normal!
 I'm sorry I doubted your intentions.<NL>I don't know what came over me.
 By way of apology, I'd like to give you this.
 If you don't hail from Hamelin, you must be a spy!
-Everything seems to be in order.<NL>Just the way I like it!
 My research is coming on in leaps and bounds!<NL>With my trusty assistants by my side, we shall make Hamelin the envy of the entire world!
 Confound it! I am coming to the end of my tether!
 What's the matter, Sir?<NL>You don't look too happy...
@@ -26836,9 +26780,6 @@ Come on, Mr. Drippy! Let's help him get his research back on track!
 There's good of you! Now we just need to find ourselves a bit of <color:#1>belief</color>.
 Well, we have got plenty on ouer plate, I s'pose... I just can't help feeling sorry for those pooer assistants of his.
 My research is in the most frightful rut.
-I know there are limits to what one man can achieve,<NL>but I simply cannot trust my feckless assistants.
-You can't do it all on your own, Sir!<NL>You need other people to help you!
-If only I could afford that luxury. If I were to leave my assistants to their own devices, they would steal my data and sell it to the highest bidder!
 Hmph. This fellow here's brokenhearted, and it's<NL>his <color:#1>belief</color> that's in short supply.
 All right, I'm gonna cast <color:#8>Give Heart</color> and give this man his <color:#1>belief</color> back!
 Hm? I must have been daydreaming... How could I, when there is research to be done! I can't leave it all to my faithful assistants.
@@ -26860,10 +26801,7 @@ I don't know what he's researching, but it'd be a proper shame to see him just g
 We can't just watch him throw away his life's work!<NL>We have to help him out, Mr. Drippy!
 Well, in that case, he's going to need an emergency injection of <color:#1>confidence</color>. Get to it, Ollie-boy!
 Seems a shame to leave him so down in the dumps when he was about to get back to work...
-I fear my life's work has all been in vain.<NL>I have decided to abandon my research.
-But Sir, weren't you going to make it up to your assistants by working even harder than before?
 I have no gift for research. While progress marches on toward a brighter tomorrow, I remain yesterday's man.
-B-But...you said your research was going so well...
 This fellow's brokenhearted. Lost his <color:#1>confidence</color>, he has. We have to help him, mun!
 All right, Mr. Drippy—I know what to do! I just use <color:#8>Give Heart</color> to restore his missing <color:#1>confidence</color>, right?
 How curious! My chest feels delightfully tingly.<NL>...Now what was it I was so worried about?
@@ -26871,7 +26809,6 @@ Never mind! There is not a second to waste!<NL>I must continue my research!
 Neato! You got your confidence back!
 Have you come to my aid once again?<NL>I don't know how to thank you.
 ...On second thought, perhaps I do.<NL>Please accept this small token of my gratitude.
-I fear my life's work has all been in vain.<NL>I have decided to abandon my research.
 I am convinced that I am on the verge of making<NL>a truly astounding discovery! I must crack on with my research. Onwards!
 Grrr! Rrrargh!
 Ruff! Ruff, ruff!<NL>Grrraaarrrgh!
@@ -26889,12 +26826,7 @@ Jeepers! You mean pets can be brokenhearted, too!?
 'Course they can! If you've got a heart, then it can be broken, en't it?
 Right then! We'd best find a nice, juicy lump of <color:#1>love</color> for Fido here before he eats someone.
 We can't just leave him like this! What if he gobbles up one of these juicy-looking porky fellows by here!?
-Grrraaargh! Rrrargh! Rrrargh!
-That's enough, boy! Stop that infernal racket!<NL>...Why won't you do as you're told?
-Whatever's got into him?<NL>He used to be so quiet and obedient...
 Flipping heck! That mutt's heart is broken!<NL>It's lost its <color:#1>love</color> for its owner by the looks of it.
-Jeepers! You mean pets can be brokenhearted, too!?
-'Course they can! If you've got a heart, then it can be broken, en't it?
 Right! Get out youer wand, cast <color:#8>Give Heart</color>, and put a bit of <color:#1>love</color> back into that pooer pooch's life!
 ...Aroo? (sniff)<NL>...Uff! (pant)
 Hm? He's finally stopped his infernal barking!<NL>Good boy! Do you know, I think he might be back<NL>to his old self!
@@ -26923,8 +26855,6 @@ In that case, we need to track down a generous<NL>measure of <color:#1>ambition<
 So we came all this way just to leave the pooer bloke in the lurch, is it?
 (sigh) No matter what I do, I feel so empty inside.<NL>What was my life's work in aid of?
 Say, you don't look so happy, Mister.<NL>Are you worried about your research?
-Research? Pah! I have called it a day, I'm afraid.
-Huh!? But why would you do that?
 He's been robbed of his <color:#1>ambition</color>, mun! He'll never finish his research without it, pooer beggar!
 Okay, it's time to cast <color:#8>Give Heart</color>, and give him back the <color:#1>ambition</color> he's missing!
 Why, there they are! I can see them, clear as day!<NL>My goals! My ideals! My dreams!
@@ -26933,7 +26863,6 @@ It sure is swell to see you with all your old dreams<NL>back, Sir!
 I do believe you have come to my aid once again.<NL>There are no words to express my gratitude.
 ...But I do have this!<NL>I trust it will be to your liking.
 I have lost sight of my goals, the high ideals that first inspired me to do my bit for progress.
-This is no time for idle chitter-chatter!<NL>It's full steam ahead for my research!
 Oh, it's you! Thank you so much for all you've done for us both!
 Now, we've been scrimping and saving, and almost have enough money to open our dream shop. We just have to decide on a location...
 ...But first I'm going to fill my face with cake! (burp)<NL>Then I'll eat ice cream till it comes out of my ears!<NL>And then... And then...
@@ -26949,9 +26878,7 @@ Sure, Mr. Drippy. We need to give her some <color:#1>restraint</color>, fast!
 Youer just leaving her? But they'll never open their dream shop if you let her scoff all their savings!
 (belch) First I'm going to fill my face with cake!<NL>Then I'll eat ice cream till it comes out of my ears!<NL>And then... And then...
 H-Haven't you had enough?<NL>You can't go on eating like this, dear...
-We've saved up a bit of money, haven't we?<NL>Let me enjoy it!
 What are you on about? We scrimped and saved that money to open our dream shop!
-There's no doubt about it. It's <color:#1>restraint</color> this lady's lacking.
 You know the drill, Ollie-boy! Cast <color:#8>Give Heart</color>, and serve her a healthy portion of <color:#1>restraint</color>!
 Oooh, I feel all warm and tingly inside!<NL>...But also a little...full. Whatever have I been doing?
 This money was to get our dream shop off the ground!<NL>I can't just keep eating into our savings!
@@ -27006,10 +26933,8 @@ Well, he's shown you how it's done! Follow his lead, and you and Phil will still
 Ha ha! You know, Mr. Drippy, you say really smart<NL>things sometimes.
 ...Sometimes? SOMETIMES!? I'm a flipping fount of wisdom, I'll have you know!
 I was only too happy to give my job to my best friend.<NL>I would do anything to help him out.
-This here is no run-of-the-mill fellow.<NL>His heart's fit to burst with <color:#1>kindness</color>!
 Say, Mister, would you mind sharing some of<NL>your kindness?
 Share my kindness!?<NL>Well, if such a thing is possible, then why not?<NL>I would be happy to assist you.
-Thank you, Mister!
 Now then! I must find myself some gainful employment!
 Righto! I must ensure everything's in order for the royal procession. So much to do, so little time!
 Splendid! All seems to be in order!<NL>Just the way I like it!

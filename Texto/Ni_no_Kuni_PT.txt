@@ -24489,14 +24489,14 @@ menininha
 ???
 
 pla-d20_npc_text_en.cfg.bin.txt
-Aqui está, senhor!<NL>Um caril tikka mahala!
+Aqui está, senhor!<NL>Um curry tikka mahala!
 Afinal! Mwahahahaha!
 O lendário tikk-kk-kk-kka mahala ccc-curry que todo mundo fala kk-rei! Ahh... Que aroma!
 Puxa! Todo mundo parece amar essas coisas!
 Eles certamente fazem!
 Todos os meus clientes ccc têm dito que seu sabor é absolutamente para VIVER!
 Eu não achava que esqueletos precisavam comer. <NL>Como você sente o gosto das coisas, então? Sem língua, tipo?
-Não pode perguntar coisas assim, Sr. Drippy!<NL>Desculpe-me, senhor. Aqui está o seu caril!
+Não pode perguntar coisas assim, Sr. Drippy!<NL>Desculpe-me, senhor. Aqui está o seu curry!
 Obrigado!<NL>Mal posso esperar para comer!
 Ótimo! Espero que você goste!
 Há um novo tipo de ccc-curry sobre o qual todo mundo está falando. Minha morte não será completa até que eu experimente!
@@ -24938,7 +24938,7 @@ Aqui, você tem uma picareta ou algo com que eu possa cavar? Acho que posso ver 
 O pong... está vindo daquele esqueleto, não é? Eu não sabia que eles podiam suar! Você acha que devemos dizer alguma coisa? Nah, muito embaraçoso.
 
 pla-d60a_npc_text_en.cfg.bin.txt
-Aqui você vai! Entrega especial!<NL>Um caril quente!
+Aqui você vai! Entrega especial!<NL>Um curry quente!
 Rapaz ruivo... Traz-nos "curry"...<NL>Comida picante... Só se ouve nas lendas...
 O-Ok! Bem, espero que gostem!
 Comida ardente... Cheira bem! Muito bom!<NL>Quer comer... agora!
@@ -31178,7 +31178,7 @@ Vejo você em breve!
 Vou para algum lugar com uma brisa do mar revigorante. Parece que me lembro que havia um lugar como aquele do outro lado do deserto...
 Não se preocupe com minha amada princesa.<NL>Vou cuidar dela de agora em diante.
 Ha ha ha! Minha amada princesa é totalmente devotada à deliciosa babana!
-Eu mesmo prefiro as especiarias revigorantes dos caril ardentes de Al Mamoon.
+Eu mesmo prefiro as especiarias revigorantes dos curry ardentes de Al Mamoon.
 Saudações, amigos! Aqui em Al Mamoon, a história de minha amada princesa e eu é frequentemente contada.
 Mas sempre que ela ouve, minha querida não pode deixar de se gabar de saber de outro capítulo. Temo que as pessoas possam começar a suspeitar de algo...
 Amada Princesa!<NL>Eu a protegerei deste dia até o meu último!
@@ -31782,7 +31782,7 @@ Beleza! Eu não posso esperar, você pode, Olliezinho?
 Eu com certeza não posso! Rapaz, ah rapaz!
 Você tem minha eterna gratidão. Graças a você, o tikka mahala não é mais uma relíquia do passado, mas uma parte viva da cultura Mamooni!
 Isso certamente não é suficiente para compensá-lo por seus problemas, mas, por favor, devo lhe dar algo pelo que você fez por mim.
-Bem-vindo bem vindo! Por favor, tire o peso dos pés e experimente alguns dos meus caril finos!
+Bem-vindo bem vindo! Por favor, tire o peso dos pés e experimente alguns dos meus curry finos!
 Finalmente consegui! Agora posso reviver o lendário tikka mahala! Esperei minha vida inteira por esse momento!
 Isso não é bom. Sem um modelo para me inspirar, nunca o completarei...
 O que está errado?
@@ -31837,7 +31837,7 @@ Ufa! Tanta coisa ainda a fazer!<NL>Tenho que me apressar!
 Você com certeza parece ocupado hoje...
 Eu sou de fato! Meu tikka mahala provou ser tão popular que tenho quase mais pedidos do que posso atender!
 Talvez se você tiver tempo, você pode considerar me ajudar?
-Preciso de alguém para entregar caril às pessoas que os encomendaram...
+Preciso de alguém para entregar curry às pessoas que os encomendaram...
 A primeira entrega é para o <color:#1>Sheikh of Spice</color> aqui em Al Mamoon. Por favor, deve ser entregue a ele com toda a pressa!
 Ah, mas talvez você goste de um pouco de curry antes de ir?
 A próxima entrega é para <color:#1>o personagem mais ilustre da Enseada Naufrágio</color>! Por favor, deve ser entregue com toda a pressa!
@@ -31877,13 +31877,13 @@ Ha ha! Você adivinhou que haveria outro, pelo que vejo.<NL>Mas, felizmente, est
 cliente é <color:#1>aquele que mora em uma vila perdida escondida no meio de uma floresta a oeste de Ding Dong Dell</color>.
 Ele ouviu rumores sobre meu delicioso tikka mahala e decidiu experimentá-lo. Não devemos decepcioná-lo!
 Rogério! Estaremos de volta!
-Conseguimos! Entregamos o último caril!
+Conseguimos! Entregamos o último curry!
 Você fez? Sério?<NL>Não tenho palavras para agradecer!
 Todos os que comeram disseram-nos como era delicioso!<NL>Tens muitos clientes satisfeitos!
 Isso é música para meus ouvidos! Saber que nosso esforço não foi em vão é uma satisfação mesmo!
 Tenho certeza de que já lhe disse, mas, na verdade, você é meu salvador. Por favor, aceite este sinal de minha eterna gratidão. Obrigado.
 Bem-vindo, bem-vindo!<NL>Quer experimentar um dos meus deliciosos curries?
-Uma prova do meu caril incomparável é suficiente para enfeitiçar até o mais exigente dos gourmands!
+Uma prova do meu curry incomparável é suficiente para enfeitiçar até o mais exigente dos gourmands!
 Os viajantes vêm de todo o mundo para experimentar o lendário tikka mahala!
 Entrega especial!<NL>Um tikka mahala para um Sr. Sheikh!
 E não é cedo demais!<NL>Eu quase perdi as esperanças!
@@ -31893,7 +31893,7 @@ Mas é claro! É o melhor de todos os alimentos!<NL>Nunca me cansarei dele!
 Afinal, é feito com minha própria mistura especial de especiarias! Como não poderia ser o auge da excelência culinária?
 Você também desempenhou seu papel em sua criação, é claro.<NL>E agora, sua entrega também. Você tem meus agradecimentos.
 De nada, Sr. Sheikh, senhor!<NL>Obrigado por escolher o Raj Mahal!
-O que almoçar, eu me pergunto...?<NL>Mas é claro! Um caril delicioso!
+O que almoçar, eu me pergunto...?<NL>Mas é claro! Um curry delicioso!
 Não importa quantas porções de tikka mahala eu consuma, nunca me canso de sua profundidade e refinamento. É realmente uma maravilha culinária!
 Interessante. Muito interessante. A menos que eu esteja muito enganado o que, claro, não estou, você mantém Familiares. Estou correcto?
 Sim. Mas...<NL>Por que você pergunta?
@@ -33648,7 +33648,7 @@ O oeste, hein? Tudo bem!<NL>Vamos, Sr. Drippy!
 Espere um minuto, mun!<NL>Você não acha que devemos obter mais algumas pistas primeiro...?
 Essa gaivota voou para o <color:#1>oeste</color>, tenho certeza.
 Devo começar a ter algumas ideias para a próxima temporada. O trabalho de um designer nunca termina!
-Aqui está, senhor!<NL>Um caril tikka mahala!
+Aqui está, senhor!<NL>Um curry tikka mahala!
 Ah! Louvados sejam os Antigos, chegou!<NL>Ahhh! Que aromas maravilhosos! Estou com água na boca...
 A traiçoeira travessia do deserto que se deve fazer ao visitar Al Mamoon me enche do mais terrível pavor. Este serviço de entrega é realmente uma bênção!
 Isso é bom de se ouvir!
@@ -37110,12 +37110,12 @@ Encontre "uma menina, selvagem como as colinas e florestas".
 Apresente o pintor à garota.
 Missão concluída!
 Descubra o que está incomodando o dono da barraca de curry.
-Concorde em ajudar a entregar alguns caril.
+Concorde em ajudar a entregar alguns curry.
 Entregue um curry para o Sheik dos Temperos.
 Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry para o figurão da Enseada Naufrágio.
 Diga a Raj que você entregou o curry com sucesso.
-Entregue um caril ao vendedor de tudo sob o sol.
+Entregue um curry ao vendedor de tudo sob o sol.
 Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry para alguém que é só ossos.
 Diga a Raj que você entregou o curry com sucesso.
@@ -37415,7 +37415,7 @@ Povo da Floresta
 Cesta de almoço de um amante
 Cabeças de Osso incômodos
 Um menino e seus pássaros
-Rei dos caril
+Rei dos curry
 Um maiô mais estiloso
 O caranguejo Preocupado
 Uma comédia de erros
@@ -37434,7 +37434,7 @@ Batendo nas costas
 A Llapaca Faminta
 Os bigodes do gato
 A musa do artista
-caril com pressa
+curry com pressa
 Acorda-acorda
 As Fadas Fugitivas
 O maior tesouro

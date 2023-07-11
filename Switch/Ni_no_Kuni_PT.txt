@@ -19232,14 +19232,14 @@ menininha
 落書き
 
 pla-d20_npc_text_en.cfg.bin.kup
-Aqui está, senhor!<NL>Um caril tikka mahala!
+Aqui está, senhor!<NL>Um curry tikka mahala!
 Afinal! Mwahahahaha!
 O lendário tikk-kk-kk-kka mahala ccc-curry que todo mundo fala kk-rei! Ahh... Que aroma!
 Puxa! Todo mundo parece amar essas coisas!
 Eles certamente fazem!
 Todos os meus clientes ccc têm dito que seu sabor é absolutamente para VIVER!
 Eu não achava que esqueletos precisavam comer. <NL>Como você sente o gosto das coisas, então? Sem língua, tipo?
-Não pode perguntar coisas assim, Sr. Drippy!<NL>Desculpe-me, senhor. Aqui está o seu caril!
+Não pode perguntar coisas assim, Sr. Drippy!<NL>Desculpe-me, senhor. Aqui está o seu curry!
 Obrigado!<NL>Mal posso esperar para comer!
 Ótimo! Espero que você goste!
 Há um novo tipo de ccc-curry sobre o qual todo mundo está falando. Minha morte não será completa até que eu experimente!
@@ -19662,7 +19662,7 @@ O pong... está vindo daquele esqueleto, não é? Eu não sabia que eles podiam 
 qs0029妖精04
 
 pla-d60a_npc_text_en.cfg.bin.kup
-Aqui você vai! Entrega especial!<NL>Um caril quente!
+Aqui você vai! Entrega especial!<NL>Um curry quente!
 Rapaz ruivo... Traz-nos "curry"...<NL>Comida picante... Só se ouve nas lendas...
 O-Ok! Bem, espero que gostem!
 Comida ardente... Cheira bem! Muito bom!<NL>Quer comer... agora!
@@ -24637,13 +24637,8 @@ Isso ela deve, Olliezinho. E faltando uma boa dose de <color:#1>entusiasmo</colo
 Não se esqueça agora, Olliezinho: <color:#1>entusiasmo</color>, e rápido!
 Não seja um macaco sem coração, mun!<NL>Devolva à pobre mulher seu entusiasmo, certo?
 É tudo tão cansativo! A limpeza, a lavagem, as compras... Ugh...
-Você a ouviria! O que aconteceu com a jovem determinada com quem me casei?
-De repente ela se cansou disso tudo, né?
-Isso mesmo. Como minha querida e dedicada esposa pode ter se tornado tão... sem vida?
 Acho que a senhora aqui está perdendo um pouco do velho <color:#1>entusiasmo</color>, Olliezinho. Com o coração partido, ela está,<NL>e sem dúvida.
-Haa... Acho que vou para casa tirar uma soneca...
 O que pode ser feito?
-Aqui, você tem uma gota de <color:#1>entusiasmo</color> por aí, não é, Olliezinho? Hora de lançar <color:#8>Entregar Virtude</color>, eu acho!
 Hum? Oh meu Deus! O que estou...?<NL>O que estou fazendo?
 Meu querido! Como você está se sentindo?
 Querido! Oh, Deus!<NL>O que estou fazendo parado assim?
@@ -24666,11 +24661,7 @@ Eu já. Falta <color:#1>entusiasmo</color>, ela é, ou eu não sou alto e bonito
 Os amigos dela devem estar preocupados com ela, né?<NL>E ela não pode matar aula...<NL>Temos que fazer alguma coisa!
 Então é hora de <color:#1>entusiasmo</color>-caça para você, meu rapaz!<NL>Vamos lá!
 Deixá-la em apuros, não é? E os amigos do pobre dab provavelmente estão muito preocupados com ela, e tudo...
-Mmmyuh... Escola de novo...<NL>Que chato...
-O que está errado? Você sabe que toda criança tem que ir para a escola, certo?
-Mas dá tanto trabalho...<NL>Não consigo ver o propósito disso tudo.
 Parece que falta <color:#1>entusiasmo</color> ao pobre dab, Olliezinho. Bem? Você vai ajudá-la, ou o quê?
-Mmmyuh... Escola de novo...<NL>Que chato...
 Certo, hora de lançar <color:#8>Entregar Virtude</color> e servir uma dose do antigo <color:#1>entusiasmo</color>!
 Mmmyuh? Que horas são? Oh não! Eu vou me atrasar!<NL>Que terrível!
 Então você deve ir! Aposto que seus amigos mal podem esperar para vê-lo na escola!
@@ -24684,7 +24675,6 @@ Oh não! Eu também vou me atrasar!<NL>Vamos, temos que correr!
 Venha, devemos proteger nossos campos da ameaça dos rufos vorazes!
 Eu simplesmente não sirvo para caçar monstros...<NL>Talvez seja hora de encerrar o dia...<NL>A vida de soldado não é mais para mim.
 Mas, Sargento! Por que você diria uma coisa dessas,<NL>de repente?
-Está tudo bem?
 É o sargento. De repente, ele começou a falar sobre desistir de ser soldado.
 Eu simplesmente não tenho mais nenhuma luta em mim.<NL>E as feras... elas me assustam...
 Não diga isso! O que aconteceu com você?<NL>Você costumava ser o mais corajoso de todos nós!
@@ -24694,12 +24684,8 @@ Deixe com a gente! O Sargento será um bravo soldado novamente em breve, eu prom
 Você realmente acha que pode ajudá-lo?
 Sem suor, mun! Vamos pegar um pouco de <color:#1>coragem</color> e estaremos de volta antes que você perceba!
 Realmente? É justo, suponho... se você acha que ele vai ficar bem, quero dizer... sem um pingo de <color:#1>coragem</color> em seu nome...
-Eu simplesmente não sirvo para caçar monstros...<NL>Talvez seja hora de encerrar o dia...<NL>A vida de soldado não é mais para mim.
-Está tudo bem?
 É o sargento. De repente, ele começou a falar sobre desistir de ser soldado. E pensar que ele costumava ser o mais corajoso de todos nós!
 Diga, Sr. Drippy, você não acha que o sargento perdeu a <color:#1>coragem</color>, acha?
-Ele certamente parece com o coração partido, não é?<NL>O que você quer fazer sobre isso, Olliezinho?
-Eu simplesmente não sirvo para caçar monstros...<NL>Talvez seja hora de encerrar o dia...<NL>A vida de soldado não é mais para mim.
 Aqui, você tem um pouco de <color:#1>coragem</color>, não é?<NL>Lance <color:#8>Entregar Virtude</color> e entregue-o, por que você não?
 Hum? Ora, o que está acontecendo aqui?<NL>Devíamos sair em patrulha!
 Sargento! Você voltou!
@@ -24707,9 +24693,7 @@ Demais!<NL>Nós o salvamos, hein?
 Muito obrigado! Não sei como conseguiu, mas o sargento voltou a ser como era antes!
 Não é muito, mas, por favor, aceite isso como forma de agradecimento.
 Venha, devemos proteger os visitantes de nosso reino do flagelo da ave adormecida!
-Mas, Sargento! Por que você diria uma coisa dessas,<NL>de repente?
 O que aconteceu com você?<NL>Você costumava ser o mais corajoso de todos nós!
-Muito obrigado! Não sei como conseguiu, mas o sargento voltou a ser como era antes!
 Vamos correr para a escola!<NL>Aposto que vou te lamber facilmente!
 Mmmyoh, vá embora!<NL>Eu posso ir a pé para a escola sozinha!
 O que há de errado?<NL>Por que não caminhamos juntos normalmente?
@@ -24723,9 +24707,6 @@ Desta vez, é <color:#1>bondade</color> que falta. Acho que você já adivinhou 
 Você vai salvar o dia de novo, não vai, Olliezinho?
 Se ela continuar chateando as pessoas assim, ela não terá mais amigos. Nós temos que fazer alguma coisa!
 Deixá-la em apuros, não é?<NL>Há egoísmo...
-Mmmyoh, vá embora!<NL>Eu posso ir a pé para a escola sozinha!
-O que há de errado?<NL>Por que não caminhamos juntos normalmente?
-Eu me divertiria mais trocando minha caixa de areia!<NL>Vá embora!
 Ei, não fale assim! Não seria divertido ir a pé para a escola com seu amigo?
 Não há como confundir o coração partido deste pequeno. Faltando um balde ou dois de <color:#1>bondade</color>, ela é.
 Por que eu deveria ir para a escola com você?<NL>Você pode ir sozinho, não pode?<NL>Você não é um bebezinho! Mmmmyugh!
@@ -24736,7 +24717,6 @@ Parece que você está bem agora.<NL>Seja legal com seus amigos agora, certo?
 Eu vou, eu prometo! Foi você quem me ajudou, não foi? Assim como antes, quero dizer... Aqui. Isto é para você.<NL>Muito obrigado!
 Vamos! Vamos caminhar para a escola juntos! Afinal, não há nada como um adorável purromenade com seu melhor amigo!
 Tudo bem! Mas não vou deixar você me derrotar!<NL>Nas suas marcas... Prepare-se...
-O que há de errado?<NL>Por que não caminhamos juntos normalmente?
 O que aconteceu com ela?<NL>Ela era tão legal até ontem...
 Yay! Vamos!
 O Grande Torneio de Puxão-de-Cauda começa em breve... É melhor eu começar a ronronar.
@@ -24755,9 +24735,6 @@ Beleza! Esse é o espírito, Olliezinho!<NL>Agora vamos pegar um Medalhão cheio
 Ah, assim, é? Bem, suponho que não seja o fim do mundo, mas mesmo assim...
 Mmmyooohhh nãooo... O Grande Torneio de Puxão-de-Cauda começa tão cedo... O que devo fazer? Só sei que vou colocar um ronronar de pata...
 Se você está tão preocupado com isso, não pode simplesmente dar suas desculpas e desistir?
-Mmmooohhh nãooo, não posso... Ganhei ano passado por um triz, sabe, e o campeão tem que entrar...
-Hã? Você é o campeão?<NL>Então por que você está com medo de participar?
-Eu sei porque, Olliezinho. É porque um certo trabalho desagradável roubou a <color:#1>confiança</color> do nosso pobre amigo, não é?
 Myooohhh nãooo... Não adianta...<NL>Nunca vou ganhar no meu estado...
 Parece que você está pronto para lançar <color:#8>Entregar Virtude</color> e restaurar a <color:#1>confiança</color> de nosso amigo. E não um momento muito cedo...
 Mmmyuh? Eu... O que estou fazendo aqui? Eu deveria estar ronronando para o Grande Torneio de Puxão-de-Cauda!
@@ -24781,10 +24758,6 @@ Ele está certo! Ele teve o <color:#1>amor</color> roubado de seu coração, nã
 Claro que sim, Sr. Drippy!<NL>Vamos encontrar um pouco de <color:#1>amor</color>!
 Realmente? É triste.<NL>Bem, suponho que você tenha seus motivos...
 Haa... O que há de errado comigo?<NL>Eu só não quero mais ficar com minha esposa...
-Jeepers... Mas eles formam um casal tão bom...<NL>Por que ele...?
-Use seus olhos, Olliezinho!<NL>É óbvio, não é?
-Hum? Claro!<NL>Ele está com o coração partido, hein?
-Ele está certo! Ele teve o <color:#1>amor</color> roubado de seu coração, não foi? Bem trágico, é! Você vai ajudar, não vai?
 Vamos, Olliezinho! Lance <color:#8>Entregar Virtude</color> e traga o <color:#1>amor</color> de volta às suas vidas!
 ...Hum? Onde estou...?
 Você está bem?
@@ -24795,7 +24768,6 @@ Mas você não quer mais terminar com sua esposa,<NL>não é?
 Eurgh, vamos lá, mun, que vergonha! Acabei de almoçar! ...Acho que isso significa que ele está melhor, hein?
 Obrigado! Muito obrigado!<NL>Aqui, isto é para você.
 Acho que não podemos mais ficar juntos.<NL>Só preciso de um tempo sozinha.
-Ainda há muito a fazer, mas com uma esposa amorosa ao meu lado, não há nada que eu não possa alcançar!
 De novo não...
 Mas chegamos tão longe...<NL>Foi algo que eu fiz?
 Ahh, agora podemos finalmente abrir nossa loja dos sonhos!
@@ -24874,9 +24846,7 @@ Obrigado!<NL>Ok, apenas espere um momento...
 Que estranho... Meu peito está todo agitado...<NL>De qualquer forma, é melhor eu pensar em ronronar!
 É o Grande Torneio Puxão-de-Cauda em breve!<NL>Não ganhei uma única partida da última vez, mas mal posso esperar para tentar novamente!
 Mal posso esperar, hein? É maravilhoso!<NL>Transbordando de <color:#1>entusiasmo</color>, este é!
-Diga, suponho que você não se importaria se pegássemos emprestado um pouco do seu entusiasmo.
 Pegar emprestado? Como você pode pegá-lo emprestado?<NL>Parece muito estranho para mim...<NL>Mmmyah, quem se importa!? Estou curioso! Vá em frente!
-Obrigado!<NL>Ok, apenas espere um momento...
 É melhor eu começar a fazer algum purractice pux-o'-tail!
 Ahh, mais um belo dia!<NL>E logo estarei de saída para o trabalho!
 Rapaz, você está cheio de feijões!<NL>Em que ramo de trabalho você está, senhor?
@@ -24937,7 +24907,6 @@ Uh, diga, senhora... Temos um favor a pedir...<NL>Você se importaria?
 Um favor? Que tipo de favor?
 Você com certeza estaria nos ajudando muito se nos emprestasse um pouco de sua crença...
 Emprestar minha crença?<NL>Sem dúvida, isso parece divertido!
-Muito obrigado!
 Hum hum! Isso faz cócegas! Oh, mas meu coração parece... todo agitado!<NL>Que lindo!
 Meu marido é um explorador corajoso e não importa o quão longe ele vá, sei que ele sempre voltará para casa para mim.
 Ahh, você é meu tipo de esposa, você é cheia de <color:#1>crença</color>!
@@ -24992,18 +24961,13 @@ Obrigado.
 Até a próxima! Aguardo ansiosamente o dia em que meu lendário amor proverá a salvação de todas as belezas deste mundo justo e virtuoso!
 Eu amo todas as donzelas do reino, não, todas as donzelas deste belo mundo!
 Com licença, senhor, podemos ter um pouco do <color:#1>amor</color> em seu coração para dar a alguém que não tem o suficiente?
-Hmm... Essa pessoa que quer amor...<NL>Ela é uma bela donzela?
-Hum, eu acho que ela poderia ser, com certeza...
-Então que assim seja! Sacrificarei de bom grado um pedaço do meu amor mais precioso pelo bem de uma donzela em perigo!
-Obrigado.
 Oh, ai de mim... Uma escolha tão cruel, tão cruel...
 Mmmyohhh... Em qual pote eu coloquei de novo?
-Está tudo bem?
 Mmmwell, é o meu tesouro puro, sabe...<NL>Não me lembro em que pote o escondi.
 Puxa, isso é difícil.<NL>Que tipo de tesouro é esse?
 O <color:#1>brinco vermelho</color> da minha avó.<NL>É uma cor tão purpurina...
 Você não poderia me emprestar uma pata e me ajudar a procurá-la,<NL>poderia?
-Você irá? Perfeito!
+Você vai? Perfeito!
 Está <color:#1>em um daqueles potes</color> que você vê pela cidade.
 Dentro de uma das panelas, hein?<NL>Deixa comigo!
 Você é um cavalheiro perfeito!
@@ -25039,9 +25003,6 @@ Muito obrigado, vocês são um par de cavalheiros perfeitos<NL>!
 Mmmyohhh, que pena. E eu ia te ensinar algo útil também...
 Estou tentando deixar minha porta mais purreta e estou pensando em usar algumas flores.
 Você é? Que tipo de flores?
-Mmmwell, agora... eu quero algo bom e brilhante...<NL>E eu vou precisar de um pouco de água fresca e limpa para dar a eles também.
-Mmmyaha! Eu sei, você pode me ajudar!<NL>Você tem tempo? Por favor?
-Agora, preciso que você me traga <color:#1>duas flores de erva-doce</color> e <color:#1>duas bottles of água mineral</color>, certo?
 A erva-das-planícies floresce nas colinas <color:#1>ao sudeste da cidade</color>, e água de nascente pode ser encontrada <color:#1>ao lado de rios e lagos</color>.
 Mmmmyoh meu! Você já encontrou tudo!
 Sim, senhora! Essas são as coisas que você estava procurando?
@@ -25058,14 +25019,12 @@ Ahh, vida de mãe nunca é fácil, não importa aonde você vá, né?
 Você não tem um momento livre, não é?<NL>Você poderia ir e encontrar meus meninos para mim?
 Lamento incomodá-lo tanto... Mas se puder me avisar quando os encontrar, ficarei muito grato.
 Bem, isso não é muito legal, não é?<NL>Você deveria ajudar os necessitados, sabia?
-Meu Deus! Para onde esses patifes fugiram<NL>agora?
 Há algo de errado?
 São meus meninos. Os <color:#1>três deles</color> fugiram e não<NL>voltaram.
 Você não tem um momento livre, não é?<NL>Você poderia ir e encontrá-los para mim?
 Muito obrigado.<NL>Tenho certeza que eles estão bem, mas você sabe como é...
 Você ajudou meu garoto, não foi?<NL>Muito obrigado!<NL>Você não sabe o que isso significa para mim!
 Espero que encontre os outros dois logo!
-Você ajudou meu garoto, não foi?<NL>Muito obrigado!<NL>Você não sabe o que isso significa para mim!
 Espero que encontrar meu outro garoto não tome muito do seu tempo!
 Muito obrigado por encontrar todos os meus três meninos!
 E você remendou os malandros também!<NL>Você é um tesouro! Um tesouro absoluto!
@@ -25164,10 +25123,8 @@ Ah, é você.<NL>Você está pronto para levar minha pesquisa a sério?
 Os assuntos do meu estudo atual são bestas tão ferozes que não podem ser capturadas.
 E pela impossibilidade de captura, só podem ser estudados depois de subjugados em combate.
 Agora, você quer ajudar o progresso da ciência ou não? A resposta é "sim", aliás...
-O primeiro é da espécie <color:#1>grubby fug</color>. Seu habitat é a ilha <color:#1>Jack Frost's Playground</color>.
-Esta criatura temível envolve-se com uma nuvem protetora de gás venenoso e deve ser abordada com o máximo cuidado.
-próximo objeto de pesquisa é o <color:#1>colo áurico</color>, que nidifica no topo dos <color:#1>Degraus do Gênio</color> a sudeste das <color:#1>Areias Cintilantes</color>.
-A acreditar nas minhas fontes, o corpo desta misteriosa criatura brilha com uma majestosa tonalidade dourada.
+O próximo objeto de pesquisa é o <color:#1>colo áurico</color>, que nidifica no topo dos <color:#1>Degraus do Gênio</color> a sudeste das <color:#1>Areias Cintilantes</color>.
+Se minhas fontes estiverem corretas, o corpo desta criatura misteriosa brilha com um tom dourado majestoso.
 A última criatura que exijo que você cace é o <color:#1>shellmet</color>. Acho que você o encontrará na ilha de <color:#1>No Longer Mine, ao sul de Outonia</color>.
 Sua ponta afiada e casca altamente durável o tornam uma das criaturas mais mortais conhecidas pela ciência.
 Sua ajuda no avanço da causa da ciência não passou despercebida, você sabe.
@@ -25238,13 +25195,10 @@ Certo! Não consigo pensar onde isso pode ser exatamente, mas iremos dar uma olh
 Mas você é minha única esperança, querido menino!<NL>Sem você, estou totalmente arruinado!
 Olá, querido menino! Ora, não te vejo desde... ah, deve ser Enseada Naufrágio, o quê?
 Bem, eu tenho novidades para você, finalmente estou empacotando a viagem e voltando para casa!
-Fiz uma descoberta esplêndida que deve encerrar bem minha história, então estou encerrando o dia.
-Escrevi os detalhes para a posteridade, é claro. Deixe-me pegar o velho diário
+Eu fiz uma descoberta esplêndida que deve encerrar bem minha história, então estou encerrando o dia.
 ...Ah, eu digo! Eu podia jurar que era...<NL>Ah, caramba!
-Pelo amor de Deus<NL>Não precisa explicar—nós sabemos o que fazer.<NL>Vamos, Olliezinho?
-Fui passear no campo, não sabe. <color:#1>Foi direto para o sul da cidade</color> e acabou em uma floresta que era realmente muito profunda...
 Eu vaguei, cada vez mais fundo, e acabei por uma <color:#1>porta arruinada bastante grande</color>. Foi onde eu deixei, aposto meu braço direito!
-Encontramos seu diário, senhor... de novo!
+Encontramos seu diário, senhor...novamente!
 Muito bom show, coisa velha! Agora posso me aposentar em minha velha casa e finalmente contar a história de minhas viagens para a posteridade!
 Só não perca o lance antes de chegar em casa, certo? Essa é a última vez que vamos peregrinar atrás dele! Falo sério dessa vez!
 E boa sorte ao escrever seu livro, senhor!<NL>Tenho certeza de que será ótimo!
@@ -25265,7 +25219,6 @@ Seu costume é sempre valorizado!<NL>Tenha uma boa soneca!
 Seu costume é sempre apreciado!<NL>Mmmyoh, você parece um pouco... incomum.<NL>Você é um viajante, presumo?
 Então, encorajo você a tirar uma soneca em cada uma de nossas pousadas, onde quer que suas viagens o levem!
 Estamos muito satisfeitos com nossas camas profundas e confortáveis, e esperamos que você goste delas tanto quanto nós!
-Muito obrigado!
 ...Hã? Olhe para o seu Companheiro do Mago, há algo diferente nele...
 Ah! Há útil! As memórias de todos os viajantes que ficaram aqui o encheram um pouco!
 Nossa, nunca esperei isso...
@@ -25358,7 +25311,6 @@ O que há com você, hein?<NL>Você não deveria estar procurando pelo Rei?
 Vamos para o sul, para Bosque Dourado!
 Depois de Bosque Dourado, vamos para Al Mamoon!
 Oi! Você não deveria estar restaurando a Fonte da Vida à sua antiga glória?
-Depois de Bosque Dourado, vamos para Al Mamoon!
 Não era para irmos encontrar aquele Rashaad?
 Vamos, Olliezinho!<NL>Vamos para o seu mundo!
 Vamos logo!<NL>Temos que ajudar Rusty, não é!?
@@ -25417,8 +25369,7 @@ Você está com medo de trabalho duro ou algo assim?<NL>Precisamos ir e encontra
 Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
 A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
 Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
-Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
+Não precisamos tentar encontrar a magia certa para passar por aquele esqueleto na Trilha da Lápide?
 Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
 Vamos voltar para o palácio em Hamelin, ou o quê, mun?
 Vamos acreditar um pouco naquele Marcassin, certo?
@@ -25607,6 +25558,11 @@ Red Herring Norte 1
 Red Herring Norte 2
 Red Herring Norte 3
 
+pla-t02_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
+
 pla-t03_npc_text_en.cfg.bin.kup
 ...! .........!!!<NL>.........?
 Prazer em vê-lo de novo!<NL>Você se divertiu atravessando o deserto?
@@ -25648,7 +25604,7 @@ Vejo você em breve!
 Vou para algum lugar com uma brisa do mar revigorante. Parece que me lembro que havia um lugar como aquele do outro lado do deserto...
 Não se preocupe com minha amada princesa.<NL>Vou cuidar dela de agora em diante.
 Ha ha ha! Minha amada princesa é totalmente devotada à deliciosa babana!
-Eu mesmo prefiro as especiarias revigorantes dos caril ardentes de Al Mamoon.
+Eu mesmo prefiro as especiarias revigorantes dos curry ardentes de Al Mamoon.
 Saudações, amigos! Aqui em Al Mamoon, a história de minha amada princesa e eu é frequentemente contada.
 Mas sempre que ela ouve, minha querida não pode deixar de se gabar de saber de outro capítulo. Temo que as pessoas possam começar a suspeitar de algo...
 Amada Princesa!<NL>Eu a protegerei deste dia até o meu último!
@@ -25737,9 +25693,6 @@ Não? Realmente? E você acha que esses dois vão ficar bem se não os ajudarmos
 Devolve-me o meu livro ilustrado!<NL>Ontem disseste-me que o devolverias!
 Não! É apenas um livro de imagens, e pobre nisso!<NL>Quem se importa?
 Você não pode simplesmente ficar com as coisas que outras pessoas lhe emprestam,<NL>você sabe.
-Ach! Pare de me incomodar e vá embora!
-Uau, ou ele teve seu coração partido e cada grama de <color:#1>bondade</color> espremida dele, ou ele precisa colocar o joelho de alguém!
-Ach! Pare de me incomodar e vá embora!
 Você tem um pouco de <color:#1>gentileza</color> aí, não é? Lance <color:#8>Entregar Virtude</color> e entregue-o!
 Hum...? O que aconteceu? Eu pretendia devolver o livro ilustrado, mas então eu...
 Realmente? Você pretendia devolvê-lo?
@@ -25774,10 +25727,9 @@ Beleza! Vamos ao que interessa então?
 Realmente? Você só vai deixá-lo nessa confusão, não é...?
 Estou tão cheio de terror que não consigo partir em minha jornada de descoberta...
 Isso não soa como uma mudança de opinião comum, hein, Sr. Drippy? Você acha que ele é...?
-Coração partido? Acho que ele pode ser, Olliezinho.<NL>Falta de <color:#1>coragem</color>, se não me engano.
 Aqui, você tem um pouco de <color:#1>coragem</color>, não é? Lance <color:#8>Entregar Virtude</color> e entregue-o, por que não?
 ...Pelas barbas dos Antigos! Estou cheio de uma ousadia mais poderosa! Não temo nem besta nem homem!
-Posso suportar qualquer dificuldade se meus esforços puderem promover o avanço do sorvete!
+Eu posso suportar qualquer dificuldade se meus esforços puderem promover o avanço do sorvete!
 Beleza! Parece que alguém voltou ao que era antes!
 Com certeza!<NL>Você está melhor agora, hein, senhor?
 Melhorar? Estou melhor do que melhor!<NL>Devo partir em minha jornada imediatamente!
@@ -25800,9 +25752,6 @@ Está decidido, então! Vamos dar a este menino um pouco de coração para refor
 Justo. É triste vê-lo assim, mas somos pessoas ocupadas, não é? Talvez outra hora...
 Não consigo deixar de pensar que minha amada deu seu coração a outro... Ohhh! Estou tão preocupada que não consigo pensar!
 Bem, não é preciso ser um médico para dizer que esse jovem inquieto está sofrendo por falta de um pouco de <color:#1>crença</color>.
-Nossa, ele está muito mal.<NL>Se ao menos ele pudesse aprender a confiar nela...
-Não podemos deixar o pobre rapaz assim.<NL>Temos que ajudá-lo, não é?
-Ohhh! Estou tão preocupada que não consigo pensar!
 Acho melhor lançar <color:#8>Entregar Virtude</color> e entregar essa <color:#1>crença</color>, hein?
 Hum? Não me sinto mais preocupado! Como pude duvidar do meu amado? Eu fui um completo idiota!
 Isso você tem, meu rapaz, não há como negar!<NL>Preocupar-se assim não o levará a lugar nenhum!
@@ -25823,10 +25772,7 @@ Tudo bem! Vamos ajudá-lo!
 Limpo. Tudo o que você precisa fazer é dar a ele um pouco de <color:#1>confiança</color>, e o seu tio de Bob.
 Eu realmente sinto muito por ele, mas já temos tanto <NL>para fazer...
 Ninguém se desfaria de seus guilders duramente conquistados por uma imagem tão insípida, tão... feia. Afinal parece que não tenho talento...
-Não sei... me parece muito bom.<NL>Por que você não deixa seus clientes decidirem?
-Como posso, quando é tão dolorosamente aparente que me falta até mesmo o menor grão de talento? É hora de guardar meus pincéis para sempre...
-Ah, então é isso, não é? Entendi, entendi. Ele está com o coração partido, não é, Olliezinho? Perdeu a <color:#1>confiança</color>, ele perdeu.
-Então você acha que devemos ajudá-lo, hein?
+Eu não sei... me parece muito bom.<NL>Por que você não deixa seus clientes decidirem?
 Afinal, não tenho talento.<NL>É hora de guardar meus pincéis para sempre...
 Parece que você está pronto para lançar <color:#8>Entregar Virtude</color> e restaurar a <color:#1>confiança</color> de nosso amigo.
 Pelos Antigos! Por que eu estava tão dominado pela dúvida? Com medo de não ser o artista que sempre acreditei ser?
@@ -25851,9 +25797,6 @@ Devemos ajudá-lo, não é?
 Beleza! Onde está o <color:#1>amor</color>?<NL>É melhor você descobrir!
 Você vai deixá-lo assim, não é?<NL>Há caridade. E o que você acha que vai<NL>acontecer com todas aquelas adoráveis babanas, hm?
 Talvez meus dias de lavoura tenham chegado ao fim...<NL>Perdi minha paixão pela babana...
-Parece meio estranho que ele tenha parado de amar babanas de repente, né, Sr. Drippy? <NL>Você acha que ele pode ser...?
-Sim, eu acho que ele pode ser, Olliezinho. Se você me perguntar, nosso amigo aqui está perdendo um pouco do antigo <color:#1>amor</color>.
-Devemos ajudá-lo, não é?
 Você tem um pouco de <color:#1>amor</color> aí, não é?<NL>Elenco <color:#8>Entregar Virtude</color> e entregue-o!
 Que sensação é essa...?<NL>Sinto-me...melhor!
 Pelos Antigos! Devo voltar para a fazenda imediatamente! Minhas amadas babanas vão murchar e morrer sem meu cuidado e atenção!
@@ -25863,7 +25806,7 @@ Então você merece agradecimentos.<NL>Aqui. Perdoe-me, é uma ninharia.
 Não tenho mais paixão por babanas...<NL>Devo confiar minha fazenda a alguém que goste...
 Prepare-se! Devemos retornar imediatamente aos campos de babana!
 Meu marido está verdadeiramente apaixonado pela humilde babana. É tudo o que ele sempre fala ou sonha, de manhã, ao meio-dia e à noite...
-É quase... antinatural...
+É quase...antinatural...
 Meu pobre marido está se comportando de maneira muito estranha.<NL>O que pode ter acontecido com ele?
 Qual é o problema com meu pobre marido?<NL>Ele já amou a babana tão... intensamente...
 Sim, marido! É tão bom vê-lo mais uma vez vivo de entusiasmo pelo seu fruto amado!
@@ -25882,10 +25825,7 @@ Sim. Com o coração partido, ela está. Privada do poder de sonhar, drenada de 
 O que devemos fazer, Olliezinho?<NL>Vamos ajudá-la, ou o quê?
 Não podemos deixá-la assim!<NL>Temos que recuperar sua <color:#1>ambição</color>!
 Eu sinto muito por ela, mas já temos tanto <NL>para fazer...
-(suspiro) Devo deixar o mundo do entretenimento para trás. Não consigo mais praticar, muito menos atuar...
-Oh Mas Você falou em alcançar a fama como cantor desde a infância! Você nem sempre me disse que era o seu maior sonho?
 Hmm... Parece que esta jovem foi roubada de <NL>sua <color:#1>ambição</color>...
-O que devemos fazer, Olliezinho?<NL>Vamos ajudá-la, ou o quê?
 Não se preocupe, senhorita, vou lançar <color:#8>Entregar Virtude</color> e devolver sua <color:#1>ambição</color>.
 Que sensação é essa? É como se um peso tivesse sido tirado da minha alma! Eu devo cantar! Devo cantar, ou meu coração vai explodir!
 O que eu estava pensando? Como eu poderia ter<NL>considerado desistir da minha maior paixão!<NL>Eu devo praticar mais do que nunca!
@@ -25912,19 +25852,15 @@ Deveria? Hum...
 ...Sim. Temos que curá-lo.<NL>Não podemos simplesmente deixar as pessoas que precisam de nossa ajuda.
 Não é? Vamos nos mexer e encontrar um pouco de <color:#1>entusiasmo</color> então, certo?
 Não pode se dar ao trabalho de ajudar, hein?<NL>Bem, depende de você, suponho...
-Quem se importa com a loja estúpida? Vender coisas é um grande esforço. Não vamos mais nos incomodar.
 Onde está o incêndio que você teve quando partimos de Ding Dong Dell? O que aconteceu com você?
 Ele parece meio... engraçado.<NL>Você acha que há algo de errado com ele?
 Claro que há, mun! Ele está com o coração partido, não é? Precisando de uma saudável injeção de <color:#1>entusiasmo</color>, se não me engano!
 Ele é? Hum...
-Você tem algum <color:#1>entusiasmo</color> aí, não é? Lance <color:#8>Entregar Virtude</color> e entregue-o!
 Hum? Onde estou? O que eu estava fazendo...? Oh, é isso!<NL>Precisamos ganhar dinheiro suficiente para abrir nossa loja dos sonhos!<NL>Vamos trabalhar!
 Querido! Você voltou ao que era antes!<NL>Graças a Deus!
 Desculpa meu querido! Eu te preocupei? Sinto muito, sinto muito.<NL>Estou melhor agora. Vamos trabalhar, certo?
 Demais! Nós o curamos!
 Muito obrigado por me ajudar.<NL>Você merece um brinde extra especial!
-Quem se importa com a loja estúpida? Vender coisas é um grande esforço. Não vamos mais nos incomodar.
-É hora de se esforçar e trabalhar duro! Precisamos ganhar dinheiro suficiente para abrir nossa loja dos sonhos!
 Hmph! Qual é o problema com você?
 Acho que não tenho escolha a não ser fazer todo o trabalho sozinho...
 Devo dizer que estou muito impressionado.<NL>Você é um pequeno milagreiro!
@@ -25970,9 +25906,7 @@ Muito obrigado, senhor!
 Oh Ho! Que sensação maravilhosa!<NL>Meu coração minha própria alma transborda de calor!
 Em breve devo comprar presentes para meus queridos netos! Oh, estou ansioso para ver seus sorrisos de gratidão!
 Ele é generoso. Você não vê <color:#1>gentileza</color> assim todos os dias.
-Uh, senhor, você se importaria de nos ajudar com alguma coisa?<NL>Isso poderia salvar as pessoas em problemas.
 Poderia? Então, como posso recusar?
-Muito obrigado, senhor!
 Ahh, estou ansioso para comprar presentes para meus netos! Cada um é tão precioso para mim quanto todas as joias do mundo!
 Pelas barbas dos Antigos! Nós os punimos tão severamente da última vez, mas eles estão de volta mais uma vez para semear a agitação nos campos!
 Qual é o problema, senhora?
@@ -25989,8 +25923,6 @@ Muito obrigado, senhora!
 Que estranho... Meu coração parece...leve, mas...quente.<NL>É uma sensação estranha, mas não desagradável.<NL>Isso é tudo que você precisa de mim? Muito bem.
 Não permitirei que essas criaturas malignas estraguem meu sustento e devastem meus lindos campos de babana! Eu os destruirei!
 Uma mulher da idade dela lutando contra monstros? Caramba, ela deve ter <color:#1>coragem</color> saindo de suas orelhas, mun!
-Diga, você se importaria se pegássemos emprestado um pouco de sua bravura para ajudar as pessoas necessitadas, senhora?
-Pessoas necessitadas, você diz? Ver uma criança tão jovem quanto você se esforçando para fazer o bem no mundo é realmente uma coisa boa! Empreste-me o que quiser!
 Muito obrigado, senhora!<NL>Apenas espere um segundo...
 Logo devo sair em patrulha!<NL>Nossos preciosos campos não devem ser deixados desprotegidos!
 Está ficando tarde...<NL>Onde ele pode estar...?
@@ -26015,10 +25947,6 @@ Talvez eu tenha me esforçado demais...<NL>Não posso enfrentar esse inimigo soz
 Sim. Devo pedir à Soluções Rápidas para localizar um caçador de recompensas digno da tarefa.
 O titã infernal pode ser um inimigo poderoso, mas ferido ou não, vou expulsá-lo! Ele não fará mais mal ao meu povo.
 Bem, não falta <color:#1>coragem</color> a ele.<NL>Mas você precisa dar um tempo, camarada, ou vai se dar mal.
-Não há tempo para descansar!<NL>Se a besta não for derrotada logo, então—
-Oh, pelo amor de Deus! Multar! Vá e se esmague ainda mais! Olliezinho, lance <color:#8>Guardar Virtude</color> antes que ele fuja para ser espancado, certo?
-Hã? Ah com certeza!
-Talvez eu tenha me esforçado demais...<NL>Não posso enfrentar esse inimigo sozinho...
 Bem-vindo ao Al Mamoon, joia do deserto!
 Sua jornada pelas areias deve ter sido cansativa. Por favor, sintam-se em casa em nossa bela cidade.
 Ach, está quente... tão terrivelmente quente...
@@ -26039,8 +25967,6 @@ Essa sensação...é...intrigante...<NL>E eu me sinto...mais legal. Incrível...
 Tenho orgulho de servir meu país e proteger a paz de nosso grande reino! Eu suportaria qualquer quantidade de sol feroz pela glória de Al Mamoon!
 Caramba, ele está suando como um ralo, mun!<NL>Ele deve ter algum <color:#1>controle</color> sério para ser capaz de ficar parado assim. Ei, Olliezinho, pegue um pouco, não é!
 Claro. Com licença senhor. Há pessoas por aí que perderam o controle, e eu esperava que pudéssemos pegar alguns dos seus emprestados para ajudá-los...
-Suas palavras me mistificam. Mas se eu puder ajudar os necessitados, terei prazer em ajudá-los.
-Muito obrigado senhor!
 Devo continuar guardando o glorioso reino de Al Mamoon e manter a paz em nosso amado reino!
 Este será meu próximo grande vendedor, tenho certeza.<NL>Sim, preciso estocar estes...
 que quer dizer, marido!? Você não se lembra da última vez? Não vou ficar com caixa após caixa de itens não vendidos novamente!
@@ -26067,10 +25993,6 @@ Eu causei muita preocupação à minha querida esposa... Talvez eu<NL>deva pensa
 Estou realmente ouvindo essas palavras vindas de sua boca, marido? Isso é graças a você, não é, rapaz? Realmente, você é um operador de milagres!
 Este será meu próximo grande vendedor, tenho certeza disso. Sim, preciso estocar isso... Meus instintos não mentem! Eu tenho a maior confiança!
 Uh, desculpe-me, senhor...<NL>Poderíamos usar um pouco de sua <color:#1>confiança</color>?
-Hum? Pegar emprestado minha confiança...?<NL>O que você quer dizer?
-Bem, talvez possamos ajudá-lo a parar de correr tantos riscos com seus grandes vendedores...
-Ha ha ha! Duvido que os Antigos tivessem o poder de realizar tais milagres! Mas você está convidado a tentar!
-Obrigado. Você poderia ficar parado por apenas um momento?
 Sim, vejo agora que as vendas garantidas de itens básicos formam a base do comércio sólido...
 Hmm... Se o deserto continuar crescendo nesse ritmo, o oásis do qual a cidade depende certamente...
 Devemos agir rapidamente para evitar tal ocorrência...<NL>Sim, devo continuar minha pesquisa...
@@ -26095,9 +26017,6 @@ Obrigado. Com o seu apoio, tenho certeza que posso finalmente alcançar meu obje
 Talvez eu esteja apenas sonhando, mas minha ambição é descobrir plantas que possam crescer mesmo na vastidão árida do deserto.
 Uau! Que grande <color:#1>ambição</color>, hein, Sr. Drippy?
 Mas não!
-Diga, senhor, você poderia nos dar um pouco de sua ambição para que possamos ajudar as pessoas que precisam?
-Vai ajudar os necessitados, você diz?<NL>Então é claro que você pode ter alguns!
-Muito obrigado!
 Devo continuar minha pesquisa!<NL>Pela glória e futuro de Al Mamoon!
 Ah, é uma tragédia! Como minha pobre querida<NL>sobreviverá?
 Algo errado, amor?
@@ -26114,11 +26033,9 @@ Quer que a levemos para <color:#1>Bosque Dourado</color>?<NL>Claro! Deixe com a 
 Você vai me ajudar na minha hora de necessidade? Meu pequeno herói! Aqui está o almoço que preparei para minha melhor amada com toda a devoção de uma esposa fiel!
 Você não deve ficar tentado a experimentá-lo, não importa o quão delicioso possa cheirar! É uma refeição apenas para os amantes!
 Você não vai me ajudar na minha hora de maior necessidade?<NL>Pelos Antigos! O que devo fazer...?
-Minha alma, meu único e querido marido, viajou para Bosque Dourado em busca de deliciosos cogumelos, mas ele se esqueceu de almoçar!
 E as feras da floresta me impedem de entregá-lo eu mesmo a ele! Oh, o que devo fazer?
 Puxa, ele deve estar com muita fome agora.
-É um grande inconveniente, tenho certeza, mas é uma emergência! Por favor, você deve entregar o almoço do meu querido marido para ele!
-Espero que meu querido e querido marido não tenha desmaiado de fome... Oh, estou tão preocupada! Muito, muito preocupada com meu amor!
+Eu espero que meu único e querido marido não tenha desmaiado de fome... Oh, estou tão preocupada! Muito, muito preocupada com meu amor!
 Entregamos o almoço do seu marido, senhora!
 Você fez? Oh, seu menino maravilhoso, maravilhoso!<NL>Você realmente é meu pequeno herói!
 Ele nos deu uma mensagem para você também. Foi, hum... quando vocês estão separados, é inverno no coração dele, mas... er... quando vocês estão juntos... é bom demais.
@@ -26127,7 +26044,6 @@ Devo agradecer de alguma forma...<NL>Ah, sim. Aqui!
 Ohhh, minha querida querida, querida querida nunca voltará para casa? eu sinto tanto a falta dele...
 É realmente maravilhoso ser recém-casado!<NL>Que felicidade requintada!
 Ohhh, isso nunca vai funcionar...<NL>É ruim para os negócios. Muito mal...
-Qual é o problema, senhora?
 O deserto está cheio de <color:#1>boneheads</color> saqueadores!
 Os comerciantes viajantes que nos trazem mercadorias frescas estão sendo atacados. Temo que em breve nossas linhas de abastecimento serão totalmente cortadas!
 Se ao menos houvesse alguém que pudesse nos livrar desses canalhas esqueléticos...
@@ -26143,7 +26059,6 @@ Claro! Vamos lá, Sr. Drippy!
 É o melhor.<NL>Este não é um trabalho para meras crianças.
 As estúpidas <color:#1>caveiras</color> descaradas, têm atacado mercadores errantes que atravessam as areias do deserto.
 Sem os suprimentos que eles nos trazem, perderemos<NL>nossos meios de subsistência...
-Parece que eles estão em apuros, hein, Olliezinho?<NL>Devemos oferecer uma mão amiga?
 Hahahahaha! Oi, Duvidoso Dilys, demos uma surra naqueles dez <color:#1>cabeças duras</color> para você, moleza!
 Pelas barbas dos Antigos!<NL>V-Você...? Mas como...?
 Agora seus suprimentos podem passar com segurança, senhora!<NL>Tenha um bom dia!
@@ -26176,9 +26091,7 @@ Obrigado! Um dos meus pombos voltou para mim!<NL>Agora só faltam <color:#1>dois
 Obrigado! Dois dos meus pombos voltaram para mim!<NL>Agora só falta <color:#1>um</color>!
 Eu envio meus pombos para entregar mensagens por toda a terra.
 Infelizmente, vários não conseguiram retornar.
-Puxa, espero que nada de ruim tenha acontecido com eles.
 Não não. Isso já aconteceu antes. Tenho certeza de que eles estão apenas vadiando em algum lugar. Mas eu tenho mensagens para eles entregarem...
-Se você tiver tempo, poderia encontrá-los para mim?
 Ei, este pássaro é...?
 Olha isso, mun! Este pombo não tem medo de ninguém! Manso como qualquer coisa, ele é!
 Ei, olha a carinha dele!<NL>Você acha que ele é...?
@@ -26217,9 +26130,8 @@ Al Mamoon fica no coração do nosso continente. Isso o torna o lugar perfeito p
 .........
 Coo ho ho! Voltei para casa!<NL>Não sou inteligente?
 Estou tão triste por deixar meu mestre preocupado.<NL>Nunca Mais vou chegar tarde em casa.<NL>Coo! Coo!
-Coo... Está tão quente. Está sempre tão quente. Adoraria ir tomar um bom banho de pássaros no oásis...
-Maldições... Faltam-me os ingredientes necessários...<NL>O que fazer, o que fazer...?
-Está tudo bem?
+Coo... Está tão quente. Sempre está tão quente. Adoraria ir e tomar um bom banho de pássaros no oásis...
+Maldição... Faltam-me os ingredientes necessários...<NL>O que fazer, o que fazer...?
 A fórumla do mais lendário dos pratos Mamooni chegou às minhas mãos, mas não tenho os ingredientes necessários...
 Que tipo de prato é?
 É conhecido como <color:#1>tikka mahala</color>.
@@ -26235,8 +26147,7 @@ Mas ouvi dizer que existe um conhecido como o <color:#1>Sheikh of Spice</color> 
 Bem, isso soa como um bom lugar para começar, não é? Vamos agitar a perna e encontrar um Sheikh, certo?
 Se você tiver mais perguntas, não hesite em perguntar. Boa sorte, amigos!
 E pensar que estive tão perto de recriar o mais lendário de todos os curries... Que decepção...
-Maldições... Faltam-me os ingredientes necessários...<NL>O que fazer, o que fazer...
-Está tudo bem?
+Maldição... Faltam-me os ingredientes necessários...<NL>O que fazer, o que fazer...
 A fórumla do mais lendário dos pratos Mamooni, o <color:#1>tikka mahala</color>, chegou às minhas mãos.
 Mas me faltam os ingredientes necessários para completar este lendário curry.
 Talvez você pudesse fazer a gentileza de reunir os ingredientes para mim?
@@ -26249,11 +26160,10 @@ Beleza! Eu não posso esperar, você pode, Olliezinho?
 Eu com certeza não posso! Rapaz, ah rapaz!
 Você tem minha eterna gratidão. Graças a você, o tikka mahala não é mais uma relíquia do passado, mas uma parte viva da cultura Mamooni!
 Isso certamente não é suficiente para compensá-lo por seus problemas, mas, por favor, devo lhe dar algo pelo que você fez por mim.
-Bem-vindo bem vindo! Por favor, tire o peso dos pés e experimente alguns dos meus caril finos!
+Bem-vindo bem vindo! Por favor, tire o peso dos pés e experimente alguns dos meus curry finos!
 Finalmente consegui! Agora posso reviver o lendário tikka mahala! Esperei minha vida inteira por esse momento!
 Isso não é bom. Sem um modelo para me inspirar, nunca o completarei...
-O que está errado?
-imagem que estou pintando atualmente... Não consigo acertar, não importa o quanto eu tente. A fonte da minha visão secou...
+A imagem que estou pintando atualmente... Não consigo acertar, não importa o quanto eu tente. A fonte da minha visão secou...
 Tem, né? Que tipo de imagem é?
 É um estudo da beleza feroz e nobre de <color:#1>uma menina, selvagem como as colinas e florestas de nossa bela terra</color>!
 Mas não consigo evocar uma imagem clara dela apenas pela imaginação. Este trabalho requer a clareza brutal do real!
@@ -26264,8 +26174,6 @@ Você vai encontrar uma modelo que incorpore minha visão e trazê-la para mim?
 Obrigado! Você é realmente um patrono das artes!
 A criança que procuro é <color:#1>uma menina, selvagem como as colinas</color>uma moradora da floresta, talvez? Ela tem cabelo curto... e um colar! Sim, o colar é o mais importante.
 Você não vai? Então não tenho escolha a não ser encontrá-la eu mesmo. Minhas desculpas por incomodá-lo.
-Isso não é bom. Sem um modelo para me inspirar, nunca o completarei...
-O que está errado?
 Estou tentando pintar <color:#1>uma menina, selvagem como as colinas e florestas de nossa bela terra</color>, mas não consigo capturar<NL>sua semelhança.
 Se eu pudesse encontrar um modelo adequado, talvez pudesse me livrar desse mal-estar criativo!
 Você vai me ajudar a completar minha obra-prima? Você vai encontrar uma modelo que incorpore minha visão e trazê-la para mim?
@@ -26298,30 +26206,21 @@ Tenho ordens de todo o país que não posso esperar entregar sozinho.
 Agradeço novamente! Você é verdadeiramente meu salvador!
 Muito bem. A primeira entrega é para o <color:#1>Sheikh of Spice</color> aqui em Al Mamoon. Por favor, deve ser entregue a ele <NL>toda a pressa!
 Não se preocupe, mun!<NL>Deixe com o serviço de entrega do Ollie!
-Você não vai ajudar? Maldições...<NL>Estava contando com sua ajuda...
+Você não vai ajudar? Maldição...<NL>Estava contando com sua ajuda...
 Quer pelo menos saborear um pouco do meu curry enquanto <NL>está aqui?
-Ufa! Tanta coisa ainda a fazer!<NL>Tenho que me apressar!
-Você com certeza parece ocupado hoje...
-Eu sou de fato! Meu tikka mahala provou ser tão popular que tenho quase mais pedidos do que posso atender!
-Talvez se você tiver tempo, você pode considerar me ajudar?
-Preciso de alguém para entregar caril às pessoas que os encomendaram...
+Eu preciso de alguém para entregar curry às pessoas que os encomendaram...
 A primeira entrega é para o <color:#1>Sheikh of Spice</color> aqui em Al Mamoon. Por favor, deve ser entregue a ele com toda a pressa!
 Ah, mas talvez você goste de um pouco de curry antes de ir?
 A próxima entrega é para <color:#1>o personagem mais ilustre da Enseada Naufrágio</color>! Por favor, deve ser entregue com toda a pressa!
-Ah, mas talvez você goste de um pouco de curry antes de ir?
 A próxima entrega é para <color:#1>aquele que se orgulha de vender todos os itens sob o sol</color>! Por favor, deve ser entregue com toda a pressa!
-Ah, mas talvez você goste de um pouco de curry antes de ir?
 A próxima entrega é para <color:#1>aquele que é só ossos</color>!<NL>Por favor, deve ser entregue o mais rápido possível!
-Ah, mas talvez você goste de um pouco de curry antes de ir?
 A próxima entrega é para <color:#1>aquele que mora na floresta a oeste de Ding Dong Dell</color>! Por favor, deve ser entregue com toda a pressa!
-Ah, mas talvez você goste de um pouco de curry antes de ir?
 Bem-vindo de volta!<NL>A entrega correu bem, espero?
 Eu gostaria de poder permitir-lhe um momento de descanso.
 Mas ainda há clientes aguardando entregas de deliciosos curry! Você vai me obrigar mais uma vez?
 Claro que sim!<NL>Quem é o próximo da lista?
 A próxima entrega é para <color:#1>o personagem mais ilustre da Enseada Naufrágio</color>!
 Enseada Naufrágio. Entendi!<NL>Já voltamos!
-Bem-vindo de volta!<NL>A entrega correu bem, espero?
 Sinto muito, mas tenho outro pedido para você entregar.<NL>O próximo é para alguém do Império de Hamelin.
 Hamelin!? Jeepers, os pedidos estão vindo de <NL>de longe!
 Para quem exatamente é?
@@ -26329,7 +26228,6 @@ Deixe-me ver, agora... Maldições! Tenho estado tão ocupado que minhas anotaç
 Não consigo encontrar o nome, mas é para <color:#1>aquele que administra uma loja que se orgulha de vender todos os itens sob o sol</color>!
 Bem, isso não ajuda muito, não é, mun? Você acha que seremos capazes de entregá-lo com base nesse monte de bobagens distorcidas, não é?
 Nós apenas teremos que fazer o nosso melhor!
-Bem-vindo de volta!<NL>A entrega correu bem, espero?
 Hamelin é muito longe daqui. Sem a sua ajuda, eu nunca poderia ter concluído o pedido. Realmente, você é meu salvador!
 E temo que você terá que vir em meu socorro mais uma vez. Acabei de receber outro pedido. Espero que você possa me obrigar.
 Claro que podemos! Quem é para este tempo?
@@ -26338,19 +26236,18 @@ Deixe-me ver, agora...era para, um...<color:#1>aquele que é todo ossos</color>!
 Eita. Parece que ele precisa dessa comida logo.<NL>Espero que consigamos entregar a tempo para ele...
 Parece que me lembro de sua localização em algum lugar que parecia mais sombrio e agourento...
 Escuro e agourento. Entendi!<NL>Já voltamos!
-Bem-vindo de volta!<NL>A entrega correu bem, espero?
 Com certeza!<NL>Para onde vamos, senhor?
 Ha ha! Você adivinhou que haveria outro, pelo que vejo.<NL>Mas, felizmente, este será o último.
 cliente é <color:#1>aquele que mora em uma vila perdida escondida no meio de uma floresta a oeste de Ding Dong Dell</color>.
 Ele ouviu rumores sobre meu delicioso tikka mahala e decidiu experimentá-lo. Não devemos decepcioná-lo!
 Rogério! Estaremos de volta!
-Conseguimos! Entregamos o último caril!
+Conseguimos! Entregamos o último curry!
 Você fez? Sério?<NL>Não tenho palavras para agradecer!
 Todos os que comeram disseram-nos como era delicioso!<NL>Tens muitos clientes satisfeitos!
 Isso é música para meus ouvidos! Saber que nosso esforço não foi em vão é uma satisfação mesmo!
 Tenho certeza de que já lhe disse, mas, na verdade, você é meu salvador. Por favor, aceite este sinal de minha eterna gratidão. Obrigado.
 Bem-vindo, bem-vindo!<NL>Quer experimentar um dos meus deliciosos curries?
-Uma prova do meu caril incomparável é suficiente para enfeitiçar até o mais exigente dos gourmands!
+Uma prova do meu curry incomparável é suficiente para enfeitiçar até o mais exigente dos gourmands!
 Os viajantes vêm de todo o mundo para experimentar o lendário tikka mahala!
 Entrega especial!<NL>Um tikka mahala para um Sr. Sheikh!
 E não é cedo demais!<NL>Eu quase perdi as esperanças!
@@ -26360,7 +26257,7 @@ Mas é claro! É o melhor de todos os alimentos!<NL>Nunca me cansarei dele!
 Afinal, é feito com minha própria mistura especial de especiarias! Como não poderia ser o auge da excelência culinária?
 Você também desempenhou seu papel em sua criação, é claro.<NL>E agora, sua entrega também. Você tem meus agradecimentos.
 De nada, Sr. Sheikh, senhor!<NL>Obrigado por escolher o Raj Mahal!
-O que almoçar, eu me pergunto...?<NL>Mas é claro! Um caril delicioso!
+O que almoçar, eu me pergunto...?<NL>Mas é claro! Um curry delicioso!
 Não importa quantas porções de tikka mahala eu consuma, nunca me canso de sua profundidade e refinamento. É realmente uma maravilha culinária!
 Interessante. Muito interessante. A menos que eu esteja muito enganado o que, claro, não estou, você mantém Familiares. Estou correcto?
 Sim. Mas...<NL>Por que você pergunta?
@@ -26380,10 +26277,7 @@ Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares,
 Corra, então. Traga-os de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Não se preocupe, speccy! Estaremos de volta com as bestas antes que você possa dizer "criptozoologia"!
 Você não quer fazer parte da história científica?<NL>Sua perda...
-Interessante. Muito interessante. A menos que eu esteja muito enganado o que, claro não estou, você mantém Familiares. Estou correcto?
-Sim. Mas...<NL>Por que você pergunta?
 Como você gostaria de ajudar a avançar no campo da familiarologia?
-Gostaria de oferecer a você a excelente oportunidade de ajudar em algumas pesquisas inovadoras, domando certas criaturas e trazendo-as para mim para estudo.
 Excelente. Oh, sim. Olha só isso...
 O agrupamento das protuberâncias babaniformes...possivelmente para fins defensivos? E o rico roxo do turbante... acho que você descobrirá que é para desencorajar os predadores...
 Sim, essas são realmente as criaturas que eu queria estudar.<NL>Não são os melhores espécimes, talvez, mas servirão...
@@ -26393,16 +26287,9 @@ Sim... Mm-hm... Alguns dados muito interessantes... Isso certamente levantará a
 Não adianta, mun. Speccy aqui está em um mundo próprio. Vamos, vamos deixá-lo com isso.
 ...Oh. Aqui.
 Certamente parece um monte de babanas verdes... Sim. É esse.
-Agora, onde está o outro? Aquele com o <color:#1>turbante roxo</color>? Acho que você descobrirá que o instruí a me trazer duas espécies.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga-os de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
-Bem, certamente parece estar usando um turbante roxo... Sim. É esse.
 Agora, onde está aquele que <color:#1>parece um monte de babanas verdes</color>? Acho que você descobrirá que o instruí a me trazer duas espécies.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga-os de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
-Eu preciso coletar dados sobre <color:#1>uma espécie de criatura que dizem se parecer com um bando de babanas verdes</color> e <color:#1>uma que usa um turbante roxo</color>.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga-os de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
+Bem, certamente parece estar usando um turbante roxo... Sim. Este é o único.
+Agora, onde está aquele que se <color:#1>assemelha a um monte de bananas verdes</color>? Acho que você vai descobrir que eu instruí você a me trazer duas espécies.
 Eu realmente fiz algumas observações excelentes lá, mesmo que os espécimes que você me trouxe fossem um pouco inferiores...
 Coletar dados nesses climas áridos pode ser uma luta até para o cientista mais dedicado. Mas acho que você descobrirá que compensa...
 Ah, eu digo! É o jovem que conheci em Ding Dong Dell! E aqui está você de novo, velho! Quais são as chances, hein? Muito bom ver você!
@@ -26413,7 +26300,6 @@ Dificilmente! Como minha tia solteirona sempre comentou, não sou o mais corajos
 E valeu muito a pena, também valeu! Isso me inspirou a escrever uma pequena passagem maravilhosa para minhas memórias. Deixe-me recitar para você...
 ... Ah, que caramba!
 ... Oh, corra e se preocupe e confunda tudo!
-O que está errado?
 Bem, ah... parece que perdi o velho diário mais uma vez, idiota que sou...
 Muito embaraçoso, é claro, dada a minha promessa solene a você da última vez que nos encontramos. Devo parecer um velho limão desmiolado...
 Eu digo, você não poderia vir em auxílio da equipe mais uma vez, poderia, velho pau?
@@ -26425,13 +26311,9 @@ Tendo estado um tanto perdido nas brumas da criatividade, é claro, qual árvore
 Encontre a árvore e encontrará meu diário, com certeza ovos são ovos! Muito obrigado, meu velho!
 Bem, devo dizer que isso é bastante mesquinho da sua parte. As escolas hoje em dia realmente estão produzindo os mais assustadores jovens ingratos...
 Muito bom ver você de novo, velho pau! Eu mencionei que acabei de dar uma volta no velho vulcão?
-Eita! Você escalou Velho Fumacento!?
-Dificilmente! Como minha tia solteirona sempre comentou, não sou o mais corajoso dos sujeitos. Mas eu vasculhei um pouco o pé do velho lugar, o que!
-E valeu muito a pena, também valeu! Isso me inspirou a escrever uma pequena passagem maravilhosa para minhas memórias. Deixe-me recitar para você...
-... Oh, corra e se preocupe e confunda tudo! Parece que perdi o velho diário mais uma vez, maldito idiota que sou...
+...Oh, corra e se preocupe e confunda tudo! Parece que perdi o velho diário mais uma vez, maldito idiota que sou...
 Eu digo, você não poderia ajudar a equipe mais uma vez, poderia, meu velho?
 Se minhas suspeitas estiverem corretas, deixei cair enquanto compunha uma coisinha sob <color:#1>uma árvore ao pé do antigo vulcão</color> ali.
-Tendo estado um tanto perdido nas brumas da criatividade, é claro, qual árvore me escapa. Não me aventurei muito longe nas encostas, veja bem...
 Desculpe fazê-lo esperar, senhor!<NL>Este é o seu diário, não é?
 Ah, eu digo! Você é uma maravilha!<NL>Um tesouro! Um tijolo de primeira ordem!
 Tente não perdê-lo novamente, ok?
@@ -26550,7 +26432,6 @@ Vamos dar uma olhada nas lojas de Al Mamoon? Estamos prestes a encontrar algo, m
 Mesmo o Vacalifa está com o coração partido... Esse Shadar tem muito pelo que responder. Um montão...
 Você tem a sensação de que estamos sendo observados? Ahh, provavelmente não é nada. Apenas um dos meus fãs ou algo assim...
 Aquele tal de Abull tinha um coração cheio de moderação, não tinha? Eu deveria saber, mun...
-Uau! A visão de seu rosto quando ela estava comendo aquele queijo! Já vi Pesadelos menos assustadores!
 Aquele tal de Abull parecia apropriado, hein? Eu acho que ele deve ter contenção saindo de suas orelhas, mun!
 Vamos, mun, vamos dar a Vacalifa sua contenção, de volta, não é?
 Tudo o que precisamos fazer é entregar essa restrição e bum! trabalho feito!
@@ -26585,7 +26466,6 @@ Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
 A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
 Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
 Vamos voltar para o palácio em Hamelin, ou o quê, mun?
 Vamos acreditar um pouco naquele Marcassin, certo?
@@ -26680,15 +26560,85 @@ Purrprietor
 Taskmaster
 Hootenanny
 Cawtermaster
+掲示板
+マル
 Rashaad
 Horace
 Prince Ali
 Princess Yasmina
 Sheikh of Spice
+行商人（夫）
+行商人（妻）
 Raj
 Con the Artist
 Derwin
+ハト01
+ハト02
+ハト03
 Wolf Flower
+qs0040大富豪
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
+npc_025
+npc_026
+npc_027
+npc_028
+npc_029
+npc_030
+npc_031
+npc_032
+npc_033
+npc_034
+npc_035
+npc_036
+npc_037
+npc_038
+npc_039
+衛兵
+npc_041
+npc_042
+npc_043
+npc_044
+大道芸人
+npc_049
+npc_051
+ハト1
+ハト2
+ハト3
+ハト4
+ハト5
+ハト6
+ハト7
+ハト8
+ハト9
+シズク
+
+pla-t03_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
 
 pla-t04_npc_text_en.cfg.bin.kup
 ...!<NL>.........!
@@ -26720,7 +26670,6 @@ Puxa, obrigado Horace!
 Agora, acho que é hora de dar uma olhada nesta metrópole mecânica, então vou embora.
 Quando me cansar de tanto fumo e barulho, estarei<NL>pronto para experimentar uma ilha com um pouco mais de <NL>beleza natural...
 Vejo você novamente em breve.
-Quando me cansar de tanto fumo e barulho, estarei<NL>pronto para experimentar uma ilha com um pouco mais de <NL>beleza natural...
 Apenas um último empurrão e a cura será completa! Ah, ver o sorriso no rosto da minha querida irmã fará tudo valer a pena!
 Bem, aí está.<NL>Foi uma total perda de tempo.
 Uma perda de tempo?<NL>O que quer dizer, senhor?
@@ -26786,7 +26735,6 @@ Não há tempo a perder, mun.<NL>Vamos restaurar o <color:#1>controle</color> de
 Você vai deixar esse pobre coitado tirar uma soneca do trabalho? Duro adequado, isso é!
 O trabalho está se acumulando... (bocejo)<NL>Oh...se eu pudesse ter quarenta zzz... Zzz...
 Oi! Pare de dormir no trabalho ou acostume-se a não ter um!
-Ei! Acorde, senhor!<NL>Seu chefe vai demiti-lo se não o fizer!
 Sinto muito, chefe! Não é que eu não queira trabalhar, sinceramente! É que quando canso, não consigo... não resisto... não consigo rezzz... Zzz...
 Eu entendi! O que falta à Bela Adormecida é a boa e velha <color:#1>contenção</color>!
 Não há tempo a perder, mun. Flexione sua varinha, lance <color:#8>Entregar Virtude</color> e restaure a <color:#1>restrição</color> dele!
@@ -26811,17 +26759,13 @@ Eita. E se ele parar de deixar as pessoas passarem pelo portão? Temos que encon
 Use sua cabeça, Olliezinho! Se não o ajudarmos,<NL>ele impedirá as pessoas de passarem por este portão.
 Oi! Você na capa! Pare aí!<NL>Eu reconheço um espião quando sinto o cheiro de um!
 N-Não, você entendeu tudo errado, senhor!<NL>Eu não sou um espião!
-Aguentar! Você é outro, não é?<NL>Eu descobri toda uma quadrilha de espionagem!
 Você está acusando o Lorde Grão-Senhor das Fadas<NL>de ser um espião? Um personagem adorável como eu!?
-Chega de sua tagarelice! Você não é de Hamelin, portanto é um espião! Fim da sangrenta história!
-Ah, Caramba! Ou este guarda está com o coração partido,<NL>ou sou um espião maluco! O desconfiado fulano<NL>perdeu a <color:#1>crença</color> nas pessoas, não é?
 Vamos, Olliezinho! Você sabe o que fazer!<NL>Conjurar <color:#8>Entregar Virtude</color> e devolver a <color:#1>esperança</color> a esse guarda.
 ...Hm? Digo...<NL>O que diabos eu tenho feito?
 Demais! Parece que você voltou ao normal!
 Lamento ter duvidado de suas intenções.<NL>Não sei o que deu em mim.
 A título de desculpas, gostaria de lhe dar isto.
 Se você não é de Hamelin, você deve ser um espião!
-Tudo parece estar em ordem.<NL>Do jeito que eu gosto!
 Minha pesquisa está avançando aos trancos e barrancos!<NL>Com meus fiéis assistentes ao meu lado, faremos Hamelin a inveja de todo o mundo!
 Confunda! Estou chegando ao fim da minha corda!
 Qual é o problema, senhor?<NL>Você não parece muito feliz...
@@ -26836,9 +26780,6 @@ Vamos, Sr. Drippy! Vamos ajudá-lo a colocar sua pesquisa de volta nos trilhos!
 Há bom de você! Agora só precisamos encontrar um pouco de <color:#1>crença</color>.
 Bem, nós temos muito em nosso prato, eu suponho... Eu simplesmente não posso deixar de sentir pena daqueles assistentes mais pobres dele.
 Minha pesquisa está na rotina mais assustadora.
-Sei que há limites para o que um homem pode alcançar,<NL>mas simplesmente não posso confiar em meus assistentes irresponsáveis.
-Você não pode fazer tudo sozinho, senhor!<NL>Você precisa de outras pessoas para ajudá-lo!
-Se ao menos eu pudesse me dar a esse luxo. Se eu deixasse meus assistentes por conta própria, eles roubariam meus dados e os venderiam pelo lance mais alto!
 Hmph. Este sujeito aqui está com o coração partido, e é <NL>sua <color:#1>crença</color> que está em falta.
 Certo, vou lançar <color:#8>Entregar Virtude</color> e devolver a <color:#1>crença</color> a esse homem!
 Hum? Devo ter sonhado acordada... Como poderia, quando há pesquisas a serem feitas! Não posso deixar tudo para meus fiéis assistentes.
@@ -26860,10 +26801,7 @@ Não sei o que ele está pesquisando, mas seria uma pena vê-lo desistir de tudo
 Não podemos simplesmente vê-lo jogar fora o trabalho de sua vida!<NL>Temos que ajudá-lo, Sr. Drippy!
 Bem, nesse caso, ele vai precisar de uma injeção de emergência de <color:#1>confiança</color>. Vá em frente, Olliezinho!
 Parece uma pena deixá-lo tão deprimido quando ele estava prestes a voltar ao trabalho...
-Temo que todo o trabalho de minha vida tenha sido em vão.<NL>Decidi abandonar minha pesquisa.
-Mas senhor, você não iria compensar seus assistentes trabalhando ainda mais duro do que antes?
-Não tenho dom para pesquisa. Enquanto o progresso avança rumo a um amanhã melhor, continuo sendo o homem de ontem.
-M-Mas... você disse que sua pesquisa estava indo tão bem...
+Eu não tenho dom para pesquisa. Enquanto o progresso avança rumo a um amanhã melhor, continuo sendo o homem de ontem.
 Este sujeito está com o coração partido. Perdeu a <color:#1>confiança</color>, ele perdeu. Temos que ajudá-lo, mun!
 Tudo bem, Sr. Drippy, eu sei o que fazer! Acabei de usar <color:#8>Entregar Virtude</color> para restaurar a falta de <color:#1>confiança</color> dele, certo?
 Que curioso! Meu peito está formigando deliciosamente. <NL>... Agora, com o que eu estava tão preocupado?
@@ -26871,7 +26809,6 @@ Deixa para lá! Não há um segundo a perder!<NL>Devo continuar minha pesquisa!
 Demais! Você recuperou sua confiança!
 Você veio em meu auxílio mais uma vez?<NL>Não sei como lhe agradecer.
 ...Pensando bem, talvez sim.<NL>Por favor, aceite este pequeno sinal de minha gratidão.
-Temo que todo o trabalho de minha vida tenha sido em vão.<NL>Decidi abandonar minha pesquisa.
 Estou convencido de que estou prestes a fazer<NL>uma descoberta verdadeiramente espantosa! Devo continuar com minha pesquisa. Em frente!
 Grrr! Rrrargh!
 Ruff! Ruff, ruff!<NL>Grrraaarrrgh!
@@ -26889,12 +26826,7 @@ Eita! Você quer dizer que animais de estimação também podem ter o coração 
 Claro que podem! Se você tem um coração, então ele pode ser partido, não é?
 Certo então! É melhor encontrarmos um bom e suculento pedaço de <color:#1>amor</color> para Fido aqui antes que ele coma alguém.
 Não podemos deixá-lo assim! E se ele engolir um desses porquinhos de aparência suculenta por aqui!?
-Grrraaargh! Rrrargh! Rrrargh!
-Já chega, rapaz! Pare com esse barulho infernal!<NL>...Por que você não faz o que mandam?
-O que deu nele?<NL>Ele costumava ser tão quieto e obediente...
 Caramba! O coração daquele vira-lata está partido!<NL>Pelo que parece, ele perdeu o <color:#1>amor</color> por seu dono.
-Eita! Você quer dizer que animais de estimação também podem ter o coração partido!?
-Claro que podem! Se você tem um coração, então ele pode ser partido, não é?
 Certo! Pegue sua varinha, lance <color:#8>Entregar Virtude</color> e coloque um pouco de <color:#1>amor</color> de volta na vida daquele cachorrinho!
 ...Aro? (sniff)<NL>...Uff! (ofegante)
 Hum? Ele finalmente parou de latir infernal!<NL>Bom menino! Sabe, acho que ele pode estar de volta<NL>ao que era antes!
@@ -26923,8 +26855,6 @@ Nesse caso, precisamos rastrear uma generosa<NL>medida de <color:#1>ambição</c
 Então viemos até aqui só para deixar o coitado na mão, não é?
 (suspiro) Não importa o que eu faça, eu me sinto tão vazio por dentro.<NL>Para que o trabalho da minha vida ajudou?
 Diga, você não parece tão feliz, senhor.<NL>Você está preocupado com sua pesquisa?
-Pesquisar? Pá! Eu chamei isso um dia, eu estou com medo.
-Hã!? Mas por que você faria isso?
 Ele teve sua <color:#1>ambição</color> roubada, mun! Ele nunca terminará sua pesquisa sem isso, pobre mendigo!
 Ok, é hora de lançar <color:#8>Entregar Virtude</color> e devolver a ele a <color:#1>ambição</color> que ele está perdendo!
 Ora, lá estão eles! Eu posso vê-los, claro como o dia!<NL>Meus objetivos! Meus ideais! Meus sonhos!
@@ -26932,8 +26862,7 @@ Não é hora para conversa fiada!<NL>Estou a todo vapor para minha pesquisa!
 Com certeza é ótimo vê-lo com todos os seus antigos sonhos<NL>de volta, senhor!
 Eu acredito que você veio em meu auxílio mais uma vez.<NL>Não há palavras para expressar minha gratidão.
 ...Mas eu tenho isto!<NL>Espero que seja do seu agrado.
-Perdi de vista meus objetivos, os altos ideais que primeiro me inspiraram a fazer minha parte para progredir.
-Não é hora para conversa fiada!<NL>Estou a todo vapor para minha pesquisa!
+Eu perdi de vista meus objetivos, os altos ideais que primeiro me inspiraram a fazer minha parte para progredir.
 Ah é você! Muito obrigado por tudo que você fez por nós dois!
 Agora, estamos economizando e economizando e quase temos dinheiro suficiente para abrir nossa loja dos sonhos. Só temos que decidir um local...
 ...Mas primeiro vou encher a cara de bolo! (arroto)<NL>Então vou comer sorvete até sair pelas orelhas!<NL>E então... E então...
@@ -26948,10 +26877,8 @@ Se não fizermos algo afiado, suas esperanças e sonhos irão desaparecer em sua
 Claro, Sr. Drippy. Precisamos dar a ela um pouco de <color:#1>contenção</color>, rápido!
 Você está apenas deixando ela? Mas eles nunca abrirão a loja dos seus sonhos se você deixá-la zombar de todas as suas economias!
 (arroto) Primeiro vou encher a cara de bolo!<NL>Depois vou comer gelado até sair pelas orelhas!<NL>E depois... E depois...
-N-Já não comeu o suficiente?<NL>Você não pode continuar comendo assim, querida...
-Economizamos um pouco de dinheiro, não é? <NL>Deixe-me aproveitar!
+J-já não comeu o suficiente?<NL>Você não pode continuar comendo assim, querida...
 O que você está falando? Economizamos e economizamos esse dinheiro para abrir nossa loja dos sonhos!
-Não há dúvida sobre isso. É <color:#1>contenção</color> que falta a esta senhora.
 Você sabe o que fazer, Olliezinho! Lance <color:#8>Entregar Virtude</color> e sirva a ela uma porção saudável de <color:#1>contenção</color>!
 Oooh, eu me sinto quente e formigando por dentro! <NL>... Mas também um pouco... cheio. O que eu tenho feito?
 Esse dinheiro era para fazer nossa loja dos sonhos decolar!<NL>Não posso continuar comendo nossas economias!
@@ -27005,12 +26932,10 @@ com certeza vou! Puxa...espero que eu e Phil continuemos melhores amigos quando 
 Bem, ele mostrou como se faz! Siga seu exemplo, e você e Phil ainda serão melhores amigos quando você estiver velho, grisalho e enrugado!
 Ha ha! Sabe, Sr. Drippy, você diz coisas realmente inteligentes<NL>às vezes.
 ...Às vezes? ÀS VEZES!? Eu sou uma fonte inesgotável de sabedoria, eu quero que você saiba!
-Fiquei muito feliz em dar meu trabalho para meu melhor amigo.<NL>Eu faria qualquer coisa para ajudá-lo.
-Este aqui não é um sujeito comum.<NL>Seu coração está prestes a explodir de <color:#1>bondade</color>!
+Eu fiquei muito feliz em dar meu trabalho para meu melhor amigo.<NL>Eu faria qualquer coisa para ajudá-lo.
 Diga, senhor, você se importaria de compartilhar um pouco de <NL>sua bondade?
 Compartilhe minha bondade!?<NL>Bem, se tal coisa é possível, então por que não?<NL>Eu ficaria feliz em ajudá-lo.
-Obrigado Senhor!
-Agora, então! Preciso encontrar algum emprego remunerado!
+Então, agora! Preciso encontrar algum emprego remunerado!
 Certo! Devo garantir que tudo esteja em ordem para a procissão real. Tanto para fazer, tão pouco tempo!
 Esplêndido! Tudo parece estar em ordem!<NL>Do jeito que eu gosto!
 É seu trabalho patrulhar a área, senhor?<NL>Com toda essa gente por perto, você deve estar ocupado.
@@ -28083,7 +28008,7 @@ O oeste, hein? Tudo bem!<NL>Vamos, Sr. Drippy!
 Espere um minuto, mun!<NL>Você não acha que devemos obter mais algumas pistas primeiro...?
 Essa gaivota voou para o <color:#1>oeste</color>, tenho certeza.
 Devo começar a ter algumas ideias para a próxima temporada. O trabalho de um designer nunca termina!
-Aqui está, senhor!<NL>Um caril tikka mahala!
+Aqui está, senhor!<NL>Um curry tikka mahala!
 Ah! Louvados sejam os Antigos, chegou!<NL>Ahhh! Que aromas maravilhosos! Estou com água na boca...
 A traiçoeira travessia do deserto que se deve fazer ao visitar Al Mamoon me enche do mais terrível pavor. Este serviço de entrega é realmente uma bênção!
 Isso é bom de se ouvir!
@@ -31458,12 +31383,12 @@ Encontre "uma menina, selvagem como as colinas e florestas".
 Apresente o pintor à garota.
 Missão concluída!
 Descubra o que está incomodando o dono da barraca de curry.
-Concorde em ajudar a entregar alguns caril.
+Concorde em ajudar a entregar alguns curry.
 Entregue um curry para o Sheik dos Temperos.
 Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry para o figurão da Enseada Naufrágio.
 Diga a Raj que você entregou o curry com sucesso.
-Entregue um caril ao vendedor de tudo sob o sol.
+Entregue um curry ao vendedor de tudo sob o sol.
 Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry para alguém que é só ossos.
 Diga a Raj que você entregou o curry com sucesso.
@@ -31763,7 +31688,7 @@ Povo da Floresta
 Cesta de almoço de um amante
 Cabeças de Osso incômodos
 Um menino e seus pássaros
-Rei dos caril
+Rei dos curry
 Um maiô mais estiloso
 O caranguejo Preocupado
 Uma comédia de erros
@@ -31782,7 +31707,7 @@ Batendo nas costas
 A Llapaca Faminta
 Os bigodes do gato
 A musa do artista
-caril com pressa
+curry com pressa
 Acorda-acorda
 As Fadas Fugitivas
 O maior tesouro
