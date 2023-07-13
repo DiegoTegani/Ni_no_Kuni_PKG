@@ -26960,7 +26960,6 @@ Now that's what I call self-control!<NL>Got <color:#1>restraint</color> coming o
 Ummm... Excuse me, Sir. Would you mind sharing a little of your restraint?
 We need it to help people who've had their<NL>restraint taken away from them.
 You mean to tell me that my self-discipline could<NL>help someone to control their unruly urges?<NL>Well, in that case, be my guest!
-Thank you, Sir!
 Righto! Another day devoted to keeping<NL>the Empire safe! Splendid!
 So...very...very...hungry...
 I'm starving, but I am far too busy to concern myself with frivolous pastimes like eating.
@@ -26982,8 +26981,6 @@ Ah, I thank you. I have learned a valuable lesson today. Too much restraint can 
 I am starving. But I am at a critical juncture in my work. I shall control my appetite until my research is done.
 This fellow's got more than his fair share of <color:#1>restraint</color> and it's driven him a bit barmy.
 You couldn't spare us a little bit of youer heart,<NL>could you? Before you go and collapse in a heap.
-A piece of my heart, you say? Well, I suppose so.<NL>...You do know what you're doing, don't you?
-Sure we do!<NL>Now, if you could just hold still for a second...
 Now, I must fortify myself before I continue my work.<NL>But what to eat? Decisions, decisions...
 Developing new technology is deeply rewarding,<NL>but it is far from easy.
 Developing new technology is far from easy,<NL>but it is deeply rewarding.
@@ -27002,10 +26999,6 @@ Oh! I feel rather peculiar!
 Thank you very much!<NL>I hope you get back to work soon!
 I have no doubt I shall be back to work before long.
 The chief engineer is man of vision.<NL>I know that someday he will dust off his lab coat<NL>and return to his research. I have faith in him!
-Gee, Mr. Drippy, he sure does have a lot of <color:#1>belief</color> in his boss!
-Youer spot on there, Ollie-boy.<NL>You couldn't do us a bit of a favor, could you?
-A favor, you say? Well, I don't see why not.<NL>Tell me what I can do for you.
-We'd like you to share your belief with others.<NL>Don't worry, it's not as weird as it sounds!<NL>Just hold still for a moment...
 I must be ready to resume my work at a moment's notice.<NL>I know the day will soon come!
 I've found myself in my wife's bad books, I'm afraid.<NL>She lost her temper, and threw me out of the house.
 Jeepers! That's no good!<NL>What made her lose her temper?
@@ -27022,9 +27015,6 @@ Thank you very much, Mister!
 I say! Are you some sort of wizard? Well, whether you are or not, you've made my heart feel light as a feather!
 I'm in my wife's bad books, but I know that she'll forgive me in the end. She has trouble expressing her feelings, but she's a wonderful woman.
 Got some serious faith in his missus, en't he?<NL>That heart of his must be full to the brim with <color:#1>belief</color>!
-Sorry to trouble you, Mister, but I was wondering if we could ask you a favor...
-A favor, you say? Certainly. Why not? Now that I am out on the street, I have precious little else to do.
-Thank you very much, Mister!
 I'm sure my wife will let me back into the house before too long...
 Now then, what book shall I devour today?
 Let me see...<NL>What book shall I devour today?
@@ -27044,10 +27034,6 @@ That's amazing! Was that...magic?
 This has been a most educational experience.<NL>Thank you!
 I've set my sights on becoming Hamelin's preeminent scientist. All I have to do is keep on studying, and my future is assured!
 Wow! I don't suppose I could ask you to share some of your <color:#1>confidence</color> with us, could I?
-Share my confidence? Well, as long as it doesn't interfere with my studies, I don't see why not.
-Don't worry! All you have to do is hold still for a second.
-Well, that doesn't sound too hard.<NL>Is this still enough for you?
-That's perfect. Okay, here goes!
 Let's see how many books I can devour today!
 Oh, there's nothing I like more than watching a<NL>royal procession with my darling hubby beside me!
 Ah, I can't wait to watch the next royal procession with my darling hubby beside me! Somehow it never gets boring!
@@ -27134,9 +27120,7 @@ You sure do seem to be in a hurry, Sir.
 Indeed I am. I am preparing this medicine for my poor, ailing sister.
 So that's why you're working so hard.
 I couldn't trouble you for a favor, could I?
-Would you be so kind as to collect some <color:#1>feel-good fungus</color> for me?
 While you are off hunting for that ingredient,<NL>I shall continue mixing the medicine.
-You should find <color:#1>feel-good fungus</color> growing in the <color:#1>forest to the west</color> of this city.
 I say! Sterling work!<NL>You have found the vital ingredient!
 Now, one more push and I shall have this medicine complete! Oh, to see my sister's smiling face...
 Well, I sure hope your sister gets better soon.
@@ -27165,17 +27149,13 @@ There I am, courageously volunteering ouer services in the fight against pirates
 You made me look like I'm all mouth and no trousers! Young people today! I ask you!
 Gah! My poor, ailing sister awaits this medicine in Castaway Cove, and I cannot get it to her!
 Why can't you get the medicine to her, Sir?
-The seas between here and Castaway Cove have<NL>been plagued by pirates of late. They say it is too<NL>perilous for ships to set sail.
 Stop youer fretting and let us take care of those<NL>flipping pirates for you? Right, Ollie-boy?
-The pirates are plaguing the <color:#1>sea route to Castaway Cove</color>.
-Reports say there are a total of <color:#1>four ships</color> in their fleet. Please do be careful, won't you?
 We gave them pirates what for, just like we said we would!
 You did? Why, that is an extraordinary feat!<NL>I salute you!
 I wish you could've been there to see me in action!<NL>I gave them a left, then a right, then another left...
 Hundreds of them, there were—no, thousands!<NL>But they were no match for a fairy's fury.<NL>Chucked them all overboard, I did.
 Don't exaggerate, Mr. Drippy! You were just<NL>watching most of the time.
 Flipping heck, Ollie-boy! You really know how to pick youer moments, don't you?
-You made me look like I'm all mouth and no trousers! Young people today! I ask you!
 Ho ho ho! You are quite a pairing. I haven't laughed like this in a long time!
 But you have given me far greater cause to smile<NL>than that. Because of you, my sister will have her<NL>medicine at last. I am...inexpressibly grateful.
 I would like to thank you for all you have done for me. This is for you.
@@ -27244,12 +27224,8 @@ I predicted that you'd come this way, of course.<NL>And that is why I took the l
 Hi, Derwin!<NL>What is it that you want us to help you with?
 I think you'll find it's along the same lines as last time.
 To assist me in my vital research, I require that you bring me three very specific creatures. Now, do you wish to help the progress of science, or hinder it?
-Oh, it's you. It seems our paths have crossed once again.
 Those clumsy disguises cannot fool me, I'm afraid. My eye is far too discerning.
-I predicted that you'd come this way, of course.<NL>And that is why I took the liberty of lining up a<NL>task for you.
 Gee, Derwin! I can't believe you recognized us!<NL>You sure are one smart cookie! What is it that you want us to help you with?
-I think you'll find it's along the same lines as last time.
-To assist me in my vital research, I require that you bring me three very specific creatures. Now, do you wish to help the progress of science, or hinder it?
 Good. That was the correct answer. I shall proceed. I have always wanted to research certain curious creatures that inhabit this area.
 What kind of creatures are they, Derwin?
 I applaud your curiosity. The creatures in question belong to the Automata genus—about which science still has much to learn.
@@ -27269,33 +27245,20 @@ The subjects of my current study are as follows...
 A <color:#1>large mechanical creature</color>, a <color:#1>small mechanical creature</color>, and a creature that takes the form of a <color:#1>brown cog</color>.
 In the name of progress, I want you to find me specimens.
 It goes without saying that it will not suffice to<NL>simply stash said specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 It would appear that you have successfully<NL>identified a large mechanical creature and a<NL>brown cog-shaped specimen...
 I think you'll find that what you're missing is a<NL><color:#1>small mechanical creature</color>.
 It goes without saying that it will not suffice to<NL>simply stash the specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 It would appear that you have successfully<NL>identified both a large and a small mechanical<NL>creature...
 I think you'll find that what you're missing is a<NL><color:#1>brown cog-shaped creature</color>.
-It goes without saying that it will not suffice to<NL>simply stash the specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 It would appear that you have successfully<NL>identified a small mechanical creature and a<NL>brown cog-shaped specimen...
 I think you'll find that what you're missing is a<NL><color:#1>large mechanical creature</color>.
-It goes without saying that it will not suffice to<NL>simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 It would appear that you have successfully<NL>identified a brown cog-shaped specimen...
 I think you'll find that what you're missing is a <color:#1>large mechanical creature</color> and a <color:#1>smaller mechanical specimen</color>.
-It goes without saying that it will not suffice to<NL>simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 It would appear that you have successfully<NL>identified a large mechanical creature...
 I think you'll find that what you're missing is a <color:#1>small mechanical creature</color><NL>and a <color:#1>brown cog-shaped specimen</color>.
-It goes without saying that it will not suffice to<NL>simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 It would appear that you have successfully<NL>identified a small mechanical creature...
 I think you'll find that what you're<NL>missing is a <color:#1>large mechanical creature</color> and a <color:#1>brown cog-shaped specimen</color>.
-It goes without saying that it will not suffice to<NL>simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 My research continues to push the boundaries of human understanding. I thank you. And science thanks you.
-Oh, it's you. It seems our paths have crossed once again.
 I thank you for your assistance with my research<NL>back in Al Mamoon.
 I say, it's you, dear boy! It feels like an absolute age since our jaunt on that delightful fairy island, what? You have impeccable timing, you know!
 Uh...do we?
@@ -27317,7 +27280,6 @@ So it's on some <color:#1>railroad tracks near the entrance to a mine</color>...
 I really am most grateful, dear boy.
 Dear boy! I beg you to do this one favor for me!<NL>I swear I shall never drop that bally thing again!
 Dear boy, it feels like an absolute age since our jaunt on that fairy island! You have impeccable timing, I must say!
-Ten guilders says he's lost his flipping diary again...
 Got it in one, I'm afraid. I seem to have dropped<NL>it in my haste to escape from some thoroughly<NL>unsporting monsters.
 My gift to literature, gone...!<NL>But you'll help me find it, won't you, old bean?
 If I were to hazard a guess as to the diary's whereabouts, I would say it fell on the <color:#1>path near the mine's entrance</color>.
@@ -27396,7 +27358,6 @@ I want to pay my beloved a compliment, but what am I supposed to say?
 Your snout holes are perfectly shaped!?<NL>...That's no way to win someone's heart.
 This is the mighty realm of Hamelin, ruled over by<NL>the Porcine Prince.
 You've got a funny pet! He looks rather odd,<NL>but loveable all the same.
-Oh, there's nothing I like more than watching a<NL>royal procession with my darling hubby beside me!
 Deary me. I'd love to show my grandchildren the stars, but all the smoke and dirt in the air makes it impossible.
 Harnessing magic and science, Hamelin has forged all sorts of new and exciting weaponry.
 Head to the Cawtermaster's Store, and you'll be<NL>bowled over by the wares on offer!
@@ -27444,15 +27405,11 @@ What are tanks doing trundling round inside<NL>a flipping palace?
 That rotter Shadar's left all the powerful folks<NL>brokenhearted. You've got to save the day, Ollie-boy!
 Time to head back into town, I reckon!
 Hamelin's a big old place, mun. Someone by here's bound to have some belief to spare!
-That rotter Shadar's left all the powerful folks<NL>brokenhearted. You've got to save the day, Ollie-boy!
-Time to head back into town, I reckon!
-Hamelin's a big old place, mun. Someone by here's bound to have some belief to spare!
 You scared of hard work or something?<NL>We need to go and find the flipping princes!
 Let's get these boys back to the palace in Hamelin, shall we?
 The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
 We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
 We going back to the palace in Hamelin,<NL>or what, mun?
 Let's get some belief off that Marcassin,<NL>shall we? His future self needs a dose.
@@ -27553,47 +27510,147 @@ You talking to me or chewing a brick? Sorry, mun. Just wanted to try and sound t
 Even heroes need to take a break every once in a while, mun. Don't overdo it, will you?
 Is there something stuck to my face?<NL>Besides the flipping lantern I mean,<NL>you cheeky so-and-so!
 What's up? Sorry, mun—if it's a pep talk youer after, I'm a bit short of wise words at the moment. Got a few unwise ones if you fancy them...
-So... Heard any good jokes recently, Ollie-boy?
-What are you gawping at me for, mun?<NL>Youer making me uncomfortable.
-What is it? What do you want, mun?
-If you don't want the guards to lay their trotters on you, you've got to stay out of sight. Don't rush it, mun!
-It looks like the guards have a set route they follow. Or am I just being daft?
-If we squeeze ouerselves into those spaces along the walls, we can just wait and sneak past. Easy, en't it?
-I'm not going to run away. You can trust me, mun!
-We'd best squeeze ouerselves down that hole.<NL>Hurry, mun! There's no time to lose!
-Tidy! I've got the perfect camouflage!
-What are you doing!? This is no time for a flipping chinwag—run, mun, run!
-What you need is a tidy disguise like mine!
-What are tanks doing trundling round inside<NL>a flipping palace?
-That rotter Shadar's left all the powerful folks<NL>brokenhearted. You've got to save the day, Ollie-boy!
-Time to head back into town, I reckon!
 In a big old place like Hamelin, there's bound to be someone who's got what we need.
-That rotter Shadar's left all the powerful folks<NL>brokenhearted. You've got to save the day, Ollie-boy!
-Time to head back into town, I reckon!
-In a big old place like Hamelin, there's bound to be someone who's got what we need.
-A mechanical town, they call it. And this is the future? Hmph. I'm not sure this science thing will last.
-They must be burning a heck of a lot of coal to drive all these contraptions. En't they worried it'll run out?
-Look! The flipping lantern on my nose is covered in grime! The air here's filthy!
-Look at the size of this place, mun! It's a heckuva long way to walk from the city gates to the palace.
-Why pigs!?<NL>Does the Prince have a thing for porkers, or what?
-Let's start the new day as we mean to go on, shall we? Best foot forward, and last one in's a rotten egg!
-Flipping heck, mun! Proper knackered, I am!
-Wahey!
-I don't know what it is you want me to tell you, mun, but I'm afraid I can't help you.
-Let's get a move on, shall we?<NL>I'm bored out of my flipping skull, mun!
-What was it again...? I was sure I had something to tell you. Proper funny it was, too... Knickers!
-You talking to me or chewing a brick? Sorry, mun. Just wanted to try and sound tough. Pretty convincing, eh?
-Even heroes need to take a break every once in a while, mun. Don't overdo it, will you?
-Is there something stuck to my face?<NL>Besides the flipping lantern I mean,<NL>you cheeky so-and-so!
-What's up? Sorry, mun—if it's a pep talk youer after, I'm a bit short of wise words at the moment. Got a few unwise ones if you fancy them...
 Purrprietor
 Taskmaster
 Hootenanny
 Cawtermaster
+掲示板
 William Abel
 Horace
 Derwin
+qs0014_鉢植え（芽）
+qs0014_鉢植え（蕾）
+qs0014_鉢植え（花）
+イベリコーグXX
+q_0042_大富豪
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
+npc_025
+npc_026
+npc_027
+npc_028
+npc_029
+npc_030
+npc_031
+npc_032
+npc_033
+npc_034
+npc_035
+npc_036
+npc_037
+npc_038
+npc_039
+npc_040
+npc_041
+npc_042
+npc_043
+npc_044
+npc_045
+npc_046
+npc_047
+npc_048
+npc_049
+npc_050
+npc_051
+npc_052
+npc_053
+npc_054
+npc_055
+npc_056
+npc_057(追加)
+npc_058(追加)
+npc_059(追加)
+npc_060(追加)
+npc_061(追加)
+npc_062(追加)
 Boarrior
+npc_067(過去)
+npc_068(過去)
+npc_069(過去)
+npc_070(過去)
+npc_071(過去)
+npc_072(過去)
+npc_073(過去)
+npc_074(過去)
+npc_075(過去)
+npc_076(過去)
+npc_077(過去)
+npc_078(過去)
+npc_079(過去)
+npc_080(過去)
+npc_081(過去)
+npc_082(過去)
+npc_083(過去)
+npc_084(過去)
+npc_085(過去)
+npc_086(過去)
+npc_087(過去)
+npc_088(過去)
+npc_089(過去)
+npc_090(過去)
+npc_091(過去)
+npc_092(過去)
+npc_093(過去)
+npc_094(過去)
+npc_095(過去)
+npc_096(過去)
+npc_097(過去)
+npc_098(過去)
+npc_099(過去)
+npc_100(過去)
+npc_101(過去)
+npc_102(過去)
+npc_103(過去)
+npc_104(過去)
+npc_105(過去)
+npc_106(過去)
+npc_107(過去)
+npc_108(過去)
+npc_109(過去)
+npc_110(過去)
+npc_111(過去)
+npc_112(過去)
+npc_113(過去)
+npc_114(過去)
+npc_115(過去)
+npc_116(過去)
+npc_117(過去)
+npc_118(過去)
+npc_119(過去)
+npc_120(過去)
+npc_121(過去)
+npc_124(闇市の店員)
+npc_125(行商人夫婦の夫)
+npc_126(行商人夫婦の妻)
+シズク
+
+pla-t04_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
 
 pla-t05_npc_text_en.cfg.bin.kup
 ...!<NL>......
@@ -27648,7 +27705,6 @@ I sure am! I mean, he just got his own boat!
 Right you are, then! Let's see if we can find some <color:#1>courage</color> for ouer fisherman friend!
 Youer just going to leave him like this!?<NL>Hmm... Doesn't seem right to me, mun.
 My fear of the ocean, it consumes me...<NL>What has become of me, I do not know...
-A fisherman who's suddenly scared of the sea...?<NL>Mr. Drippy, it sounds like he's—
 Brokenhearted, en't it? Lacking <color:#1>courage</color> he is, no doubt about it. We've got to help him, Ollie-boy!
 Fishing... It has suddenly become unthinkable...<NL>I simply do not understand...
 Right then, cast <color:#8>Give Heart</color> and restore that fisherman's <color:#1>courage</color>, en't it!?
@@ -27656,7 +27712,6 @@ Right then, cast <color:#8>Give Heart</color> and restore that fisherman's <colo
 Neato! So you're not scared of the sea anymore?
 Not in the slightest!<NL>Indeed, I shall take to the waves forthwith!
 Ah... But first I must show my gratitude.<NL>Please, accept this by way of thanks!
-Ah... Such warm sun, such cool breeze...<NL>Truly, this is fishing weather!
 Ohhh... I do want that elegant bathing suit so...<NL>But hard-earned guilders must not be wasted on such frippery!
 My purses are nearly empty...<NL>And yet there is so much more that I wish to buy!
 I simply must have the very latest bathing suits!<NL>Why must I be denied!?
@@ -27674,8 +27729,6 @@ Tidy! Let's find her the <color:#1>restraint</color> she's missing then, en't it
 You really en't going to help her?<NL>She'll end up in the pooer house at this rate, mun...
 Please! PLEASE! Do not disturb my shopping!
 But you said you didn't have any money...<NL>Maybe you should save up a little first?
-Do not trouble me with such petty considerations!<NL>I DO have to buy it all immediately!<NL>I WANT it! Do you not see!?
-It sounds to me like this girl is in need of a big dollop of <color:#1>restraint</color>, Ollie-boy...
 Oh! That one is simply magnificent!<NL>I must have it! I must have it immediately!
 Look sharp, Ollie-boy! Cast <color:#8>Give Heart</color> and lend that girl some <color:#1>restraint</color> before the demon debt gets her!
 Hmm? Whatever am I...?<NL>...What is going on here?
@@ -27702,8 +27755,6 @@ Eh? You en't going to help him? But he'll head off on his own if you don't. Pooe
 There is no reason for me to stay in this town! I shall leave, and find a place where I might live on my own!
 Live on your own!? What in the name of the Ancients...!? Please, you must put a stop to my brother's madness!
 Everyone here thinks me a fool. They tell me otherwise, but I refuse to believe a word! I refuse to believe any<NL>of them!
-He doesn't believe anyone at all...?<NL>It kind of sounds like he's brokenhearted, huh...
-No doubt about it, Ollie-boy.<NL>He's lacking <color:#1>belief</color>, en't it?
 I do not believe you!<NL>I do not believe anyone in this town!<NL>I have had enough of your lies!
 Right then, Ollie-boy! Cast <color:#8>Give Heart</color> and restore the pooer lad's <color:#1>belief</color>, en't it!?
 I was going to leave the home of my fathers...<NL>I was unable to trust anyone here...
@@ -27731,11 +27782,7 @@ You know what, Ollie-boy? I reckon she's brokenhearted. Properly, like. Someone'
 Come on, Mr. Drippy! Let's go find some <color:#1>love</color> so this couple can live happily ever after!
 Tidy, let's get cracking!
 Youer not going to help her?<NL>But I reckon she's in a proper bad way, like...
-What's the matter, Miss?<NL>You seem kinda worried...
-Oh... Yes. It is my beloved. I no longer feel...anything towards him.
-Gee... That sounds kinda sad...<NL>Did he do something wrong?
 No. He has been a perfect gentleman. I simply do not<NL>love him anymore. And yet...I cannot bear it when we<NL>are apart...
-You know what, Ollie-boy? I reckon she's brokenhearted. Properly, like. Someone's pinched her <color:#1>love</color>, en't it?
 I do not love him—that much I know.<NL>Why then can I not be without him?<NL>Oh, what am I to do...?
 You've got a hunk of <color:#1>love</color> burning a hole in youer Locket, en't it, Ollie-boy? Then cast <color:#8>Give Heart</color> and help this pooer dab out!
 Oh my... I do not know why, but...I cannot wait to see my beloved! I must tell him how much I love him!
@@ -27756,18 +27803,13 @@ He doesn't think he'll make anything of himself as a fisherman, so he's thinking
 Righto, Ollie-boy! Let's go and land ourselves<NL>some <color:#1>ambition</color>!
 Are you really going to let him throw it all away, Ollie-boy!?
 Ach... Why on earth did I choose this accursed profession...
-Huh? But I thought you weren't scared of the sea anymore?
-Oh, I am not fearful. It is just that...I no longer see the point. Perhaps fishing is not for me...
 But you just got your own boat and everything...!
-Hang about, I know what's wrong with him!<NL>He's just lacking a bit of <color:#1>ambition</color>, that's all!
-When I was a boy, I was sure that I would one day command a fleet of fishing vessels, just like my father before me. Ah, it was a foolish dream...
 Go on, Ollie-boy! Cast <color:#8>Give Heart</color> and serve him up the <color:#1>ambition</color> he needs to get back in that boat of his!
 Hmmm...!? Oh!<NL>What nonsense I allowed to pass my lips!
 There is no reason why I should not have a fleet to equal my father's! My childhood faith was not unfounded!
 Ha ha! Looks like someone's got his dream back!
 Indeed I have, and you are the ones I must thank.
 Please, accept this simple gift. It is a token of my gratitude.
-The Ancients have blessed us with fine fishing weather! Let us ready the nets and set sail anon!
 Now, don't overdo it, will you?<NL>We've still got a lot of work ahead of us...
 You mean to tell me you STILL haven't found us a location for the shop? Oh, for crying out loud! You're useless! Absolutely useless!
 H-Hey...! What are you talking to me like that for?
@@ -27783,10 +27825,6 @@ She's going to do that husband of hers a real mischief if we don't help her...
 All right! Let's fix her broken heart!
 That's the spirit!<NL>Remember, it's <color:#1>kindness</color> she needs, en't it!
 Reckon he's man enough to take it, do you, Ollie-boy?<NL>I en't so sure myself, like...
-You mean to tell me you STILL haven't found us a location for the shop? Oh, for crying out loud! You're useless! Absolutely useless!
-H-Hey...! What are you talking to me like that for?
-Whoa... That was kinda mean...
-What are you two looking at!? This is between me and my worthless lump of a husband!
 Brokenhearted, this one is, Ollie-boy. No doubt about it. Lacking <color:#1>kindness</color>, en't it?
 You know what to do, don't you? Cast <color:#8>Give Heart</color> and fill up that <color:#1>kindness</color>-shaped hole in her soul!
 Wh-What's going on...!?<NL>My heart, it feels really...clear, somehow...
@@ -27840,7 +27878,6 @@ You're pretty brave, huh! Say, would you mind sharing a little of your <color:#1
 Sharing courage? I do not understand you...<NL>Also, I must go fishing soon...
 It'll only take a second, Sir! Please!
 Well, in that case...<NL>Take as much as you wish!
-Thank you, Mr. Fisherman, Sir!
 Today also, I feel there is a bountiful haul in store for me!
 Hmm... Today I shall swim, perhaps.
 Nghh... It...hurts...me...NOT!
@@ -27862,7 +27899,6 @@ Ha ha! Now that's what I call <color:#1>restraint</color>!<NL>Would you mind len
 Lending...you?<NL>I do not understand completely...
 Uh, I know it sounds a little strange, but we'd like to borrow some of your restraint to help somebody who doesn't have any...
 My restraint? I still do not quite comprehend...<NL>But it sounds fun, I suppose. Go ahead!
-Thanks! This will really help us out!
 Oh! Did you see it!? The fish that just swam beneath the deck... It was enormous!
 Father... What is a long-sleeved shirt?
 Ah, bliss...
@@ -27888,11 +27924,6 @@ D-Does this mean...? Has she returned to her old self? Does she love me once mor
 Uh... Well, she will do, I guess, but—
 Oh, thank the Ancients!<NL>I must go and see her immediately!
 What has happened to my betrothed!? She has become so cold! And yet my love for her is all-consuming! The very thought that it is not fully reciprocated...
-...I don't think you need me to tell you that this fellow's got a bit of a <color:#1>love</color> surplus, Ollie-boy...
-Excuse me, Sir? Would you mind if we borrowed a little of your love?
-We might be able to use it to help your fiancée remember how she felt before.
-Really!? Oh, that would be...!<NL>Please! Take whatever you need!<NL>
-Okay. Just stand still for a little while...
 I shall soon be meeting my betrothed.<NL>I can barely contain myself!
 (sigh) I wish I could grow up more quickly, I truly do!
 Ahoy! I am sure pirates interest you, do they not?
@@ -27918,11 +27949,7 @@ You are a very nice boy. And very talented, also...<NL>Are you sure you will not
 Oh! Uh... Can I think about it?
 You will consider it?<NL>Wonderful! The high seas await!
 When I grow up, I shall become King of the Pirates, and set sail with my closest companions in search of hidden treasures...
-I bet his parents are pleased about his piratical ambitions! "What did you do today, son? Bit of pillaging, was it? There's lovely!" Flipping heck, I—
-Not now, Mr. Drippy! Just look at him!<NL>I'll bet he has a whole heap of <color:#1>ambition</color>!
 So, uh... We'd really appreciate your help with something. It's for a good cause.
-Gladly, I shall assist you! No doubt it will be fine practice for when I become the Pirate King of Justice!
-Ha ha! I guess it will!<NL>Thanks, future Pirate King of Justice!
 If you ever wish to sail in the name of piratical justice, do let me know! Arrr!
 The role of the designer is not to "go" with the fashion "flow." It is to create new trends, and thus shape the future of society!
 Yes... YES!<NL>This is it... This is the future!
@@ -27956,7 +27983,6 @@ I can! Most certainly, I can! You are hereby witnessing the birth of a new and e
 Your role in its realization shall not be forgotten, of course. Please, accept this token of gratitude. And do not forget me when you have need of a designer!
 Have you acquired the rainbow leaves I requested?
 Oh. You have only one, I see... Naturally, the designer cannot make such compromises. I MUST have <color:#1>two more</color>!
-Have you acquired the rainbow leaves I requested?
 Oh! Already you have two!<NL>Just <color:#1>one more</color>, and my vision can become a reality!
 I simply cannot wait to witness the cultural impact of my latest designs!
 ...!
@@ -27990,12 +28016,7 @@ Well... Why don't you go pay him a visit?
 A visit? Hmm...<NL>Yes! Perhaps I will! He did invite me, after all!
 Listen, thank you ever so much for finding him. Please, take this. It's the least you deserve after going to all that trouble.
 I've decided to pay my friend a visit! I hope he wasn't telling tall tales about how nice his new island is...
-...!
 Mr. Drippy, don't you get the feeling that this crab is trying to tell us something?
-Er...let me see...<NL>...Nope! I reckon it's just you.
-Gee... Are you sure? It looks so...chatty.<NL>What should we do?
-Flipping heck, mun, youer s'posed to be the wizard!<NL>Get youer wand out and cast a <color:#1>spell</color>, en't it?
-...!
 Oh! How wonderful to see you again. You are looking for a designer to bring an element of elegance to your life, perhaps?
 Actually, yes! We're looking for a <color:#1>snazzy swimsuit</color>.<NL>We thought maybe you would have one...
 You thought correctly!<NL>...In theory, at least.
@@ -28043,7 +28064,6 @@ Perhaps you should ask <color:#1>local people</color> if they have advice about 
 That sounds like a great idea!<NL>Gee, isn't this exciting, Mr. Drippy?
 No!? That is not the attitude of a loyal crew member...
 Look! Look at this!<NL>A treasure map!
-Wow! Are you sure it's real?
 Most assuredly so! And look! <color:#1>Seven</color> places have been marked upon it. They must be the locations of hidden treasures. They simply must be!
 Alas... Mother will not allow me to go and look for them. It is dangerous, she claims...
 Please, I beg of you! Go in my place, and uncover<NL>the treasure!
@@ -28163,10 +28183,6 @@ Now, to make a candle cutter, you will need a <color:#1>flint dagger</color> and
 Flipping heck! You don't half know youer stuff!
 Hee hee! It is all in my book!<NL>All right, I shall wait for you here.<NL>Please hurry, I am very excited!
 Hmph! Why not!?<NL>Perhaps you are not, in fact, a wizard!?
-Ah! That big pot you have...<NL>It is a cauldron, is it not?
-Uh...yeah. That's right.
-Hee hee! So you must be a wizard!
-Crikey! It sounds like this little girl knows a thing or two about wizarding, Ollie-boy!
 I do! I read my wizard book every day.<NL>And my most favorite part concerns alchemy!
 A wizard like you must know how it is done, yes?
 Show me, please! Show me how alchemy works! Would you perhaps create a <color:#1>candle cutter</color> for me?
@@ -28181,7 +28197,6 @@ There are all sorts of formulae in my wizard book.<NL>I can teach you some of th
 When I grow up, I shall be a wizard as well!
 Is it true? Can wizards use their cauldron to create objects that have never been seen before?
 Oh, how wonderful!<NL>I do wish I could become a wizard!
-You received some new alchemy formulae!<NL>Go to the cauldron to try them out!
 Oh! Hello again, Sir!<NL>So you made it back to the Summerlands, huh?
 I most certainly did! Had a hankering to visit Ding Dong Dell once more before calling time on this journey of mine. Bout of the old nostalgia, what!
 Uh...yeah. So, did you find any interesting stuff to write about since we last saw you?
@@ -28203,9 +28218,7 @@ A picture of a skull, huh?<NL>Okay, we'll go find it for you!
 But I'm to give a recital at the village hall next month! That diary contains all my best material!
 Oh! It sure is good to see you again, Sir! Did you find any interesting stuff to write about since we last saw you?
 I most certainly did! A frightful storm caused my ship to be washed ashore on an island the likes of which I'd never seen before!
-Strange plants, mysterious statues...and the queerest illustrations all over the ground... Why, the mere thought of it sets the old heart beating...
 It's all documented in my diary, of course. I don't suppose you'd care to— Oh! Oh dear. I've only gone and lost the bally thing!
-I must have left the confounded thing on that island... Ahem. I don't suppose you'd help a chap out and fetch it for me, would you?
 I do recall jotting down a little something while sitting on a <color:#1>small statue</color>...
 There was a picture of the most <color:#1>enormous skull</color> on the ground nearby if memory serves. I suppose I must have dropped it there...
 We found your diary, Sir!
@@ -28226,7 +28239,6 @@ Perhaps I should give you some fresh fruits to help put a spring back in your st
 There's motherly! It's nice when someone spares a thought for youer well-being, en't it!?
 Ah! I know what it is you require!<NL>Some recipes!
 Simple recipes to provide you with a hearty meal after a punishing day on the road!
-You received some new alchemy formulae!<NL>Go to the cauldron to try them out!
 Be sure to take regular meals!<NL>Snacking is no good, I think.
 Welcome to one of the Cat's Cradle chain of purremium inns! We purride ourselves on our purracticality and purricing!
 Your custom is always apurreciated!<NL>Have a nice nap!
@@ -28240,6 +28252,30 @@ Welcome to Swift Solutions, where those in need come to watch their worries fly 
 People with more troubles than they can swallow will place notices on the <color:#1>Errand Board</color> over there. Check it regularly to see if you can help out.
 Esteemed customers!<NL>Would you care to cast an eye over my wares?
 Do come again soon, your custom is most appreciated!
+ずっと水着でいるのは変かい？<NL>慣れると、どうってことないもんさ。
+家がいくつも重なって<NL>そのひとつひとつに人々が暮らしている。
+<NULL>
+今日は波が静かだし<NL>フライングボートで遊ぶかなぁ。
+ようこそビッキーニへ！<NL>活気があって楽しい港町よ！
+どう、このばつぐんのスタイル？<NL>ボウヤには刺激が強すぎるかしら？
+船に乗るときは<NL>気をつけなきゃダメよ！
+港からは色んな魚が獲れるの。<NL>今晩のおかずを選ぶだけで大変よ～。
+あら、今日のリンゴは色がいいわぁ。<NL>ひとかごだけもらおうかしら。
+おいらの夢は、ゼルガスみたいな<NL>かっこいい海の男になることなんだ！
+おい、おまえ！<NL>どっちが早く泳げるかボクと勝負だ！
+へへへっ！<NL>これから父ちゃんと一緒に遊ぶんだ！
+ねぇねぇお兄ちゃん！<NL>私と貝ひろいして遊ぼうよ！
+わたしのお父さん<NL>遠くへ漁に行っているの！
+う～…。寝坊した。<NL>船に乗り遅れちまったよ。
+ガッハッハ！<NL>今日こそ大物を釣りあげてやるわい！
+海はきまぐれです。<NL>危険な漁から帰れなかった船乗りもいました。
+この年になると日差しが辛いねぇ。<NL>みんなの元気がうらやましぃわ…。
+あらま！<NL>ボウヤ、旅の人かい？
+今日は漁から息子が帰ってくるのよ。<NL>おいしいごはんを作ってあげなきゃねぇ。
+おれはベテランの海の男だ！<NL>どんな荒波だろうと乗りこえてやるわい！
+さぁ～、じゃんじゃん買っていきな！<NL>なんでもそろってるぜー！
+仕入れたばかりの新鮮フルーツ！<NL>安いよ安いよ～！
+のどかよねぇ…。<NL>海をながめていると心が安らぐわ…。
 Onward, to Castaway Cove!
 Knickers! Stop, thief!
 What are you doing, mun!? We've got to get after that dirty, stinking thief, en't it?
@@ -28304,7 +28340,6 @@ Let's get these boys back to the palace in Hamelin, shall we?
 The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
 We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
 We going back to the palace in Hamelin, or what, mun?
 Let's get some belief off that Marcassin, shall we?
@@ -28389,161 +28424,79 @@ Let's start the new day as we mean to go on, shall we? Best foot forward, and la
 You should have a read of youer Wizard's Companion once in a while, mun. It's the wizardly thing to do.
 What was it again...? I was sure I had something to tell you. Proper funny it was, too... Knickers!
 What's up? Sorry, mun—if it's a pep talk youer after, I'm a bit short of wise words at the moment. Got a few unwise ones if you fancy them...
-Onward, to Castaway Cove!
-Knickers! Stop, thief!
-What are you doing, mun!? We've got to get after that dirty, stinking thief, en't it?
-Where did that thief run off to? I'll catch him! No criminals escape justice on Inspector Drippy's watch!
-Fish, cats and now a blooming great big pot! If you make me carry anything any heavier, I'll have to change my name to flipping Flatty!
-Let's get this pot back to that peddler bloke before it breaks my flipping back, shall we?
-Why do I always end up carrying flipping everything? What are you, too delicate or something? Too lazy, more like! Hmph! Kids these days...
-Have a look through youer Wizard's Companion and find those magic words, en't it?
-So it's for doing alchemy in, is it? That must be why it's so flipping heavy!
-What's the matter with you? Don't want that massive great big pot or something? What are you, sensible?
-Youer proper lucky getting youer hands on that cauldron, Ollie-boy. You can make all kinds of things now. Go on, make us a present!
-If youer after a formula or two for youer cauldron, just chat to the odd person. You'll find someone with a recipe or two up their sleeves eventually.
-Righto! All aboard the good ship Sageseeker!
-Check out my swimmers, Ollie-boy! Pretty tidy, eh?
-I can't believe they even had a swimsuit in my size! That village chief bloke must have a tidy pile of swimwear stashed away! There's prepared!
-It's not a patch on mine, obviously, but youer swimsuit en't bad, Ollie-boy.
-We need to get that Cowlipha of Al Mamoon to let us borrow her boat, en't it?
-Fancy taking a look at the Cat's Cradle they've got over in Al Mamoon? I hear it's a proper snazzy one.
-Let's get over to youer world, shall we?
-There's a milk fountain over in Al Mamoon, en't there?
-Shift it, mun! Let's get back to Al Mamoon!
-We need to head over to Al Mamoon and find us some restraint, mun!
-Don't you like Al Mamoon or something?<NL>We need to head back there, mun!
-Let's go and give old Cowface her restraint back, shall we?
-If we head down to Castaway Cove, we should be able to ride that boat now, en't it?
-That's the weasel who stole the pot from that peddler! Come on, Ollie-boy, we've got to get that picture back!
-What are you doing standing around chin-wagging, hm? There's thieves to catch, mun! Get to it!
-Looks like we'll have to catch the beggar all over again. He's a proper bad penny, this one.
-He's a proper pain in the neck, this bloke. Come on then, let's find some restraint before I lose some sympathy.
-So he had a Nightmare, is it? That explains why he's been such a flipping nuisance, eh?
-Did you see that thief bloke's eyes? Brokenhearted, he is. I'd put my life savings on it.
-Come on, mun! We've got to help that thief bloke.
-That village chief bloke has got more restraint than I've got good looks. And that's saying something, mun.
-Can I go and change into my swimsuit? I flipping love my swimsuit!
-That Swaine bloke may look scruffy as anything, but I reckon there's more to him than meets the eye. I can feel it in my lantern...
-Ach, that Swaine's stubble is proper minging! I just want to yank it clean out of his face! Bleurgh!
-What's he talking about? And what's he going to do with this chest, eh? I still don't quite trust this Swaine character...
-That Swaine can probably steal us some tidy loot in the heat of battle, eh? There's useful...
-At last, it's time to take to the ocean wave! Reckon they'll let me steer?
-So only Swaine can get to these green chests, is it? Reckon I saw one back in Ding Dong Dell somewhere...
-We need to set sail in search of Autumnia, mun!
-Eh? What the heck is going on, mun?
-...Eh?<NL>Will someone please tell me what is occurring?
-Eh? What's all this, then?
-Heading back to the Fairyground, is it?<NL>...Do we have to?
-Back to the Fairyground, is it?<NL>...Ohh, knickers.
 We need to go and give those boys their funny bits back, en't it.
-S'pose we'd better go and make my mam laugh, eh?
-Come on, mun! We need to get inside my mam, en't it?
-We've got some unfinished business back inside my mam, mun!
-We need to go and help those littlies!<NL>Pronto!
-Come on, there's a slide in my mam's tum just waiting for us to go down it!
-It's off to see the Empire, the wonderful Empire of Hamelin! In Autumnia!
-Let's hurry up and get ouerselves to Hamelin, shall we?
-D'you see any sages round by here?<NL>I flipping don't!
-Reckon youer going to get some Hamelin armor round by here, do you? Well I flipping don't!
-Oi, what do you think youer doing, ditching youer piggy armor and running off?
-What exactly does this have to do with sneaking ouer way into the palace in Hamelin, hm?
-Come on, mun! We need to get to Hamelin and find ouerselves some belief, en't it?
-You scared of hard work or something?<NL>We need to go and find the flipping princes!
-Let's get these boys back to the palace in Hamelin, shall we?
-The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
-Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
-Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
-We going back to the palace in Hamelin, or what, mun?
-Let's get some belief off that Marcassin, shall we?
-Come on, mun! Let's give Marcassin his belief back!
-When are we going to start looking for this Kublai bloke's hideout, hm?
-Itching to get over to Kublai's hideout, I am!
-We'd best go and see this dragon, eh?<NL>Tengri, was it?
-You know the right spell to talk to Tengri already, mun! Come on, now! To Kublai's hideout!
-We'd better let Kublai know what's up with Tengri, eh, mun?
-Let's hurry up and find that dragon's soul mate, shall we?
-Motorville, mun! And make it snappy!
-I reckon we should go and have a word with that dog in front of Leila's shop, mun.
-Let's go and visit that Denny boy's house, shall we?
-Here, what about old Pirateface? He's well full of himself! It's got to be worth a try, at least...
-We'd best deliver that piece of heart while it's still fresh, eh? Don't want it going all stinky, do we?
-Fancy a trip to Leila's shop to see how old Myrtle's getting on? I do!
-Proper worried about Tengri, I am!
-It's dragon-riding time, mun!<NL>Let's find that Solitary Isle, shall we?
-We need to find old Kublai, mun!
-We need to find them three stones, mun!
-Where to start, eh, Ollie-boy?
-They've started doing that Solosseum Series down at the Temple of Trials now, apparently...
-Two more stones to go, mun!
-Where to next, Ollie-boy?
-Ahh, I love flying round on Tengri, I do!<NL>Beats walking any day!
-Not long now, and Mornstar will be back with a flipping vengeance!
-Crikey! Only one stone left to get!
-Let's find that last stone shall we, mun?
-Let's go and give Marcassin a grilling, shall we?
-Hightail it to Hamelin! Hasty, like!
-What do you reckon's going on with that soldier from Xanadu over in front of the palace in Hamelin, eh?
-Time to take a trip on old Tengri, I reckon!
-Perdida's the place, and Khulan's the face!<NL>Let's go a-looking, shall we?
-That ceremony over in Perdida's starting soon, mun.<NL>We'd best get a move on!
-Old puppy-eyes has got more than his fair share of love.<NL>I reckon he could spare us a bit of it!
-Khulan needs a dose of love, en't it?
-I reckon we should go and get Khulan to sort out Mornstar for us, don't you?
-To Al Mamoon! Holy wood or bust!
-Look at it, all sparkly and shiny!<NL>It's no normal lump of wood, is it?
-The holy wood got nicked in Ding Dong Dell.<NL>We're going to lose the scent, hanging round here.
-The thief's bound to be hiding in Ding Dong Dell, the rotter!
-Let's go see Phil in Motorville!<NL>Er...brill!
-Come on, Ollie-boy! Phil's youer mate, en't he?<NL>We need to help the pooer lad out!
-Let's track down that pipsqueak, Pip, shall we?<NL>See if he's undergone some kind of change.
-We need to get that holy wood back off the cheeky little blighter.
-Righto, let's head over and see Marcassin so we can get this Clarion completed, shall we?
-So we need to go to the Miasma Marshes and play the Clarion, en't it? Then it's just one more step to Nevermore...
-There's only the Miasma Marshes left to cross, mun! Then it's Nevermore, and no looking back!
-Not long now till the final showdown with Shadar, eh? You ready? I'm flipping bricking it, mun!
-So it's just Shadar left to fight, eh?<NL>S'pose I'm ready as I'll ever be...<NL>Nevermore, here we come!
-Let's go and let old King Tom know the score, shall we?
-I hear they're organizing a knees-up in Ding Dong Dell. Let's go and see old King Tom, shall we?
-Don't you need to head back to youer world and find that Pea? I can't see her myself, but I get the feeling she's important, like...
-Where's that Pea to, eh?
-We've got to save the three kingdoms, en't it?<NL>We need to find those black crystal things, mun!
-There's just Al Mamoon and Hamelin left to save now, mun!
-There's just Ding Dong Dell and Hamelin left to save now, mun!
-There's just Ding Dong Dell and Al Mamoon left to save now, mun!
-There's just Hamelin left to save now, mun!
-There's just Al Mamoon left to save now, mun!
-There's just Ding Dong Dell left to save now, mun!
-Is there anywhere left in ouer world you've not visited yet? Fancy doing a spot of sightseeing?
-What's the matter, mun? You feeling a bit aimless now, is it?<NL>Don't worry, I reckon there's still plenty to do...
-Reckon you've found everything there is to find in this world, do you? Well don't be so sure! Why not check youer Wizard's Companion?
-Let's hop up on Tengri's broad old back and get searching for Nazcaä, shall we?
-There's a clue somewhere in that Nazcaä place, mun, I'm sure of it.
-All aboard the Iron Wyvern!<NL>It's time to give that White Witch what for!
-You need to go and look for that Cassiopeia up in her castle, mun.
-Reckon it's about time we went and saw the White Witch up at her castle, eh?
-There's lovely! Eh? The view, of course! I do like to be beside the seaside!
-Eh? What's that? Sorry, mun, I was miles away! It's the sea does it to me, see? Soon as I see it I'm all at sea, see?
-Fish, birds, crabs... It's a regular menagerie round by here!
-Them trees over by there—them's mamangroves, en't they? There's tropical!
-You should see my breaststroke, mun! Fantastic, it is! I was all-fairy champion five years running when I was a littlie!
-Even heroes need to take a break every once in a while, mun. Don't overdo it, will you?
-Give over, mun! Stop staring at me like that!<NL>Youer giving me the flipping willies!
-What is it? Did you want to ask me something? Spit it out, mun! I'm no good at guessing games!
-Never fear, Drippy's here!<NL>Whether he likes it or not...
-You know, when all this is over, I'm going to miss—erm... Misbehave, mun! Go crazy, I will. Fairy rarebit for breakfast, babana flans all day long...
-Flipping heck, mun! Proper wound up, I am!<NL>Come on, let's do something, before I go potty!
-Let's start the new day as we mean to go on, shall we? Best foot forward, and last one in's a rotten egg!
-You should have a read of youer Wizard's Companion once in a while, mun. It's the wizardly thing to do.
-What was it again...? I was sure I had something to tell you. Proper funny it was, too... Knickers!
-What's up? Sorry, mun—if it's a pep talk youer after, I'm a bit short of wise words at the moment. Got a few unwise ones if you fancy them...
 Purrprietor
 Taskmaster
 Peddler
+掲示板
 Sindbah
 Governor
 Horace
+カニ（qs0010）
+q_0044_大富豪
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
+npc_025
+npc_026
+npc_027
+npc_028
+npc_029
+npc_030
+npc_031
+npc_032
+npc_033
+npc_034
+npc_035
+npc_036
+npc_037
+npc_038
+npc_039(追加)
+npc_040(追加)
+npc_041(追加)
+npc_042(追加)
+npc_043(追加)
+npc_044(追加)
+npc_045(追加)
+npc_046(追加)
+npc_047(追加)
+npc_048(追加)
+npc_049(船員)
+npc_050(船員)
+npc_051(船員)
+npc_052(船員)
+npc_053(船員)
+npc_054(船員)
+npc_055(男+船)
+行商人（夫）
+行商人（妻）
+npc_058(船員)
+
+pla-t05_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
 
 pla-t07_npc_text_en.cfg.bin.kup
 ......!<NL>............!
@@ -28601,10 +28554,7 @@ All I need you to do is hold still for a second.<NL>Can you do that for me?
 I hope you are helping many people in need indeed!
 Now that my grandmother is old, she is feeling the cold so very badly. I am knitting for her a pair of gloves. I hope they will make her smile.
 Sure they will! Say, we have something to ask you.<NL>Do you mind?
-Mind? No, I do not mind!
 We could really use some of your <color:#1>kindness</color> to help other people who need it. Would you mind sharing a little<NL>with us?
-Share it? But I am not knowing how...
-All I need you to do is hold still for a second.<NL>Can you do that for me?
 I hope to see the smile of my grandmother again very soon. It is being like the sunshine!
 Friend, are you ever having been on a toboggan ride? Wheeeeee! It is being such fun to slide from a high place to a low!
 Nnnghhh...<NL>This was being too high, perhaps...
@@ -28623,10 +28573,6 @@ Truly...? Then please—take freely!
 Thanks. Now, hold still for just one second...
 Oh. This is being strange.<NL>I am feeling perhaps a little calmer now...
 I love so tobogganing! It is being such fun to slide from a high place to a low, even if one is becoming injured!
-Hey, Mr. Drippy! Do you think this boy maybe has more <color:#1>courage</color> than he needs?
-Ahh, you think that's why he's taking such big risks, is it? Nice thinking, Ollie-boy.
-Say, could we borrow some of your courage? Your bravery might be enough to help somebody who needs it.
-Is this truly being a good idea?<NL>I am not becoming a cowardy coward?
 It's okay. We only need to borrow a little. You won't notice a thing. Now, hold still for just one second...
 Perhaps I am making my mamma and pappa in pain with worry. I will play in places with more safety from now!
 This town is being a very, very nice town!
@@ -28648,11 +28594,9 @@ We are all being friends together here, yes?
 En't it lovely how everyone by here believes in each other? And this tomte's got more <color:#1>belief</color> than most!
 Say, Mr. Tomte...<NL>Would you share a little of your belief with us?
 My belief, yes?<NL>Yes, of course, yes!
-Thank you very much!
 If you ever are having trouble, please just be asking for help, yes? We are being your friends!
 We people of Yule love so a delicious ice stew!<NL>To eat it together is our happiest time!
 ...Hm? Is it not making us terribly cold, you ask? The very contrary! My ice stew blows away all chills!
-We people of Yule love so a delicious ice stew!<NL>To eat it together is our happiest time!
 Ice stew? It sounds nice, but doesn't it make you<NL>kinda cold?
 Ho ho ho! Silly child!<NL>The very contrary!
 My ice stew blows away all chills!
@@ -28673,9 +28617,6 @@ It is being finished already?<NL>Then you will come and try my ice stew! Come!
 My ice stew is being the best in all of the town!<NL>None better than I at its preparation exists!
 Crikey! Granny here's more cocksure than Cock Robin himself! Brimming with <color:#1>confidence</color>, she is!
 Here, Missus, we couldn't have a lend of a bit of youer confidence, could we?
-Please! Just a little!<NL>All you have to do is hold still for one moment!
-Yes, yes, yes, child.<NL>Like this is being fine?
-Yes, that's perfect!<NL>Thank you, Ma'am!
 Ho ho ho! My ice stew is being enough to blow away<NL>all chills!
 Awwwwww! So sweet!<NL>So fluffy fluffy fluffy!
 You are making me blush, yes?
@@ -28692,11 +28633,6 @@ We're going to use it to help people who don't have enough love themselves.
 Truly? Will they also be becoming lovers of my fluffy fluffy fluffy?
 Gee, I don't know...<NL>Uh, I mean, sure they will!
 I love my fluffy fluffy fluffy!<NL>There is being no other for me!
-Jeepers, look at the Locket! I guess she really does have a lot of <color:#1>love</color> for her friend, huh?
-Looks like it, eh?
-Hey, would you let us have a little of the love you feel for your fluffy friend?
-Yes, yes, yes! I am worrying that I love him too much! Please, you must take some!
-Thanks! Just hold still for one moment...
 I will be so happy if more people are loving my fluffy fluffy fluffy!
 Hm? You ask am I finding it cold to be living here? Ha ha ha! Not slightly!
 Brrrrrr... Such cold...<NL>I am hating so to go outdoors...
@@ -28713,12 +28649,8 @@ Yep. Lost his <color:#1>restraint</color>, and can't bear the cold anymore, look
 If we don't help, he'll never be able to leave home again! We have to do something!
 Well, it's a simple enough procedure—find some <color:#1>restraint</color>, and hand it over. Reckon you can handle that, Ollie-boy?
 S'pose there's loads of other people need helping too, eh? Let's come back later, shall we?
-Brrrrrr... Such cold...<NL>I am hating so to go outdoors...
 Husband! What are you saying!? What has become of the man who was once the strongest against cold in the village, hm?
-Did he suddenly stop being able to stand the cold, Ma'am?
-Exactly, he did. Before, there was not existing a day cold enough to stop him from venturing out.
 He's lost his <color:#1>restraint</color>, and can't bear the cold anymore, looks like. It's his pooer wife I feel sorry for, mind.<NL>We'd better help out, eh?
-I will not go into the outside!<NL>I will freeze to ice! Brrrrrr!
 Righto, Ollie-boy. You got some <color:#1>restraint</color> there, en't it. Cast <color:#8>Give Heart</color> and hand it over, will you?
 Hm? I am feeling suddenly warm! Why was I complaining so about coldness? Coldness is nothing to me!
 Husband! You are being cured?<NL>You will go into the outside now?
@@ -28744,11 +28676,8 @@ There en't a single drop of <color:#1>love</color> in that heart of his.<NL>Not 
 Family is the most important thing there is!<NL>Mr. Drippy, we have to help them!
 En't it, though! Let's give him back the <color:#1>love</color> he's lost, shall we? Come on, let's go and find some!
 Ooh, there's cold, you are! What's the matter, Ollie-boy? You brokenhearted too or something?
-Agh, you are being so bothersome... I must work. I have not the time to worry about you also...
 What has happened to you, husband?<NL>Your boychild is having a fever!<NL>Why do you not care as before?
 This is no fever at all. You must not be bothering people. Go to home with you now.
-How is this ever having been the man who once cared for his family so?
-Mr. Drippy—when somebody changes all of a sudden, that can only mean one thing, right?
 That's right, Ollie-boy. Brokenheartedness is the culprit here. There en't a drop of <color:#1>love</color> in that heart. Not a one.
 It is no fever!<NL>Silence yourself, wife!
 I have to cast <color:#8>Give Heart</color> and give him his <color:#1>love</color> back!
@@ -28779,11 +28708,7 @@ How do you two manage to get heartbroken so flipping often, eh?
 This isn't the time to be scolding them, Mr. Drippy!<NL>We have to help them!
 That's what I like to hear! Right, let's get ouerselves some <color:#1>belief</color> then, shall we?
 Oi! I thought you said we needed to help them, you flipping flibbertigibbet, you!
-We're not peddling our wares here.<NL>I've made up my mind. Come on, let's go!
-What!? But we can't! If we do, all the stock we bought in Hamelin will go off...
-Never mind that! How can we trust people who live with...things like these?
 Oh, hello again! You've come at just the right moment—my husband's had yet another funny turn! You have to help me!
-Let's see now... Yep, he's heartbroken again, and it looks like he's lacking <color:#1>belief</color> this time.
 Mr. Drippy! We have to help them!
 How can we trust people who live with...things like these?
 You got some <color:#1>belief</color> by there, en't it, Ollie-boy?<NL>Go on, then! Cast <color:#8>Give Heart</color> and hand it over!
@@ -28848,7 +28773,6 @@ Please very much!
 Ohhh! Humans of the city are not being so kind!
 Ohhh! My boychild! He is disappeared!
 One moment, he is playing with the small people,<NL>and then...
-You will help me to seek him, yes?
 My boychild was playing with the small people, yes?
 Understood, Ma'am. We'll be sure to ask all the children in town if they know anything.
 Ohhh! Th-The Glittering Grotto!?<NL>This is being terrible, yes?
@@ -28879,8 +28803,6 @@ But he...he is having gone inside.<NL>He would not stop!
 ...He must have gotten lost somewhere inside, huh?
 Well, we can't have that, can we? We'd best go and rescue the pooer dab before he gets eaten!
 He would not stop! He is having gone inside the Glittering Grotto alone!
-...He must have gotten lost somewhere inside, huh?
-Well, we can't have that, can we? We'd best go and rescue the pooer dab before he gets eaten!
 My cold compresses are being the best remedy for the pain of the lower back, yes?
 Mmm? You are wishing to speak with me, boy?
 Yes, Sir. I have something to ask you.<NL>Could we have one of your <color:#1>cold compresses</color>?
@@ -28898,7 +28820,6 @@ Can you please be defeating <color:#1>five</color> of them for me, please very m
 Five, huh? Sure we can!
 They are fearing fire, yes? To defeat them with the <color:#1>blazing blade</color> the peddler is selling will make them not to come back soon.
 You must be defeating the <color:#1>manglerfishes</color> around our town of Yule, yes?
-They are fearing fire, yes? To defeat them with the <color:#1>blazing blade</color> the peddler is selling will make them not to come back soon.
 Hmmm. The trouble of the manglerfishes is not yet finished, yes? You must defeat for me another <color:#1><quest_exb009:qs0023></color> of<NL>them, please.
 We did it, Sir!
 Ohhh! You are having defeated them, yes?<NL>And my cold compress is being finished.
@@ -28928,31 +28849,15 @@ Ha! I think you'll find it will take a little more than<NL>sub-zero temperatures
 What's the flipping point, mun...<NL>He never listens to a word we flipping say...
 Oh. Here.
 Now, where's the other one? <color:#1>The one with the snow piled on its head</color>? Science waits for no man, you know!
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 Now, where's the other one? The one that <color:#1>rides atop the blue flower</color>? Science waits for no man, you know!
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 Now, where's the other one? The <color:#1>proud creature that has found its niche in the Glittering Grotto</color>? Science waits for no man, you know!
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 I think you'll find I still need <color:#1>the proud creature that has found its niche in the Glittering Grotto</color>, and <color:#1>the one with snow piled on its head</color>.
 Just two more. It shouldn't be too hard, even for you.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 I think you'll find I still need <color:#1>the creature that rides atop a blue flower</color>, and <color:#1>the one with snow piled on its head</color>.
-Just two more. It shouldn't be too hard, even for you.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 I think you'll find I still need the <color:#1>creature that rides atop a blue flower</color>, and <color:#1>the proud one that has found its niche in the Glittering Grotto</color>.
-Just two more. It shouldn't be too hard, even for you.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 This time, I think I'll need you to find...
 A creature that <color:#1>travels atop a blue flower</color>, <color:#1>a proud creature that has found its niche in the Glittering Grotto</color>, and one that <color:#1>piles snow upon its head</color>.
 Don't go getting frozen solid searching for them—I have neither the time nor the resources to mount a rescue operation.
-Oh, and I cannot study them if you send them to<NL>the Familiar Retreat, so please don't waste my<NL>time by doing so.
-Run along, then. Bring all three back to me, and I'll be sure to acknowledge your contribution in my next fascinating paper.
 The data I have gathered will revolutionize the field of familiarology. You'll assist me next time as well, of course.
 I think you'll find it will take more than sub-zero temperatures to halt the march of science!
 Well, well, well! Fancy meeting you here, old stick! Jolly chilly round these parts, what!
@@ -28962,7 +28867,6 @@ And once one's diary has been published, the whole world will know just what's s
 The diary you keep losing every five minutes, you mean?
 Oh, come now! Let's let sleeping dogs lie, shall we? I've jolly well learned my lesson! Why look, it’s just...um...just...oh...let me see now...uh...
 .........bother.
-What's the matter?
 Do you really need to flipping ask?
 I really am most dreadfully sorry. I rather seem to have mislaid it yet again.
 Of course you flipping have! Learned youer lesson, indeed! ...Well? Shall we come to the aid of the flipping party once more, Ollie-boy?
@@ -28975,11 +28879,7 @@ Perhaps the old diary's still there. Could have fallen out of a pocket, what?
 <color:#1>A forest glade west of Yule</color>, huh?<NL>We're on it!
 Oh. Oh, dear. That rather leaves one in a pickle, doesn't it?
 Good day to you! Jolly nice to see you again, old stick! This traveling lark really is too much fun, what!
-And once one's diary has been published, the whole world will know just what's so bally marvelous about roaming the land!
-The diary you keep losing every five minutes, you mean?
-Oh, come now! Let's let sleeping dogs lie, shall we? I've jolly well learned my lesson! Why look, it’s just...um...just...oh...let me see now...uh...
 .........bother. I really am most dreadfully sorry. I rather seem to have mislaid it yet again.
-Of course you flipping have! Learned youer lesson, indeed! ...Well? Shall we come to the aid of the flipping party once more, Ollie-boy?
 Having been hit for six by the cold, I awoke to find myself in a <color:#1>sparkling sylvan glade</color>, somewhere <color:#1>west</color> of here. I daresay the old diary's still there.
 Sorry to keep you waiting, Sir!<NL>We found your diary again!
 Dear boy, you are absolutely and most positively the finest of fellows this side of Saintsbury in the hallowed county of Brickshire!
@@ -29029,7 +28929,6 @@ So very, very pretty!<NL>So fluffy fluffy!
 You are being a traveler, yes?<NL>You must be very cold, must you not?
 If you are not being careful, you will catch the cold.
 I have lately been suffering much back pain.<NL>I must ask of it to my tomte friend.
-We people of Yule love so a delicious ice stew!<NL>To eat it together is our happiest time!
 ...Hm? Is it not making us terribly cold, you ask? Ho ho ho! The very contrary! It blows away all chills!
 To see the small humans and the small tomte playing together in the snow...
 Ahh, it is warming my heart.
@@ -29066,7 +28965,6 @@ Let's get these boys back to the palace in Hamelin, shall we?
 The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
 We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
 We going back to the palace in Hamelin, or what, mun?
 Let's get some belief off that Marcassin, shall we?
@@ -29154,123 +29052,39 @@ Flipping heck, mun! Proper knackered, I am!
 Wahey!
 Youer not asking me for help again, are you!?
 Lay off for a bit, will you? Even us fairies need a bit of time to ouerselves now and again...
-We need to set sail in search of Autumnia, mun!
-Eh? What the heck is going on, mun?
-...Eh?<NL>Will someone please tell me what is occurring?
-Eh? What's all this, then?
-Heading back to the Fairyground, is it?<NL>...Do we have to?
-Back to the Fairyground, is it?<NL>...Ohh, knickers.
-We need to go and give those boys their funny bits back, en't it.
-S'pose we'd better go and make my mam laugh, eh?
-Come on, mun! We need to get inside my mam, en't it?
-We've got some unfinished business back inside my mam, mun!
-We need to go and help those littlies!<NL>Pronto!
-Come on, there's a slide in my mam's tum just waiting for us to go down it!
-It's off to see the Empire, the wonderful Empire of Hamelin! In Autumnia!
-Let's hurry up and get ouerselves to Hamelin, shall we?
-D'you see any sages round by here?<NL>I flipping don't!
-Reckon youer going to get some Hamelin armor round by here, do you? Well I flipping don't!
-Oi, what do you think youer doing, ditching youer piggy armor and running off?
-What exactly does this have to do with sneaking ouer way into the palace in Hamelin, hm?
-Come on, mun! We need to get to Hamelin and find ouerselves some belief, en't it?
-You scared of hard work or something?<NL>We need to go and find the flipping princes!
-Let's get these boys back to the palace in Hamelin, shall we?
-The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
-Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
-Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
-We going back to the palace in Hamelin, or what, mun?
-Let's get some belief off that Marcassin, shall we?
-Come on, mun! Let's give Marcassin his belief back!
-When are we going to start looking for this Kublai bloke's hideout, hm?
-Itching to get over to Kublai's hideout, I am!
-We'd best go and see this dragon, eh?<NL>Tengri, was it?
-You know the right spell to talk to Tengri already, mun! Come on, now! To Kublai's hideout!
-We'd better let Kublai know what's up with Tengri, eh, mun?
-Let's hurry up and find that dragon's soul mate, shall we?
-Motorville, mun! And make it snappy!
-I reckon we should go and have a word with that dog in front of Leila's shop, mun.
-Let's go and visit that Denny boy's house, shall we?
-Here, what about old Pirateface? He's well full of himself! It's got to be worth a try, at least...
-We'd best deliver that piece of heart while it's still fresh, eh? Don't want it going all stinky, do we?
-Fancy a trip to Leila's shop to see how old Myrtle's getting on? I do!
-Proper worried about Tengri, I am!
-It's dragon-riding time, mun!<NL>Let's find that Solitary Isle, shall we?
-We need to find old Kublai, mun!
-It's no good! It's too flipping cold! I've got to go, mun! I'm busting!
-I'm so flipping c-c-c-cold, I can't flipping w-w-w-walk straight!
-At least you lot have got a few layers on, mun! My one-piece may compliment my figure, but it's not designed for the cold! Freezing, I am! Brr!
 Ning to you! I am being Drippy, Lord High Lord of the Fairies! What d'you reckon? Not a bad impression, eh? Heh heh.
-The village elder's in a meeting, is it? I hope it's a meeting about installing some flipping heating!
-I can't go out there again dressed like this, mun! I'll freeze my flipping bits off!
-He must be back from his meeting by now, eh? Let's go and see the village elder, shall we, Ollie-boy?
 Ning to you! It is the time for us to be going now! Practically a flipping tomte, I am! Ha!
-Crikey, this inn's a bit flipping dear, en't it? I heard these snow hotels cost a bundle, but seriously, this is daylight robbery, mun! And it's nighttime!
-Tidy! Lovely and warm, this little number is! And just my size as well! Where the heck d'you reckon they got a size XXXS from? There's clever of them!
-This little fur-lined onesie pushes my cuteness levels through the roof, mun! Go on, pick us up and give us a cwtch! You know you want to!
-Tidy! Now we can get out of town the back way and all!
-Let's go and give Marcassin a grilling, shall we?
-Hightail it to Hamelin! Hasty, like!
-What do you reckon's going on with that soldier from Xanadu over in front of the palace in Hamelin, eh?
-Time to take a trip on old Tengri, I reckon!
-Perdida's the place, and Khulan's the face!<NL>Let's go a-looking, shall we?
-That ceremony over in Perdida's starting soon, mun.<NL>We'd best get a move on!
-Old puppy-eyes has got more than his fair share of love.<NL>I reckon he could spare us a bit of it!
-Khulan needs a dose of love, en't it?
-I reckon we should go and get Khulan to sort out Mornstar for us, don't you?
-To Al Mamoon! Holy wood or bust!
-Look at it, all sparkly and shiny!<NL>It's no normal lump of wood, is it?
-The holy wood got nicked in Ding Dong Dell.<NL>We're going to lose the scent, hanging round here.
-The thief's bound to be hiding in Ding Dong Dell, the rotter!
-Let's go see Phil in Motorville!<NL>Er...brill!
-Come on, Ollie-boy! Phil's youer mate, en't he?<NL>We need to help the pooer lad out!
-Let's track down that pipsqueak, Pip, shall we?<NL>See if he's undergone some kind of change.
-We need to get that holy wood back off the cheeky little blighter.
-Righto, let's head over and see Marcassin so we can get this Clarion completed, shall we?
-So we need to go to the Miasma Marshes and play the Clarion, en't it? Then it's just one more step to Nevermore...
-There's only the Miasma Marshes left to cross, mun! Then it's Nevermore, and no looking back!
-Not long now 'til the final showdown with Shadar, eh? You ready? I'm flipping bricking it, mun!
-So it's just Shadar left to fight, eh?<NL>S'pose I'm ready as I'll ever be...<NL>Nevermore, here we come!
-Let's go and let old King Tom know the score, shall we?
-I hear they're organizing a knees-up in Ding Dong Dell. Let's go and see old King Tom, shall we?
-Don't you need to head back to youer world and find that Pea? I can't see her myself, but I get the feeling she's important, like...
-Where's that Pea to, eh?
-We've got to save the three kingdoms, en't it?<NL>We need to find those black crystal things, mun!
-There's just Al Mamoon and Hamelin left to save now, mun!
-There's just Ding Dong Dell and Hamelin left to save now, mun!
-There's just Ding Dong Dell and Al Mamoon left to save now, mun!
-There's just Hamelin left to save now, mun!
-There's just Al Mamoon left to save now, mun!
-There's just Ding Dong Dell left to save now, mun!
-Is there anywhere left in ouer world you've not visited yet? Fancy doing a spot of sightseeing?
-What's the matter, mun? You feeling a bit aimless now, is it?<NL>Don't worry, I reckon there's still plenty to do...
-Reckon you've found everything there is to find in this world, do you? Well don't be so sure! Why not check youer Wizard's Companion?
-Let's hop up on Tengri's broad old back and get searching for Nazcaä, shall we?
-There's a clue somewhere in that Nazcaä place, mun, I'm sure of it.
-All aboard the Iron Wyvern!<NL>It's time to give that White Witch what for!
-You need to go and look for that Cassiopeia up in her castle, mun.
-Reckon it's about time we went and saw the White Witch up at her castle, eh?
-C-C-C-C-C-C-C-C-C-Crikey!<NL>It's a bit nippy round by here, en't it?
-S-S-S-S-Soup... A nice warm b-b-b-bowl of s-s-s-soup... Poured all over my h-h-h-head. That'd warm me up!
-Blimey, look at them big lights in the sky, mun!<NL>I haven't been in a production this classy since I did that panto down in Ding Dong Dell!
-Reckon we could convince one of these big snowman people to work for us as a familiar? Nah, mun. Wouldn't fit in the cage, en't it...
-Makes me feel all warm and safe looking at them tomte people, it does. I just want one to pick me up and give me a big old cwtch. Ahh...
-What's up? Sorry, mun—if it's a pep talk youer after, I'm a bit short of wise words at the moment. Got a few unwise ones if you fancy them...
-Fancy a race, Ollie-boy?<NL>I'm faster than I look, en't it!
-What was it again...? I was sure I had something to tell you. Proper funny it was, too... Knickers!
-Give over, mun! Stop staring at me like that!<NL>Youer giving me the flipping willies!
-What is it? Did you want to ask me something? Spit it out, mun! I'm no good at guessing games!
-Let's get a move on, shall we?<NL>I'm bored out of my flipping skull, mun!
-Flipping heck, mun! Proper knackered, I am!
-Wahey!
-Youer not asking me for help again, are you!?
-Lay off for a bit, will you? Even us fairies need a bit of time to ouerselves now and again...
 Purrprietor
 Taskmaster
 Peddler
+掲示板
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
 Horace
 Derwin
+q_0043_大富豪
 
 pla-t09_npc_text_en.cfg.bin.kup
 ...!<NL>.........
@@ -29286,7 +29100,6 @@ If you look through the chapter called "Regions of the World" in your Wizard's C
 There's <color:#1>a certain character that only appears in one location</color>. My question is: <color:#1>where</color> is it?
 Don't worry, this one isn't as hard as it sounds. Well, not quite! Heh heh! When you work it out, let me know.
 Have you worked it out yet, Ollie?<NL>Let me give you the question again.
-If you look through the chapter called "Regions of the World" in your Wizard's Companion, you'll find bits of Nazcaän here and there.
 There's <color:#1>a certain character that only appears in one location</color>. The question is: <color:#1>where</color> is it?
 Remember, just because it's Nazcaän, it doesn't mean it's long. I'm not asking you to trawl through an ancient poem or anything. Or even a whole word...
 You got it, Ollie! Each area marked on the maps corresponds to a number written in Nazcaän.
@@ -29340,7 +29153,6 @@ You sure do have a lot of <color:#1>confidence</color>, Ma'am!<NL>Say, would you
 Well, I am not sure if I am able to.<NL>What is it you want from me?
 We were wondering if you'd mind sharing some of your confidence.
 My confidence? Truly, you say strange things. But I can tell that you mean no harm. Please go ahead.
-Thank you, Ma'am! Okay, here goes...
 Have you ever seen a sight more beautiful than the evening sun from this mountain of ours?
 ¡Hola! I love to live in Perdida!<NL>It's like we are one big family!
 You come from another land? This is our home.<NL>Perdida is small, but we have big hearts.
@@ -29361,14 +29173,10 @@ Well, um, we were wondering if you'd be kind enough to share some of the love in
 Ha ha! Truly, people from far away are very different from us! Tell me. What must I do?
 Just hold still for a second. It won't take long.
 Is it over now? I am not sure what you did, but my heart feels light.
-Hermana! I am so hungry!
 I will prepare dinner now, hermanito!
 Everyone in this town cares for each other, you see.<NL>Ah, I love my home with all my heart.
-Um, excuse me, Miss. We were wondering if we could ask you for a favor.
 A favor? Please. Tell me more.
 Well, um, we were wondering if you'd be kind enough to share some of the <color:#1>love</color> in your heart.
-Ha ha! Truly, people from far away are very different from us! Tell me. What must I do?
-Just hold still for a second. It won't take long.
 Please wait, hermanito! I will prepare dinner now!
 Tra la la laaa la-la! La la la laaa!<NL>Tell me, how do you like my song?
 Tra la la laaa la-la! La la la laaa!
@@ -29385,11 +29193,6 @@ Swell! Would you mind closing your eyes for just a couple of seconds?
 Tee hee! This game is fun!<NL>Now, I will close my eyes!
 Tee hee! What happened? My heart... It tickled a bit...
 One day, I will travel to Al Mamoon and become the most famous singer in the whole world!
-Look, Ollie-boy! Youer Locket's outshining my lantern! This girl's got <color:#1>ambition</color> to spare, and no mistake!
-Um, listen... If you don't mind, we'd like to ask a favor.
-A favor?<NL>Well, I will try to help...
-Swell! Would you mind closing your eyes for just a couple of seconds?
-Tee hee! This game is fun!<NL>Now, I will close my eyes!
 I must keep singing! I must make my dream come true!
 You will see! When I am big, I will be the greatest llapaca herder in Perdida!
 It is no good... I will never be a llapaca herder.
@@ -29404,11 +29207,7 @@ Well, you know what this is a case of, don't you, Ollie-boy? Pooer lad's lost hi
 We can't just leave him like this!<NL>We have to help him get his ambition back!
 Nice one, Ollie-boy! Let's see if there's a chunk of <color:#1>ambition</color> going begging somewhere round by here.
 Hmm... I s'pose he'll live... But it's not much of a life if you don't have a dream, is it? Suit youerself, though...
-It is no good... I will never be a llapaca herder.
-Gee, what's the matter? You sure do look sad<NL>about something.
-I do not care anymore! Why should I spend my days chasing after stupid llapacas?
 I wanted to be the best llapaca herder in Perdida, but I no longer care...
-Well, you know what this is a case of, don't you, Ollie-boy? Pooer lad's lost his <color:#1>ambition</color>, en't it. Brokenhearted, he is.
 I will never be the greatest llapaca herder in Perdida.<NL>But who cares? It was a stupid dream...
 All set, Ollie-boy? Wave youer wand, cast <color:#8>Give Heart</color>,<NL>and send some <color:#1>ambition</color> ouer mate's way.
 Ai-ai-ai! I feel very...different!<NL>What did I worry about? I forget...
@@ -29431,9 +29230,7 @@ So, are we going to do something about it, or what?
 They've traveled so far, and worked so hard.<NL>We can't just let them throw it all away!
 How many times have we helped this pair out now...? Anyway, you know the drill, Ollie-boy. She needs a <color:#1>confidence</color> boost, en't it.
 But we've been through the flipping lot with this pair, mun! We can't give up on them now!
-Listen, dear, don't you think it's time to go? We'll get no business done in an out-of-the-way place like this.
 Ummm... Is something the matter?
-Ah, it's you! Well, the thing is, my darling wife has suddenly decided that we don't stand a chance of selling anything here.
 I just don't think I can carry on like this, going from one place to the next, barely scraping a living... Sooner or later, the business will dry up, and then where will we be?
 Looks like her <color:#1>confidence</color> is in short supply, Ollie-boy!
 Even if we did get our dream shop off the ground, how long would we last? A year? A month? What if the customers stopped coming?
@@ -29443,7 +29240,6 @@ Come on, my darling husband! We've got places to be and, most importantly, thing
 We'll be able to open our dream shop in no time!
 Good luck with everything!
 Ah, I almost forgot! Here's something for your trouble. Thank you for always being there for us.
-We'll be able to open our dream shop in no time!
 Ah, it's good to see you again. This spot's nice and quiet, isn't it?
 I'm afraid my dearest, darling wife is behaving a little strangely once again.
 I'm begging you. Do what you can for my wife.<NL>She's not herself.
@@ -29470,10 +29266,7 @@ Sounds to me like it's time to dust off a certain <color:#1>spell</color> and he
 I guess we'd better go find a girl who looks just like her.
 Ah, I'm sorry I asked for too much. Never mind.
 I cannot forget that dream...
-Um, what's the matter?
-It was yesterday. I had a strange dream.
 In my dream, I saw a girl. She looked just like me. She even had my face! But she lived in another world. And there she planted the most beautiful flowers.
-Can I ask you something, in case you ever meet that<NL>girl I saw?
 I would like very much to have one of the pink flowers that she grew.
 Imagine it! Another world!<NL>It is so incredible!
 Oh! It is so beautiful. This is just like the flower in<NL>my dream.
@@ -29501,7 +29294,6 @@ Thank you, Sir. I'm sure we'll be okay.<NL>You just wait here.
 Oh. I am sorry to hear this. Now I have no choice but to await another peddler.
 Ai-ai-ai! My poor back!
 Young man, would you be so kind as to help me apply this— Hm? Oh...
-Is something the matter, Sir?
 It seems I have no more of the cold compresses that I use to ease the pain.
 I favor a special kind made by a tomte who resides in Yule, you see.
 Can I ask a favor of you? Will you travel to Yule for me, and collect a <color:#1>cold compress</color> from this tomte?
@@ -29515,7 +29307,6 @@ I shall put the cold compress you brought me to good use, young one. You have ma
 Orgle! Borgle! Orgle!
 Say, Mr. Drippy, what are these animals called?
 That there is the noble llapaca, Ollie-boy! Majestic, en't it? Always had them in Perdida, they have.
-Orgle! Borgle! Orgle!
 It seems like he's trying to tell me something.
 Youer not wrong. This hairy fellow's got something to say, and no mistake.
 Time for a spot of <color:#1>magic</color>, I reckon.
@@ -29593,7 +29384,6 @@ Oh, and there's more! I have a fine formula for you to use in your alchemical ex
 Use it to make something tasty...and feel free to drop by and share it with me anytime.
 He's got some blinking cheek! Does he think of nothing but his stomach, or what?
 Thank you so much! And remember, if you ever have any tasty morsels you wish to share, you will find me here...eating hay.
-Orgle! Borgle! Orgle!
 You received a new alchemy formula!<NL>Go to the cauldron to try them out!
 Oh, it's you. It seems our paths have crossed once again. Of course, I predicted you would be here before long.
 Gee! It's Derwin!
@@ -29614,12 +29404,8 @@ Still, with a combination of dedication and animal cunning, it is statistically 
 Oh, and it goes without saying that it will not suffice simply to stash these specimens in a Familiar Retreat.
 No, you must bring all three of these creatures<NL>to me together.
 Clearly you believe the advancement of human knowledge is less important than...whatever it is you do.<NL>I think you'll find that you are wrong.
-The first specimen of interest is a <color:#1>wispula</color>, the metamorphic successor of a ghostly creature known to haunt the Tombstone Trail.
-I would also like to see at first hand a <color:#1>flash fry</color>—a species produced through the metamorphosis of a creature notable for carrying a pair of red-hot stones.
-Finally, I wish to examine a curiously musical creature known as a...erm...<color:#1>trumpy</color>... (mumble) I am sure you know the species in question! And no, I shall not repeat myself.
 Little is known about the aforementioned creatures, so I am more than usually eager to see them in the flesh.
 Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 Yes, these are correct.
 It would seem that you have successfully brought me the specimens I requested.
 Moreover, you did so in marginally less time than predicted, based on my estimation of the subjects' rarity and your intelligence. Clearly, another factor is at work...
@@ -29632,34 +29418,16 @@ Well, I hope science is more grateful than you are!
 ...What was that? No matter. In return for your continued assistance, I shall reward you. Here.
 I think you'll find I requested three specimens, while you have only collected two. I still require a <color:#1>wispula</color>.
 As I clearly stated, the <color:#1>wispula</color> is the metamorphic successor of a ghostly creature known to haunt the Tombstone Trail.
-Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 I think you'll find I requested three specimens, while you have only collected two. I still require a <color:#1>flash fry</color>.
 As I clearly stated, the <color:#1>flash fry</color> is a species produced through the metamorphosis of a creature notable for carrying a pair of red-hot stones.
-Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 I think you'll find I requested three specimens, while you have only collected two. I still require a...um... Ahem! I still require a <color:#1>trumpy</color>... (mumble)
 As I clearly stated, the...um...specimen in question is a curiously musical creature... Surely that is more than enough information.
-Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 I think you'll find the <color:#1>wispula</color> and <color:#1>flash fry</color> are conspicuous by their absence.
-As I clearly stated, the <color:#1>wispula</color> is the metamorphic successor of a ghostly creature known to haunt the Tombstone Trail.
 The <color:#1>flash fry</color>, meanwhile, is a species produced through the metamorphosis of a creature notable for carrying a pair of red-hot stones.
 Don't come back until you've found them!
-Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 I think you'll find the <color:#1>wispula</color> and, um, <color:#1>trumpy</color>... (mumble) ...are conspicuous by their absence.
-As I clearly stated, the <color:#1>wispula</color> is the metamorphic successor of a ghostly creature known to haunt the Tombstone Trail.
 While the <color:#1>trumpy</color>...um, creature—as we familiarologists call it for short—is a curiously musical beast...
-Don't come back until you've found them!
-Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 I think you'll find the <color:#1>flash fry</color> and, um, <color:#1>trumpy</color>... (mumble) ...are conspicuous by their absence.
-As I clearly stated, the <color:#1>flash fry</color> is a species produced through the metamorphosis of a creature notable for carrying a pair of red-hot stones.
-While the <color:#1>trumpy</color>...um, creature—as we familiarologists call it for short—is a curiously musical beast...
-Don't come back until you've found them!
-Oh, and it goes without saying that it will not suffice to simply stash these specimens in a Familiar Retreat.
-No, you must bring all three of these creatures<NL>to me together.
 You will be interested to hear that my groundbreaking research is going from strength to strength. It is only natural that you take pride in having assisted me.
 My colleagues in the familiarological fraternity said nothing of Perdida's literally breathtaking altitude. I feel somewhat light-headed.
 But I will endure it for the sake of science!<NL>Wherever my studies lead, I will follow!
@@ -29746,9 +29514,6 @@ Have you spoken to that soldier from Xanadu, Ollie-boy? You should, mun. Interes
 How many bits of heart are we going to get off old Pirateface? He's a bottomless pit of emotion, that one!
 Ahh, there's manly! Nothing like a bit of obsessive, unrequited love to tug at the old heartstrings!
 Looks like youer cue to play cupid, Ollie-boy!
-How many bits of heart are we going to get off old Pirateface? He's a bottomless pit of emotion, that one!
-Ahh, there's manly! Nothing like a bit of obsessive, unrequited love to tug at the old heartstrings!
-Looks like youer cue to play cupid, Ollie-boy!
 Khulan said to go and see her when we're ready, en't it? I'm ready, Ollie-boy. Are you?
 So Kublai's some big shot in the Xanaduvian army, is it? And those sky pirates are his soldiers? Crikey, you really can't judge a book by its cover, can you?
 Let's go and get this Mornstar ceremony underway shall we, Ollie-boy? It's time to make the wand the way it was once more!
@@ -29803,12 +29568,33 @@ Any tasks you've not cleared up yet, Ollie-boy? Well worth doing, they are, if y
 Purrprietor
 Taskmaster
 Peddler
+掲示板
+オババ
+サザラ
 Kublai
+アイリ
 Xanadu Guard
+エリック
+オリバー
+シズク
 The Conductor
 Horace
 Abyssinia
+行商人（夫）
+行商人（妻）
 Derwin
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
 
 pla-t12_npc_text_en.cfg.bin.kup
 .........!<NL>...!
@@ -29849,7 +29635,6 @@ If I can hop aboard one of those big sea creatures, I can get out of this lunati
 Eat ouer food. It's all tasty and that.
 ............
 Uh, did I do something wrong, Sir?
-............
 I, uh... I'm real sorry if I offended you...
 Shut up, mun! What are you apologizing for?
 It's not youer fault old Zip Lip here's refusing to open his trap, is it? Oi! You! What's youer problem?
@@ -29861,15 +29646,10 @@ I will not flipping calm down! Youer a disgrace to the fairy race, mun! I've nev
 You're right. He probably has, huh.<NL>Shall we help him get it back?
 Too flipping right we shall! Me, leave one of my fairy comrades in need? Never! One super-size portion of <color:#1>kindness</color> coming up!
 Oi! This is the bit where youer s'posed to say, "Sure thing, Mr. Drippy! Let's go help him, Mr. Drippy!" Honestly!
-............
 He sure doesn't look too happy...
 Oi! Say something, will you? Youer scaring youer pooer customers, mun!
-...........Nothing personal, like. I just don't see the point in all that "How do? Nice weather we're having..." rubbish<NL>is all...
-Y-You don't see the point in paying youer customers the most rudimentary of courtesies!? Flip, mun! What kind of flipping shopkeeper are you!?
 ...Haaang on a sec! Youer flipping heartbroken, en't you! Had youer <color:#1>kindness</color> stolen, en't it!
-............
 I guess I'd better cast <color:#8>Give Heart</color> and hand over some <color:#1>kindness</color>, huh?
-............
 Huh!?
 What the—!?<NL>Was he not brokenhearted or something?
 ............How do?
@@ -29880,7 +29660,6 @@ For flip's sake, mun!<NL>He's hardly changed at all!
 Well, he, uh...seems a little...happier, don't you think...?
 Honestly, mun... You go away for five minutes and the whole fairy race goes to pot!
 ............Come again, en't it.<NL>Here's a present, like.
-............How do?
 Tidy! I'm going to make this lot laugh so hard they'll wet their flipping selves!
 Knickers, mun...<NL>Why can't I stop myself...?
 Is something the matter?<NL>You seem kinda upset...
@@ -29898,7 +29677,6 @@ But don't worry, I reckon we can help you out.<NL>What do you say, Ollie-boy?
 Tidy! Don't forget now—it's <color:#1>restraint</color> we need, and plenty of it!
 Well, I don't s'pose it's that urgent. I feel a bit sorry for the pooer lad, like, but it can't be helped, eh...
 Recently, I just can't help coming out with jokes in completely the wrong situations.
-The other day, I tried doing a funny when I went to visit my butty who's laid up sick in bed, and before that, it was at this proper important meeting...
 That's no good, is it? I think I see the problem, though. Heartbroken, you are. You've had youer <color:#1>restraint</color> stolen, en't it?
 He has, huh? So that's why he can't help telling jokes at the wrong time.
 Knickers, mun...<NL>I just can't flipping help myself...
@@ -29907,7 +29685,6 @@ Ooh-err, that's a proper funny feeling, that is.<NL>But nice, mind you...
 So, do you feel any different?
 ...Do you know what, I...I reckon I do! I don't feel like blurting out jokes willy-nilly anymore!
 Ta, mun! You've proper sorted me out!<NL>Here—to say thanks, like!
-Tidy! I'm going to make this lot laugh so hard they'll wet their flipping selves!
 Just you wait! We're going to be the biggest thing in this town since Mam's food bill!
 It's no good, mun. I en't ever going to be any good at the old comedy game. Reckon the best thing is if I just give it all up...
 Eh? What's up with you all of a sudden, mun?<NL>Keen as mustard you were until five minutes ago!
@@ -29923,18 +29700,13 @@ If he doesn't get a boost soon, these two's career is over...
 We can't just leave them like this Mr. Drippy?<NL>Let's help them!
 That's the spirit, Ollie-boy! We'd best come up with some <color:#1>confidence</color> then, en't it?
 I hate to have to leave them like this, but we're already<NL>so busy...
-It's no good, mun. I en't ever going to be any good at the old comedy game. Reckon the best thing is if I just give it all up...
-Eh? What's up with you all of a sudden, mun?<NL>Keen as mustard you were until five minutes ago!
-I dunno. I just... I en't cut out for the stage, am I?<NL>I'm just not funny enough.
 There's tragic! This pooer brokenhearted boyo's had every ounce of <color:#1>confidence</color> drained out of him!
-If he doesn't get a boost soon, these two's career is over...
 I just... I en't cut out for the stage, am I? I'm just not funny enough.
 Here, Ollie-boy, cast <color:#8>Give Heart</color> and get the old <color:#1>confidence</color> a-flowing, will you?
 ...Eh? There's funny. I feel all...calm, and...confident! Yeah! Itching to do a bit of a routine, I am! Point me at the stage and watch me go!
 Really? Got youer confidence back, have you?<NL>Honest, like? This en't a rubbish joke or nothing?
 Nah, mun! Proper fearless, I am! I reckon I could do a gig in front of Shadar himself and not bat an eyelid!
 You lot are flipping lifesavers! Ta, mun, seriously.<NL>Here, it en't much, but it'll have to do.
-Just you wait! We're going to be the biggest thing in this town since Mam's food bill!
 Ahhh! There's nothing like a nice cold drink after a hard day's work, eh? There's rewarding!
 What the flip are you on about, mun!? Give up comedy? If that's youer idea of a joke, maybe you should give up—cos it's not flipping funny!
 Come on, mun! Think it over! Youer proper funny!<NL>Why would you give it all up?
@@ -29978,7 +29750,7 @@ Gee, that sounds...interesting...
 You could say that, yeah.<NL>This one's going to be a toughie...
 Gah, listen to me! That's not my style!<NL>Bring it on, mun! That's what I meant to say!
 Huh? You're going to try it?
-Course I am! There en't a special I haven't tried yet!<NL>And there've been some proper weird ones, and all...
+'Course I am! There en't a special I haven't tried yet!<NL>And there've been some proper weird ones, and all...
 Now that's what I call brave! He's got <color:#1>courage</color> coming out of his eyeballs!
 He sure does! Say, Mr. Fairy...would you mind sharing some of your courage with us?
 My courage, you say? ...'Course not, mun.<NL>Go for youer life.
@@ -29989,7 +29761,6 @@ Sausage and custard omelet, is it?<NL>I'd best give it a try then, eh?
 Crikey, there's brave! This one's got <color:#1>courage</color> coming out of his eyeballs!
 Say, Mr. Fairy...would you mind sharing some of your courage with us?
 'Course not, mun. Go for youer life. You'd have to borrow a fair few bucketfuls before I noticed the difference!
-Really? Gee, thanks!
 Righto, let's see what's on the specials board today,<NL>shall we?
 Flip, mun...that looks proper...nnngh...tasty...<NL>What I wouldn't do for...a lovely lard...nnngh...pie...
 I en't going to let my...appetite get the better of me...<NL>I can resist it... Just...got to...be...strong...
@@ -30029,18 +29800,14 @@ A bit of my belief? Oh, the old <color:#8>Take Heart</color> trick, is it?
 That's the one. Ollie-boy here might look like a littlie, but he's actually sort of a wizard.
 "Sort of"?
 Cor! I en't seen a wizard in donkey's years.<NL>Go on, then! Help youerself, lad!
-Really? Gee, thanks!
 Tidy! I hope my heart will go on to help many souls<NL>in need!
 I en't giving up on ouer world just yet! One day, peace will return, and the fairies will fill the forests and fields once more!
-Hey, Mr. Drippy, that's some real strong <color:#1>belief</color>, huh?
-Leave this one to me, Ollie-boy! Oi, you!<NL>Gis a lend of youer belief, will you?
 My belief, you say? Oh, the old <color:#8>Take Heart</color> trick, is it? Been a while since I saw a bit of wizarding. Go on then, lad! Have at me!
-Really? Gee, thanks!
 One day soon, the world will be just as full of fairy folk as it was in the olden days, you mark my words!
 Roll up, roll up!
 Roll up, roll up!<NL>Oi, you! Sonny Jim!
 Huh? "Sonny"...? Do you mean me?
-Course, mun! Who else would I mean?<NL>Stop and have a bite to eat, will you?
+'Course, mun! Who else would I mean?<NL>Stop and have a bite to eat, will you?
 It does smell pretty flipping tasty...
 It really does! Um, what is it?
 "What is it?" he says! Are you telling me you've never come across the Fairyground's most famous food—<NL>fairy rarebit?
@@ -30055,14 +29822,11 @@ Well, if that doesn't show a tidy bit of <color:#1>ambition</color>,<NL>I don't 
 You're right, Mr. Drippy!<NL>Excuse me, Mr. Fairy, can I ask you something?
 Eh? What is it?
 We'd like to take a little of your ambition to help somebody who doesn't have enough of their own.<NL>Would that be okay?
-Course, mun!<NL>Go for youer life!
-Really? Gee, thanks!
+'Course, mun!<NL>Go for youer life!
 Ooh, there's nice! I feel flipping cracking!<NL>Like a new fairy, mun!
 I'm going to spread the word of ouer finest delicacy all over the world! Everyone will have heard of fairy rarebit soon, you'll see!
-Well, if that doesn't show a tidy bit of <color:#1>ambition</color>,<NL>I don't know what does!
 Say, Mr. Fairy... We'd like to take a little of your ambition to help somebody who doesn't have enough of their own. Would that be okay?
 Eh? 'Course you can, mun! I've no idea what youer on about, but go for youer life!
-Really? Gee, thanks!
 I en't giving up till the whole world knows the fabulous flavor of fairy rarebit!
 Knickers! It's still no good! It needs to be at least four zillion times funnier! Arrrgh!
 It's no good, mun! It's still nowhere near good enough! It needs more...more... It just needs more! Flip!
@@ -30084,10 +29848,6 @@ Thank you very much!<NL>Hold still for just one second...
 What the heck did you just do? I feel all...calm... Hmm... Maybe I am trying a bit too hard, eh?
 I'm going to be the greatest straight man the Fairyground ever saw!
 It takes some serious <color:#1>ambition</color> to have a goal like that.<NL>Oi, fancy lending us a hand, pal?
-What...now?<NL>Can't you see I'm flipping busy?
-Go on, you big idiot!<NL>It won't take a second.
-All right, all right, if I have to.<NL>But only 'cause you asked so nicely...
-Thank you very much!<NL>Hold still for just one second...
 Hmm... Maybe there is such a thing as being too prepared...
 I'd love to have a go at a bit of the old slapstick one day...
 Knickers and flip!<NL>I'm going to have to skip town, mun...
@@ -30118,7 +29878,6 @@ And if I don't get them back, it's curtains for ouer comedy duo for certain! Rec
 Do that, and you'll be able to pluck <color:#1>all three slapsticks</color> from their thieving mitts no problemo! Get to it, then!
 How do? Did you get them slapsticks back for me?
 ...What? Only one? That's no good! Hurry up and get <color:#1>the other two</color>, will you? I'm done for otherwise!
-How do? Did you get them slapsticks back for me?
 ...Two so far, is it? Just the <color:#1>one</color> left to get, then!<NL>Don't give up now!
 We got the slapsticks back for you, Mr. Fairy!
 You did as well! You little beauty!<NL>Thank flip, mun!
@@ -30150,9 +29909,6 @@ Tidy.<NL>We'll be right back!
 Yeah, he's only got himself to blame, I s'pose...
 (sniff) I feel proper rotten, mun... I should never have gone and jumped in the river when them littlies got born...
 Well, you've only got youerself to blame, mun.<NL>Looks like a proper nasty cold, too.
-Did you take some medicine?
-I en't got none, have I? And I can't go foraging for ingredients in my state...
-Hey, you couldn't be a pal and get them for me, could you?
 Sorry to keep you waiting!<NL>We brought the ingredients for your medicine!
 Say ta!
 Ta! Now I can finally get better!
@@ -30170,7 +29926,6 @@ I'm on my last legs here, mun...<NL>You've got to hurry...
 We still need some <color:#1>springwater</color> and a bunch of <color:#1>booster shoots</color>, en't it.
 Don't go copying me and jumping in the river, will you? It's a proper stupid idea...
 We need <color:#1>a bunch of booster shoots</color>, <color:#1>a bundle of slumbernot leaves</color>, and <color:#1>a bottle of springwater</color> for this medicine.
-I'm on my last legs here, mun...<NL>You've got to hurry...
 My river-jumping days are over. Next time, I'll find a less stupid way of celebrating...
 Oh, I say! How jolly lovely to see you again! Who'd have thought we'd end up meeting in a rummy old place like this, hm?
 It's nice to see you too, Sir!<NL>How did you wind up here?
@@ -30189,9 +29944,6 @@ Yes, took the weight off the old plates of meat with the aid of a <color:#1>fall
 A cave? I've never seen a cave round by here...<NL>Still, if you say so. Let's go and have ouerselves<NL>a goosey gander, shall we?
 You won't? Bother... All my musings, gone forever...<NL>Such a tragedy...
 It's good to see you again, Sir!<NL>How did you wind up here?
-Well, I chartered myself a ship to old Autumnia, and spied this place from atop the crow's nest, as it were. Looked rather jolly, so I thought I'd take a look.
-And lo and behold, I find myself in a town full of fairy folk! I really ought to jot down my first impressions, what! Let's see now...
-...Oh. Oh, bother.
 I, um...seem to have...misplaced the old diary yet again...
 You couldn't be an absolute dear and track the rotten thing down, could you?
 I'm almost certain I last saw it in a <color:#1>cave</color> I came across.
@@ -30235,18 +29987,16 @@ That's it, is it? Well, that's easy enough. I know just the thing you need. Came
 Go on, then—tell us!
 What you need is a weapon with a funny name to make youer customers smile, en't it? A lance should do it,<NL>I reckon.
 Er...it should?
-Course it should! Trust youer old mam! Now...<NL>What about a nice healy one called an "ambu-lance"?
+'Course it should! Trust youer old mam! Now...<NL>What about a nice healy one called an "ambu-lance"?
 .........
 No good? Tough crowd. Never mind...
 You could give one away, I s'pose.<NL>Call it a "free-lance"...
-.........
 Still not keen?
 Crikey, you want the moon on a stick, you do! Of all my littlies, there en't a single one that ever gave me so much grief! The things I do for you!
 The things you don't do, more like!
 Don't you take that tone with me, young man! ...Fine! I'll give you my most secret secret—just don't blame me if you get embarrassed!
 Oh, just shut up and tell us, will you?
 It's the lance I used to rock you to sleep with before you were old enough to lip me so mercilessly. (sniff) My dear old lullaby lance...
-.........
 Ohhh, don't go getting all dewy-eyed on me, love.<NL>You've got me started now... Welling up, I am...
 ...Shut up, mun!<NL>Ta for the idea. See you later...
 You got the idea for the lullaby lance!
@@ -30265,7 +30015,6 @@ Hm? Hoo's that, eh? Oh, hoo do!<NL>Hoo can I help hoo hooday?
 Owl be hoogely hoobilant hoo see hoo again!
 Caw! A flapping customer! I don't mean to beak crude, but every one of ouer items is a flapping cawker!
 Ouer prices are flapping bonkers! I'm raven flapping mad, me!
-............
 Gaaaaaah! How did I ever end up in this nest of gnomes?
 Oi! Who are you calling gnomes, you cheeky little flapper!
 Gaaaaaah! You know how to give a gull a fright!<NL>How come you can understand me?
@@ -30311,7 +30060,6 @@ Let's get these boys back to the palace in Hamelin, shall we?
 The Tombstone Trail's s'posed to be over to the north of Hamelin, en't it?
 We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Don't we need to be trying to find the right spell to get past that skeleton over on the Tombstone Trail?
-We can't get back to ouer own time till we get that wand from over by the Tombstone Trail, mun.
 Time to head back to the palace in Hamelin!<NL>These princes need dropping off, en't it?
 We going back to the palace in Hamelin, or what, mun?
 Let's get some belief off that Marcassin, shall we?
@@ -30400,11 +30148,63 @@ Parry the Purrprietor
 Tecwyn the Taskmaster
 Huw the Hootenanny
 Cai the Cawtermaster
+掲示板
 Smiley
 Surly
 Fairy Godmother
 ???
+シズク
 Horace
+行商人（夫）
+行商人（妻）
+q_0041_大富豪
+npc_001
+npc_002
+npc_004
+npc_005
+npc_006
+npc_008
+npc_011
+npc_013
+npc_015
+npc_017
+npc_018
+npc_019
+npc_021
+npc_023
+npc_024
+npc_026
+npc_028
+npc_030
+npc_031
+npc_035
+npc_036
+npc_038
+npc_039
+npc_040
+npc_041
+npc_043
+npc_046
+npc_048
+npc_049
+npc_050
+npc_052
+npc_053
+npc_054
+npc_055
+ジュニア1
+ジュニア2
+ジュニア3
+ジュニア4
+ジュニア5
+ジュニア6
+ジュニア7
+ジュニア8
+ジュニア9
+ジュニア10
+ジュニア11
+ジュニア12
+カモメ
 
 pla-t20_npc_text_en.cfg.bin.kup
 Is this...?
@@ -30555,12 +30355,87 @@ Timmy Toldrum
 Genghis
 Denny
 The Conductor
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_035
+npc_038
+npc_039
+npc_040
+npc_041
+npc_042
+npc_043
+npc_044
+npc_045
+npc_046
+npc_050
+npc_051
+？？？
 
 pla-t_010_010_guide_text_en.cfg.bin.kup
 Explore the town of Hamelin!
 Head to the Porcine Palace!
 
 quest_text_en.cfg.bin.kup
+マークの大事な話
+母さんの待つ家へ
+いよいよ試運転
+大妖精と魔法の本
+杖の代わりになるものは
+ふしぎな少女と古びた杖
+これが二ノ国！
+心を奪われたヌケガラビト
+古の木の頼み
+心を受け渡す魔法
+ゴロネール王国の開門
+国王様の大事な魚
+やる気の心とトレビンレーダー
+消えた国王様の謎
+因縁の対決！？
+念願の魔法の杖！
+砂漠の街ババナシア王国
+賢者ソロンとその娘
+賢者の試練
+デカロック山の噴火
+次の賢者を求めて
+港町ビッキーニのなべ泥棒
+がまんを忘れた女王様
+奪われた許可証
+いざボーグ帝国へ
+妖精が暮らすドートン森
+笑いを奪われたネタギレビト
+オカンの中でジュニアを救え
+シズクとオリバーの決断
+ボーグ宮殿潜入作戦
+１５年前のボーグ帝国
+伝説の杖グラディオン
+ロデックとラース
+空賊王ヘブルチ
+飛べないドラゴン
+クロに乗って
+魔石と三従者
+３つの魔石とグラディオン
+地上に堕ちた空の女王
+グラディオンの真の力
+マークの夢
+ひとつながりの笛
+死者の湖
+闇の魔導士ジャボー
+新しい二ノ国
+聖灰の恐怖
+ココルと共に
+幻の大地モーヤ
+二ノ国の想いをひとつに
+決戦！
 Leila's errand boy, Philip, calls out to Oliver as he leaves the store. It seems he has something important to tell him...
 Phil tells Oliver that she's finally finished—and that tonight they're taking her for a spin! But first Oliver must head home with his mother's groceries!
 It's finally time to take her for a spin...<NL>With his mother fast asleep, Oliver sneaks out and heads for Phil's garage!
@@ -30778,59 +30653,48 @@ Errand complete!
 A female grimalkin near the Cawtermaster's Store in Ding Dong Dell seems to be deep in thought.
 A female grimalkin in Ding Dong Dell would like to brighten up her porch with some flowers.
 A female grimalkin from Ding Dong Dell asked you to find flowers and water to help her brighten up her porch.
-Errand complete!
 A Ding Dong Dell mother looks like she's worried about something.
 A Ding Dong Dell mother is worried about her sons, who haven't come home yet.
 A Ding Dong Dell mother asked you to find her three sons.
 You found one of the Ding Dong Dell mother's three missing sons.
 You found two of the Ding Dong Dell mother's missing sons.
 You found the Ding Dong Dell mother's missing sons.
-Errand complete!
 A forest dweller who lives in the eastern part of the Rolling Hills appears to be having some difficulty.
 A forest dweller tried to defeat the rhinobores that were threatening his home all by himself.
 You promised a forest dweller that you would defeat the five rhinobores that are threatening his home.
 You have defeated <quest_exb008:qs0004> of the rhinobores threatening the forest dweller's home.
-Errand complete!
 A young woman in Al Mamoon seems very worried indeed about something her husband has forgotten.
 A Mamooni woman's husband left his lunch behind when he went out to forage for mushrooms.
 A Mamooni woman asked you to deliver her beloved husband's lunch basket.
 You delivered the lovers' lunch basket to the woman's husband in Golden Grove.
-Errand complete!
 An elderly merchant near the milk fountains in Al Mamoon appears to be worried about something.
 An elderly merchant from Al Mamoon is worried because her supply lines are coming under attack.
 Goods cannot be delivered to Al Mamoon because boneheads are attacking merchants as they cross the desert.
 You defeated <quest_exb008:qs0006> boneheads, as requested by the merchant in Al Mamoon.
 You defeated <quest_exb008:qs0006> bonehead, as requested by the merchant in Al Mamoon.
 You successfully defeated ten boneheads, as the merchant in Al Mamoon requested.
-Errand complete!
 A young boy standing by Al Mamoon's main gate appears to be waiting for somebody to return.
 A young Mamooni boy is worried because his pigeons are late returning to him.
 A young Mamooni boy asked you to find his three missing pigeons.
 You found one of the Mamooni boy's missing pigeons and explained that it should return to its owner.
 You found two of the Mamooni boy's missing pigeons and convinced them to return to their owner.
 You found all three of the Mamooni boy's missing pigeons and convinced them to return to their owner.
-Errand complete!
 A curry stall holder in Al Mamoon appears to be in need of help.
 A curry stall holder in Al Mamoon lacks the ingredients required to make the famous tikka mahala curry.
 To make the famous tikka mahala curry, one must have the Sheikh's special spices, fluffy rice, and tender beef.
-Errand complete!
 It seems a Castaway Cove designer is in need of a favor.
 A Castaway Cove designer lacks the materials required to realize her striking new swimsuit concept.
 A Castaway Cove designer asked you to provide her with three rainbow leaves.
-Errand complete!
 A blue crab has been loitering on the quayside in Castaway Cove for some time. It seems agitated. Might it be injured?
 A blue crab in Castaway Cove is worried about his friend, who was swept away by a giant wave.
 A blue crab in Castaway Cove asked you to look for his missing friend.
 You found the missing crab on an island to the east of Castaway Cove.
-Errand complete!
 A Teeheeti fairy appears to be in a bit of a panic after losing something important.
 A fairy in Teeheeti is panicking after misplacing some slapsticks he "borrowed" from a friend.
 The fairy in Teeheeti advised you to blind the wishing whambats who stole the slapsticks before defeating them.
-Errand complete!
 A Teeheeti fairy looks like he's in a bad way.
 A fairy in Teeheeti caught a cold after jumping into the river.
 A Teeheeti fairy asked you to bring him some springwater, some booster shoots, and some slumbernot leaves.
-Errand complete!
 Peace has returned to Golden Grove, and so have the fairies—but something still seems to be troubling them...
 Some hyperboars have moved in to Golden Grove, making life very difficult for the fairies who live there.
 A total of three hyperboars have moved in to Golden Grove.
@@ -30838,18 +30702,15 @@ You defeated <quest_exb008:qs0013> of the pesky mushroom-snaffling hyperboars.
 You defeated all three of the mushroom-snaffling hyperboars.
 The Golden Grove fairies are being attacked by the boss of the boars!
 You defeated the boars who were gobbling up all the mushrooms in Golden Grove.
-Errand complete!
 A lady standing on the main street in Hamelin appears to be having some difficulty growing a flower.
 A Hamelin lady wants to give her mother a flower for her birthday, but it doesn't look like it will blossom in time!
 A Hamelin lady has asked you to make her flower blossom in time for her mother's birthday.
 You cast a spell on the flower that a Hamelin lady wants to give her mother, but it didn't fully blossom.
-Errand complete!
 A Hamelin researcher is missing an important material, and appears to be in desperate need of help.
 A Hamelin researcher is beside himself with worry, as he lacks the materials needed to make medicine for his ailing sister.
 A Hamelin researcher has asked you to fetch the feel-good fungus he needs to make medicine for his sister.
 A forest dweller is willing to give you a feel-good fungus in exchange for a "car-rock-ache."
 You obtained the feel-good fungus that the Hamelin researcher requested.
-Errand complete!
 Something appears to be troubling a Hamelin researcher once again.
 A Hamelin researcher is anxious because he's unable to deliver his sister's medicine to her.
 You have been asked to drive away the pirate ships that are blocking the route between Hamelin and Castaway Cove.
@@ -30857,39 +30718,32 @@ You've driven away one of the pirate ships that was blocking the route between H
 You've driven away two of the pirate ships that were blocking the route between Hamelin and Castaway Cove.
 You've driven away three of the pirate ships that were blocking the route between Hamelin and Castaway Cove.
 You've driven away all of the pirate ships that were blocking the route between Hamelin and Castaway Cove.
-Errand complete!
 A mechanic in Skull Mountain has a favor to ask.
 A troublesome broken booster has a mechanic in Skull Mountain at his wits' end.
 The Iron Wyvern's mechanic has asked you to repair a broken booster for him.
 Rusty kindly agreed to repair the broken booster for you.
-Errand complete!
 A sky pirate in Skull Mountain appears to have something on his mind.
 A sky pirate in Skull Mountain is in a terrible state after losing his lucky charm.
 A sky pirate in Skull Mountain asked you to bring him one of the gustplumes occasionally dropped by beachheads.
-Errand complete!
 A young girl's ghost has been sighted in a cave to the southeast of Yule.
 A young girl is worried about how her pet jabberguppy is coping since she became a ghost.
 The ghost of a young girl asked you to train her pet jabberguppy to level 40, thereby ensuring its future safety.
-Errand complete!
 A Yule woman who longs to visit warmer climes appears to be deep in thought about something.
 A Yule woman would like nothing more than to get her hands on a snazzy swimsuit.
 A young Yule woman has asked you to do whatever it takes to get her a snazzy swimsuit.
 A young Yule woman wants nothing more than a snazzy swimsuit—but it has been stolen by a mischievous seagull!
 A snazzy swimsuit coveted by a Yule woman was stolen by a seagull, leaving you no other option but to go after it.
-Errand complete!
 A tomte in Yule's village square appears to be looking for someone.
 A tomte mother in Yule is worried about her son, whose whereabouts are unknown.
 A tomte boy has gone missing. His mother says he was playing with the other children until just a short while ago.
 A tomte boy has gone missing. It seems he went to test his courage in the Glittering Grotto.
 You found the missing tomte boy in the Glittering Grotto, and prevented him from coming to harm.
-Errand complete!
 A young girl from Perdida has been telling anyone who will listen about her exceedingly strange dream.
 A young girl from Perdida wants a flower like those she saw in a dream. A dream about her soul mate in Motorville.
 A young girl from Perdida has asked you to bring her a flower that does not grow in her world.
 A young girl from Perdida asked you to bring her a flower grown by her soul mate—but it had already wilted.
 A wilted flower grown by a Perdidan girl's soul mate was restored to its former glory with magic.
 You have received a flower like the one the young Perdidan girl saw in a dream about her soul mate in Motorville.
-Errand complete!
 An old man in Perdida appears to be in a great deal of pain.
 An old man in Perdida is suffering from terrible backache.
 An old man in Perdida has asked you to bring him a cold compress from Yule.
@@ -30897,24 +30751,20 @@ In return for a cold compress, a tomte in Yule would like you to deal with some 
 You defeated <quest_exb008:qs0023> manglerfish using a blazing blade, as requested by a tomte in Yule.
 You defeated five manglerfish, thereby fulfilling your promise to a tomte in Yule.
 You received a cold compress from a tomte in Yule, allowing you to ease a Perdidan man's suffering.
-Errand complete!
 A llapaca in Perdida is showing little interest in its hay. Might it be ill?
 A llapaca in Perdida longs to taste something more refined than its customary diet of hay, hay, and more hay.
 Having grown tired of hay, a llapaca in Perdida would like nothing more than to sample a babana.
 Having developed a taste for the finer things, a llapaca in Perdida is eager to taste a glowshrimp.
 A llapaca living in Perdida has developed a refined palate, and would dearly love to try a black truffle.
 A llapaca in Perdida asked you to supply a snow radish in order to complete his gastronomic world tour.
-Errand complete!
 A Ding Dong Dell gatekeeper has lost something important, and is terribly flustered as a result.
 A Ding Dong Dell gatekeeper has had his precious Cat's Whiskers stolen by a monster.
 A monster has made off with a Ding Dong Dell gatekeeper's Cat's Whiskers, leaving a trail of footprints behind...
 A Ding Dong Dell gatekeeper begged you to return his stolen Cat's Whiskers.
-Errand complete!
 A Mamooni artist is struggling to complete his latest painting.
 A Mamooni artist is looking for a model who can inspire him to complete his latest work.
 A Mamooni artist has asked you to find him a model who can inspire him to complete his latest work.
 You found just the right model for the Mamooni artist!
-Errand complete!
 The Raj Mahal curry stall is doing great business—and yet something appears to be troubling its owner.
 The owner of the Raj Mahal curry stall is too busy to deliver all the orders he's receiving.
 The owner of the Raj Mahal curry stall has asked you to deliver a curry to the Sheikh of Spice in Al Mamoon.
@@ -30927,13 +30777,11 @@ The owner of the Raj Mahal curry stall has asked you to deliver a curry to a per
 You delivered a curry to a skeleton in the Crypt Casino as requested.
 The owner of the curry stall has asked you to deliver a curry to someone who lives in a forest west of Ding Dong Dell.
 You delivered a curry to a forest dweller who lives to the west of Ding Dong Dell as requested.
-Errand complete!
 A Hamelin man is having great difficulty staying awake.
 A Hamelin man is having great difficulty staying awake, and has requested your help.
 A Hamelin man is having great difficulty staying awake, and is looking for a sleep-be-gone to help him.
 A Hamelin man is having great difficulty staying awake, and is looking for a cappuccino to help him.
 A narcoleptic Hamelin man asked you to bring him a creature versed in the Rise and Shine trick.
-Errand complete!
 A fairy in Golden Grove is anxiously waiting for someone to return.
 A fairy in Golden Grove is anxiously waiting for his friends to return after they fled the forest.
 A fairy asked you to look for his first missing friend in a place marked by a red skull flag.
@@ -30941,7 +30789,6 @@ A fairy asked you to look for his second missing friend in a cell deep within so
 A fairy asked you to look for his third missing friend in a mysterious other world.
 A fairy asked you to look for his fourth missing friend in a small cave containing a set of tracks.
 A fairy asked you to look for his fifth and final missing friend in a snow-covered forest where humans dwell.
-Errand complete!
 A young boy in Castaway Cove is said to have found a pirate's treasure map.
 A young boy in Castaway Cove has found a pirate's treasure map, and is keen to investigate the locations marked on it.
 A young boy in Castaway Cove has found a pirate's treasure map—but its condition makes it almost unreadable.
@@ -30956,23 +30803,18 @@ The text on all the monuments reads: [nz_1][nz_k], [nz_4][nz_l], <NL>[nz_7][nz_3
 After decoding what was engraved on the monuments, you learned that they spell out someone's name.
 Kublai Khan has informed you that there is another treasure whose location was not marked on the map.
 You discovered Kublai III's greatest treasure—the one he valued more than any other!
-Errand complete!
 A man in Al Mamoon is looking for someone who is capable of befriending creatures.
 A man in Al Mamoon who goes by the name of Derwin would like to gather data on certain creatures.
 A man in Al Mamoon who goes by the name of Derwin asked you to bring him some creatures from the desert.
-Errand complete!
 A man in Hamelin is looking to collect information about certain creatures.
 Derwin has moved on to Hamelin in search of more creature data.
 Derwin moved on to Hamelin, and asked you to bring him some creatures of the automata genus.
-Errand complete!
 There appears to be a man in Yule who's standing outside waiting for someone, despite the bitter cold.
 Derwin has moved on to Yule in search of more creature data.
 Derwin moved on to Yule, and asked you to bring him some creatures from around the Winter Isles.
-Errand complete!
 There's a stranger in Perdida...<NL>He appears to be waiting for someone.
 Derwin has moved on to Perdida in search of more creature data.
 Having moved on to Perdida, Derwin asked you to bring him three fully metamorphosed creatures.
-Errand complete!
 There's a man in front of the fountain in Ding Dong Dell who appears to have something on his mind.
 Derwin has moved on to Ding Dong Dell in search of more creature data.
 Derwin has asked you to defeat the grubby fug that prowls Jack Frost's Playground.
@@ -30981,55 +30823,44 @@ Derwin has asked you to defeat the auric collum that patrols the Genie's Steps t
 You defeated the auric collum on the Genie's Steps, as requested by Derwin.
 Derwin has asked you to defeat the shellmet that resides on the island of No Longer Mine to the south of Autumnia.
 You defeated the shellmet on the island of No Longer Mine, as requested by Derwin.
-Errand complete!
 A young girl in Castaway Cove is said to have a great interest in all things alchemical.
 A young girl in Castaway Cove has read about alchemy in a book, and would love to see some being performed.
 A young girl in Castaway Cove asked you to create a candle cutter in your cauldron and show it to her.
-Errand complete!
 Apparently, some forest dwellers in the southeastern part of the Shipwreck Shore are amazing at alchemy.
 The forest dwellers who live on the Shipwreck Shore say they can teach you how to make a royal spear.
 The forest dwellers who live on the Shipwreck Shore told you the materials required to make a royal spear.
-Errand complete!
 A strange old man is said to inhabit a cave atop the Genie's Steps to the southeast of the Shimmering Sands.
 An old man who inhabits a cave atop the Genie's Steps says he is willing to teach you some advanced alchemical techniques.
 An old man who inhabits a cave atop the Genie's Steps challenged you to create a demon's ax in your cauldron.
 An old man who inhabits a cave atop the Genie's Steps challenged you to create a war god's ax in your cauldron.
-Errand complete!
 A man visiting Ding Dong Dell appears to have lost something important.
 A man visiting Ding Dong Dell is rather flustered after misplacing his diary.
 The diary should be to the northwest of Ding Dong Dell, on an island in a stream that has two trees growing on it.
 A man visiting Ding Dong Dell had lost his diary—but you found it in the Rolling Hills!
-Errand complete!
 A man visiting Al Mamoon appears to have lost something important.
 A man visiting Al Mamoon is rather flustered after misplacing his diary again.
 The diary should be under a tree near the bottom of Old Smoky.
 A man visiting Al Mamoon had lost his diary—but you found it in the foothills of Old Smoky!
-Errand complete!
 A man visiting the Fairyground appears to have lost something important.
 A man visiting the Fairyground is rather flustered after misplacing his diary once again.
 The diary should be near a large piece of driftwood inside a cave somewhere on the island of Teeheeti.
 A man visiting the Fairyground had lost his diary—but you found it in a cave on the island of Teeheeti!
-Errand complete!
 A man visiting Hamelin appears to have lost something important.
 A man visiting Hamelin is rather flustered after misplacing his diary yet again.
 The diary should be on some tracks that lead into a mine not too far from the city of Hamelin.
 A man visiting Hamelin had lost his diary—but you found it on the Pig Iron Plain!
-Errand complete!
 A man visiting Yule appears to have lost something important.
 A man visiting Yule is rather flustered after misplacing his diary for the umpteenth time.
 The diary should be in a forest somewhere to the west of Yule.
 A man visiting Yule had lost his diary—but you found it in a forest on the Winter Isles.
-Errand complete!
 A man visiting Castaway Cove appears to have lost something important.
 A man visiting Castaway Cove is rather flustered. Against all expectation, it would seem he's misplaced his diary.
 The diary is in an uncharted land, next to a small stone monument near a large depiction of a skull.
 A man visiting Castaway Cove had lost his diary—but you found it in Nazcaä!
-Errand complete!
 A man visiting Ding Dong Dell appears to have lost something important again.
 A man visiting Ding Dong Dell is rather flustered after misplacing his bally diary. However could this have happened?
 The diary should be deep inside a forest to the south of Ding Dong Dell, near an enormous door.
 A pathologically absent-minded gentleman visiting Ding Dong Dell had lost his diary—but you found it, much to his relief.
-Errand complete!
 A rather curious character appears to be waiting for someone in a forest to the south of Ding Dong Dell.
 The Conductor is in a forest to the south of Ding Dong Dell, and has something important to tell you.
 The Conductor has asked you to seal the rifts that have appeared around the world. More info can be found at Swift Solutions.
@@ -31039,11 +30870,9 @@ You defeated the eight monsters that came from the rifts the Conductor told you 
 The Conductor has asked you to seal the new rift that has appeared in the world.
 You defeated the monster that came from the rift the Conductor told you about.
 The Conductor has asked you to seal the final rift.
-You defeated the monster that came from the rift the Conductor told you about.
 The Conductor informed you that the Guardian of Worlds has been awoken.
 You defeated the Guardian of Worlds!
 The Conductor invited you to see what lies beyond the door...
-Errand complete!
 A note has been posted on the Errand Board at every branch of Swift Solutions, stating "I'm waiting at the Ara Memoriae."
 A sagely looking ghost has been waiting at the Ara Memoriae. It seems he has something important to say.
 You met the Sage of Ages at the Ara Memoriae, where he set you a puzzle.
@@ -31116,188 +30945,136 @@ A sea monster known for its voracious appetite has made an appearance... You mus
 Some people have reported hearing some unsettling singing in the foothills of Old Smoky... Go and investigate!
 Find the man and ask him what's wrong.
 Find some enthusiasm to mend the man's broken heart.
-Errand complete!
 Find the woman and ask her what's wrong.
 Restore the woman's missing enthusiasm.
-Errand complete!
 Go and see what's wrong with the Sheikh of Spice.
 Restore his enthusiasm, then listen to what he has to say.
-Errand complete!
 Try and stop the boys from arguing.
 Restore his kindness and make sure he returns the book.
-Errand complete!
 Go and talk to the man and ask him what's wrong.
 Restore his courage so that he can go on his journey.
-Errand complete!
 Go and see what's wrong with the fisherman.
 Restore his courage so that he can go out fishing once more.
-Errand complete!
 Go and talk to the woman and see what's wrong.
 Restore her restraint, and stop her wasting money.
-Errand complete!
 Try talking to the fairy and see what he has to say.
 Restore the fairy's kindness and do his customers a favor.
-Errand complete!
 Go and see what's wrong with the fairy in question.
 Restore the fairy's restraint and improve his comic timing.
-Errand complete!
 Go and talk to the young man and ask him what's wrong.
 Restore the man's kindness so that he can continue his work.
-Errand complete!
 Go and see if you can help lighten the man's load.
 Give him the courage he needs to propose!
-Errand complete!
 Go and talk to the shop worker and his employer.
 Restore his restraint and stop him falling asleep.
-Errand complete!
 Go and see what's wrong with the guard.
 Restore the guard's belief, and stop him being so suspicious.
-Errand complete!
 Find out what's wrong with the researcher.
 Restore his belief so that he can trust his assistants again.
-Errand complete!
 Go and see what's happened to the girl.
 Restore her enthusiasm and help her enjoy school again.
-Errand complete!
 Go and see what the soldiers are talking about.
 Restore his courage and make him a real soldier once more.
-Errand complete!
 Ask the young man what's got him so worried.
 Restore his belief and put his mind at ease.
-Errand complete!
 Go and see what the brothers are arguing about.
 Restore his belief and stop him from leaving the village.
-Errand complete!
 Ask the grimalkin girl what's wrong.
 Restore her kindness and help her make up with her friend.
-Errand complete!
 Go and ask the man what's wrong.
 Restore his restraint so that he can go outside again.
-Errand complete!
 Go and ask the young grimalkin what's wrong.
 Restore his confidence so that he can retain his crown.
-Errand complete!
 Go and ask the artist what's wrong.
 Give him the confidence he needs to carry on painting.
-Errand complete!
 Go and see what's wrong with the comedian in question.
 Restore his confidence, and get him back onstage.
-Errand complete!
 Go and talk to the researcher and see what's wrong.
 Restore his confidence so that his research can continue.
-Errand complete!
 Go and see what's wrong with the farmer.
 Restore his love and get him farming babanas once more.
-Errand complete!
 Go and ask the young woman what's wrong.
 Restore her love and save her relationship!
-Errand complete!
 Go and see what's wrong with the pet in question.
 Restore the dog's love, and rekindle his loyalty.
-Errand complete!
 Go and see what the couple are arguing about.
 Restore his love so that he can be a good father once more.
-Errand complete!
 Offer some encouragement to the aspiring musician.
 Restore her ambition and tell her to follow her dreams!
-Errand complete!
 Go and talk to the fisherman and see what's wrong.
 Restore his ambition so that he can aim high once more.
-Errand complete!
 Go and talk to the researcher and ask him what's wrong.
 Restore his ambition so that he can resume his research.
-Errand complete!
 Go and talk to the llapaca herder in question.
 Restore the llapaca herder's lost ambition.
-Errand complete!
 Talk to the merchants and ask them what's wrong.
 Restore his enthusiasm and bring him to his senses.
-Errand complete!
 Talk to the merchants again and see what's happening.
 Restore her kindness and end her reign of terror!
-Errand complete!
 Go and see what's up with the merchants this time.
 Restore his courage and allow their journey to continue.
-Errand complete!
 Go and talk to the merchants in Hamelin.
 Restore her missing restraint before she bursts!
-Errand complete!
 Go and have another talk with the merchants...
 Restore his belief so that he can trust people once more.
-Errand complete!
 You know the drill...
 Restore her confidence and ease their anxieties.
-Errand complete!
 Go and see what it is this time...
 Restore his love and save his marriage.
-Errand complete!
 Go and talk to the merchants.<NL>For the last time, surely...
 A full set of missing virtues!<NL>Restore her ambition!
-Errand complete!
 Go and see what's wrong with the grimalkin.
 Ask the grimalkin what she wants you to do.
 Look for the missing earring and return it to its owner.
-Errand complete!
 Go and see what's troubling the grimalkin.
 Agree to help the grimalkin.
 Fetch two plainswort flowers and two bottles of springwater.
-Errand complete!
 Go and talk to the mother in question.
 Agree to help the mother.
 Find the three missing children.
 Find the other two missing children.
 Find the last missing child.
 Tell the mother that you've found her missing children.
-Errand complete!
 Find out what's troubling the forest dweller.
 Agree to help defeat the rhinobores.
 Defeat all five rhinobores.
 Defeat the remaining <quest_exb009:qs0004> rhinobores.
 Defeat the remaining rhinobore.
 Tell him that the rhinobores have been defeated.
-Errand complete!
 Go and see what's troubling the woman.
 Agree to deliver her husband's lunch basket to him.
 Deliver the lovers' lunch basket to Golden Grove.
 Inform her that the lunch basket has been delivered.
-Errand complete!
 Go and listen to what the merchant has to say.
 Agree to help solve the merchant's problem.
 Defeat ten of the boneheads that roam the desert!
 Defeat <quest_exb009:qs0006> more boneheads.
 Defeat <quest_exb009:qs0006> more bonehead.
 Tell her that the boneheads have been defeated.
-Errand complete!
 Go and check if the boy is all right.
 Agree to look for the boy's pigeons.
 Find the pigeons and tell them to return to their owner.
 Go and find two more pigeons.
 Go and find one more pigeon.
 Tell the boy that you found all of his missing pigeons.
-Errand complete!
 Go and ask the curry stall owner what's wrong.
 Agree to gather ingredients for the curry stall owner.
 Gather the three ingredients needed to make tikka mahala.
 Ask the Sheikh for some of his special spices.
 Give Raj the three ingredients you have gathered.
-Errand complete!
 Go and find out what the designer wants.
 Listen to the favor the designer has to ask of you.
 Defeat florets using Frostbite and gather rainbow leaves.
-Errand complete!
 Go and find out what's troubling the blue crab.
 Agree to help the blue crab.
 Head east and look for the crab's missing friend.
 Deliver the crab's message to his friend.
-Errand complete!
 Find out what's got the fairy so flustered.
 Find the three slapsticks that the fairy has lost.
 Return the lost slapsticks to the fairy.
-Errand complete!
 Find out what's the matter with the fairy.
 Agree to help the fairy who's caught a cold.
 Deliver the requested materials to the fairy.
-Errand complete!
 Find out what's bothering the fairy.
 Agree to help the troubled fairy.
 Drive all the hyperboars out of the forest.
@@ -31305,58 +31082,47 @@ Drive another <quest_exb009:qs0013> out of the forest.
 Report back to the fairy.
 Rescue the fairy as quickly as possible.
 Speak to the fairy.
-Errand complete!
 Go and listen to the woman's problem.
 Solve the woman's problem using one of your spells.
 Use a spell to make the flower bloom.
 Bring a sun-like creature to help the flower bloom.
-Errand complete!
 Go and meet the researcher in question.
 Agree to help the researcher with his problem.
 Pick the fungus from a forest to the west of Hamelin.
 Swap a "car-rock-ache" for the feel-good fungus.
 Deliver the feel-good fungus to the researcher in Hamelin.
-Errand complete!
 Find out what's troubling the researcher.
-Agree to help the researcher with his problem.
 Drive away all four pirate ships.
 Drive away the three remaining pirate ships.
 Drive away the two remaining pirate ships.
 Quickly, drive away the last pirate ship.
 Tell the researcher that the ships have been driven away.
-Errand complete!
 Talk to the mechanic and find out what's wrong.
 Agree to help repair the broken booster.
 Ask Rusty to repair the broken booster for you.
 Take the brand-new booster back to the mechanic.
-Errand complete!
 Go to Skull Mountain and talk to the sky pirate.
 Agree to help the sky pirate with his problem.
 Give the sky pirate the gustplume that he asked for.
-Errand complete!
 Go and investigate the cave in question.
 Agree to look after the girl's pet jabberguppy.
 Show the girl that her jabberguppy has reached level 40.
-Errand complete!
 Go to Yule and talk to the woman.
 Listen to the woman's request.
 Go and talk to the designer in Castaway Cove.
 Find the seagull to the west of Castaway Cove.
 Give the snazzy swimsuit to the woman in Yule.
-Errand complete!
 Go and talk to the tomte in question.
 Agree to help the tomte find her son.
 Gather information on the tomte's missing child.
 Head to the Glittering Grotto!
 Bring the tomte boy back to his mother.
-Errand complete!
 Go and talk to the girl.
 Agree to help the girl.
 Go to Motorville and get a flower from a local girl.
 Use a spell to restore the wilted flower to life.
 Show the flower to the girl.
 Bring the flower back to the girl in Perdida.
-Errand complete!
 Find out what's wrong with the old man.
 Agree to help the old man.
 Go and get a cold compress from Yule.
@@ -31364,43 +31130,33 @@ Defeat five manglerfish using a blazing blade.
 Defeat <quest_exb009:qs0023> more manglerfish.
 Report back to the tomte.
 Take the cold compress to the old man in Perdida.
-Errand complete!
 Pay a visit to the llapaca in question.
 Agree to help the food-obsessed llapaca.
 Give the food-obsessed llapaca a babana.
 Give the food-obsessed llapaca a glowshrimp.
 Give the food-obsessed llapaca a black truffle.
 Give the food-obsessed llapaca a snow radish.
-Errand complete!
 Find out what the gatekeeper has lost.
 Agree to help the gatekeeper.
 Follow the footprints and recover the Cat's Whiskers.
 Bring the Cat's Whiskers back to the gatekeeper.
-Errand complete!
 Go and talk to the painter and find out what's wrong.
 Agree to help the painter.
 Find "a girl child, wild as the hills and forests."
 Introduce the painter to the girl.
-Errand complete!
 Find out what's troubling the curry stall owner.
 Agree to help deliver some curries.
 Deliver a curry to the Sheikh of Spice.
 Tell Raj that you successfully delivered the curry.
 Deliver a curry to the Castaway Cove bigwig.
-Tell Raj that you successfully delivered the curry.
 Deliver a curry to the seller of everything under the sun.
-Tell Raj that you successfully delivered the curry.
 Deliver a curry to someone who is all bones.
-Tell Raj that you successfully delivered the curry.
 Deliver a curry to the forest west of Ding Dong Dell.
-Tell Raj that you successfully delivered the curry.
-Errand complete!
 Find out why the man is so sleepy.
 Agree to help the sleepy man.
 Bring him a sleep-be-gone as requested.
 Bring him a cappuccino as requested.
 Bring him a suitable creature as requested.
-Errand complete!
 Go to Golden Grove and talk to the fairy.
 Agree to look for his missing friends.
 Go and look for the first missing fairy.
@@ -31408,7 +31164,6 @@ Go and look for the second missing fairy.
 Go and look for the third missing fairy.
 Go and look for the fourth missing fairy.
 Go and look for the fifth missing fairy.
-Errand complete!
 Ask the boy if you can look at his treasure map.
 Offer to investigate the locations on the map.
 Ask local people about the Castaway Corsairs.
@@ -31422,107 +31177,45 @@ Report back to the boy in Castaway Cove.
 Decode the Nazcaän that was written on the monuments.
 Go and talk to Kublai Khan.
 Look for an island that cannot be reached by boat.
-Report back to the boy in Castaway Cove.
-Errand complete!
 Go and see what the man has to say.
 Agree to help Derwin with his research.
 Bring Derwin the creatures he asked to see.
-Errand complete!
 Go and see what Derwin has to say.
-Agree to help Derwin with his research.
-Bring Derwin the creatures he asked to see.
-Errand complete!
-Go and see what Derwin has to say.
-Agree to help Derwin with his research.
-Bring Derwin the creatures he asked to see.
-Errand complete!
-Go and see what Derwin has to say.
-Agree to help Derwin with his research.
-Bring Derwin the creatures he asked to see.
-Errand complete!
-Go and see what Derwin has to say.
-Agree to help Derwin with his research.
 Defeat the grubby fug.
 Report back to Derwin.
 Defeat the auric collum.
-Report back to Derwin.
 Defeat the shellmet.
-Report back to Derwin.
-Errand complete!
-Go and talk to the girl.
 Agree to show the girl some alchemy.
 Create a candle cutter and show it to the girl.
-Errand complete!
 Go and talk to the forest dwellers.
 Learn how to create a royal spear in your cauldron.
 Create a royal spear and show it to the forest dwellers.
-Errand complete!
 Go and pay a visit to the old man's cave.
 Learn alchemical techniques from the Alchemist.
 Create a demon's ax and show it to the Alchemist.
 Create a war god's ax and show it to the Alchemist.
-Errand complete!
 Go and talk to the man and see what he's lost.
 Agree to look for the missing diary.
 Look for the diary in the indicated location.
 Take the diary back to the gentleman.
-Errand complete!
-Go and talk to the man and see what he's lost.
-Agree to look for the missing diary.
-Look for the diary in the indicated location.
-Take the diary back to the gentleman.
-Errand complete!
-Go and talk to the man and see what he's lost.
-Agree to look for the missing diary.
-Look for the diary in the indicated location.
-Take the diary back to the gentleman.
-Errand complete!
-Go and talk to the man and see what he's lost.
-Agree to look for the missing diary.
-Look for the diary in the indicated location.
-Take the diary back to the gentleman.
-Errand complete!
-Go and talk to the man and see what he's lost.
-Agree to look for the missing diary.
-Look for the diary in the indicated location.
-Take the diary back to the gentleman.
-Errand complete!
-Go and talk to the man and see what he's lost.
-Agree to look for the missing diary.
-Look for the diary in the indicated location.
-Take the diary back to the gentleman.
-Errand complete!
-Go and talk to the man and see what he's lost.
 Calmly agree to look for the missing diary yet again.
 Look for the infernal diary in the indicated location.
 Whose diary was it again? Best return it, then...
-Errand complete!
 Go and talk to this mysterious person.
 Agree to help him—if you want to know the truth...
 Defeat the monsters that come from the rifts.
 Report back to the Conductor.
-Defeat the monsters that come from the rifts.
-Report back to the Conductor.
 Defeat the monster that comes from the rift.
-Report back to the Conductor.
-Defeat the monster that comes from the rift.
-Report back to the Conductor.
 Open the door and find out what's behind it!
-Report back to the Conductor.
 Open the door again!
-Errand complete!
 Go and see who's waiting at the Ara Memoriae.
 Listen to what Horace has to say.
 Name the wand that the Wizard King sealed away.
 Go and talk to the Sage of Ages again.
 Name the mighty snake who served the Wizard King.
-Go and talk to the Sage of Ages again.
 Enter the name of the person whose future is predicted.
-Go and talk to the Sage of Ages again.
 Decode the Nazcaän inscription on the wand.
-Go and talk to the Sage of Ages again.
 Name the book that the Sage of Ages wrote.
-Errand complete!
 Go and talk to the knights.
 Agree to listen to the knights' request.
 Find the four magimechs and defeat them.
@@ -31533,13 +31226,10 @@ Report back to the knights in the Ivory Tower.
 Defeat the three magimech masters.
 Defeat the two remaining magimech masters.
 Defeat the one remaining magimech master.
-Report back to the knights in the Ivory Tower.
-Errand complete!
 Pay a visit to Smiley and Surly's weapon shop.
 Agree to help Smiley and Surly.
 Go and find some ideas for new weapons.
 Go and find an idea for a new weapon.
-Errand complete!
 Southeast of Ding Dong Dell (Summerlands)
 North of Golden Grove (The Rolling Hills, Summerlands)
 In the Highlands South of Golden Grove (Summerlands)
@@ -31586,7 +31276,6 @@ In the Miasma Marshes (Autumnia)
 In Nevermore (Autumnia)
 On the Ara Memoriae (Nazcaä)
 On the Giant's Tabletops (Summerlands)<NL>
-On Swan Island (North of the Summerlands)
 Near the Spindle (Eastern Autumnia)<NL>
 In the Smoky Mountains (Summerlands)
 
@@ -32015,8 +31704,6 @@ Foul Breath
 Bolt Barrage
 Viledriver
 Vilence
-Alakaz...um...
-Hubble-Bubble
 Fell Sweep
 Despair
 World's End
@@ -32032,12 +31719,10 @@ Pigshot
 Pigswill
 Sausage Roll
 Pork Scrappings
-Al-Khombo
 Baby Shower
 Second Self
 Star Bolt
 Pillars of Darkness
-Fallen Star
 Nightshade
 Harrowing Horns
 Annihilation
@@ -32050,13 +31735,9 @@ Sigh of Sorrow
 Piercing Gaze
 Chaos
 Shockblast
-Pillars of Darkness
 Overload
 The Great Divider
-Wacko Lantern
-Pigshot
-Pigswill
-Slice n Dice
+Slice 'n' Dice
 Smash Hit
 Roly-Poly
 Belly Buster
@@ -32090,7 +31771,7 @@ Ray of Light
 Spire of Fire
 Pyro Puff
 Firewall
-Slash n Burn
+Slash 'n' Burn
 Geyser
 Drop<->sicle
 Whirly Whirlies
@@ -32141,13 +31822,12 @@ Ray of Life
 Time to Shine
 Enligh<->ten
 Dark<->ness Beckons
-See Stars
 Spite
 Drowsy Drops
 Soul<->shield
 Dark Cloud
 Petri<->fying Poke
-Demons Fury
+Demon's Fury
 Lease of Life
 Upsy-Daisy
 Yoo-Hoo
@@ -32184,121 +31864,35 @@ Dead<->shot
 Sure<->shot
 Trishot
 Chirpy Tune
-Fallen Star
-Nix
-Ashes of Resurrection
-See Stars
-Bolt from the Blue
-Pilfer
 Am<->nesia
-Circles of Hell
-Blast from Beyond
-Bolt of Judgment
-Terra Infirma
-Fire Trident
 Abso<->lute Zero
 Wind<->fall
 Incred<->ible Ulk
 Mouse<->fire
 Tail<->spin
 Ever<->blade
-Savage Swipe
-Hard Heart
-Palava
 Devas<->tation
-Soul Seal
-Tail Flail
 Volcan<->ic Roar
-Al-Khombo
-Porco Salvo
-Gammon Cannon
 Dragon<->breath
-Dragon Scales
-Vile Breath
-Vile Roar
-Cruel Rain
-Grudge
-Rain of Terror
-Howling Blizzard
-Glacial Guard
-Cold Boulder
 Ser<->pent Strike
-Black Bolt
 Blaz<->ing Breath
-Pyre
-Bleak Midwinter
-Fell Wind
-Evenstar
-Barrel Blast
 On<->slaught
-Dark Aegis
 Mega<->blast
-Fetter
 Ham<->mock Hack
 Swash<->buckler
-Hog Roast
 Fire<->stream
-Pitch Black
-Wacko Lantern
-Boo!
-Bellow
 Head<->long Rush
-Rampage
-Foul Fumes
-Mind Over Matter
-Bad Dream
-Ill Will
 Alakaz...<->um...
-Hubble-Bubble
-Road Hog
-Snuff Out
-Plunder
-Death Rattle
 Rest<->less Sleep
-Oil Spill
-Foul Breath
-Bolt Barrage
 Vile<->driver
-Vilence
-Alakaz...<->um...
-Hubble-Bubble
-Fell Sweep
-Despair
-Worlds End
-Royal Roar
-Crazy Claws
-Itchy Scratchy
-Cat Slap
-Haughty Snort
-Royal Rush
-Haughty Huff
-Flying Cow
-Pigshot
-Pigswill
-Sausage Roll
-Pork Scrappings
-Al-Khombo
-Baby Shower
-Second Self
-Star Bolt
-Pillars of Darkness
-Fallen Star
 Night<->shade
 Harrow<->ing Horns
 Annihil<->ation
 Wrath<->ful Rush
-Death Drop
-Leap of Faith
-Goad
 Celes<->tial Vault
-Sigh of Sorrow
 Pierc<->ing Gaze
-Chaos
 Shock<->blast
-Pillars of Darkness
 Over<->load
-The Great Divider
-Wacko Lantern
 Pig<->shot
 Pigs<->will
 Inner Strength
@@ -32328,7 +31922,7 @@ Volcano
 Light Fingers
 Burning Heart
 Ground<->swell
-Princes Bless<->ing
+Prince's Bless<->ing
 
 system_npc_text_en.cfg.bin.kup
 Hang about, Ollie-boy! You've already got<NL>some of that one in youer Locket, en't it?
@@ -32370,11 +31964,9 @@ Hello, hello, hello, young Oliver!<NL>I'm your friendly Familiar Retreat<NL>repr
 If any of your familiars are proving to be a burden, just let us know! We can take up to 400 of the little blighters into our care!
 We're also here for all your downloadable content needs! We have a superfast dial-up connection direct to the other world!
 And today, as a first-time visitor, you're entitled to everything that's been made available so far, you lucky devil! Enjoy, enjoy, enjoy!
-Hello, hello, hello, young Oliver!<NL>I'm your friendly Familiar Retreat<NL>representative! A pleasure, I'm sure!
 We've managed to get our hands on all the downloadable content you've missed so far, you lucky devil! Enjoy, enjoy, enjoy!
 Hello, hello, hello!<NL>How can I help you today?
 Hello, hello, hello!<NL>I'm your friendly Familiar Retreat<NL>representative! A pleasure, I'm sure!
-If any of your familiars are proving to be a burden, just let us know! We can take up to 400 of the little blighters into our care!
 Today, as a first-time visitor, you're entitled to a very special introductory gift, you lucky devil! Enjoy, enjoy, enjoy!
 Hello, hello, hello, young Oliver!<NL>You defeated Shadar, didn't you! Good for you!
 You left the door ajar when you went into his throne room, so I had a little peek from the corridor. What a battle! Why, I nearly died of excitement!
@@ -32448,7 +32040,6 @@ You fulfilled the conditions of the following task:<NL><QUEST_NAME:START_MSG_ARG
 [ico_coin] 1 Guilder
 <ITEM_ICON> <NUM_I> <Cap><PLR_I_NAME>
 <ITEM_ICON> <Cap><INDEF_ART_SGL_I_NAME>
-You earned the following reward:<NL><QUEST_REWARD>
 Tidy! Looks like the door to the <color:#1>Rose Room</color>'s come unlocked!
 Tidy! Looks like the door to the <color:#1>Tulip Room</color>'s come unlocked!
 Tidy! Looks like the door to the <color:#1>Daffodil Room</color>'s come unlocked!
@@ -32634,37 +32225,27 @@ Finest Fiber
 Oops! That's not the right answer!
 Crispy Lettuce
 Lettuce
-Sorry. That's not the right answer.
 5
-Sorry. That's not the right answer.
 blizzard bloom
 blizzard blooms
-Sorry. That's not the right answer.
 Jabal al-Dukhan
 Jabal al Dukhan
 Old Smoky
-Sorry. That's not the right answer.
 Unleash
-Sorry. That's not the right answer.
 Wizard's Robes
 Wizards' Robes
 Wizards Robes
 That's not it...
 Mornstar
-That's not it...
 Aapep
-That's not it...
 Cassiopeia
 Pea
 The White Witch
 White Witch
-That's not it...
 BRING HOPE
 bring hope
 Bring Hope
-That's not it...
 Wizard's Companion
-That's not it...
 Crack the code carved into the monuments!
 Kublai 3
 Kublai Three
@@ -32690,7 +32271,6 @@ Set <DEF_ART_C_NAME> free?
 <Cap><DEF_ART_C_NAME> will become your familiar.<NL>Please enter a name.
 Familiar Retreat Screen
 Name Entry Screen
-Give your familiar a pet name!
 Are you sure you are happy with the name <INPUT_NAME>?
 <PANDORA_REWARD>
 <buttonGuide>
@@ -32707,7 +32287,6 @@ Perdida
 The Fairyground
 The Deep Dark Wood
 Ding Dong Well
-Old Smoky
 The Vault of Tears
 The Tombstone Trail
 The Glittering Grotto
@@ -32721,25 +32300,17 @@ Skull Mountain
 The Iron Wyvern
 Mummy's Tummy
 The Crypt Casino
-???
 Swift Solutions
 Cat's Cradle
 Cawtermaster's Store
 Hootique
-Cat's Cradle
 The Black Market
-Cat's Cradle
 Peddler
-Cat's Cradle
 Errand Board
 Cashier
 Raj Mahal
 Mem-O-Vision
 Smiley 'n' Surly's
-Swift Solutions
-Cawtermaster's Store
-Hootique
-???
 Genghis
 Mr. Genghis, Sir
 Shadar
@@ -32766,10 +32337,9 @@ Surly
 Horace
 Supreme Sage Solomon
 Player: {PLAYER_NAME}<NL>Oliver's Level: {CHARA_LEVEL}<NL>Location: {SAVE_PLACE}<NL>Current Goal: {PURPOSE}<NL>Play Time: {HH99:02}:{MM:02}<NL>{CLEAR}
-Oliver's Level: {CHARA_LEVEL} Location: {SAVE_PLACE}
 Oliver's Level: {CHARA_LEVEL}<NL>Location: {SAVE_PLACE}<NL>Current Goal: {PURPOSE}<NL>Play Time: {HH99:02}:{MM:02}<NL>{CLEAR}
 ★ Completed Game Save
-Ni no Kuni Wrath of the White Witch™ Remastered
+Ni no Kuni: Wrath of the White Witch
 New Save Data
 This saved data belongs to another user.<NL>If you continue, you will not be able to save your progress.<NL>Furthermore, trophies cannot be earned and online content cannot be accessed when playing a game using another user's saved data.
 This saved data is for a different version of the game.
@@ -32786,19 +32356,16 @@ This saved data belongs to another user.<NL>It cannot be loaded.<NL>Please eithe
 This saved data is corrupted.<NL>It cannot be overwritten.
 Autosaving system data...
 Autoloading system data...
-Beginning installation.<NL>Please do not turn off the PlayStation®4 system or quit the game.<NL>(Installation will take around 10 minutes.)
-Installing...<NL>Do not turn off the PlayStation®4 system or quit the game.
+Beginning installation.<NL>Please do not turn off the PlayStation®3 system or quit the game.<NL>(Installation will take around 10 minutes.)
+Installing...<NL>Do not turn off the PlayStation®3 system or quit the game.
 Installation complete.
 The game data is corrupted. Press the PS button to close the game, and delete the game data.
 You do not have the correct rights to access this game so you are unable to proceed any further.<NL>Press the PS button to close the game.
 The game data has not been installed correctly.<NL>Press the PS button to close the game.
 There is not enough free space on the hard disk drive. There is currently {NOW_SIZE}{NOW_UNIT} of free space, but at least {NEED_SIZE}{NEED_UNIT} of free space is needed to play the game.<NL>Press the PS button to close the game, and delete some unwanted data.
 Installation failed.<NL>The data may be corrupted.<NL>Press the PS button to close the game, and delete the game data before installing it again.
-Game data download in progress. Please wait until the game is installed completely to proceed.
-There is not enough free space on the hard disk drive. There is currently {NOW_SIZE}{NOW_UNIT} of free space, but at least {NEED_SIZE}{NEED_UNIT} of free space is needed to play the game.<NL>Press the PS button to close the game, and delete some unwanted data.
 Loading trophy data...
 An error occurred while loading trophy data.
-Ni no Kuni Wrath of the White Witch™ Remastered
 There is not enough free space on the hard disk drive.<NL>At least {NEED_SIZE}{NEED_UNIT} of free space is needed to play the game.<NL>Press the PS button to close the game, and delete some unwanted data.
 Connecting...
 [ico_war]A connection could not be established.
@@ -32809,7 +32376,6 @@ No new content was found.
 <color:472100>The next content update date is not yet set.</color>
 <color:472100>There are currently no plans to offer new content for this game.</color>
 Content Provided on <month>/<day>/<year>
-No new content was found.
 <VAL_STR><VAL_SKI><VAL_DEF><VAL_TOU><VAL_AGI><VAL_DEX>
 <PARAM_ICO>+<NUM_VAL><space:6>
 <PARAM_ICO><color:DF4545>-<NUM_VAL></color><space:6>
@@ -32817,7 +32383,7 @@ No new content was found.
 Travel?
 New content obtained!
 Open Says A Me
-Saving audio language settings data to the hard disk drive...<NL>Please do not turn off the PlayStation®4 system or quit the game.
+Saving audio language settings data to the hard disk drive...<NL>Please do not turn off the PlayStation®3 system or quit the game.
 An error occurred while saving audio language settings data.
 This feature cannot be used in the demo version.
 Kublai Ⅲ

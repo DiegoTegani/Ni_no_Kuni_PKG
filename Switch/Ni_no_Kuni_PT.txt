@@ -26960,7 +26960,6 @@ Isso é o que eu chamo de autocontrole!<NL>Tem <color:#1>controle</color> saindo
 Ummm... Com licença, senhor. Você se importaria de compartilhar um pouco de sua contenção?
 Precisamos dele para ajudar as pessoas que perderam o controle<NL>.
 Você quer me dizer que minha autodisciplina poderia <NL>ajudar alguém a controlar seus impulsos indisciplinados?<NL>Bem, nesse caso, fique à vontade!
-Obrigado, senhor!
 Certo! Mais um dia dedicado a manter<NL>o Império seguro! Esplêndido!
 Tanta... muita... muita... fome...
 Estou morrendo de fome, mas estou muito ocupado para me preocupar com passatempos frívolos como comer.
@@ -26982,8 +26981,6 @@ Ai eu agradeço. Aprendi uma lição valiosa hoje. Muita contenção pode ser pr
 Eu estou faminto. Mas estou em um momento crítico em meu trabalho. Controlarei meu apetite até terminar minha pesquisa.
 Este sujeito tem mais do que seu quinhão de <color:#1>contenção</color> e isso o deixou um pouco maluco.
 Você não poderia nos poupar um pouco do seu coração,<NL>não é? Antes que você vá e desmorone em uma pilha.
-Um pedaço do meu coração, você diz? Bem, acho que sim.<NL>...Você sabe o que está fazendo, não sabe?
-Claro que sim!<NL>Agora, se você pudesse ficar parado por um segundo...
 Agora, devo me fortalecer antes de continuar meu trabalho.<NL>Mas o que comer? Decisões decisões...
 O desenvolvimento de novas tecnologias é profundamente recompensador,<NL>mas está longe de ser fácil.
 O desenvolvimento de novas tecnologias está longe de ser fácil,<NL>mas é profundamente recompensador.
@@ -27000,12 +26997,8 @@ Um favor, você diz? Bem, não vejo por que não.<NL>Diga-me o que posso fazer p
 Gostaríamos que você compartilhasse sua crença com outras pessoas.<NL>Não se preocupe, não é tão estranho quanto parece!<NL>Apenas fique parado por um momento...
 Oh! Eu me sinto bastante peculiar!
 Muito obrigado!<NL>Espero que volte logo ao trabalho!
-Não tenho dúvidas de que voltarei ao trabalho em breve.
+Eu não tenho dúvidas de que voltarei ao trabalho em breve.
 O engenheiro-chefe é um homem de visão.<NL>Sei que um dia ele tirará o pó de seu jaleco<NL>e retornará à sua pesquisa. Eu tenho fé nele!
-Puxa, Sr. Drippy, com certeza ele <color:#1>acredita</color> muito em seu chefe!
-Você está certo, Olliezinho. <NL>Você não poderia nos fazer um favorzinho, poderia?
-Um favor, você diz? Bem, não vejo por que não.<NL>Diga-me o que posso fazer por você.
-Gostaríamos que você compartilhasse sua crença com outras pessoas.<NL>Não se preocupe, não é tão estranho quanto parece!<NL>Apenas fique parado por um momento...
 Devo estar pronto para retomar meu trabalho a qualquer momento.<NL>Sei que esse dia chegará em breve!
 Receio que me vi nos maus livros de minha esposa.<NL>Ela perdeu a paciência e me expulsou de casa.
 Eita! Isso não é bom!<NL>O que a fez perder a paciência?
@@ -27022,10 +27015,7 @@ Muito obrigado, senhor!
 Eu digo! Você é algum tipo de feiticeiro? Bem, quer você seja ou não, você fez meu coração se sentir leve como uma pena!
 Estou na lista ruim de minha esposa, mas sei que ela vai me perdoar no final. Ela tem dificuldade em expressar seus sentimentos, mas é uma mulher maravilhosa.
 Tem muita fé na patroa, não é?<NL>Aquele coração dele deve estar cheio de <color:#1>crença</color>!
-Desculpe incomodá-lo, senhor, mas queria saber se poderíamos pedir-lhe um favor...
-Um favor, você diz? Certamente. Por que não? Agora que estou na rua, tenho muito pouco mais a fazer.
-Muito obrigado, senhor!
-Tenho certeza que minha esposa vai me deixar voltar para casa em breve...
+Eu tenho certeza que minha esposa vai me deixar voltar para casa em breve...
 Agora, que livro devo devorar hoje?
 Deixe-me ver...<NL>Que livro devo devorar hoje?
 Puxa... Esses livros com certeza parecem difíceis...<NL>Você vai ler todos eles?
@@ -27044,10 +27034,6 @@ Isso é incrível! Aquilo foi... mágico?
 Esta foi uma experiência muito educativa.<NL>Obrigado!
 Estou de olho em me tornar o cientista proeminente de Hamelin. Tudo o que tenho a fazer é continuar estudando, e meu futuro está garantido!
 Uau! Acho que não posso pedir que você compartilhe um pouco de sua <color:#1>confiança</color> conosco, posso?
-Compartilhar minha confiança? Bem, desde que não interfira nos meus estudos, não vejo por que não.
-Não se preocupe! Tudo o que você precisa fazer é ficar parado por um segundo.
-Bem, isso não parece muito difícil.<NL>Isso ainda é o suficiente para você?
-Perfeito. Ok, aqui vai!
 Vamos ver quantos livros consigo devorar hoje!
 Oh, não há nada que eu goste mais do que assistir <NL>a uma procissão real com meu querido marido ao meu lado!
 Ah, mal posso esperar para assistir à próxima procissão real com meu querido marido ao meu lado! De alguma forma, nunca fica chato!
@@ -27134,9 +27120,7 @@ Você com certeza parece estar com pressa, senhor.
 De fato, eu sou. Estou preparando este remédio para minha pobre irmã doente.
 Então é por isso que você está trabalhando tão duro.
 Eu não poderia incomodá-lo por um favor, poderia?
-Você poderia coletar alguns <color:#1>fungos do bem-estar</color> para mim?
 Enquanto você estiver caçando esse ingrediente,<NL>eu continuarei misturando o remédio.
-Você deve encontrar o <color:#1>fungo do bem-estar</color> crescendo na <color:#1>floresta a oeste</color> desta cidade.
 Eu digo! Excelente trabalho!<NL>Você encontrou o ingrediente vital!
 Agora, mais um empurrão e terei este remédio completo! Oh, ver o rosto sorridente da minha irmã...
 Bem, espero que sua irmã melhore logo.
@@ -27165,17 +27149,13 @@ Lá estou eu, corajosamente oferecendo nossos serviços como voluntário na luta
 Você me fez parecer que sou só boca e sem calças! Jovens hoje! Peço a você!
 Gah! Minha pobre irmã doente espera este remédio em Enseada Naufrágio, e não posso levá-lo até ela!
 Por que você não pode levar o remédio para ela, senhor?
-Os mares daqui até Enseada Naufrágio<NL>foram atormentados por piratas ultimamente. Dizem que é muito<NL>perigoso para os navios zarpar.
 Pare de se preocupar e deixe-nos cuidar desses<NL>piratas para você? Certo, menino Ollie?
-Os piratas estão assolando a <color:#1>rota marítima para Enseada Naufrágio</color>.
-Relatórios dizem que há um total de <color:#1>quatro navios</color> em sua frota. Por favor, tenha cuidado, certo?
 Demos a eles piratas para quê, exatamente como dissemos que faríamos!
 Você fez? Ora, isso é um feito extraordinário!<NL>Eu vos saúdo!
 Eu gostaria que você estivesse lá para me ver em ação!<NL>Eu dei a eles uma esquerda, depois uma direita, então outra esquerda...
 Centenas deles, havia, não, milhares!<NL>Mas eles não eram páreo para a fúria de uma fada.<NL>Joguei todos eles ao mar, eu fiz.
 Não exagere, Sr. Drippy! Você estava apenas<NL>observando a maior parte do tempo.
 Caramba, Olliezinho! Você realmente sabe como escolher seus momentos, não é?
-Você me fez parecer que sou só boca e sem calças! Jovens hoje! Peço a você!
 Ho ho ho! Você é um casal e tanto. Há muito tempo não ria assim!
 Mas você me deu motivos muito maiores para sorrir<NL>do que isso. Por sua causa, minha irmã finalmente terá seu <NL>remédio. Estou...inexprimivelmente grato.
 Gostaria de agradecer por tudo que fizeram por mim. Isto é para você.
@@ -27244,13 +27224,9 @@ Eu previ que você viria por aqui, é claro.<NL>E é por isso que tomei a liberd
 Olá, Derwin!<NL>Em que você quer que o ajudemos?
 Eu acho que você descobrirá que está na mesma linha da última vez.
 Para me ajudar em minha pesquisa vital, exijo que você me traga três criaturas muito específicas. Agora, você deseja ajudar o progresso da ciência ou impedi-lo?
-Ah é você. Parece que nossos caminhos se cruzaram mais uma vez.
 Esses disfarces desajeitados não podem me enganar, receio. Meu olho é muito perspicaz.
-Eu previ que você viria por aqui, é claro.<NL>E é por isso que tomei a liberdade de <NL>alinhar uma tarefa para você.
 Nossa, Derwin! Eu não posso acreditar que você nos reconheceu! <NL>Você com certeza é um biscoito esperto! Com o que você quer que nós o ajudemos?
-Eu acho que você descobrirá que está na mesma linha da última vez.
-Para me ajudar em minha pesquisa vital, exijo que você me traga três criaturas muito específicas. Agora, você deseja ajudar o progresso da ciência ou impedi-lo?
-Bom. Essa era a resposta correta. vou prosseguir. Sempre quis pesquisar certas criaturas curiosas que habitam esta área.
+Bom, essa era a resposta correta. vou prosseguir. Sempre quis pesquisar certas criaturas curiosas que habitam esta área.
 Que tipo de criaturas são eles, Derwin?
 Aplaudo sua curiosidade. As criaturas em questão pertencem ao gênero Automata – sobre o qual a ciência ainda tem muito a aprender.
 Em nome do progresso, gostaria que me encontrassem uma <color:#1>grande criatura mecânica</color>, uma <color:#1>pequena criatura mecânica</color>...
@@ -27268,34 +27244,21 @@ Não adianta. Ele está longe com as fadas, Olliezinho.<NL>Nada além de criatur
 Os assuntos do meu estudo atual são os seguintes...
 Uma <color:#1>grande criatura mecânica</color>, uma <color:#1>pequena criatura mecânica</color> e uma criatura que assume a forma de uma <color:#1>engrenagem marrom</color>.
 Em nome do progresso, quero que me encontre espécimes.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder os referidos espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
+Não é preciso dizer que não será suficiente simplesmente<NL>guardar essas amostras em um Refúgio de Familiares.
 Parece que você identificou com sucesso<NL>uma grande criatura mecânica e um<NL>espécime marrom em forma de engrenagem...
 Acho que você descobrirá que está perdendo uma<NL><color:#1>pequena criatura mecânica</color>.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder os espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
+Não é preciso dizer que não será suficiente simplesmente<NL>guardar essas amostras em um Refúgio de Familiares.
 Parece que você <NL>identificou com sucesso uma grande e uma pequena criatura mecânica<NL>...
 Acho que você descobrirá que está perdendo uma<NL><color:#1>criatura marrom em forma de engrenagem</color>.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder os espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Parece que você identificou com sucesso<NL>uma pequena criatura mecânica e um<NL>espécime marrom em forma de engrenagem...
 Acho que você descobrirá que está perdendo uma<NL><color:#1>grande criatura mecânica</color>.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Parece que você <NL>identificou com sucesso um espécime marrom em forma de engrenagem...
 Acho que você descobrirá que está perdendo uma <color:#1>grande criatura mecânica</color> e um <color:#1>espécime mecânico menor</color>.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Parece que você <NL>identificou com sucesso uma grande criatura mecânica...
 Acho que você descobrirá que está perdendo uma <color:#1>pequena criatura mecânica</color><NL>e um <color:#1>espécime marrom em forma de engrenagem</color>.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Parece que você <NL>identificou com sucesso uma pequena criatura mecânica...
 Acho que você descobrirá que está faltando <NL>uma <color:#1>grande criatura mecânica</color> e um <color:#1>espécime marrom em forma de engrenagem</color>.
-Escusado será dizer que não será suficiente <NL>simplesmente esconder esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Minha pesquisa continua a ultrapassar os limites da compreensão humana. Eu que agradeço. E a ciência agradece.
-Ah é você. Parece que nossos caminhos se cruzaram mais uma vez.
 Agradeço sua ajuda com minha pesquisa<NL>em Al Mamoon.
 Eu digo, é você, querido menino! Parece uma eternidade desde nosso passeio naquela encantadora ilha das fadas, o quê? Você tem um timing impecável, sabia?
 Hã... nós?
@@ -27317,8 +27280,7 @@ Então está em alguns <color:#1>trilhos de trem perto da entrada de uma mina</c
 Eu realmente estou muito grato, querido menino.
 Querido menino! Peço-lhe que me faça este favor!<NL>Juro que Nunca Mais deixarei cair essa coisa estúpida!
 Querido menino, parece uma eternidade desde nosso passeio naquela ilha das fadas! Você tem um timing impecável, devo dizer!
-Dez guilders diz que perdeu seu diário folheado de novo...
-Temo-lo em um, eu estou com medo. Parece que o deixei cair<NL>na pressa de escapar de alguns monstros totalmente antidesportivos<NL>.
+Entendido de primeira, infelizmente. Parece que acabei deixando cair,<NL>com toda a pressa de escapar de alguns<NL>monstros completamente desleais.
 Meu dom para a literatura se foi...!<NL>Mas você vai me ajudar a encontrá-lo, não vai, velho?
 Se eu fosse arriscar um palpite sobre o paradeiro do diário, diria que ele caiu no <color:#1>caminho perto da entrada da mina</color>.
 Apenas fique atento a essa multidão monstruosa!<NL>Eles não se importam nem um pouco com regras de conduta cavalheirescas!
@@ -27396,8 +27358,7 @@ Quero elogiar minha amada, mas o que devo dizer?
 Os orifícios do seu focinho têm um formato perfeito!?<NL>...Não é assim que se conquista o coração de alguém.
 Este é o poderoso reino de Hamelin, governado por<NL>o Príncipe Porcino.
 Você tem um animal de estimação engraçado! Ele parece bastante estranho,<NL>mas adorável do mesmo jeito.
-Oh, não há nada que eu goste mais do que assistir <NL>a uma procissão real com meu querido marido ao meu lado!
-Caro eu. Adoraria mostrar as estrelas aos meus netos, mas toda a fumaça e sujeira no ar torna isso impossível.
+Meu caro, adoraria mostrar as estrelas aos meus netos, mas toda a fumaça e sujeira no ar torna isso impossível.
 Aproveitando a magia e a ciência, Hamelin forjou todos os tipos de armas novas e empolgantes.
 Dirija-se à Cawtermaster's Store e <NL>você ficará maravilhado com os produtos em oferta!
 Oh, você é um jovem atraente, não é? <NL>Eu poderia beliscar sua bochecha!
@@ -27444,15 +27405,11 @@ O que os tanques estão fazendo girando dentro de<NL>um palácio em movimento?
 Aquele Shadar imundo deixou todos os poderosos<NL>de coração partido. Você tem que salvar o dia, Olliezinho!
 Hora de voltar para a cidade, eu acho!
 Hamelin é um lugar grande e velho, mun. Alguém aqui deve ter alguma crença de sobra!
-Aquele Shadar imundo deixou todos os poderosos<NL>de coração partido. Você tem que salvar o dia, Olliezinho!
-Hora de voltar para a cidade, eu acho!
-Hamelin é um lugar grande e velho, mun. Alguém aqui deve ter alguma crença de sobra!
 Você está com medo de trabalho duro ou algo assim?<NL>Precisamos ir e encontrar os príncipes pirados!
 Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
 A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
 Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
 Vamos voltar para o palácio em Hamelin,<NL>ou o quê, mun?
 Vamos acreditar um pouco naquele Marcassin,<NL>tudo bem? Seu futuro eu precisa de uma dose.
@@ -27553,47 +27510,147 @@ Você está falando comigo ou mastigando um tijolo? Desculpe, mun. Só queria te
 Até os heróis precisam fazer uma pausa de vez em quando, mun. Não exagere, ok?
 Tem alguma coisa grudada no meu rosto?<NL>Além da lanterna piscando, quero dizer,<NL>seu atrevido fulano de tal!
 E aí? Desculpe, mun, se é uma conversa estimulante que você está procurando, estou com poucas palavras sábias no momento. Tenho alguns imprudentes, se você gosta deles...
-Então... Ouviu alguma piada boa recentemente, Olliezinho?
-Por que você está olhando para mim, mun?<NL>Você está me deixando desconfortável.
-O que é? O que você quer, mun?
-Se você não quer que os guardas pisem em você, você tem que ficar fora de vista. Não se apresse, mun!
-Parece que os guardas têm uma rota definida a seguir. Ou estou apenas sendo idiota?
-Se nos espremermos nesses espaços ao longo das paredes, podemos apenas esperar e passar sorrateiramente. Fácil, não é?
-Eu não vou fugir. Pode confiar em mim, mun!
-É melhor nos espremermos naquele buraco.<NL>Depressa, mun! Não há tempo a perder!
-Beleza! Eu tenho a camuflagem perfeita!
-que você está fazendo!? Não é hora para um chinwag corra, mun, corra!
-O que você precisa é de um disfarce arrumado como o meu!
-O que os tanques estão fazendo girando dentro de<NL>um palácio em movimento?
-Aquele Shadar imundo deixou todos os poderosos<NL>de coração partido. Você tem que salvar o dia, Olliezinho!
-Hora de voltar para a cidade, eu acho!
 Em um lugar grande e antigo como Hamelin, deve haver alguém que tenha o que precisamos.
-Aquele Shadar imundo deixou todos os poderosos<NL>de coração partido. Você tem que salvar o dia, Olliezinho!
-Hora de voltar para a cidade, eu acho!
-Em um lugar grande e antigo como Hamelin, deve haver alguém que tenha o que precisamos.
-Uma cidade mecânica, eles chamam. E este é o futuro? Hmph. Não tenho certeza se essa coisa de ciência vai durar.
-Eles devem estar queimando muito carvão para conduzir todas essas engenhocas. Eles não temem que acabe?
-Olhar! A lanterna no meu nariz está coberta de sujeira! O ar aqui está sujo!
-Olha o tamanho desse lugar, mun! É um longo caminho a pé dos portões da cidade até o palácio.
-Por que porcos!?<NL>O Príncipe tem uma queda por porcos, ou o quê?
-Vamos começar o novo dia como pretendemos continuar, certo? O melhor pé à frente, e o último a entrar é um ovo podre!
-Caramba, mun! Exausto, estou!
-Ei!
-Não sei o que você quer que eu lhe diga, mun, mas infelizmente não posso ajudá-lo.
-Vamos nos mexer, certo?<NL>Estou entediado pra caramba, mun!
-O que foi mesmo...? Eu tinha certeza de que tinha algo para lhe dizer. Muito engraçado também... Caramba!
-Você está falando comigo ou mastigando um tijolo? Desculpe, mun. Só queria tentar soar durão. Bastante convincente, hein?
-Até os heróis precisam fazer uma pausa de vez em quando, mun. Não exagere, ok?
-Tem alguma coisa grudada no meu rosto?<NL>Além da lanterna piscando, quero dizer,<NL>seu atrevido fulano de tal!
-E aí? Desculpe, mun se é uma conversa estimulante que você está procurando, estou com poucas palavras sábias no momento. Tenho alguns imprudentes, se você gosta deles...
-purrpritor
-Capataz
+Purrprietor
+Taskmaster
 Hootenanny
 Cawtermaster
-Guilherme Abel
+掲示板
+William Abel
 Horace
 Derwin
+qs0014_鉢植え（芽）
+qs0014_鉢植え（蕾）
+qs0014_鉢植え（花）
+イベリコーグXX
+q_0042_大富豪
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
+npc_025
+npc_026
+npc_027
+npc_028
+npc_029
+npc_030
+npc_031
+npc_032
+npc_033
+npc_034
+npc_035
+npc_036
+npc_037
+npc_038
+npc_039
+npc_040
+npc_041
+npc_042
+npc_043
+npc_044
+npc_045
+npc_046
+npc_047
+npc_048
+npc_049
+npc_050
+npc_051
+npc_052
+npc_053
+npc_054
+npc_055
+npc_056
+npc_057(追加)
+npc_058(追加)
+npc_059(追加)
+npc_060(追加)
+npc_061(追加)
+npc_062(追加)
 Boarrior
+npc_067(過去)
+npc_068(過去)
+npc_069(過去)
+npc_070(過去)
+npc_071(過去)
+npc_072(過去)
+npc_073(過去)
+npc_074(過去)
+npc_075(過去)
+npc_076(過去)
+npc_077(過去)
+npc_078(過去)
+npc_079(過去)
+npc_080(過去)
+npc_081(過去)
+npc_082(過去)
+npc_083(過去)
+npc_084(過去)
+npc_085(過去)
+npc_086(過去)
+npc_087(過去)
+npc_088(過去)
+npc_089(過去)
+npc_090(過去)
+npc_091(過去)
+npc_092(過去)
+npc_093(過去)
+npc_094(過去)
+npc_095(過去)
+npc_096(過去)
+npc_097(過去)
+npc_098(過去)
+npc_099(過去)
+npc_100(過去)
+npc_101(過去)
+npc_102(過去)
+npc_103(過去)
+npc_104(過去)
+npc_105(過去)
+npc_106(過去)
+npc_107(過去)
+npc_108(過去)
+npc_109(過去)
+npc_110(過去)
+npc_111(過去)
+npc_112(過去)
+npc_113(過去)
+npc_114(過去)
+npc_115(過去)
+npc_116(過去)
+npc_117(過去)
+npc_118(過去)
+npc_119(過去)
+npc_120(過去)
+npc_121(過去)
+npc_124(闇市の店員)
+npc_125(行商人夫婦の夫)
+npc_126(行商人夫婦の妻)
+シズク
+
+pla-t04_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
 
 pla-t05_npc_text_en.cfg.bin.kup
 ...!<NL>......
@@ -27648,7 +27705,6 @@ Tenho certeza! Quero dizer, ele acabou de ganhar seu próprio barco!
 Você está certo, então! Vamos ver se encontramos um pouco de <color:#1>coragem</color> para nosso amigo pescador!
 Você vai simplesmente deixá-lo assim!?<NL>Hmm... Não parece certo para mim, mun.
 Meu medo do oceano me consome...<NL>O que aconteceu comigo, não sei...
-Um pescador que de repente tem medo do mar...?<NL>Sr. Drippy, parece que ele...
 Está com o coração partido, não é? Um sujeito sem <color:#1>coragem</color> ele é, sem dúvida. Temos que ajudá-lo, Olliezinho!
 Pescar... De repente tornou-se impensável...<NL>Simplesmente não entendo...
 Então, você deseja <color:#8>Entregar Virtude</color> e restaurar a <color:#1>coragem</color> daquele pescador, não é!?
@@ -27656,7 +27712,6 @@ Então, você deseja <color:#8>Entregar Virtude</color> e restaurar a <color:#1>
 Demais! Então você não tem mais medo do mar?
 Nem um pouco!<NL>De fato, eu irei para as ondas imediatamente!
 Ah... Mas primeiro devo mostrar minha gratidão.<NL>Por favor, aceite isso como forma de agradecimento!
-Ah... Que sol quente, que brisa fresca...<NL>Realmente, este é um clima de pesca!
 Ohhh... Eu quero aquele maiô elegante, então...<NL>Mas os guilders ganhos com tanto esforço não devem ser desperdiçados com tais enfeites!
 Minhas bolsas estão quase vazias...<NL>E ainda há muito mais que desejo comprar!
 Eu simplesmente preciso ter os trajes de banho mais modernos!<NL>Por que devo ser negado!?
@@ -27674,8 +27729,6 @@ Beleza! Vamos encontrar a <color:#1>restrição</color> que ela está perdendo, 
 Você realmente não vai ajudá-la?<NL>Ela vai acabar na pior desse jeito, mun...
 Por favor! POR FAVOR! Não perturbe minhas compras!
 Mas você disse que não tinha dinheiro...<NL>Talvez você devesse economizar um pouco primeiro?
-Não me perturbe com essas considerações mesquinhas!<NL>EU TENHO que comprar tudo imediatamente!<NL>EU QUERO! Você não vê!?
-Me parece que esta garota está precisando de uma grande dose de <color:#1>contenção</color>, Olliezinho...
 Oh! Esse é simplesmente magnífico!<NL>Preciso dele! Devo comprá-lo imediatamente!
 Fique esperto, garoto Ollie! Lance <color:#8>Entregar Virtude</color> e empreste àquela garota um pouco de <color:#1>controle</color> antes que a dívida a pegue!
 Hum? Quem sou eu...?<NL>...O que está acontecendo aqui?
@@ -27702,8 +27755,6 @@ Hã? Você não vai ajudá-lo? Mas ele partirá sozinho se você não o fizer. O
 Não há nenhuma razão para eu ficar nesta cidade! Vou partir e encontrar um lugar onde possa morar sozinho!
 Morar sozinho!? O que em nome dos Antigos...!? Por favor, você deve acabar com a loucura do meu irmão!
 Todo mundo aqui me acha um tolo. Eles me dizem o contrário, mas eu me recuso a acreditar em uma palavra! Recuso-me a acreditar em qualquer<NL>um deles!
-Ele não acredita em ninguém...?<NL>Parece que ele está com o coração partido, hein...
-Sem dúvida, Olliezinho.<NL>Falta <color:#1>crença</color> nele, não é?
 Não acredito em você!<NL>Não acredito em ninguém nesta cidade!<NL>Já estou farto de suas mentiras!
 Certo então, Olliezinho! Lance <color:#8>Entregar Virtude</color> e restaure a <color:#1>crença</color> do pobre rapaz, certo!?
 Eu ia deixar a casa dos meus pais...<NL>Não pude confiar em ninguém aqui...
@@ -27731,11 +27782,7 @@ Quer saber, garoto Ollie? Acho que ela está com o coração partido. Acho que a
 Vamos, Sr. Drippy! Vamos encontrar um pouco de <color:#1>amor</color> para que este casal possa viver feliz para sempre!
 Certo, vamos nessa!
 Você não vai ajudá-la?<NL>Mas acho que ela está muito mal...
-Qual é o problema, senhorita?<NL>Você parece meio preocupada...
-Oh, sim. É meu amado. Eu não sinto mais... nada por ele.
-Puxa... Isso parece meio triste...<NL>Ele fez algo de errado?
 Não. Ele tem sido um perfeito cavalheiro. Eu simplesmente não<NL>o amo mais. E, no entanto... não suporto quando estamos<NL>longe...
-Quer saber, garoto Ollie? Acho que ela está com o coração partido. Alguém beliscou o <color:#1>coração</color> dela, não foi?
 Eu não o amo, isso eu sei.<NL>Por que então não possa ficar sem ele?<NL>Oh, o que devo fazer...?
 Você tem um pedaço de <color:#1>amor</color> queimando um buraco em seu Medalhão, não é, Olliezinho? Em seguida, lance <color:#8>Entregar Virtude</color> e ajude nossos amigos!
 Nossa... não sei porque, mas... não vejo a hora de ver o meu par! Quero dizer o amor que estou sentindo!
@@ -27756,18 +27803,13 @@ Ele não acha que vai fazer nada como pescador, então ele está pensando em aba
 Certo, Olliezinho! Vamos conseguir<NL>alguma <color:#1>ambição</color>!
 Você realmente vai deixá-lo jogar tudo fora, Olliezinho!?
 Argh... Por que diabos eu escolhi essa profissão maldita...
-Hã? Mas eu pensei que você não tinha mais medo do mar!
-Ah, eu não estou com medo. É só que... não vejo mais sentido. Talvez pescar não seja para mim...
 Mas você tem seu próprio barco e tudo o mais...!
-Espere aí, eu sei o que há de errado com ele!<NL>Só falta um pouco de <color:#1>ambição</color>, só isso!
-Quando eu era pequeno, tinha certeza de que um dia comandaria uma frota de navios pesqueiros, assim como meu pai antes de mim. Ah, foi um sonho tolo...
 Vá em frente, Olliezinho! Lance <color:#8>Entregar Virtude</color> e dê a ele a <color:#1>ambição</color> que ele precisa para voltar para aquele barco dele!
 Hmmm...!? Oh!<NL>Que bobagem eu permiti que saísse da minha boca!
 Não há razão para que eu não tenha uma frota igual à de meu pai! Minha fé infantil não era infundada!
 Ha ha! Parece que alguém recuperou seu sonho!
 Na verdade, eu tenho, e vocês são os únicos a quem devo agradecer.
 Por favor, aceite este simples presente. É um símbolo da minha gratidão.
-Os Antigos nos abençoaram com um bom clima de pesca! Preparemos as redes e zarpemos logo!
 Agora, não exagere, está bem?<NL>Ainda temos muito trabalho pela frente...
 Você quer me dizer que AINDA não encontrou um local para a loja? Oh, pelo amor de Deus! Você é inútil! Absolutamente inútil!
 E-Ei...! Por que você está falando assim comigo?
@@ -27783,10 +27825,6 @@ Ela vai fazer uma grande maldade com o marido dela se não a ajudarmos...
 Tudo bem! Vamos consertar seu coração partido!
 Esse é o espírito!<NL>Lembre-se, é de <color:#1>gentileza</color> que ela precisa, não é mesmo!?
 Acha que ele é homem o suficiente para aguentar, não é, Olliezinho?<NL>Eu também não tenho tanta certeza...
-Você quer me dizer que AINDA não encontrou um local para a loja? Oh, pelo amor de Deus! Você é inútil! Absolutamente inútil!
-E-Ei...! Por que você está falando assim comigo?
-Uau... Isso foi meio maldoso...
-O que vocês dois estão olhando!? Isso é entre mim e o inútil do meu marido!
 Ele está com o coração partido, Olliezinho. Não há dúvidas. Falta <color:#1>bondade</color>, não é?
 Você sabe o que fazer, não sabe? Lance <color:#8>Entregar Virtude</color> e preencha aquele buraco em forma de <color:#1>bondade</color> em sua alma!
 O-O que está acontecendo...!?<NL>Meu coração, parece realmente...claro, de alguma forma...
@@ -27840,7 +27878,6 @@ Você é muito corajoso, hein! Diga, você se importaria de compartilhar um pouc
 Compartilhar a coragem? Eu não entendo você...<NL>Além disso, devo ir pescar em breve...
 Levará apenas um segundo, senhor! Por favor!
 Bem, nesse caso...<NL>Pegue o quanto quiser!
-Obrigado, Sr. Pescador!
 Hoje também, sinto que há uma colheita abundante reservada para mim!
 Hmm... Hoje vou nadar, talvez.
 Nghh... Isso... dói... em mim... NÃO!
@@ -27862,7 +27899,6 @@ Ha ha! Isso é o que eu chamo de <color:#1>contenção</color>!<NL>Você se impo
 Emprestar a...você?<NL>Eu não entendo...
 Uh, eu sei que parece um pouco estranho, mas gostaríamos de pegar emprestado um pouco de sua contenção para ajudar alguém que não tem...
 Minha contenção? Ainda não compreendi bem...<NL>Mas parece divertido, eu suponho. Vá em frente!
-Obrigado! Isso realmente vai nos ajudar!
 Oh! Você viu isso!? O peixe que acabou de nadar embaixo do convés... Era enorme!
 Pai... O que é uma camisa de manga comprida?
 Ai que felicidade...
@@ -27888,11 +27924,6 @@ O que isso significa...? Ela voltou ao que era antes? Ela voltou a me amar!?
 Hã... Bem, isso servirá, eu acho, mas—
 Oh, graças aos Antigos!<NL>Preciso ir vê-la imediatamente!
 O que aconteceu com minha noiva!? Ela ficou tão fria! E, no entanto, meu amor por ela me consome! O próprio pensamento de que não é totalmente recíproco...
-...Eu não acho que você precisa que eu lhe diga que esse sujeito tem um pouco de excesso de <color:#1>amor</color>, Olliezinho...
-Com licença senhor? Você se importaria se pegássemos emprestado um pouco do seu amor?
-Podemos usá-lo para ajudar sua noiva a se lembrar de como ela se sentia antes.
-Sério!? Oh, isso seria... incrível!<NL>Por favor! Leve o que precisar!<NL>
-OK. Fique parado um pouco...
 Em breve encontrarei o amor.<NL>Mal posso me conter!
 (suspiro) Eu gostaria de crescer mais rápido, de verdade!
 Ahoy! Tenho certeza de que os piratas lhe interessam, não é?
@@ -27918,11 +27949,7 @@ Você é um menino muito legal. E muito talentoso também...<NL>Tem certeza que 
 Oh! Hã... Posso pensar sobre isso?
 Você irá pensar sobre?<NL>Maravilhoso! O alto mar espera!
 Quando eu crescer, me tornarei o Rei dos Piratas e partirei com meus companheiros mais próximos em busca de tesouros escondidos...
-Aposto que seus pais estão satisfeitos com suas ambições de pirata! "O que você fez hoje, filho? Um pouco de pilhagem, foi? Que lindo!" Que pirata mais incrível, eu—
-Agora não, Sr. Drippy! Basta olhar para ele!<NL>Aposto que ele tem um monte de <color:#1>ambição</color>!
 Então, hã... Gostaríamos muito de sua ajuda com algo. É por uma boa causa.
-Com prazer, irei ajudá-lo! Sem dúvida, será um bom treino para quando eu me tornar o Rei dos Piratas da Justiça!
-Ha ha! Acho que sim!<NL>Obrigado, futuro Rei Pirata da Justiça!
 Se você quiser navegar em nome da justiça pirata, me avise! Arrr!
 O papel de um designer não é "seguir" o "fluxo" da moda. É criar novas tendências, e assim moldar o futuro da sociedade!
 Sim... SIM!<NL>É isso... Isso é o futuro!
@@ -27956,7 +27983,6 @@ Eu posso! Certamente, eu posso! Você está testemunhando o nascimento de uma no
 Seu papel em sua realização não deve ser esquecido, é claro. Por favor, aceite este sinal de gratidão. E não se esqueça de mim quando precisar de um designer!
 Você adquiriu as folhas de arco-íris que eu pedi?
 Oh. Você tem apenas uma, pelo que vejo... Naturalmente, o designer não pode fazer tais concessões. DEVO ter <color:#1>mais duas</color>!
-Você adquiriu as folhas de arco-íris que eu pedi?
 Oh! Você já tem dois!<NL>Apenas <color:#1>mais um</color>, e minha visão pode se tornar realidade!
 Eu simplesmente não posso esperar para testemunhar o impacto cultural dos meus designs mais recentes!
 ...!
@@ -27990,12 +28016,7 @@ Bem... Por que você não vai visitá-lo?
 Uma visita? Hmm...<NL>Sim! Talvez eu vá! Afinal, ele me convidou!
 Ouça, muito obrigado por encontrá-lo. Por favor, pegue isso. É o mínimo que você merece depois de tanto trabalho.
 Resolvi fazer uma visita ao meu amigo! Espero que ele não esteja contando histórias sobre como sua nova ilha é legal...
-...!
 Sr. Drippy, você não tem a sensação de que este caranguejo está tentando nos dizer algo?
-Er...deixe-me ver...<NL>...Não! Acho que é só você.
-Nossa... Tem certeza? Ele parece tão... tagarela.<NL>O que devemos fazer?
-Caramba, mun, você deveria ser um mago!<NL>Pegue sua varinha e lance um <color:#1>magia</color>, pode ser?
-...!
 Oh! Que maravilha ver você de novo. Você está procurando um designer para trazer um elemento de elegância à sua vida, talvez?
 Na verdade sim! Estamos procurando um <color:#1>maiô estiloso</color>.<NL>Pensamos que talvez você tivesse um...
 Você pensou corretamente!<NL>...Em teoria, pelo menos.
@@ -28042,8 +28063,7 @@ Bem, a lenda dos Náufragos Corsários é muito famosa, eu acho. Todos nesta cid
 Talvez você deva perguntar às <color:#1>pessoas locais</color> se elas têm conselhos sobre onde começar sua pesquisa?
 Parece uma ótima ideia!<NL>Nossa, não é emocionante, Sr. Drippy?
 Não!? Essa não é a atitude de um tripulante leal...
-Olhar! Olhe para isto!<NL>Um mapa do tesouro!
-Uau! Tem certeza que é real?
+Olha para isto!<NL>É um mapa do tesouro!
 Certamente sim! E olhe! <color:#1>Sete</color> lugares foram marcados nele. Eles devem ser os locais de tesouros escondidos. Eles simplesmente devem ser!
 Infelizmente... Mamãe não permite que eu vá procurá-los. É perigoso, ela afirma...
 Por favor, eu imploro! Vá em meu lugar e descubra<NL>o tesouro!
@@ -28163,10 +28183,6 @@ Agora, para fazer um cortador de velas, você precisará de uma <color:#1>punhal
 Poxa! Você não sabe metade das suas coisas!
 Hee hee! Está tudo no meu livro!<NL>Tudo bem, esperarei por você aqui.<NL>Por favor, se apresse, estou muito animado!
 Hmph! Por que não!?<NL>Talvez você não seja, de fato, um mago!?
-Ah! Essa panela grande que você tem...<NL>É um caldeirão, não é?
-Hã... sim. Isso mesmo.
-Hee hee! Então você deve ser um mago!
-Eita! Parece que essa garotinha sabe uma ou duas coisas sobre bruxaria, Olliezinho!
 Eu sei! Eu leio meu livro mágico todos os dias.<NL>E minha parte favorita diz respeito à alquimia!
 Um mago como você deve saber como se faz, certo?
 Mostre-me por favor! Mostre-me como funciona a alquimia! Você poderia criar um <color:#1>cortador de velas</color> para mim?
@@ -28181,7 +28197,6 @@ Existem todos os tipos de receitas em meu livro mágico.<NL>Posso ensinar alguma
 Quando eu crescer, serei um mago também!
 Sério? Os magos podem usar seu caldeirão para criar objetos que nunca foram vistos antes?
 Oh, que maravilha!<NL>Eu gostaria de me tornar um mago!
-Você recebeu algumas novas receitas de alquimia!<NL>Vá até o caldeirão para experimentá-las!
 Oh! Olá de novo, senhor!<NL>Então você voltou para Terras do Verão, hein?
 Eu certamente fiz! Tive vontade de visitar Ding Dong Dell mais uma vez antes de encerrar esta minha jornada. Bout da velha saudade, o que!
 Hã... sim. Então, você encontrou alguma coisa interessante para escrever desde a última vez que o vimos?
@@ -28203,9 +28218,7 @@ Uma foto de uma caveira, hein?<NL>Ok, vamos procurar para você!
 Mas devo dar um recital no salão da vila no mês que vem! Esse diário contém todo o meu melhor material!
 Oh! Com certeza é bom vê-lo novamente, senhor! Você encontrou alguma coisa interessante para escrever desde a última vez que o vimos?
 Certamente! Uma terrível tempestade fez com que meu navio fosse arrastado para a praia em uma ilha como eu nunca tinha visto antes!
-Plantas estranhas, estátuas misteriosas... e as mais estranhas ilustrações por todo o chão... Ora, o mero pensamento disso faz meu velho coração bater...
 Está tudo documentado no meu diário, claro. Acho que você não gostaria de... Oh! Oh céus. Eu só fui e perdi a coisa corajosa!
-Devo ter deixado o maldito naquela ilha... Ahem. Acho que você não ajudaria um sujeito a buscá-lo para mim, não é?
 Eu me lembro de anotar alguma coisinha enquanto estava sentado em uma <color:#1>pequena estátua</color>...
 Havia uma foto do mais <color:#1>enorme crânio</color> no chão próximo, se não me falha a memória. Acho que devo ter deixado cair lá...
 Encontramos seu diário, senhor!
@@ -28226,7 +28239,6 @@ Talvez eu deva lhe dar algumas frutas frescas para ajudá-lo a voltar a andar!
 Oh, céus! É bom quando alguém pensa no seu bem-estar, não é!?
 Ah! Eu sei o que você precisa!<NL>Algumas receitas!
 Receitas simples para uma refeição farta depois de um dia cansativo na estrada!
-Você recebeu algumas novas receitas de alquimia!<NL>Vá até o caldeirão para experimentá-las!
 Certifique-se de fazer refeições regulares! <NL>Não vá comer porcarias.
 Bem-vindo a uma das cadeias de pousadas purremium Camas de Gato! Nós nos ronronamos em nossa purraticidade e ronronar!
 Seu costume é sempre valorizado!<NL>Tenha uma boa soneca!
@@ -28240,155 +28252,30 @@ Bem-vindo ao Soluções Rápidas, onde os necessitados vêm para ver suas preocu
 Pessoas com mais problemas do que podem engolir colocarão avisos no <color:#1>Quadro de recados</color> ali. Verifique-o regularmente para ver se você pode ajudar.
 Prezados clientes!<NL>Você se importaria de dar uma olhada em meus produtos?
 Volte em breve, seu costume é muito apreciado!
-Em frente, para Enseada Naufrágio!
-EI! Parado aí, seu ladrão!
-O que você está fazendo, man!? Temos que ir atrás daquele ladrão sujo e fedorento, não é?
-Para onde aquele ladrão fugiu? Eu vou pegá-lo! Nenhum criminoso escapa da justiça sob o comando do Inspetor Drippy!
-Peixes, gatos e agora um grande pote florido! Se você me obrigar a carregar algo mais pesado, terei que mudar meu nome para Zé do Zoológico!
-Vamos levar este pote de volta para aquele cara mascate antes que ele quebre minha volta, certo?
-Por que sempre acabo carregando virando tudo? O que você é, muito delicado ou algo assim? Muito preguiçoso, mais como! Hmph! As crianças nos dias de hoje...
-Dê uma olhada no seu Companheiro do Mago e encontre essas palavras mágicas, não é?
-Então é para fazer alquimia, não é? Deve ser por isso que é tão pesado!
-Qual o problema com você? Não quer aquele enorme pote grande ou algo assim? O que você é, sensato?
-Você teve muita sorte em colocar as mãos naquele caldeirão, Olliezinho. Você pode fazer todos os tipos de coisas agora. Vá em frente, faça-nos um presente!
-Se você está atrás de uma fórumla ou duas para o seu caldeirão, apenas converse com a pessoa estranha. Você encontrará alguém com uma ou duas receitas na manga eventualmente.
-Certo! Todos a bordo do bom navio Sageseeker!
-Confira meus nadadores, Olliezinho! Bem arrumado, hein?
-Eu não posso acreditar que eles ainda tinham um maiô do meu tamanho! Aquele chefe da aldeia deve ter uma pilha arrumada de roupas de banho escondida! Está preparado!
-Não é um patch no meu, obviamente, mas seu maiô não é ruim, Olliezinho.
-Precisamos fazer aquela Vacalifa de Al Mamoon nos emprestar o barco dela, não é?
-Quer dar uma olhada no Camas de Gato que eles conseguiram em Al Mamoon? Ouvi dizer que é um bom lugar.
-Vamos para o seu mundo, certo?
-Há uma fonte de leite em Al Mamoon, não é?
-Vamos nessa, mun! Vamos voltar para Al Mamoon!
-Precisamos ir para Al Mamoon e encontrar alguma contenção, mun!
-Você não gosta de Al Mamoon ou algo assim?<NL>Precisamos voltar para lá, mun!
-Vamos devolver o autocontrole ao velho cara de Vaca, certo?
-Se formos para Enseada Naufrágio, poderemos pegar aquele barco agora, não é?
-Essa é a doninha que roubou a maconha daquele mascate! Vamos, Olliezinho, temos que pegar aquela foto de volta!
-que você está fazendo parado, abanando o queixo, hm? Há ladrões para pegar, mun! Vá em frente!
-Parece que vamos ter que pegar o mendigo de novo. Ele é um bom centavo ruim, este aqui.
-Ele é um verdadeiro pé no saco, esse cara. Vamos então, vamos nos conter antes que eu perca a simpatia.
-Então ele teve um Pesadelo, não é? Isso explica por que ele tem sido tão chato, hein?
-Você viu os olhos daquele ladrão? Com o coração partido, ele está. Eu colocaria todas as minhas economias nisso.
-Vamos, mun! Temos que ajudar aquele ladrão.
-Aquele chefe da aldeia tem mais comedimento do que boa aparência. E isso quer dizer alguma coisa, mun.
-Posso ir e colocar meu maiô? Estou adorando meu maiô!
-Aquele Swaine pode parecer desalinhado como qualquer coisa, mas acho que há mais nele do que aparenta. Eu posso sentir isso na minha lanterna...
-Ach, a barba por fazer de Swaine é adequada! Eu só quero arrancar isso da cara dele! Bleurgh!
-Do que ele está falando? E o que ele vai fazer com esse baú, hein? Eu ainda não confio muito nesse tal de Swaine...
-Aquele Swaine provavelmente pode nos roubar algum saque no calor da batalha, hein? Há útil...
-Finalmente, é hora de entrar na onda do mar! Acha que eles vão me deixar dirigir?
-Então só Swaine pode pegar esses baús verdes, não é? Acho que vi um em Ding Dong Dell em algum lugar...
-Precisamos zarpar em busca de Outonia, mun!
-Hã? O que diabos está acontecendo, mun?
-...Eh?<NL>Alguém pode me dizer o que está acontecendo?
-Hã? O que é tudo isso, então?
-Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
-De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
-Precisamos ir e dar a esses meninos suas obras de arte de volta, não é?
-Acho que é melhor irmos fazer a minha mãe rir, hein?
-Vamos, mun! Precisamos contar piadas para minha mãe, não é?
-Temos alguns negócios inacabados com a minha mãe, mun!
-Precisamos ir ajudar esses pequeninos!<NL>Pronto!
-Vamos lá, tem um escorregador só esperando a gente descer!
-Partimos para ver o Império, o maravilhoso Império de Hamelin! Na Outonia!
-Vamos nos apressar e ir para Hamelin, certo?
-Você vê algum sábio por aqui?<NL>Eu não vejo!
-Acho que você vai conseguir alguma armadura Hamelin por aqui, não é? Bem, eu lançando não!
-Ei, o que você pensa que está fazendo, largando sua armadura de porquinho e fugindo?
-O que exatamente isso tem a ver com entrar sorrateiramente no palácio em Hamelin, hm?
-Vamos, mun! Precisamos chegar a Hamelin e encontrar alguma crença, não é?
-Você está com medo de trabalho duro ou algo assim?<NL>Precisamos ir e encontrar os príncipes pirados!
-Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
-A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
-Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
-Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
-Vamos voltar para o palácio em Hamelin, ou o quê, mun?
-Vamos acreditar um pouco naquele Marcassin, certo?
-Vamos, mun! Vamos devolver a crença de Marcassin!
-Quando vamos começar a procurar o esconderijo desse cara do Kublai, hm?
-Ansiosa para chegar ao esconderijo de Kublai, estou!
-É melhor irmos ver este dragão, hein?<NL>Tengri, não é?
-Você já conhece o magia certo para falar com Tengri, mun! Venha agora! Para o esconderijo de Kublai!
-É melhor deixarmos Kublai saber o que está acontecendo com Tengri, hein, mun?
-Vamos nos apressar e encontrar a alma gêmea daquele dragão, certo?
-Motorville, cara! Vamos depressa!
-Acho que devemos ir dar uma palavrinha com aquele cachorro na frente da loja de Leila, mun.
-Vamos visitar a casa daquele menino Denny, certo?
-Aqui, e o velho Pirateface? Ele é bem cheio de si! Vale a pena tentar, pelo menos...
-É melhor entregarmos aquele pedaço de coração enquanto ainda está fresco, hein? Não queremos que tudo fique fedido, não é?
-Quer ir até a loja de Leila para ver quantos anos Myrtle está fazendo? Eu quero!
-Muito preocupado com Tengri, eu estou!
-É hora de cavalgar o dragão, mun!<NL>Vamos encontrar aquela Ilha Solitária, não é?
-Precisamos encontrar o velho Kublai, mun!
-Precisamos encontrar as três pedras, mun!
-Por onde começar, hein, Olliezinho?
-Eles começaram a fazer a Série do Solosseum no Templo das Provações agora, aparentemente...
-Mais duas pedras para ir, mun!
-Para onde vamos, Olliezinho?
-Ahh, eu adoro voar em Tengri, adoro!<NL>É melhor do que caminhar qualquer dia!
-Não muito tempo agora, e Estrela da Manhã estará de volta com uma vingança!
-Eita! Só falta uma pedra para pegar!
-Vamos encontrar a última pedra, sim, mun?
-Vamos dar um churrasco no Marcassin, certo?
-Corra para Hamelin! Rápido!
-O que você acha que está acontecendo com aquele soldado de Xanadu na frente do palácio em Hamelin, hein?
-Hora de fazer uma viagem no velho Tengri, eu acho!
-Perdida é o lugar, e Khulan é a cara!<NL>Vamos dar uma olhada, certo?
-Aquela cerimônia em Perdida vai começar logo, mun.<NL>É melhor irmos andando!
-O velho olhos de cachorrinho tem mais do que seu quinhão de amor.<NL>Acho que ele poderia nos poupar um pouco disso!
-Khulan precisa de uma dose de amor, não é?
-Acho que devemos pedir a Khulan para resolver Estrela da Manhã para nós, não acha?
-Para Al Mamoon! Madeira sagrada ou busto!
-Olhe para ele, todo brilhante e brilhante!<NL>Não é um pedaço de madeira normal, é?
-A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, ficando por aqui.
-O ladrão deve estar escondido em Ding Dong Dell, o canalha!
-Vamos ver Phil em Motorville!<NL>Er...brilhante!
-Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
-Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então chegaremos a Nunca Mais, e sem olhar para trás!
-Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
-Então é só Shadar lutar, hein?
-Vamos deixar o velho Rei Tom saber o placar, certo?
-Ouvi dizer que eles estão organizando uma reunião em Ding Dong Dell. Vamos ver o velho King Tom, certo?
-Você não precisa voltar para o seu mundo e encontrar a Pea? Não posso vê-la pessoalmente, mas tenho a sensação de que ela é importante, tipo...
-Onde está a Pea, hein?
-Temos que salvar os três reinos, não é?<NL>Precisamos encontrar aquelas coisas de cristal negro, mun!
-Restam apenas Al Mamoon e Hamelin para salvar agora, mun!
-Restam apenas Ding Dong Dell e Hamelin para salvar agora, mun!
-Restam apenas Ding Dong Dell e Al Mamoon para salvar agora, mun!
-Só resta Hamelin para salvar agora, mun!
-Só resta Al Mamoon para salvar agora, mun!
-Só resta Ding Dong Dell para salvar agora, mun!
-Existe algum lugar em nosso mundo que você ainda não visitou? Gostaria de fazer um passeio turístico?
-Qual é o problema, mun? Você está se sentindo um pouco sem rumo agora, não é?<NL>Não se preocupe, acho que ainda há muito o que fazer...
-Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem, não tenha tanta certeza! Por que não verificar seu Companheiro do Mago?
-Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
-Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
-Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
-Tá lindo! Hã? A vista, claro! Eu gosto de estar à beira-mar!
-Hã? O que é isso? Desculpe, mun, eu estava a quilômetros de distância! É o mar que faz isso comigo, viu? Assim que vejo já estou no mar, viu?
-Peixes, pássaros, caranguejos... É um zoológico normal por aqui!
-Aquelas árvores ali—são mamangroves, não são? Que incríveis!
-Você deveria ver meu nado peito, mun! Fantástico, é! Fui campeão das fadas por cinco anos consecutivos quando era pequena!
-Até os heróis precisam fazer uma pausa de vez em quando, mun. Não exagere, ok?
-Desista, mun! Pare de me olhar assim!<NL>Você está me dando calafrios!
-O que é? Você queria me perguntar algo? Desembuche, mun! Não sou bom em jogos de adivinhação!
-Não tema, Drippy está aqui!<NL>Quer ele goste ou não...
-Você sabe, quando tudo isso acabar, eu vou sentir falta, erm ... se comportar mal, mun! Ficar louco, eu vou. Fairy rarebit no café da manhã, pudim de babana o dia todo...
-Caramba, mun! Pronto, estou!<NL>Vamos, vamos fazer alguma coisa, antes que eu vá ao banheiro!
-Vamos começar o novo dia como pretendemos continuar, certo? O melhor pé à frente, e o último a entrar é um ovo podre!
-Você deveria ler seu Companheiro do Mago de vez em quando, mun. É a coisa mágica a fazer.
-O que foi mesmo...? Eu tinha certeza de que tinha algo para lhe dizer. Muito engraçado também...
-E aí? Desculpe, mun, se é uma conversa estimulante que você está procurando, estou com poucas palavras sábias no momento. Tenho alguns imprudentes, se você gosta deles...
+ずっと水着でいるのは変かい？<NL>慣れると、どうってことないもんさ。
+家がいくつも重なって<NL>そのひとつひとつに人々が暮らしている。
+<NULL>
+今日は波が静かだし<NL>フライングボートで遊ぶかなぁ。
+ようこそビッキーニへ！<NL>活気があって楽しい港町よ！
+どう、このばつぐんのスタイル？<NL>ボウヤには刺激が強すぎるかしら？
+船に乗るときは<NL>気をつけなきゃダメよ！
+港からは色んな魚が獲れるの。<NL>今晩のおかずを選ぶだけで大変よ～。
+あら、今日のリンゴは色がいいわぁ。<NL>ひとかごだけもらおうかしら。
+おいらの夢は、ゼルガスみたいな<NL>かっこいい海の男になることなんだ！
+おい、おまえ！<NL>どっちが早く泳げるかボクと勝負だ！
+へへへっ！<NL>これから父ちゃんと一緒に遊ぶんだ！
+ねぇねぇお兄ちゃん！<NL>私と貝ひろいして遊ぼうよ！
+わたしのお父さん<NL>遠くへ漁に行っているの！
+う～…。寝坊した。<NL>船に乗り遅れちまったよ。
+ガッハッハ！<NL>今日こそ大物を釣りあげてやるわい！
+海はきまぐれです。<NL>危険な漁から帰れなかった船乗りもいました。
+この年になると日差しが辛いねぇ。<NL>みんなの元気がうらやましぃわ…。
+あらま！<NL>ボウヤ、旅の人かい？
+今日は漁から息子が帰ってくるのよ。<NL>おいしいごはんを作ってあげなきゃねぇ。
+おれはベテランの海の男だ！<NL>どんな荒波だろうと乗りこえてやるわい！
+さぁ～、じゃんじゃん買っていきな！<NL>なんでもそろってるぜー！
+仕入れたばかりの新鮮フルーツ！<NL>安いよ安いよ～！
+のどかよねぇ…。<NL>海をながめていると心が安らぐわ…。
 Em frente, para Enseada Naufrágio!
 EI! Parado aí, ladrão!
 O que você está fazendo!? Temos que ir atrás daquele ladrão sujo e fedorento, não é?
@@ -28435,7 +28322,7 @@ Hã? O que diabos está acontecendo, mun?
 Hã? O que é tudo isso, então?
 Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
 De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
-Precisamos ir e dar a esses meninos suas partes engraçadas de volta, não é?
+Precisamos ir lá devolver as obras de arte para aqueles meninos, não é mesmo?
 Acho que é melhor irmos fazer a minha mãe rir, hein?
 Vamos, mun! Precisamos ajudar a mãe, não é?
 Temos alguns negócios inacabados para resolver, mun!
@@ -28453,7 +28340,6 @@ Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
 A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
 Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
 Vamos voltar para o palácio em Hamelin, ou o quê, mun?
 Vamos acreditar um pouco naquele Marcassin, certo?
@@ -28538,12 +28424,79 @@ Vamos começar o novo dia como pretendemos continuar, certo? O melhor pé à fre
 Você deveria ler seu Companheiro do Mago de vez em quando, mun. É a coisa mágica a fazer.
 O que foi mesmo...? Eu tinha certeza de que tinha algo para lhe dizer. Muito engraçado também...
 E aí? Desculpe, mun, se é uma conversa estimulante que você está procurando, estou com poucas palavras sábias no momento. Tenho alguns imprudentes, se você gosta deles...
-Purrpritor
-Capataz
-Mercante
+Precisamos ir lá devolver as coisas engraçadas para aqueles rapazes, não é mesmo.
+Purrprietor
+Taskmaster
+Peddler
+掲示板
 Sindbah
 Governor
 Horace
+カニ（qs0010）
+q_0044_大富豪
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
+npc_025
+npc_026
+npc_027
+npc_028
+npc_029
+npc_030
+npc_031
+npc_032
+npc_033
+npc_034
+npc_035
+npc_036
+npc_037
+npc_038
+npc_039(追加)
+npc_040(追加)
+npc_041(追加)
+npc_042(追加)
+npc_043(追加)
+npc_044(追加)
+npc_045(追加)
+npc_046(追加)
+npc_047(追加)
+npc_048(追加)
+npc_049(船員)
+npc_050(船員)
+npc_051(船員)
+npc_052(船員)
+npc_053(船員)
+npc_054(船員)
+npc_055(男+船)
+行商人（夫）
+行商人（妻）
+npc_058(船員)
+
+pla-t05_text_en.cfg.bin.kup
+2011/02/20 20:45:18
+Itagaki Mamoru
+SPRG-011
 
 pla-t07_npc_text_en.cfg.bin.kup
 ......!<NL>............!
@@ -28601,10 +28554,7 @@ Tudo que eu preciso que você faça é ficar parado por um segundo.<NL>Você pod
 Espero que você esteja ajudando muitas pessoas necessitadas de fato!
 Agora que minha avó está velha, ela está sentindo muito frio. Estou tricotando para ela um par de luvas. Espero que eles a façam sorrir.
 Claro que vão! Diga, temos algo a lhe perguntar.<NL>Você se importa?
-Me importar? Não, eu não me importo!
 Nós realmente poderíamos usar um pouco de sua <color:#1>bondade</color> para ajudar outras pessoas que precisam. Você se importaria de compartilhar um pouco<NL>com a gente?
-Compartilhar? Mas eu não saberia como...
-Tudo que eu preciso que você faça é ficar parado por um segundo.<NL>Você pode fazer isso por mim?
 Espero ver o sorriso da minha avó novamente muito em breve. É brilhante como o sol!
 Amigo, você já andou de tobogã? Wheeeee! Está sendo tão divertido deslizar de um lugar alto para um baixo!
 Nnnghhh...<NL>Isso estava sendo muito alto, talvez...
@@ -28623,10 +28573,6 @@ Realmente...? Então, por favor, pegue livremente!
 Obrigado. Agora, fique parado por apenas um segundo...
 Oh. Isso está sendo estranho.<NL>Estou me sentindo talvez um pouco mais calmo agora...
 Eu amo tanto tobogã! É tão divertido deslizar de um lugar alto para um baixo, mesmo que alguém esteja se machucando!
-Ei, Sr. Drippy! Você acha que esse menino talvez tenha mais <color:#1>coragem</color> do que precisa?
-Ahh, você acha que é por isso que ele está correndo tantos riscos, não é? Boa ideia, Olliezinho.
-Diga, podemos emprestar um pouco da sua coragem? Sua bravura pode ser suficiente para ajudar alguém que precisa.
-Isso é realmente uma boa ideia?<NL>Não estou me tornando um covarde?
 Tudo bem. Só precisamos pedir um pouco emprestado. Você não vai notar nada. Agora, fique parado por apenas um segundo...
 Talvez eu esteja deixando minha mãe e meu pai sofrendo de preocupação. Vou brincar em lugares com mais segurança a partir de agora!
 Esta cidade está sendo uma cidade muito, muito legal!
@@ -28648,11 +28594,9 @@ Estamos todos sendo amigos juntos aqui, sim?
 Não é adorável como todos aqui acreditam uns nos outros? E este tal Tomte tem mais <color:#1>crença</color> do que a maioria!
 Diga, Sr. Tomte...<NL>Você poderia compartilhar um pouco de sua crença conosco?
 Minha crença, sim?<NL>Sim, claro, sim!
-Muito obrigado!
 Se você estiver tendo problemas, por favor, apenas peça ajuda, sim? Estamos sendo seus amigos!
 Nós de Yule adoramos um delicioso ensopado de gelo!<NL>Comê-lo juntos é a nossa hora mais feliz!
 ...Hm? Não está nos deixando terrivelmente frios, você pergunta? O contrário! Meu ensopado de gelo afasta todos os calafrios!
-Nós de Yule adoramos um delicioso ensopado de gelo!<NL>Comê-lo juntos é a nossa hora mais feliz!
 Guisado de gelo? Parece bom, mas não te deixa<NL>com frio?
 Ho ho ho! Criança tola!<NL>Pelo contrário!
 Meu ensopado de gelo afasta todos os calafrios!
@@ -28673,9 +28617,6 @@ Já está terminando?<NL>Então venha experimentar meu ensopado gelado! Venha!
 O meu guisado de gelo está a ser o melhor de toda a cidade!<NL>Não existe ninguém melhor do que eu na sua preparação!
 Eita! Vovó aqui é mais convencida do que o próprio Cock Robin! Cheia de <color:#1>confiança</color>, ela é!
 Aqui, senhora, não poderíamos ter um pouco de sua confiança, poderíamos?
-Por favor! Só um pouco!<NL>Tudo o que você precisa fazer é ficar parado por um momento!
-Sim, sim, sim, criança.<NL>Assim está bem?
-Sim, está perfeito!<NL>Obrigado, senhora!
 Ho ho ho! Meu ensopado de gelo está sendo suficiente para espantar <NL>todos os calafrios!
 Awwwwww! Tão fofo!<NL>Tão fofo fofo fofo!
 Você está me fazendo corar, sim?
@@ -28692,11 +28633,6 @@ Vamos usá-lo para ajudar as pessoas que não têm amor suficiente.
 É sério? Eles também vão se tornar amantes do meu fofo fofo fofo?
 Puxa, eu não sei...<NL>Uh, quero dizer, com certeza eles vão!
 Eu amo meu fofo fofo fofo!<NL>Não há outro para mim!
-EITA, olhem o Medalhão! Acho que ela realmente tem muito <color:#1>amor</color> por sua amiga, hein?
-Parece, hein?
-Ei, você poderia nos dar um pouco do amor que você sente por seu amigo fofo?
-Sim-Sim-Sim! Estou preocupada por amá-lo demais! Por favor, você deve tomar alguns!
-Obrigado! Fique quieto por um momento...
 Ficarei tão feliz se mais pessoas estiverem amando meu fofo fofo fofo!
 Hum? Você pergunta se estou achando frio morar aqui? Ha ha ha! Nem um pouco!
 Brrrrrr... Que frio...<NL>Estou odiando tanto sair de casa...
@@ -28713,12 +28649,8 @@ Sim. Perdeu o <color:#1>controle</color> e parece que não aguenta mais o frio. 
 Se não ajudarmos, ele nunca mais vai poder sair de casa! Nós temos que fazer alguma coisa!
 Bem, é um procedimento bastante simples, encontre alguma <color:#1>restrição</color> e entregue-a. Acha que pode lidar com isso, Olliezinho?
 Acho que muitas outras pessoas também precisam de ajuda, hein? Vamos voltar mais tarde, certo?
-Brrrrrr... Que frio...<NL>Estou odiando tanto sair de casa...
 Marido! O que você está dizendo!? O que aconteceu com o homem que já foi o mais forte contra o frio na aldeia, hm?
-Ele de repente deixou de suportar o frio, senhora?
-Exatamente, ele fez. Antes, não havia um dia frio o suficiente para impedi-lo de se aventurar.
 Ele perdeu a <color:#1>contenção</color>, e parece que não aguenta mais o frio. É da pobre esposa dele que eu sinto muito, veja bem.<NL>É melhor ajudarmos, hein?
-Não vou sair!<NL>Vou congelar! Brrrrr!
 Certo, Olliezinho. Você tem alguma <color:#1>contenção</color> aí, não é? Lance <color:#8>Entregar Virtude</color> e entregue-o, certo?
 Hum? Estou me sentindo quente de repente! Por que eu estava reclamando tanto da frieza? Frieza não é nada para mim!
 Marido! Você está sendo curado?<NL>Você vai sair agora?
@@ -28744,11 +28676,8 @@ Não há uma única gota de <color:#1>amor</color> naquele coração dele.<NL>Ne
 Família é a coisa mais importante que existe!<NL>Sr. Drippy, temos que ajudá-los!
 Mas não! Vamos devolver a ele o <color:#1>amor</color> que ele perdeu, certo? Vamos lá, vamos encontrar a solução!
 Ooh, está frio, você está! Qual é o problema, Olliezinho? Você também está com o coração partido ou algo assim?
-Agh, você está sendo tão incômodo... Preciso trabalhar. Eu não tenho tempo para me preocupar com você também...
 O que aconteceu com você, marido?<NL>Seu filho está com febre!<NL>Por que você não se importa como antes?
 Isso não é febre. Você não deve estar incomodando as pessoas. Vá para casa com você agora.
-Como é que esse homem já cuidou tanto de sua família?
-Sr. Drippy, quando alguém muda de repente, isso só pode significar uma coisa, certo?
 Isso mesmo, Olliezinho. O coração partido é o culpado aqui. Não há uma gota de <color:#1>amor</color> nesse coração. Nenhuma.
 Não é febre!<NL>Fique quieta, esposa!
 Eu tenho que conjurar <color:#8>Entregar Virtude</color> e dar a ele seu <color:#1>amor</color> de volta!
@@ -28779,11 +28708,7 @@ Como vocês dois conseguem ficar com o coração partido com tanta frequência, 
 Não é hora de repreendê-los, Sr. Drippy!<NL>Temos que ajudá-los!
 Isto é o que eu gosto de ouvir! Certo, vamos ter um pouco de <color:#1>crença</color> então, certo?
 EI! Eu pensei que você disse que precisávamos ajudá-los, seu espertinho!
-Não estamos vendendo nossas mercadorias aqui.<NL>Já tomei uma decisão. Venha, vamos!
-O quê!? Mas não podemos! Se fizermos isso, todo o estoque que compramos em Hamelin vai acabar...
-Esqueça isso! Como podemos confiar em pessoas que convivem com... coisas como essas?
-Olá de novo! Você veio no momento certo, meu marido teve mais uma reviravolta engraçada! Você tem que me ajudar!
-Vamos ver agora... Sim, ele está com o coração partido de novo, e parece que está faltando <color:#1>crença</color> desta vez.
+Olá de novo! Você veio no momento certo - meu marido teve mais uma reviravolta engraçada! Você tem que me ajudar!
 Sr. Drippy! Temos que ajudá-los!
 Como podemos confiar em pessoas que convivem com... coisas como essas?
 Você tem um pouco de <color:#1>crença</color> por aí, não é, Olliezinho?<NL>Vá em frente, então! Lance <color:#8>Entregar Virtude</color> e entregue-o!
@@ -28848,7 +28773,6 @@ Me ajude, por favor!
 Ohhh! Os humanos da cidade não estão sendo tão gentis!
 Ohhh! Meu filhinho! Ele está desaparecido!
 Em um momento, ele está brincando com as pessoas pequenas,<NL>e então...
-Você vai me ajudar a procurá-lo, certo?
 Meu filho estava brincando com os pequenos, sim?
 Entendido, senhora. Faremos questão de perguntar a todas as crianças da cidade se souberem de alguma coisa.
 Ohhh! A-A Gruta Reluzente!?<NL>Isso está sendo terrível, sim?
@@ -28879,8 +28803,6 @@ Mas ele... ele continuou entrando.<NL>Ele não parava!
 ...Ele deve ter se perdido em algum lugar lá dentro, hein?
 Bem, não podemos ter isso, podemos? É melhor irmos resgatar o coitado antes que ele seja comido!
 Ele não parava! Ele entrou sozinho na Gruta Brilhante!
-...Ele deve ter se perdido em algum lugar lá dentro, hein?
-Bem, não podemos ter isso, podemos? É melhor irmos resgatar o coitado antes que ele seja comido!
 Minhas compressas frias estão sendo o melhor remédio para as dores na região lombar, sim?
 Hum? Você está querendo falar comigo, garoto?
 Sim senhor. Eu tenho algo para te perguntar.<NL>Podemos pegar uma de suas <color:#1>compressas frias</color>?
@@ -28898,7 +28820,6 @@ Você pode derrotar <color:#1>cinco</color> deles para mim, por favor?
 Cinco, hein? Claro que podemos!
 Eles estão com medo do fogo, certo? Derrotá-los com a <color:#1>lâmina flamejante</color> que o mascate está vendendo fará com que eles não voltem tão cedo.
 Você deve estar derrotando os <color:#1>esculuminos</color> em nossa cidade de Yule, certo?
-Eles estão com medo do fogo, certo? Derrotá-los com a <color:#1>lâmina flamejante</color> que o mascate está vendendo fará com que eles não voltem tão cedo.
 Hmmm. O problema dos esculuminos ainda não acabou, certo? Você deve derrotar para mim outro <color:#1><quest_exb009:qs0023></color> deles, por favor.
 Conseguimos, senhor!
 Ohhh! Você os está derrotando, não é?<NL>E minha compressa fria está terminando.
@@ -28928,31 +28849,15 @@ Rá! Acho que você vai descobrir que é preciso um pouco mais do que<NL>tempera
 Qual é o ponto de inversão, mun...<NL>Ele nunca ouve uma palavra que dizemos...
 Oh. Aqui.
 Agora, onde está o outro? <color:#1>Aquele com a neve empilhada na cabeça</color>? A ciência não espera por ninguém, você sabe!
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Agora, onde está o outro? Aquele que <color:#1>cavalga no topo da flor azul</color>? A ciência não espera por ninguém, você sabe!
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Agora, onde está o outro? A <color:#1>criatura orgulhosa que encontrou seu nicho na Gruta Brilhante</color>? A ciência não espera por ninguém, você sabe!
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Acho que você descobrirá que ainda preciso da <color:#1>a orgulhosa criatura que encontrou seu nicho na Gruta Brilhante</color> e <color:#1>aquela com neve empilhada na cabeça</color>.
 Só mais dois. Não deve ser muito difícil, mesmo para você.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Acho que você descobrirá que ainda preciso de <color:#1>a criatura que cavalga sobre uma flor azul</color> e <color:#1>aquela com neve empilhada na cabeça</color>.
-Só mais dois. Não deve ser muito difícil, mesmo para você.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Acho que você descobrirá que ainda preciso da <color:#1>criatura que cavalga sobre uma flor azul</color> e <color:#1>a orgulhosa que encontrou seu nicho na Gruta Brilhante</color>.
-Só mais dois. Não deve ser muito difícil, mesmo para você.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Desta vez, acho que vou precisar que você encontre...
 Uma criatura que <color:#1>viaja sobre uma flor azul</color>, <color:#1>uma criatura orgulhosa que encontrou seu nicho na Gruta Brilhante</color> e uma que <color:#1>empilha neve sobre sua cabeça</color>.
 Não fique congelado procurando por eles, não tenho tempo nem recursos para montar uma operação de resgate.
-Ah, e não posso estudá-los se você os enviar para <NL>Repouso dos Familiares, então, por favor, não desperdice meu <NL>tempo fazendo isso.
-Corra, então. Traga todos os três de volta para mim, e eu certamente reconhecerei sua contribuição em meu próximo artigo fascinante.
 Os dados que reuni irão revolucionar o campo da familiarologia. Você vai me ajudar da próxima vez também, é claro.
 Acho que você descobrirá que serão necessárias mais do que temperaturas abaixo de zero para interromper a marcha da ciência!
 Bem, bem, bem! Adorei te encontrar aqui, velhote! Muito frio por estas bandas, que coisa!
@@ -28962,7 +28867,6 @@ E assim que o diário de alguém for publicado, o mundo inteiro saberá o que h�
 O diário que você perde a cada cinco minutos, quer dizer?
 Oh, venha agora! Vamos deixar os cachorros dormirem, não é? Eu aprendi muito bem minha lição! Olha, é só... hum... só... oh... deixe-me ver agora... hã...
 .........irmão.
-Qual é o problema?
 Você realmente precisa inverter a pergunta?
 Eu realmente sinto muito. Prefiro tê-lo perdido novamente.
 Claro que você está lançando! Aprendeu sua lição, de fato! ...Bem? Vamos ajudar a equipe mais uma vez, Olliezinho?
@@ -28975,11 +28879,7 @@ Talvez o velho diário ainda esteja lá. Poderia ter caído de um bolso, ou algo
 <color:#1>Uma clareira na floresta a oeste de Yule</color>, hein?<NL>Estamos chegando!
 Oh. Oh céus. Isso deixa um pouco em apuros, não é?
 Bom dia para você! Muito bom ver você de novo, velhote! Esta cotovia viajante é realmente muito divertida!
-E assim que o diário de alguém for publicado, o mundo inteiro saberá o que há de tão maravilhoso em vagar pela terra!
-O diário que você perde a cada cinco minutos, quer dizer?
-Oh, venha agora! Vamos deixar os cachorros dormirem, não é? Eu aprendi muito bem minha lição! Olha, é só... hum... só... oh... deixe-me ver agora... hã...
 .........irmão. Eu realmente sinto muito. Prefiro tê-lo perdido novamente.
-Claro que você está lançando! Aprendeu sua lição, de fato! ...Bem? Vamos ajudar a equipe mais uma vez, Olliezinho?
 Tendo sido atingido por seis pelo frio, eu acordei para me encontrar em uma <color:#1>brilhante clareira silvestre</color>, em algum lugar a <color:#1>oeste</color> daqui. Ouso dizer que o velho diário ainda está lá.
 Desculpe fazê-lo esperar, senhor!<NL>Encontramos seu diário novamente!
 Querido menino, você é absoluta e positivamente o melhor dos sujeitos deste lado de Saintsbury, no sagrado condado de Brickshire!
@@ -29029,7 +28929,6 @@ Muito, muito lindo!<NL>Tão fofo!
 Você está sendo um viajante, certo?<NL>Você deve estar com muito frio, não é?
 Se você não for cuidadoso, você vai pegar um resfriado.
 Ultimamente tenho sofrido muitas dores nas costas.<NL>Devo perguntar isso ao meu amigo.
-Nós de Yule adoramos um delicioso ensopado de gelo!<NL>Comê-lo juntos é a nossa hora mais feliz!
 ...Hm? Não está nos deixando terrivelmente frios, você pergunta? Ho ho ho! O contrário! Ele afasta todos os calafrios!
 Ver os pequenos humanos e o pequeno tomte brincando juntos na neve...
 Ah, está aquecendo meu coração.
@@ -29066,7 +28965,6 @@ Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
 A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
 Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
 Vamos voltar para o palácio em Hamelin, ou o quê, mun?
 Vamos acreditar um pouco naquele Marcassin, certo?
@@ -29154,123 +29052,39 @@ Caramba, mun! Exausto, estou!
 Ei!
 Você não está me pedindo ajuda de novo, está?
 Deite-se um pouco, sim? Até nós, fadas, precisamos de um pouco de tempo para nos cuidar de vez em quando...
-Precisamos zarpar em busca de Outonia, mun!
-Hã? O que diabos está acontecendo, mun?
-...Eh?<NL>Alguém pode me dizer o que está acontecendo?
-Hã? O que é tudo isso, então?
-Voltando para a Terra das Fadas, certo?<NL>...Precisamos?
-De volta a Terra das Fadas, não é?<NL>...Ohh, céus.
-Precisamos ir e dar a esses meninos suas partes engraçadas de volta, não é?
-Acho que é melhor irmos fazer a minha mãe rir, hein?
-Vamos, mun! Precisamos entrar na minha mãe, não é?
-Temos alguns negócios inacabados para resolver, mun!
-Precisamos ir ajudar esses pequeninos!<NL>Pronto!
-Vamos lá, tem um escorregador só esperando a gente descer!
-Partimos para ver o Império, o maravilhoso Império de Hamelin! Na Outonia!
-Vamos nos apressar e ir para Hamelin, certo?
-Você vê algum sábio por aqui?<NL>Eu não vejo!
-Acho que você vai conseguir alguma armadura Hamelin por aqui, não é? Bem, eu lançando não!
-Ei, o que você pensa que está fazendo, largando sua armadura de porquinho e fugindo?
-O que exatamente isso tem a ver com entrar sorrateiramente no palácio em Hamelin, hm?
-Vamos, mun! Precisamos chegar a Hamelin e encontrar alguma crença, não é?
-Você está com medo de trabalho duro ou algo assim?<NL>Precisamos ir e encontrar os príncipes pirados!
-Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
-A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
-Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
-Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
-Vamos voltar para o palácio em Hamelin, ou o quê, mun?
-Vamos acreditar um pouco naquele Marcassin, certo?
-Vamos, mun! Vamos devolver a crença de Marcassin!
-Quando vamos começar a procurar o esconderijo desse cara do Kublai, hm?
-Ansiosa para chegar ao esconderijo de Kublai, estou!
-É melhor irmos ver este dragão, hein?<NL>Tengri, não é?
-Você já conhece o magia certo para falar com Tengri, mun! Venha agora! Para o esconderijo de Kublai!
-É melhor deixarmos Kublai saber o que está acontecendo com Tengri, hein, mun?
-Vamos nos apressar e encontrar a alma gêmea daquele dragão, certo?
-Motorville, cara! Vamos rápido!
-Acho que devemos ir dar uma palavrinha com aquele cachorro na frente da loja de Leila, mun.
-Vamos visitar a casa daquele menino Denny, certo?
-Aqui, e o velho Pirateface? Ele é bem cheio de si! Vale a pena tentar, pelo menos...
-É melhor entregarmos aquele pedaço de coração enquanto ainda está fresco, hein? Não queremos que tudo fique fedido, não é?
-Quer ir até a loja de Leila para ver quantos anos Myrtle está fazendo? Eu quero!
-Muito preocupado com Tengri, eu estou!
-É hora de cavalgar o dragão, mun!<NL>Vamos encontrar aquela Ilha Solitária, não é?
-Precisamos encontrar o velho Kublai, mun!
-Não é bom! Está muito frio! Eu tenho que ir, mun! Estou estourando!
-Estou tão fff-frio que não consigo andar ddd-direto!
-Pelo menos vocês colocaram algumas camadas, mun! Meu maiô pode complementar minha figura, mas não foi feito para o frio! Congelando, estou! Brr!
-Ning para você! Estou sendo Drippy, Senhor Supremo das Fadas! O que você acha? Não é uma má impressão, hein? Heh heh.
-O ancião da aldeia está em reunião, não é? Espero que seja uma reunião sobre a instalação de algum aquecimento invertido!
-Não posso sair por aí de novo vestida assim, mun! Vou congelar meu lindo corpinho!
-Ele já deve ter voltado da reunião, não é? Vamos ver o ancião da aldeia, vamos, Olliezinho?
-Bléh para você! É a hora de irmos agora! Praticamente um tomte lançando, eu sou! Rá!
-Eita, esta pousada está um pouco louca, querida, não é? Ouvi dizer que esses hotéis de neve custam caro, mas sério, isso é roubo à luz do dia, mun! E é noite!
-Beleza! Adorável e quente, este pequeno número é! E do meu tamanho também! Onde diabos você acha que eles conseguiram um tamanho XXXS? Há inteligente deles!
-Este pequeno macacão forrado de pele empurra meus níveis de fofura através do telhado, mun! Vá em frente, pegue-nos e dê-nos um cwtch! Você sabe que você quer!
-Beleza! Agora podemos sair da cidade pelos fundos e tudo!
-Vamos dar um churrasco no Marcassin, certo?
-Corra para Hamelin! Apressado, como!
-O que você acha que está acontecendo com aquele soldado de Xanadu na frente do palácio em Hamelin, hein?
-Hora de fazer uma viagem no velho Tengri, eu acho!
-Perdida é o lugar, e Khulan é a cara!<NL>Vamos dar uma olhada, certo?
-Aquela cerimônia em Perdida vai começar logo, mun.<NL>É melhor irmos andando!
-O velho olhos de cachorrinho tem mais do que seu quinhão de amor.<NL>Acho que ele poderia nos poupar um pouco disso!
-Khulan precisa de uma dose de amor, não é?
-Acho que devemos pedir a Khulan para resolver Estrela da Manhã para nós, não acha?
-Para Al Mamoon! Madeira sagrada ou busto!
-Olhe para ele, todo brilhante e brilhante!<NL>Não é um pedaço de madeira normal, é?
-A madeira sagrada foi cortada em Ding Dong Dell.<NL>Vamos perder o rastro, ficando por aqui.
-O ladrão deve estar escondido em Ding Dong Dell, o canalha!
-Vamos ver Phil em Motorville!<NL>Er...brilhante!
-Vamos, Olliezinho! Phil é seu amigo, não é?<NL>Precisamos ajudar o pobre rapaz!
-Vamos rastrear aquela miniatura, Pip, certo? <NL>Ver se ele sofreu algum tipo de mudança.
-Precisamos tirar aquela madeira sagrada do maldito atrevido.
-Certo, vamos ver Marcassin para que possamos concluir este Triflauta, certo?
-Então, precisamos ir aos Pântanos de Miasma e jogar o Triflauta, não é? Então é só mais um passo para Nunca Mais...
-Restam apenas os Pântanos de Miasma para cruzar, mun! Então é Nunca Mais, e sem olhar para trás!
-Falta pouco para o confronto final com Shadar, hein? Esta pronto? Eu estou lançando tijolos, mun!
-Então é só Shadar lutar, hein?
-Vamos deixar o velho Rei Tom saber o placar, certo?
-Ouvi dizer que eles estão organizando uma reunião em Ding Dong Dell. Vamos ver o velho King Tom, certo?
-Você não precisa voltar para o seu mundo e encontrar a Pea? Não posso vê-la pessoalmente, mas tenho a sensação de que ela é importante, tipo...
-Onde está a Pea, hein?
-Temos que salvar os três reinos, não é?<NL>Precisamos encontrar aquelas coisas de cristal negro, mun!
-Restam apenas Al Mamoon e Hamelin para salvar agora, mun!
-Restam apenas Ding Dong Dell e Hamelin para salvar agora, mun!
-Restam apenas Ding Dong Dell e Al Mamoon para salvar agora, mun!
-Só resta Hamelin para salvar agora, mun!
-Só resta Al Mamoon para salvar agora, mun!
-Só resta Ding Dong Dell para salvar agora, mun!
-Existe algum lugar em nosso mundo que você ainda não visitou? Gostaria de fazer um passeio turístico?
-Qual é o problema, mun? Você está se sentindo um pouco sem rumo agora, não é?<NL>Não se preocupe, acho que ainda há muito o que fazer...
-Acho que você encontrou tudo o que há para encontrar neste mundo, não é? Bem, não tenha tanta certeza! Por que não verificar seu Companheiro do Mago?
-Vamos subir nas costas largas de Tengri e começar a procurar por Nazcaa, certo?
-Há uma pista em algum lugar naquele lugar de Nazcaa, mun, tenho certeza.
-Todos a bordo do Serpe de Ferro!<NL>É hora de dar um fim àquela Bruxa Branca!
-Você precisa procurar aquela Cassiopeia no castelo dela, mun.
-Acho que já é hora de irmos ver a Bruxa Branca em seu castelo, hein?
-EEEEEEE-Eita!<NL>Está um pouco frio por aqui, não é?
-SSSS-Sopa... Uma bela tigela quente de sopa... Despejá-la toda em minha ccc-cabeça. Isso me aqueceria!
-Uau, olhe para aquelas grandes luzes no céu, mun!<NL>Eu não estive em uma produção tão elegante desde que fiz aquele panto em Ding Dong Dell!
-Acha que poderíamos convencer um desses grandes bonecos de neve a trabalhar para nós como um familiar? Não, mun. Não caberia na jaula, né...
-Faz-me sentir todo aquecido e seguro olhando para aquelas pessoas, sim. Eu só quero que alguém me pegue e me dê um grande abraço quentinho. Ahh...
-E aí? Desculpe, mun, se é uma conversa estimulante que você está procurando, estou com poucas palavras sábias no momento. Tenho alguns imprudentes, se você gosta deles...
-Quer uma corrida, Olliezinho?<NL>Sou mais rápido do que pareço, não é!
-O que foi mesmo...? Eu tinha certeza de que tinha algo para lhe dizer. Era algo muito engraçado!
-Desista, mun! Pare de me olhar assim!<NL>Você está me dando calafrios!
-O que é? Você queria me perguntar algo? Desembuche, mun! Não sou bom em jogos de adivinhação!
-Vamos nos mexer, certo?<NL>Estou entediado pra caramba, mun!
-Caramba, mun! Exausto, estou!
-Ei!
-Você não está me pedindo ajuda de novo, está?
-Deite-se um pouco, sim? Até nós, fadas, precisamos de um pouco de tempo para nos cuidar de vez em quando...
-Purrprietário
-Capataz
-Mercante
+Nem para você! Eu sou o Drippy, Lorde Supremo das Fadas! O que você acha? Não é uma má imitação, hein? Heh heh.
+Nem para você! Já está na hora de irmos! Estou quase parecendo um tomte saltitante! Ha!
+Purrprietor
+Taskmaster
+Peddler
+掲示板
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_013
+npc_014
+npc_015
+npc_016
+npc_017
+npc_018
+npc_019
+npc_020
+npc_021
+npc_022
+npc_023
+npc_024
 Horace
 Derwin
+q_0043_大富豪
 
 pla-t09_npc_text_en.cfg.bin.kup
 ...!<NL>.........
@@ -29286,7 +29100,6 @@ Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mag
 Existe <color:#1>um certo personagem que só aparece em um local</color>. Minha pergunta é: <color:#1>onde</color> está?
 Não se preocupe, este não é tão difícil quanto parece. Bem, não exatamente! Heh heh! Quando resolver, me avise.
 Você já resolveu, Ollie?<NL>Deixe-me fazer a pergunta novamente.
-Se você olhar o capítulo chamado "Regiões do mundo" em seu Companheiro do Mago, encontrará pedaços de Nazcaan aqui e ali.
 Existe <color:#1>um certo personagem que só aparece em um local</color>. A pergunta é: <color:#1>onde</color> está?
 Lembre-se, só porque é Nazcaan, não significa que seja longo. Não estou pedindo para você vasculhar um poema antigo ou algo assim. Ou mesmo uma palavra inteira...
 Deixa comigo, Ollie! Cada área marcada nos mapas corresponde a um número escrito em Nazcaan.
@@ -29340,7 +29153,6 @@ Com certeza você tem muita <color:#1>confiança</color>, senhora!<NL>Diga, pode
 Bem, não tenho certeza se sou capaz.<NL>O que você quer de mim?
 Estávamos imaginando se você se importaria de compartilhar um pouco de sua confiança.
 Minha confiança? Realmente, você diz coisas estranhas. Mas posso dizer que você não quer fazer mal. Por favor, vá em frente.
-Obrigada Senhora! Ok, aqui vai...
 Você já viu uma visão mais bonita do que o sol da tarde desta nossa montanha?
 Olá! Adoro viver em Perdida!<NL>É como se fôssemos uma grande família!
 Você vem de outra terra? Esta é a nossa casa.<NL>Perdida é pequena, mas temos grandes corações.
@@ -29361,14 +29173,10 @@ Bem, estávamos pensando se você seria gentil o suficiente para compartilhar um
 Ha ha! Realmente, as pessoas de longe são muito diferentes de nós! Diga-me. O que devo fazer?
 Apenas fique parado por um segundo. Não vai demorar muito.
 Acabou agora? Não tenho certeza do que você fez, mas meu coração está leve.
-Hermana! Eu estou tão faminto!
 Vou preparar o jantar agora, hermanito!
 Todos nesta cidade cuidam uns dos outros, sabe.<NL>Ah, eu amo minha casa de todo o coração.
-Hum, desculpe-me, senhorita. Estávamos pensando se poderíamos pedir-lhe um favor.
 Um favor? Por favor. Me diga mais.
 Bem, estávamos nos perguntando se você seria gentil o suficiente para compartilhar um pouco do <color:#1>amor</color> em seu coração.
-Ha ha! Realmente, as pessoas de longe são muito diferentes de nós! Diga-me. O que devo fazer?
-Apenas fique parado por um segundo. Não vai demorar muito.
 Por favor, aguarde, hermanito! Vou preparar o jantar agora!
 Tra la la laaa la-la! La la la laaa!<NL>Diga-me, o que você acha da minha música?
 Tra la la laaa la-la! La la la laaaa!
@@ -29385,11 +29193,6 @@ EI! Você se importaria de fechar os olhos por apenas alguns segundos?
 Tê ei! Este jogo é divertido!<NL>Agora, vou fechar os olhos!
 Tê ei! O que aconteceu? Meu coração... Fez cócegas um pouco...
 Um dia, viajarei para Al Mamoon e me tornarei o cantor mais famoso do mundo!
-Olha, Olliezinho! Seu Medalhão está ofuscando minha lanterna! Essa garota tem <color:#1>ambição</color> de sobra, sem dúvida!
-Hum, ouça... Se não se importa, gostaríamos de pedir um favor.
-Um favor?<NL>Bem, vou tentar ajudar...
-EI! Você se importaria de fechar os olhos por apenas alguns segundos?
-Tê-ei! Este jogo é divertido!<NL>Agora, vou fechar os olhos!
 Devo continuar cantando! Devo realizar meu sonho!
 Você verá! Quando eu crescer, serei o maior pastor llapaca de Perdida!
 Não adianta... Nunca serei um pastor llapaca.
@@ -29404,11 +29207,7 @@ Bem, você sabe do que se trata, não é, Olliezinho? O pobre rapaz perdeu sua <
 Não podemos simplesmente deixá-lo assim!<NL>Temos que ajudá-lo a recuperar sua ambição!
 Boa, Olliezinho! Vamos ver se há um pedaço de <color:#1>ambição</color> implorando por aqui.
 Hmm... Acho que ele irá viver... Mas não é muita vida se você não tem um sonho, não é? Adeque-se, no entanto...
-Não adianta... Nunca serei um pastor llapaca.
-Nossa, qual é o problema? Você com certeza parece triste<NL>com alguma coisa.
-Eu não me importo mais! Por que devo passar meus dias perseguindo llapacas estúpidas?
 Eu queria ser o melhor pastor llapaca de Perdida, mas não me importo mais...
-Bem, você sabe do que se trata, não é, Olliezinho? O pobre rapaz perdeu sua <color:#1>ambição</color>, não é? Com o coração partido, ele está.
 Nunca serei o maior pastor llapaca de Perdida.<NL>Mas quem se importa? Foi um sonho idiota...
 Tudo pronto, Olliezinho? Agite sua varinha, lance <color:#8>Entregar Virtude</color>,<NL>e envie um pouco de <color:#1>ambição</color> para o outro lado.
 Ai ai ai! Eu me sinto muito... diferente!<NL>Com o que eu me preocupo? Eu esqueço...
@@ -29431,9 +29230,7 @@ Então, vamos fazer algo sobre isso, ou o quê?
 Eles viajaram tanto e trabalharam tanto.<NL>Não podemos simplesmente deixá-los jogar tudo fora!
 Quantas vezes ajudamos este par agora...? De qualquer forma, você sabe o que fazer, Olliezinho. Ela precisa de um impulso de <color:#1>confiança</color>, não é?
 Mas nós passamos por muita coisa com este par, mun! Não podemos desistir deles agora!
-Ouça, querida, você não acha que é hora de ir? Não faremos negócios em um lugar afastado como este.
 Ummm... Há algo errado?
-Ah, é você! Bem, o que acontece é que minha querida esposa decidiu de repente que não temos chance de vender nada aqui.
 Acho que não consigo continuar assim, indo de um lugar para o outro, mal conseguindo sobreviver... Mais cedo ou mais tarde, o negócio vai acabar, e então onde estaremos nós?
 Parece que a <color:#1>confiança</color> dela está em falta, Olliezinho!
 Mesmo se conseguíssemos fazer nossa loja dos sonhos decolar, quanto tempo duraríamos? Um ano? Um mês? E se os clientes parassem de vir?
@@ -29443,7 +29240,6 @@ Vamos, meu querido marido! Temos lugares para ir e, mais importante, coisas para
 Seremos capazes de abrir nossa loja dos sonhos em pouco tempo!
 Boa sorte com tudo!
 Ai, quase me esqueci! Aqui está algo para o seu problema. Obrigado por estar sempre lá para nós.
-Seremos capazes de abrir nossa loja dos sonhos em pouco tempo!
 Ah, que bom ver você de novo. Este lugar é bom e tranquilo, não é?
 Receio que minha querida esposa esteja se comportando de maneira estranha novamente.
 Eu estou te implorando. Faça o que puder por minha esposa.<NL>Ela não é mais a mesma.
@@ -29470,10 +29266,7 @@ Me parece que é hora de tirar o pó de um certo <color:#1>magia</color> e volta
 Acho melhor irmos procurar uma garota que se pareça com ela.
 Ah, me desculpe, eu pedi muito. Deixa para lá.
 Não consigo esquecer esse sonho...
-Qual é o problema?
-Foi ontem. Tive um sonho estranho.
 No meu sonho, vi uma garota. Ela se parecia comigo. Ela até tinha a minha cara! Mas ela vivia em outro mundo. E lá ela plantou as flores mais lindas.
-Posso te perguntar uma coisa, caso você conheça aquela <NL>garota que eu vi?
 Eu gostaria muito de ter uma das flores rosa que ela cultivou.
 Imagine! Outro mundo!<NL>É tão incrível!
 Oh! É tão bonito. É como a flor do<NL>meu sonho.
@@ -29501,7 +29294,6 @@ Obrigado, senhor. Tenho certeza de que ficaremos bem.<NL>Espere aqui.
 Oh. Lamento ouvir isso. Agora não tenho escolha a não ser esperar outro mascate.
 Ai ai ai! Minhas pobres costas!
 Rapaz, você poderia fazer a gentileza de me ajudar a aplicar isso... Hm? Oh...
-Há algo errado, senhor?
 Parece que não tenho mais as compressas frias que uso para aliviar a dor.
 Prefiro um tipo especial feito por um tomte que mora no Yule, entende?
 Posso pedir um favor a você? Você viajaria para o Yule para mim e coletaria uma <color:#1>compressa fria</color> deste tomte?
@@ -29515,7 +29307,6 @@ Farei bom uso da compressa fria que você me trouxe, jovem. Você fez um velho f
 Orgulho! Borgle! Orgulho!
 Diga, Sr. Drippy, como são chamados esses animais?
 Aqui está o nobre llapaca, Olliezinho! Majestoso, não é? Sempre os tive em Perdida, eles têm.
-Orgulho! Borgle! Orgulho!
 Parece que ele está tentando me dizer algo.
 Você não está errado. Este sujeito peludo tem algo a dizer, sem dúvida.
 Acho que é hora de um pouco de <color:#1>magia</color>.
@@ -29593,7 +29384,6 @@ Ah, e tem mais! Tenho uma ótima fórumla para você usar em seus experimentos d
 Use-o para fazer algo saboroso... e sinta-se à vontade para aparecer e compartilhar comigo a qualquer momento.
 Ele tem uma bochecha piscando! Ele não pensa em nada além de seu estômago, ou o quê?
 Muito obrigado! E lembre-se, se você tiver algum pedaço saboroso que queira compartilhar, você me encontrará aqui... comendo feno.
-Orgulho! Borgle! Orgulho!
 Você recebeu uma nova fórumla de alquimia!<NL>Vá até o caldeirão para experimentá-la!
 Ah é você. Parece que nossos caminhos se cruzaram mais uma vez. Claro, eu previ que você estaria aqui em breve.
 Puxa! É o Derwin!
@@ -29614,12 +29404,8 @@ Ainda assim, com uma combinação de dedicação e astúcia animal, é estatisti
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
 Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Claramente você acredita que o avanço do conhecimento humano é menos importante do que... o que quer que você faça.<NL>Acho que você descobrirá que está errado.
-O primeiro espécime de interesse é uma <color:#1>alma sangrenta</color>, a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
-Eu também gostaria de ver em primeira mão um <color:#1>flash fry</color>—uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
-Finalmente, gostaria de examinar uma curiosa criatura musical conhecida como a...erm...<color:#1>trumpy</color>... (murmúrio) Tenho certeza que você conhece a espécie em questão! E não, não vou me repetir.
 Pouco se sabe sobre as criaturas mencionadas, então estou mais do que o normal ansioso para vê-las em carne e osso.
 Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Sim, estes estão corretos.
 Parece que você me trouxe com sucesso os espécimes que solicitei.
 Além disso, você o fez em um tempo um pouco menor do que o previsto, com base na minha estimativa da raridade dos sujeitos e na sua inteligência. Claramente, outro fator está em ação...
@@ -29632,34 +29418,16 @@ Bem, espero que a ciência seja mais grata do que você!
 ...O que é que foi isso? Não importa. Em troca de sua ajuda contínua, vou recompensá-lo. Aqui.
 Acho que você descobrirá que solicitei três espécimes, enquanto você coletou apenas dois. Ainda preciso de uma <color:#1>alma sangrenta</color>.
 Como afirmei claramente, a <color:#1>alma sangrenta</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
-Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Acho que você descobrirá que solicitei três espécimes, enquanto você coletou apenas dois. Eu ainda preciso de um <color:#1>flash fry</color>.
 Como afirmei claramente, o <color:#1>flash fry</color> é uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
-Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Acho que você descobrirá que solicitei três espécimes, enquanto você coletou apenas dois. Eu ainda preciso de um...um... Ahem! Eu ainda preciso de um <color:#1>trumpy</color>... (murmúrio)
 Como afirmei claramente, o... hum... espécime em questão é uma criatura curiosamente musical... Certamente isso é informação mais do que suficiente.
-Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Acho que você descobrirá que <color:#1>alma sangrenta</color> e <color:#1>flash fry</color> se destacam pela ausência.
-Como afirmei claramente, a <color:#1>alma sangrenta</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 O <color:#1>flash fry</color>, por sua vez, é uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
 Não volte até encontrá-los!
-Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Acho que você descobrirá que <color:#1>alma sangrenta</color> e, hum, <color:#1>trumpy</color>... (murmúrio) ...são notáveis por sua ausência.
-Como afirmei claramente, a <color:#1>alma sangrenta</color> é a sucessora metamórfica de uma criatura fantasmagórica conhecida por assombrar a Trilha da Lápide.
 Enquanto o <color:#1>trumpy</color>...um, criatura, como nós, familiarologistas, o chamamos, é uma besta curiosamente musical...
-Não volte até encontrá-los!
-Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Acho que você vai achar que <color:#1>flash fry</color> e, hum, <color:#1>trumpy</color>... (murmúrio) ...são notáveis por sua ausência.
-Como afirmei claramente, o <color:#1>flash fry</color> é uma espécie produzida através da metamorfose de uma criatura notável por carregar um par de pedras em brasa.
-Enquanto o <color:#1>trumpy</color>...um, criatura, como nós, familiarologistas, o chamamos, é uma besta curiosamente musical...
-Não volte até encontrá-los!
-Ah, e nem é preciso dizer que não basta simplesmente guardar esses espécimes em um Repouso dos Familiares.
-Não, você deve trazer todas essas três criaturas<NL>para mim juntas.
 Você ficará interessado em saber que minha pesquisa inovadora está indo de vento em popa. É natural que você se orgulhe de ter me ajudado.
 Meus colegas da fraternidade familiarológica nada disseram sobre a altitude literalmente estonteante de Perdida. Eu me sinto um pouco tonto.
 Mas vou suportar isso pelo bem da ciência!<NL>Aonde quer que meus estudos levem, eu irei!
@@ -29746,9 +29514,6 @@ Você falou com aquele soldado de Xanadu, Olliezinho? Você deveria, mun. Bando 
 Quantos pedaços de coração vamos tirar do velho Pirateface? Ele é um poço sem fundo de emoção, aquele!
 Ahh, há viril! Nada como um pouco de amor obsessivo e não correspondido para puxar as velhas cordas do coração!
 Parece que sua deixa para brincar de cupido, Olliezinho!
-Quantos pedaços de coração vamos tirar do velho Pirateface? Ele é um poço sem fundo de emoção!
-Ahh, há viril! Nada como um pouco de amor obsessivo e não correspondido para puxar as velhas cordas do coração!
-Parece que sua deixa para brincar de cupido, Olliezinho!
 Khulan disse para ir vê-la quando estivermos prontos, não é? Estou pronto, Olliezinho. Você está?
 Então Kublai é um figurão do exército de Xanaduvian, não é? E aqueles piratas do céu são seus soldados? Eita, você realmente não pode julgar um livro pela capa, pode?
 Vamos começar esta cerimônia Estrela da Manhã em andamento, vamos, Olliezinho? É hora de deixar a varinha do jeito que era mais uma vez!
@@ -29800,15 +29565,36 @@ Você sabe, quando tudo isso acabar, eu vou sentir falta, erm ... se comportar m
 E aí? Desculpe, mun, se é uma conversa estimulante que você está procurando, estou com poucas palavras sábias no momento. Tenho alguns imprudentes, se você gosta deles...
 Não tema, Drippy está aqui!<NL>Quer ele goste ou não...
 Alguma tarefa que você ainda não resolveu, Olliezinho? Vale a pena fazer, eles são, se você puder poupar o tempo.
-Purrprietário
-Capataz
-Mercante
+Purrprietor
+Taskmaster
+Peddler
+掲示板
+オババ
+サザラ
 Kublai
-Guarda de Xanadu
-O condutor
+アイリ
+Xanadu Guard
+エリック
+オリバー
+シズク
+The Conductor
 Horace
-Abissínia
+Abyssinia
+行商人（夫）
+行商人（妻）
 Derwin
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
 
 pla-t12_npc_text_en.cfg.bin.kup
 .........!<NL>...!
@@ -29849,7 +29635,6 @@ Se eu conseguir subir a bordo de uma dessas grandes criaturas marinhas, posso sa
 Coma nossa comida. É tudo gostoso e tal.
 ............
 Uh, eu fiz algo errado, senhor?
-............
 Eu, hã... me desculpe se te ofendi...
 Cala a boca, mun! Pelo que você está se desculpando?
 Não é sua culpa que o velho Zip Lip se recuse a abrir a armadilha, é? Oi! Você! Qual é o seu problema?
@@ -29861,15 +29646,10 @@ Eu não vou pirar, acalme-se! Você é uma vergonha para a raça das fadas, mun!
 Você tem razão. Ele provavelmente tem, hein.<NL>Devemos ajudá-lo a recuperá-lo?
 Muito lançando certo, vamos! Eu, deixar um dos meus camaradas fadas em necessidade? Nunca! Uma porção enorme de <color:#1>bondade</color> chegando!
 Oi! Esta é a parte em que você deve dizer: "Claro, Sr. Drippy! Vamos ajudá-lo, Sr. Drippy!" Honestamente!
-............
 Ele com certeza não parece muito feliz...
 Oi! Diga alguma coisa, sim? Você está assustando seus clientes mais pobres, mun!
-...........Nada pessoal, tipo. Eu simplesmente não vejo sentido em tudo isso "Como vai? O tempo está bom..." lixo<NL>é tudo...
-V-Você não vê sentido em pagar a seus clientes a mais rudimentar das cortesias!? Virar, mun! Que tipo de lojista é você!?
-... Espera aí um segundo! Você está com o coração partido, não é? Teve sua <color:#1>bondade</color> roubada, não é!?
-............
+...Espera aí um segundo! Você está com o coração partido, não é? Teve sua <color:#1>bondade</color> roubada, não é!?
 Acho melhor lançar <color:#8>Entregar Virtude</color> e entregar um pouco de <color:#1>bondade</color>, hein?
-............
 Hã!?
 O que—!?<NL>Ele não estava com o coração partido ou algo assim?
 ............Como?
@@ -29880,7 +29660,6 @@ Pelo amor de Deus, mun!<NL>Ele quase não mudou nada!
 Bem, ele, hã...parece um pouco...mais feliz, você não acha...?
 Honestamente, mu... Você vai embora por cinco minutos e toda a raça das fadas vai para o pote!
 ............Venha de novo, não é isso.<NL>Aqui está um presente, tipo.
-............Como?
 Beleza! Eu vou fazer esse bando rir tanto que eles vão se molhar!
 Caramba, mun...<NL>Por que não consigo me conter...?
 Há algo de errado?<NL>Você parece meio chateado...
@@ -29898,16 +29677,14 @@ Mas não se preocupe, acho que podemos ajudá-lo.<NL>O que você diz, Olliezinho
 Beleza! Não se esqueça agora — é de <color:#1>contenção</color> que precisamos, e muito!
 Bem, acho que não é tão urgente. Eu sinto um pouco de pena do pobre rapaz, tipo, mas não tem como evitar, hein...
 Recentemente, não consigo deixar de fazer piadas em situações completamente erradas.
-Outro dia, tentei fazer uma piada quando fui visitar minha bunda que está doente na cama, e antes disso, foi nessa reunião importante...
 Isso não é bom, não é? Acho que vejo o problema, no entanto. Com o coração partido, você está. Você teve sua <color:#1>restrição</color> roubada, não foi?
 Ele tem, né? Então é por isso que ele não consegue evitar contar piadas na hora errada.
 Caraca, mun...<NL>Eu simplesmente não consigo me virar...
 Você tem um pouco de <color:#1>controle</color> aí, não é, Olliezinho?<NL>Vá em frente, lance <color:#8>Entregar Virtude</color> e entregue-o.
 Ooh-err, isso é um sentimento realmente engraçado.<NL>Mas legal, veja bem...
 Então, você se sente diferente?
-... Quer saber, eu... eu acho que sim! Não tenho mais vontade de contar piadas à toa!
+...Quer saber, eu... eu acho que sim! Não tenho mais vontade de contar piadas à toa!
 Tá, mun! Você acabou de me resolver!<NL>Aqui, para dizer obrigado, tipo!
-Beleza! Eu vou fazer esse bando rir tanto que eles vão se molhar!
 Apenas espere! Vamos ser a maior coisa nesta cidade desde a conta da comida da minha mãe!
 Não adianta, mun. Eu nunca vou ser bom no velho jogo de comédia. Acho que a melhor coisa é se eu desistir de tudo...
 Hã? O que há com você de repente, mun?<NL>Você estava muito ansioso até cinco minutos atrás!
@@ -29922,19 +29699,14 @@ Desculpe, mun... Não posso. Eu simplesmente não tenho confiança para isso<NL>
 Se ele não receber um impulso logo, a carreira desses dois acabou...
 Não podemos deixá-los assim Sr. Drippy?<NL>Vamos ajudá-los!
 Esse é o espírito, Olliezinho! É melhor termos um pouco de <color:#1>confiança</color> então, não é?
-Odeio ter que deixá-los assim, mas já estamos <NL>tão ocupados...
-Não adianta, mun. Eu nunca vou ser bom no velho jogo de comédia. Acho que a melhor coisa é se eu desistir de tudo...
-Hã? O que há com você de repente, mun?<NL>Você estava muito ansioso até cinco minutos atrás!
-Eu não sei. Eu só... eu não sirvo para o palco, não é?<NL>Eu só não sou engraçado o suficiente.
+Eu odeio ter que deixá-los assim, mas já estamos <NL>tão ocupados...
 Rá... trágico! Este pobre menino de coração partido teve toda a <color:#1>confiança</color> drenada dele!
-Se ele não receber um impulso logo, a carreira desses dois acabou...
 Eu só... não fui feito para o palco, não é? Eu não sou engraçado o suficiente.
 Aqui, Olliezinho, lance <color:#8>Entregar Virtude</color> e deixe a velha <color:#1>confiança</color> fluir, certo?
 ...Hã? Isso é engraçado. Me sinto toda...calma, e...confiante! Sim! Ansioso para fazer um pouco de rotina, estou! Me aponte para o palco e me veja partir!
 É sério? Recuperou sua confiança, não é?<NL>Honestamente, tipo? Isso não é uma piada sem graça ou nada?
 Nah, cara! Sem medo, eu sou! Eu acho que poderia fazer um show na frente do próprio Shadar e nem pestanejar!
 Vocês estão lançando salva-vidas! Ta, mun, sério.<NL>Aqui, não é muito, mas vai ter que servir.
-Apenas espere! Vamos ser a maior coisa nesta cidade desde a conta da comida da minha mãe!
 Ahhh! Nada como uma boa bebida gelada depois de um dia duro de trabalho, não é mesmo? Há gratificante!
 que diabos você está falando, mun!? Desistir da comédia? Se essa é a sua ideia de piada, talvez você deva desistir, porque não é engraçado!
 Vamos, mun! Pense bem! Você é muito engraçado!<NL>Por que você desistiria de tudo?
@@ -29989,7 +29761,6 @@ Salsicha e omelete de creme, não é?<NL>É melhor eu tentar, hein?
 Eita, lá está corajoso! Este tem <color:#1>coragem</color> saindo de seus olhos!
 Diga, Sr. Fada... você se importaria de compartilhar um pouco de sua coragem conosco?
 Claro que não, mun. Vá pela sua vida. Você teria que pegar alguns baldes emprestados antes que eu percebesse a diferença!
-É sério? Uau, valeu!
 Certo, vamos ver o que está no quadro de promoções hoje, <NL> certo?
 Flip, mun...isso parece adequado...nnngh...gostoso...<NL>O que eu não faria por...uma bela banha...nnngh...torta...
 Eu não vou deixar meu...apetite me dominar...<NL>Eu posso resistir... Só...tenho que...ser...forte...
@@ -30029,13 +29800,9 @@ Um pouco da minha crença? Oh, o velho truque <color:#8>Guardar Virtude</color>,
 Esse é o único. Olliezinho aqui pode parecer um garotinho, mas na verdade ele é tipo um bruxo.
 "Tipo um bruxo"?
 Uau! Fazia anos que não via um mago.<NL>Vá em frente, então! Sirva-se, rapaz!
-É sério? Uau, valeu!
 Beleza! Espero que meu coração continue ajudando muitas almas<NL>necessitadas!
 Ainda não desisto do nosso mundo! Um dia, a paz voltará e as fadas encherão as florestas e os campos mais uma vez!
-Ei, Sr. Drippy, isso é uma <color:#1>crença</color> muito forte, hein?
-Deixe isso comigo, Olliezinho! Ei, você!<NL>É um empréstimo de sua crença, certo?
 Minha crença, você diz? Oh, o velho truque de <color:#8>Guardar Virtude</color>, não é? Faz um tempo desde que eu vi um pouco de bruxo. Vá em frente então, rapaz! Tenha em mim!
-É sério? Uau, valeu!
 Um dia, em breve, o mundo estará tão cheio de fadas quanto nos velhos tempos, preste atenção nas minhas palavras!
 Enrole, enrole!
 Enrole, enrole!<NL>Ei, você! Jimzinho!
@@ -30056,13 +29823,10 @@ Tem razão, Sr. Drippy!<NL>Desculpe-me, Sr. Fada, posso perguntar-lhe uma coisa?
 Hã? O que é?
 Gostaríamos de usar um pouco de sua ambição para ajudar alguém que não tem o suficiente.<NL>Tudo bem?
 Claro, mun!<NL>Vá em frente pela sua vida!
-É sério? Uau, valeu!
 Ooh, que bom! Eu me sinto quebrando!<NL>Como uma nova fada, mun!
 Vou espalhar a palavra de nossa melhor iguaria em todo o mundo! Todo mundo já deve ter ouvido falar de fairy rarebit em breve, você verá!
-Bem, se isso não mostra um pouco de <color:#1>ambição</color>,<NL>não sei o que mostra!
 Diga, Sr. Fada... Gostaríamos de usar um pouco de sua ambição para ajudar alguém que não tem o suficiente. Tudo bem?
 Hã? Claro que pode, mun! Não faço ideia do que você está falando, mas vá pela sua vida!
-É sério? Gee, valeu!
 Não vou desistir até que o mundo inteiro conheça o sabor fabuloso da fada rarebit!
 Caraca! Ainda não é bom! Precisa ser pelo menos quatro zilhões de vezes mais engraçado! Arrrgh!
 Não adianta, mun! Ainda não está nem perto de ser bom o suficiente! Precisa de mais... mais... Só precisa de mais! Vamos!
@@ -30084,10 +29848,6 @@ Muito obrigado!<NL>Aguarde um segundo...
 O que diabos você acabou de fazer? Eu me sinto.. calmo... Hmm... Talvez eu esteja tentando um pouco demais, hein?
 Eu vou ser o maior homem que a Terra das Fadas já viu!
 É preciso uma grande <color:#1>ambição</color> para ter um objetivo como esse.<NL>Oi, que tal nos dar uma mão, amigo?
-E agora?<NL>Não vê que estou muito ocupado?
-Vá em frente, seu grande idiota!<NL>Não vai demorar um segundo.
-Tudo bem, tudo bem, se eu precisar.<NL>Mas só porque você pediu tão educadamente...
-Muito obrigado!<NL>Aguarde um segundo...
 Hmm... Talvez exista algo como estar muito preparado...
 Eu adoraria experimentar um pouco do velho pastelão um dia...
 Caraca!<NL>Vou ter que fugir da cidade, mun...
@@ -30118,7 +29878,6 @@ As criaturas que roubaram, são os <color:#1>Vampirescos</color>, e você terá 
 Faça isso e você poderá arrancar <color:#1>todos os três palhaços</color> de suas luvas de ladrão sem problemas! Vá em frente, então!
 Como? Você trouxe as palhaçadas de volta para mim?
 ...O quê? Apenas um? Isso não é bom! Apresse-se e pegue <color:#1>os outros dois</color>, certo? Estou acabado de outra forma!
-Como? Você trouxe as palhaçadas de volta para mim?
 ...Dois até agora, não é? Falta apenas <color:#1>um</color> para pegar, então!<NL>Não desista agora!
 Recebemos as palhaçadas de volta para você, Sr. Fada!
 Você também! Sua belezinha!<NL>Obrigada, cara, mun!
@@ -30150,9 +29909,6 @@ Arrumado.<NL>Já voltamos!
 Sim, ele só tem a si mesmo para culpar, eu suponho...
 (sniff) Eu me sinto muito podre, mun... Eu nunca deveria ter ido e pulado no rio quando aqueles pequeninos nasceram...
 Bem, você só pode culpar a si mesmo, mun.<NL>Parece um resfriado desagradável também.
-Você tomou algum remédio?
-Não tenho nenhum, tenho? E não posso procurar ingredientes no meu estado...
-Ei, você não poderia ser um amigo e comprá-los para mim, poderia?
 Desculpe fazê-lo esperar!<NL>Trouxemos os ingredientes para o seu remédio!
 Diga tá!
 Tá! Agora posso finalmente melhorar!
@@ -30170,7 +29926,6 @@ Estou em minhas últimas pernas aqui, mun...<NL>Você tem que se apressar...
 Ainda precisamos de um pouco de <color:#1>água de nascente</color> e um monte de <color:#1>brotos de reforço</color>, certo?
 Não venha me imitar e pular no rio, certo? É uma ideia estúpida adequada...
 Precisamos de <color:#1>um monte de brotos de reforço</color>, <color:#1>um maço de folhas de sleepnot</color> e <color:#1>uma bottle of água mineral</color> para este medicamento.
-Estou em minhas últimas pernas aqui, mun...<NL>Você tem que se apressar...
 Meus dias de pular rio acabaram. Da próxima vez, vou encontrar uma maneira menos estúpida de comemorar...
 Ah, eu digo! Como é bom ver você de novo! Quem diria que acabaríamos nos encontrando em um lugar velho como este, hm?
 É um prazer vê-lo também, senhor!<NL>Como veio parar aqui?
@@ -30189,10 +29944,7 @@ Sim, tirei o peso dos velhos pratos de carne com a ajuda de um <color:#1>tronco 
 Uma caverna? Nunca vi uma caverna por aqui...<NL>Ainda assim, se você diz. Vamos dar uma olhada<NL>nossa, não é?
 Você não vai? Incomodar... Todas as minhas reflexões, se foram para sempre...<NL>Que tragédia...
 É bom vê-lo novamente, senhor!<NL>Como veio parar aqui?
-Bem, eu aluguei um navio para a velha Outonia e espiei este lugar do alto de um ninho de corvo, por assim dizer. Parecia bastante alegre, então pensei em dar uma olhada.
-E eis que me encontro em uma cidade cheia de fadas! Eu realmente deveria anotar minhas primeiras impressões, o que! Vejamos agora...
-...Oh. Ah, incomoda.
-Eu, um... pareço ter... perdido o velho diário mais uma vez...
+Eu, um...pareço ter...perdido o velho diário mais uma vez...
 Você não poderia ser absolutamente querido e rastrear a coisa podre, poderia?
 Tenho quase certeza de que o vi pela última vez em uma <color:#1>caverna</color> que encontrei.
 Tirei o peso dos velhos pratos de carne com a ajuda de um <color:#1>tronco caído</color>. Prefiro pensar que será em algum lugar próximo.
@@ -30239,14 +29991,12 @@ Claro que deveria! Confie em sua velha mãe! Agora...<NL>Que tal uma boa cura ch
 .........
 Nada de bom? Que multidão resistente. Deixa para lá...
 Você poderia dar um, eu suponho.<NL>Chame de "free-lance"...
-.........
 Ainda não está interessado?
 Eita, você quer a lua em uma vara, você quer! De todos os meus pequeninos, nenhum me deu tanta dor de cabeça! As coisas que eu faço por você!
 As coisas que você não faz, mais como!
 Não use esse tom comigo, jovem! ...Multar! Vou lhe contar meu segredo mais secreto, só não me culpe se ficar envergonhado!
 Oh, apenas cale a boca e conte-nos, sim?
 É a lança com a qual eu costumava balançar você para dormir antes que você tivesse idade suficiente para me beijar tão impiedosamente. (sniff) Minha querida e velha canção de ninar...
-.........
 Ohhh, não me olhe desse jeito, amor.<NL>Você me fez começar agora... Bem, eu estou...
 ...Cale a boca, mun!<NL>Tá pela ideia. Até mais...
 Você teve a ideia para a lança da canção de ninar!
@@ -30265,7 +30015,6 @@ Hum? Hoo é isso, hein? Oh, hoo!<NL>Ei, posso ajudar, hoo hooje?
 Coruja seja hoonesta e veja hoo novamente!
 Cau! Um cliente agitado! Eu não quero ser bruto, mas cada um de nossos itens é um cawker esvoaçante!
 Os preços de Ouer estão batendo malucos! Eu sou um corvo batendo asas, eu!
-............
 Gaaaaaah! Como acabei neste ninho de gnomos?
 EI! Quem você está chamando de gnomo, sua melindrosa atrevida!
 Gaaaaaah! Você sabe assustar uma gaivota!<NL>Como pode me entender?
@@ -30311,7 +30060,6 @@ Vamos levar esses meninos de volta ao palácio em Hamelin, sim?
 A Trilha da Lápide deveria estar ao norte de Hamelin, não é?
 Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Não precisamos tentar encontrar o magia certo para passar por aquele esqueleto na Trilha da Lápide?
-Não podemos voltar ao nosso tempo até pegarmos aquela varinha lá na Trilha da Lápide, mun.
 Hora de voltar para o palácio em Hamelin!<NL>Esses príncipes precisam cair fora, não é?
 Vamos voltar para o palácio em Hamelin, ou o quê, mun?
 Vamos acreditar um pouco naquele Marcassin, certo?
@@ -30400,11 +30148,63 @@ Parry o Purrprietário
 Tecwyn, o Capataz
 Huw a Hootenanny
 Cai, o Cawtermaster
+掲示板
 Hilário
 Zangado
 Fada madrinha
 ???
+シズク
 Horace
+行商人（夫）
+行商人（妻）
+q_0041_大富豪
+npc_001
+npc_002
+npc_004
+npc_005
+npc_006
+npc_008
+npc_011
+npc_013
+npc_015
+npc_017
+npc_018
+npc_019
+npc_021
+npc_023
+npc_024
+npc_026
+npc_028
+npc_030
+npc_031
+npc_035
+npc_036
+npc_038
+npc_039
+npc_040
+npc_041
+npc_043
+npc_046
+npc_048
+npc_049
+npc_050
+npc_052
+npc_053
+npc_054
+npc_055
+ジュニア1
+ジュニア2
+ジュニア3
+ジュニア4
+ジュニア5
+ジュニア6
+ジュニア7
+ジュニア8
+ジュニア9
+ジュニア10
+ジュニア11
+ジュニア12
+カモメ
 
 pla-t20_npc_text_en.cfg.bin.kup
 É isto...?
@@ -30555,12 +30355,87 @@ Timmy Toldrum
 Genghis
 Denny
 O condutor
+npc_001
+npc_002
+npc_003
+npc_004
+npc_005
+npc_006
+npc_007
+npc_008
+npc_009
+npc_010
+npc_011
+npc_012
+npc_035
+npc_038
+npc_039
+npc_040
+npc_041
+npc_042
+npc_043
+npc_044
+npc_045
+npc_046
+npc_050
+npc_051
+？？？
 
 pla-t_010_010_guide_text_en.cfg.bin.kup
 Explore a cidade de Hamelin!
 Dirija-se ao Palácio Porcino!
 
 quest_text_en.cfg.bin.kup
+マークの大事な話
+母さんの待つ家へ
+いよいよ試運転
+大妖精と魔法の本
+杖の代わりになるものは
+ふしぎな少女と古びた杖
+これが二ノ国！
+心を奪われたヌケガラビト
+古の木の頼み
+心を受け渡す魔法
+ゴロネール王国の開門
+国王様の大事な魚
+やる気の心とトレビンレーダー
+消えた国王様の謎
+因縁の対決！？
+念願の魔法の杖！
+砂漠の街ババナシア王国
+賢者ソロンとその娘
+賢者の試練
+デカロック山の噴火
+次の賢者を求めて
+港町ビッキーニのなべ泥棒
+がまんを忘れた女王様
+奪われた許可証
+いざボーグ帝国へ
+妖精が暮らすドートン森
+笑いを奪われたネタギレビト
+オカンの中でジュニアを救え
+シズクとオリバーの決断
+ボーグ宮殿潜入作戦
+１５年前のボーグ帝国
+伝説の杖グラディオン
+ロデックとラース
+空賊王ヘブルチ
+飛べないドラゴン
+クロに乗って
+魔石と三従者
+３つの魔石とグラディオン
+地上に堕ちた空の女王
+グラディオンの真の力
+マークの夢
+ひとつながりの笛
+死者の湖
+闇の魔導士ジャボー
+新しい二ノ国
+聖灰の恐怖
+ココルと共に
+幻の大地モーヤ
+二ノ国の想いをひとつに
+決戦！
 O garoto de recados de Leila, Philip, chama Oliver quando ele sai da loja. Parece que ele tem algo importante para lhe dizer...
 Phil diz a Oliver que finalmente terminou, e que esta noite eles a levarão para dar uma volta! Mas primeiro Oliver deve ir para casa com as compras de sua mãe!
 Finalmente é hora de levá-la para dar uma volta...<NL>Com sua mãe dormindo profundamente, Oliver foge e se dirige para a garagem de Phil!
@@ -30778,59 +30653,48 @@ Missão concluída!
 Uma grimalkin feminina perto da Loja Cawtermaster em Ding Dong Dell parece estar imersa em pensamentos.
 Uma grimalkin feminina em Ding Dong Dell gostaria de iluminar sua varanda com algumas flores.
 Uma grimalkin feminina de Ding Dong Dell pediu para você encontrar flores e água para ajudá-la a iluminar sua varanda.
-Missão concluída!
 Uma mãe de Ding Dong Dell parece estar preocupada com alguma coisa.
 Uma mãe de Ding Dong Dell está preocupada com seus filhos, que ainda não voltaram para casa.
 Uma mãe de Ding Dong Dell pediu para você encontrar seus três filhos.
 Você encontrou um dos três filhos desaparecidos da mãe de Ding Dong Dell.
 Você encontrou dois dos filhos desaparecidos da mãe de Ding Dong Dell.
 Você encontrou os filhos desaparecidos da mãe de Ding Dong Dell.
-Missão concluída!
 Um morador da floresta que mora na parte leste de Colinas Rolantes parece estar tendo alguma dificuldade.
 Um morador da floresta tentou derrotar sozinho os rinocerontes que ameaçavam sua casa.
 Você prometeu a um morador da floresta que derrotaria os cinco rinocerontes que estão ameaçando sua casa.
 Você derrotou <quest_exb008:qs0004> dos rinocerontes que ameaçam a casa do morador da floresta.
-Missão concluída!
 Uma jovem em Al Mamoon parece realmente muito preocupada com algo que seu marido esqueceu.
 O marido de uma mulher Mamooni deixou o almoço para trás quando saiu para colher cogumelos.
 Uma mulher Mamooni pediu para você entregar a cesta de almoço de seu amado marido.
 Você entregou a cesta de almoço dos amantes para o marido da mulher em Bosque Dourado.
-Missão concluída!
 Um comerciante idoso perto das fontes de leite em Al Mamoon parece estar preocupado com alguma coisa.
 Um comerciante idoso de Al Mamoon está preocupado porque suas linhas de abastecimento estão sendo atacadas.
 As mercadorias não podem ser entregues em Al Mamoon porque cabeças-duras estão atacando mercadores enquanto eles atravessam o deserto.
 Você derrotou <quest_exb008:qs0006> caveiras, conforme solicitado pelo mercador em Al Mamoon.
 Você derrotou <quest_exb008:qs0006> caveira, conforme solicitado pelo mercador em Al Mamoon.
 Você derrotou com sucesso dez cabeças de osso, como o comerciante em Al Mamoon pediu.
-Missão concluída!
 Um menino parado no portão principal de Al Mamoon parece estar esperando que alguém volte.
 Um jovem menino Mamooni está preocupado porque seus pombos estão atrasados para voltar para ele.
 Um jovem menino Mamooni pediu para você encontrar seus três pombos desaparecidos.
 Você encontrou um dos pombos desaparecidos do menino Mamooni e explicou que ele deveria ser devolvido ao seu dono.
 Você encontrou dois dos pombos desaparecidos do menino Mamooni e os convenceu a voltar para seu dono.
 Você encontrou todos os três pombos desaparecidos do menino Mamooni e os convenceu a voltar para seu dono.
-Missão concluída!
 Um vendedor de curry em Al Mamoon parece estar precisando de ajuda.
 Um vendedor de curry em Al Mamoon não tem os ingredientes necessários para fazer o famoso curry tikka mahala.
 Para fazer o famoso curry tikka mahala, é preciso ter os temperos especiais do Sheik, o arroz macio e a carne macia.
-Missão concluída!
 Parece que um designer da Enseada Naufrágio precisa de um favor.
 Uma estilista da Enseada Naufrágio carece dos materiais necessários para realizar seu novo e impressionante conceito de maiô.
 Uma designer da Enseada Naufrágio pediu que você lhe desse três folhas de arco-íris.
-Missão concluída!
 Um caranguejo azul está vadiando no cais em Enseada Naufrágio há algum tempo. Parece agitado. Pode ser ferido?
 Um caranguejo azul em Enseada Naufrágio está preocupado com seu amigo, que foi arrastado por uma onda gigante.
 Um caranguejo azul em Enseada Naufrágio pediu para você procurar seu amigo desaparecido.
 Você encontrou o caranguejo perdido em uma ilha a leste da Enseada Naufrágio.
-Missão concluída!
 Uma fada de Teeheeti parece estar em pânico depois de perder algo importante.
 Uma fada em Teeheeti está em pânico depois de perder alguns pastéis que "emprestou" de um amigo.
 A fada em Teeheeti aconselhou você a cegar os vampirescos que roubaram os pastéis antes de derrotá-los.
-Missão concluída!
 Uma fada de Teeheeti parece estar em um mau caminho.
 Uma fada em Teeheeti pegou um resfriado depois de pular no rio.
 Uma fada de Teeheeti pediu para você trazer para ele um pouco de água de nascente, alguns brotos de reforço e algumas folhas de sleepnot.
-Missão concluída!
 A paz voltou a Bosque Dourado, assim como as fadas, mas algo ainda parece estar incomodando-as...
 Alguns hiperjavalis se mudaram para Bosque Dourado, tornando a vida muito difícil para as fadas que vivem lá.
 Um total de três hiperjavalis se mudou para Bosque Dourado.
@@ -30838,18 +30702,15 @@ Você derrotou <quest_exb008:qs0013> dos irritantes hiperjavalis comedores de co
 Você derrotou todos os três hiperjavalis comedores de cogumelos.
 As fadas do Bosque Dourado estão sendo atacadas pelo chefe dos javalis!
 Você derrotou os javalis que estavam devorando todos os cogumelos em Bosque Dourado.
-Missão concluída!
 Uma senhora parada na rua principal de Hamelin parece estar tendo alguma dificuldade em cultivar uma flor.
 Uma senhora de Hamelin quer dar uma flor para sua mãe em seu aniversário, mas parece que ela não vai florescer a tempo!
 Uma senhora de Hamelin pediu para você fazer sua flor desabrochar a tempo do aniversário de sua mãe.
 Você lançou um magia na flor que uma dama de Hamelin quer dar à mãe, mas ela não desabrochou completamente.
-Missão concluída!
 Um pesquisador de Hamelin está perdendo um material importante e parece estar precisando desesperadamente de ajuda.
 Um pesquisador de Hamelin está fora de si de preocupação, pois não possui os materiais necessários para fazer remédios para sua irmã doente.
 Um pesquisador de Hamelin pediu para você buscar o fungo do bem-estar de que ele precisa para fazer um remédio para sua irmã.
 Um morador da floresta está disposto a lhe dar um fungo para se sentir bem em troca de uma "pequena ajuda com dores".
 Você obteve o fungo do bem-estar que o pesquisador de Hamelin solicitou.
-Missão concluída!
 Algo parece estar incomodando um pesquisador de Hamelin mais uma vez.
 Um pesquisador de Hamelin está ansioso porque não consegue entregar o remédio de sua irmã para ela.
 Você foi solicitado a afastar os navios piratas que estão bloqueando a rota entre Hamelin e Enseada Naufrágio.
@@ -30857,39 +30718,32 @@ Você afastou um dos navios piratas que estava bloqueando a rota entre Hamelin e
 Você expulsou dois dos navios piratas que estavam bloqueando a rota entre Hamelin e Enseada Naufrágio.
 Você expulsou três dos navios piratas que estavam bloqueando a rota entre Hamelin e Enseada Naufrágio.
 Você expulsou todos os navios piratas que estavam bloqueando a rota entre Hamelin e Enseada Naufrágio.
-Missão concluída!
 Um mecânico em Skull Mountain tem um favor a pedir.
 Um propulsor problemático quebrado deixa um mecânico em Skull Mountain no limite.
 O mecânico do Serpe de Ferro pediu para você consertar um booster quebrado para ele.
 Rusty gentilmente concordou em consertar o booster quebrado para você.
-Missão concluída!
 Um pirata do céu em Skull Mountain parece ter algo em mente.
 Um pirata do céu em Skull Mountain está em um estado terrível depois de perder seu amuleto da sorte.
 Um pirata do céu na Montanha da Caveira pediu que você trouxesse para ele uma das rajadas de vento ocasionalmente lançadas por brisacéfalos.
-Missão concluída!
 O fantasma de uma jovem foi avistado em uma caverna a sudeste de Yule.
 Uma jovem está preocupada sobre como seu animal de estimação o taganso está lidando desde que se tornou um fantasma.
 O fantasma de uma jovem pediu que você treinasse seu taganso de estimação até o nível 40, garantindo assim sua segurança futura.
-Missão concluída!
 Uma mulher de Yule que anseia por visitar climas mais quentes parece estar pensando profundamente em algo.
 Uma mulher de Yule gostaria de nada mais do que colocar as mãos em um maiô estiloso.
 Uma jovem mulher de Yule pediu para você fazer o que for preciso para conseguir um maiô estiloso para ela.
 Uma jovem mulher de Yule não quer nada além de um maiô elegante, mas foi roubado por uma gaivota travessa!
 Um maiô elegante cobiçado por uma mulher de Yule foi roubado por uma gaivota, deixando você sem outra opção a não ser ir atrás dele.
-Missão concluída!
 Um tomte na praça da vila de Yule parece estar procurando por alguém.
 Uma mãe tomte em Yule está preocupada com seu filho, cujo paradeiro é desconhecido.
 Um menino tomte desapareceu. A mãe conta que ele brincava com as outras crianças até pouco tempo atrás.
 Um menino tomte desapareceu. Parece que ele foi testar sua coragem na Gruta Brilhante.
 Você encontrou o menino desaparecido na Gruta Reluzente e o impediu de se machucar.
-Missão concluída!
 Uma jovem de Perdida tem contado a quem quiser ouvir sobre seu sonho extremamente estranho.
 Uma jovem de Perdida quer uma flor como as que viu em um sonho. Um sonho com sua alma gêmea em Motorville.
 Uma jovem de Perdida pediu para você trazer uma flor que não cresce em seu mundo.
 Uma jovem de Perdida pediu que você trouxesse para ela uma flor cultivada por sua alma gêmea, mas ela já havia murchado.
 Uma flor murcha cultivada pela alma gêmea de uma garota Perdidan foi restaurada à sua antiga glória com magia.
 Você recebeu uma flor como aquela que a jovem Perdidan viu em um sonho sobre sua alma gêmea em Motorville.
-Missão concluída!
 Um velho em Perdida parece estar sentindo muita dor.
 Um velho em Perdida está sofrendo de uma terrível dor nas costas.
 Um velho em Perdida pediu para você trazer uma compressa fria de Yule.
@@ -30897,24 +30751,20 @@ Em troca de uma compressa fria, um tomte no Yule gostaria que você lidasse com 
 Você derrotou <quest_exb008:qs0023> esculumino usando uma lâmina flamejante, conforme solicitado por um tomte no Yule.
 Você derrotou cinco esculumino, cumprindo assim sua promessa de um tomte no Yule.
 Você recebeu uma compressa fria de um tomte no Yule, permitindo aliviar o sofrimento de um homem de Perdidan.
-Missão concluída!
 Uma llapaca em Perdida está mostrando pouco interesse em seu feno. Sera que está doente?
 Uma llapaca em Perdida anseia por saborear algo mais refinado do que sua dieta habitual de feno, feno e mais feno.
 Cansada de feno, uma llapaca em Perdida gostaria de provar uma babana.
 Tendo desenvolvido um gosto pelas coisas mais refinadas, uma llapaca em Perdida está ansiosa para provar um camarão luminoso.
 Uma llapaca que vive em Perdida desenvolveu um paladar refinado e adoraria experimentar uma trufa negra.
 Uma llapaca em Perdida pediu que você fornecesse um rabanete da neve para completar sua turnê mundial gastronômica.
-Missão concluída!
 Um porteiro Ding Dong Dell perdeu algo importante e, como resultado, está terrivelmente perturbado.
 Um porteiro de Ding Dong Dell teve seus preciosos bigodes de gato roubados por um monstro.
 Um monstro fugiu com os Bigodes de Gato do porteiro Ding Dong Dell, deixando um rastro de pegadas para trás...
 Um porteiro de Ding Dong Dell implorou para que você devolvesse os Bigodes de Gato dele roubados.
-Missão concluída!
 Um artista Mamooni está lutando para concluir sua última pintura.
 Um artista Mamooni está procurando um modelo que possa inspirá-lo a concluir seu último trabalho.
 Um artista Mamooni pediu que você encontrasse uma modelo que pudesse inspirá-lo a concluir seu último trabalho.
 Você encontrou o modelo certo para o artista Mamooni!
-Missão concluída!
 A barraca de curry Raj Mahal está fazendo um ótimo negócio, e ainda assim algo parece estar incomodando seu dono.
 O dono da barraca de curry Raj Mahal está muito ocupado para entregar todos os pedidos que recebe.
 O dono da barraca de curry Raj Mahal pediu para você entregar um curry ao Sheik dos Temperos em Al Mamoon.
@@ -30927,13 +30777,11 @@ O dono da barraca de curry Raj Mahal pediu para você entregar um curry para uma
 Você entregou um curry a um esqueleto no Crypt Casino conforme solicitado.
 O dono da barraca de curry pediu para você entregar um curry para alguém que mora em uma floresta a oeste de Ding Dong Dell.
 Você entregou um curry para um morador da floresta que mora a oeste de Ding Dong Dell, conforme solicitado.
-Missão concluída!
 Um homem de Hamelin está tendo grande dificuldade em ficar acordado.
 Um homem de Hamelin está tendo muita dificuldade em ficar acordado e pediu sua ajuda.
 Um homem de Hamelin está tendo grande dificuldade em ficar acordado e está procurando um sonolento para ajudá-lo.
 Um homem de Hamelin está tendo muita dificuldade em ficar acordado e está procurando um cappuccino para ajudá-lo.
 Um homem narcoléptico de Hamelin pediu para você trazer para ele uma criatura versada no truque Rise and Shine.
-Missão concluída!
 Uma fada em Bosque Dourado está esperando ansiosamente que alguém volte.
 Uma fada em Bosque Dourado está esperando ansiosamente pelo retorno de seus amigos depois que eles fugiram da floresta.
 Uma fada pediu para você procurar seu primeiro amigo desaparecido em um local marcado por uma bandeira de caveira vermelha.
@@ -30941,7 +30789,6 @@ Uma fada pediu para você procurar seu segundo amigo desaparecido em uma cela na
 Uma fada pediu para você procurar seu terceiro amigo desaparecido em um outro mundo misterioso.
 Uma fada pediu para você procurar seu quarto amigo desaparecido em uma pequena caverna contendo um conjunto de rastros.
 Uma fada pediu para você procurar seu quinto e último amigo desaparecido em uma floresta coberta de neve onde vivem humanos.
-Missão concluída!
 Dizem que um menino em Enseada Naufrágio encontrou o mapa do tesouro de um pirata.
 Um menino em Enseada Naufrágio encontrou o mapa do tesouro de um pirata e está ansioso para investigar os locais marcados nele.
 Um menino em Enseada Naufrágio encontrou o mapa do tesouro de um pirata, mas sua condição o torna quase ilegível.
@@ -30956,23 +30803,18 @@ O texto em todos os monumentos diz: [nz_1][nz_k], [nz_4][nz_l], <NL>[nz_7][nz_3]
 Depois de decodificar o que estava gravado nos monumentos, você aprendeu que eles soletravam o nome de alguém.
 Kublai Khan informou que existe outro tesouro cuja localização não foi marcada no mapa.
 Você descobriu o maior tesouro de Kublai III, aquele que ele valorizava mais do que qualquer outro!
-Missão concluída!
 Um homem em Al Mamoon está procurando por alguém capaz de fazer amizade com criaturas.
 Um homem em Al Mamoon que atende pelo nome de Derwin gostaria de coletar dados sobre certas criaturas.
 Um homem em Al Mamoon que atende pelo nome de Derwin pediu para você trazer algumas criaturas do deserto.
-Missão concluída!
 Um homem em Hamelin está procurando coletar informações sobre certas criaturas.
 Derwin mudou-se para Hamelin em busca de mais dados de criaturas.
 Derwin mudou-se para Hamelin e pediu que você trouxesse algumas criaturas do gênero autômato.
-Missão concluída!
 Parece haver um homem em Yule que está do lado de fora esperando por alguém, apesar do frio intenso.
 Derwin mudou-se para Yule em busca de mais dados de criaturas.
 Derwin mudou-se para o Yule e pediu que você trouxesse algumas criaturas das Ilhas do Inverno para ele.
-Missão concluída!
 Há um estranho em Perdida...<NL>Ele parece estar esperando por alguém.
 Derwin mudou-se para Perdida em busca de mais dados de criaturas.
 Tendo se mudado para Perdida, Derwin pediu que você trouxesse para ele três criaturas totalmente metamorfoseadas.
-Missão concluída!
 Há um homem em frente à fonte em Ding Dong Dell que parece ter algo em mente.
 Derwin mudou-se para Ding Dong Dell em busca de mais dados de criaturas.
 Derwin pediu para você derrotar o fug imundo que ronda o Parque de Jack Frost.
@@ -30981,55 +30823,44 @@ Derwin pediu para você derrotar o collum áurico que patrulha os Degraus do Gê
 Você derrotou o collum áurico nos Degraus do Gênio, conforme solicitado por Derwin.
 Derwin pediu para você derrotar o shellmet que reside na ilha de No Longer Mine, ao sul de Outonia.
 Você derrotou o shellmet na ilha de No Longer Mine, conforme solicitado por Derwin.
-Missão concluída!
 Dizem que uma jovem em Enseada Naufrágio tem um grande interesse em todas as coisas de alquimia.
 Uma jovem em Enseada Naufrágio leu sobre alquimia em um livro e adoraria ver alguns sendo executados.
 Uma jovem em Enseada Naufrágio pediu para você criar um cortador de velas em seu caldeirão e mostrá-lo a ela.
-Missão concluída!
 Aparentemente, alguns habitantes da floresta na parte sudeste da Costa dos Naufrágios são incríveis em alquimia.
 Os habitantes da floresta que vivem na Costa dos Naufrágios dizem que podem ensiná-lo a fazer uma lança real.
 Os habitantes da floresta que vivem na Costa dos Naufrágios contaram a você os materiais necessários para fazer uma lança real.
-Missão concluída!
 Dizem que um velho estranho habita uma caverna no topo dos Degraus do Gênio, a sudeste das Areias Cintilantes.
 Um velho que habita uma caverna no topo dos Degraus do Gênio diz que está disposto a ensinar a você algumas técnicas de alquimia avançadas.
 Um velho que habita uma caverna no topo dos Degraus do Gênio desafiou você a criar um machado de demônio em seu caldeirão.
 Um velho que habita uma caverna no topo dos Degraus do Gênio desafiou você a criar um machado do deus da guerra em seu caldeirão.
-Missão concluída!
 Um homem visitando Ding Dong Dell parece ter perdido algo importante.
 Um homem que visita Ding Dong Dell fica bastante perturbado depois de perder seu diário.
 O diário deve estar a noroeste de Ding Dong Dell, em uma ilha em um riacho que tem duas árvores crescendo nele.
 Um homem visitando Ding Dong Dell havia perdido seu diário, mas você o encontrou em Colinas Rolantes!
-Missão concluída!
 Um homem visitando Al Mamoon parece ter perdido algo importante.
 Um homem que visita Al Mamoon fica bastante perturbado depois de perder seu diário novamente.
 O diário deve estar debaixo de uma árvore perto do fundo do Velho Fumacento.
 Um homem visitando Al Mamoon perdeu seu diário, mas você o encontrou no sopé de Velho Fumacento!
-Missão concluída!
 Um homem visitando a Terra das Fadas parece ter perdido algo importante.
 Um homem que visita a Terra das Fadas fica bastante perturbado depois de perder seu diário mais uma vez.
 O diário deve estar perto de um grande pedaço de madeira flutuante dentro de uma caverna em algum lugar da ilha de Teeheeti.
 Um homem visitando a Terra das Fadas perdeu seu diário, mas você o encontrou em uma caverna na ilha de Teeheeti!
-Missão concluída!
 Um homem visitando Hamelin parece ter perdido algo importante.
 Um homem que visita Hamelin fica bastante perturbado depois de perder seu diário mais uma vez.
 O diário deve estar em alguns trilhos que levam a uma mina não muito longe da cidade de Hamelin.
 Um homem visitando Hamelin perdeu seu diário, mas você o encontrou na Pig Iron Plain!
-Missão concluída!
 Um homem visitando o Yule parece ter perdido algo importante.
 Um homem que visita o Yule fica bastante perturbado depois de perder seu diário pela enésima vez.
 diário deve estar em uma floresta em algum lugar a oeste de Yule.
 Um homem visitando o Yule perdeu seu diário, mas você o encontrou em uma floresta nas Ilhas do Inverno.
-Missão concluída!
 Um homem visitando Enseada Naufrágio parece ter perdido algo importante.
 Um homem visitando Enseada Naufrágio está bastante perturbado. Contra todas as expectativas, parece que ele perdeu seu diário.
 O diário está em uma terra desconhecida, próximo a um pequeno monumento de pedra perto de uma grande representação de uma caveira.
 Um homem visitando Enseada Naufrágio perdeu seu diário, mas você o encontrou em Nazcaa!
-Missão concluída!
 Um homem visitando Ding Dong Dell parece ter perdido algo importante novamente.
 Um homem que visita Ding Dong Dell fica bastante perturbado depois de perder seu diário estúpido. No entanto, isso poderia ter acontecido?
 O diário deve estar no fundo de uma floresta ao sul de Ding Dong Dell, perto de uma enorme porta.
 Um cavalheiro patologicamente distraído visitando Ding Dong Dell havia perdido seu diário, mas você o encontrou, para seu grande alívio.
-Missão concluída!
 Um personagem bastante curioso parece estar esperando por alguém em uma floresta ao sul de Ding Dong Dell.
 O Maestro está em uma floresta ao sul de Ding Dong Dell e tem algo importante para lhe contar.
 O Maestro pediu para você selar as brechas que surgiram ao redor do mundo. Mais informações podem ser encontradas em Soluções Rápidas.
@@ -31039,11 +30870,9 @@ Você derrotou os oito monstros que vieram das fendas sobre as quais o Maestro l
 O Maestro pediu para você selar a nova fenda que apareceu no mundo.
 Você derrotou o monstro que veio da fenda que o Maestro lhe contou.
 O Maestro pediu para você selar a fenda final.
-Você derrotou o monstro que veio da fenda que o Maestro lhe contou.
 O Maestro informou que o Guardião dos Mundos foi acordado.
 Você derrotou o Guardião dos Mundos!
 Maestro convidou você para ver o que está além da porta...
-Missão concluída!
 Uma nota foi afixada no Quadro de recados em cada filial da Soluções Rápidas, afirmando "Estou esperando no Ara Memoriae."
 Um fantasma de aparência sábia está esperando no Ara Memoriae. Parece que ele tem algo importante a dizer.
 Você conheceu o Sábio das Eras no Ara Memoriae, onde ele montou um quebra-cabeça para você.
@@ -31116,188 +30945,136 @@ Um monstro marinho conhecido por seu apetite voraz apareceu... Você deve restau
 Algumas pessoas relataram ter ouvido alguns cantos perturbadores no sopé de Velho Fumacento... Vá e investigue!
 Encontre o homem e pergunte o que há de errado.
 Encontre algum entusiasmo para consertar o coração partido do homem.
-Missão concluída!
 Encontre a mulher e pergunte o que há de errado.
 Restaure o entusiasmo perdido da mulher.
-Missão concluída!
 Vá e veja o que há de errado com o Sheik dos Temperos.
 Restaure seu entusiasmo e ouça o que ele tem a dizer.
-Missão concluída!
 Tente impedir os meninos de discutir.
 Restaure sua bondade e certifique-se de que ele devolva o livro.
-Missão concluída!
 Vá falar com o homem e pergunte o que há de errado.
 Restabeleça sua coragem para que ele possa seguir sua jornada.
-Missão concluída!
 Vá e veja o que há de errado com o pescador.
 Restaure sua coragem para que ele possa sair para pescar mais uma vez.
-Missão concluída!
 Vá falar com a mulher e veja o que há de errado.
 Restaure a contenção dela e a impeça de desperdiçar dinheiro.
-Missão concluída!
 Tente falar com a fada e veja o que ela tem a dizer.
 Restaure a gentileza da fada e faça um favor a seus clientes.
-Missão concluída!
 Vá e veja o que há de errado com a fada em questão.
 Restaure a contenção da fada e melhore seu tom cômico.
-Missão concluída!
 Vá falar com o jovem e pergunte o que há de errado.
 Restabeleça a bondade do homem para que ele possa continuar seu trabalho.
-Missão concluída!
 Vá e veja se você pode ajudar a aliviar a carga do homem.
 Dê a ele a coragem que ele precisa para propor!
-Missão concluída!
 Vá falar com o funcionário da loja e seu empregador.
 Restaurar sua contenção e impedi-lo de adormecer.
-Missão concluída!
 Vá e veja o que há de errado com o guarda.
 Restaure a crença do guarda e impeça que ele suspeite tanto.
-Missão concluída!
 Descubra o que há de errado com o pesquisador.
 Restaure sua crença para que ele possa confiar em seus assistentes novamente.
-Missão concluída!
 Vá e veja o que aconteceu com a garota.
 Restaure seu entusiasmo e ajude-a a aproveitar a escola novamente.
-Missão concluída!
 Vá e veja o que os soldados estão falando.
 Restaure sua coragem e torne-o um verdadeiro soldado mais uma vez.
-Missão concluída!
 Pergunte ao jovem o que o deixou tão preocupado.
 Restaurar sua crença e colocar sua mente à vontade.
-Missão concluída!
 Vá e veja sobre o que os irmãos estão discutindo.
 Restaure sua crença e impeça-o de deixar a aldeia.
-Missão concluída!
 Pergunte à garota grimalkin o que há de errado.
 Restaure sua bondade e ajude-a a fazer as pazes com sua amiga.
-Missão concluída!
 Vá e pergunte ao homem o que há de errado.
-Restaure sua contenção para que ele possa sair novamente.
-Missão concluída!
+Restaure sua contenção para que ele possa sair novamente.!
 Vá e pergunte ao jovem grimalkin o que há de errado.
 Restaurar sua confiança para que ele possa manter sua coroa.
-Missão concluída!
 Vá e pergunte ao artista o que há de errado.
 Dê a ele a confiança necessária para continuar pintando.
-Missão concluída!
 Vá e veja o que há de errado com o comediante em questão.
 Restaure a confiança dele e leve-o de volta ao palco.
-Missão concluída!
 Vá falar com o pesquisador e veja o que há de errado.
 Restaurar sua confiança para que sua pesquisa possa continuar.
-Missão concluída!
 Vá e veja o que há de errado com o fazendeiro.
 Restaure seu amor e faça-o cultivar babanas mais uma vez.
-Missão concluída!
 Vá e pergunte à jovem o que há de errado.
 Restaure seu amor e salve seu relacionamento!
-Missão concluída!
 Vá e veja o que há de errado com o animal em questão.
 Restaure o amor do cachorro e reacenda sua lealdade.
-Missão concluída!
 Vá e veja sobre o que o casal está discutindo.
 Restaure seu amor para que ele possa ser um bom pai mais uma vez.
-Missão concluída!
 Ofereça algum incentivo ao aspirante a músico.
 Restaure sua ambição e diga a ela para seguir seus sonhos!
-Missão concluída!
 Vá falar com o pescador e veja o que há de errado.
 Restaure sua ambição para que ele possa sonhar alto mais uma vez.
-Missão concluída!
 Vá falar com o pesquisador e pergunte o que há de errado.
 Restaurar sua ambição para que ele possa retomar sua pesquisa.
-Missão concluída!
 Vá falar com o pastor llapaca em questão.
 Restaurar a ambição perdida do pastor llapaca.
-Missão concluída!
 Fale com os comerciantes e pergunte o que há de errado.
 Restaurar seu entusiasmo e trazê-lo para seus sentidos.
-Missão concluída!
 Fale com os comerciantes novamente e veja o que está acontecendo.
 Restaure sua bondade e acabe com seu reinado de terror!
-Missão concluída!
 Vá e veja o que está acontecendo com os mercadores desta vez.
 Restabeleça sua coragem e permita que sua jornada continue.
-Missão concluída!
 Vá falar com os mercadores em Hamelin.
 Restaure a contenção perdida antes que ela exploda!
-Missão concluída!
 Vá e tenha outra conversa com os mercadores...
 Restaure sua crença para que ele possa confiar nas pessoas mais uma vez.
-Missão concluída!
 Você sabe o que fazer...
 Restaurar sua confiança e aliviar suas ansiedades.
-Missão concluída!
 Vá e veja o que é desta vez...
 Restaure seu amor e salve seu casamento.
-Missão concluída!
 Vá falar com os mercadores.<NL>Pela última vez, com certeza...
 Um conjunto completo de virtudes perdidas!<NL>Restaure sua ambição!
-Missão concluída!
 Vá e veja o que há de errado com o grimalkin.
 Pergunte ao grimalkin o que ela quer que você faça.
 Procure o brinco perdido e devolva-o ao seu dono.
-Missão concluída!
 Vá e veja o que está incomodando o grimalkin.
 Concorde em ajudar o grimalkin.
 Pegue duas flores de erva-doce e duas bottles of água de nascente.
-Missão concluída!
 Vá falar com a mãe em questão.
 Concorde em ajudar a mãe.
 Encontre as três crianças desaparecidas.
 Encontre as outras duas crianças desaparecidas.
 Encontre a última criança desaparecida.
 Diga à mãe que você encontrou seus filhos desaparecidos.
-Missão concluída!
 Descubra o que está incomodando o morador da floresta.
 Concorde em ajudar a derrotar os rinocerontes.
 Derrote todos os cinco rinocerontes.
 Derrote os rinocerontes <quest_exb009:qs0004> restantes.
 Derrote o rinobroca restante.
 Diga a ele que os rinocerontes foram derrotados.
-Missão concluída!
 Vá e veja o que está incomodando a mulher.
 Concorda em entregar a cesta de almoço do marido para ele.
 Entregue a cesta de almoço dos amantes em Bosque Dourado.
 Informe a ela que a cesta de almoço foi entregue.
-Missão concluída!
 Vá e ouça o que o comerciante tem a dizer.
 Concorde em ajudar a resolver o problema do comerciante.
 Derrote dez cabeças de osso que vagam pelo deserto!
 Derrote <quest_exb009:qs0006> mais cabeçudos.
 Derrote <quest_exb009:qs0006> mais cabeçudo.
 Diga a ela que os cabeças-duras foram derrotados.
-Missão concluída!
 Vá e veja se o menino está bem.
 Concorde em procurar os pombos do menino.
 Encontre os pombos e diga-lhes para voltarem para o dono.
 Vá e encontre mais dois pombos.
 Vá e encontre mais um pombo.
 Diga ao menino que você encontrou todos os pombos desaparecidos.
-Missão concluída!
 Vá e pergunte ao dono da barraca de curry o que há de errado.
 Concorde em coletar ingredientes para o dono da barraca de curry.
 Reúna os três ingredientes necessários para fazer tikka mahala.
 Peça ao Sheik algumas de suas especiarias especiais.
 Dê a Raj os três ingredientes que você reuniu.
-Missão concluída!
 Vá e descubra o que o designer quer.
 Ouça o favor que o designer tem para lhe pedir.
 Derrote cactusos usando Nevasca e colete folhas de arco-íris.
-Missão concluída!
 Vá e descubra o que está incomodando o caranguejo azul.
 Concorde em ajudar o caranguejo azul.
 Vá para o leste e procure o amigo desaparecido do caranguejo.
 Entregue a mensagem do caranguejo para seu amigo.
-Missão concluída!
 Descubra o que deixou a fada tão perturbada.
 Encontre as três palhaçadas que a fada perdeu.
 Devolva os pastéis perdidos para a fada.
-Missão concluída!
 Descubra qual é o problema com a fada.
 Concorde em ajudar a fada que pegou um resfriado.
 Entregue os materiais solicitados à fada.
-Missão concluída!
 Descubra o que está incomodando a fada.
 Concorde em ajudar a fada problemática.
 Expulse todos os hiperjavalis da floresta.
@@ -31305,58 +31082,47 @@ Dirija outro <quest_exb009:qs0013> para fora da floresta.
 Informe a fada.
 Resgate a fada o mais rápido possível.
 Fale com a fada.
-Missão concluída!
 Vá e ouça o problema da mulher.
 Resolva o problema da mulher usando um de seus feitiços.
 Use um magia para fazer a flor desabrochar.
 Traga uma criatura parecida com o sol para ajudar a flor desabrochar.
-Missão concluída!
 Vá e conheça o pesquisador em questão.
 Concorde em ajudar o pesquisador com seu problema.
 Pegue o fungo de uma floresta a oeste de Hamelin.
 Troque uma "dor de car" pelo fungo do bem-estar.
 Entregue o fungo do bem-estar ao pesquisador em Hamelin.
-Missão concluída!
 Descubra o que está incomodando o pesquisador.
-Concorde em ajudar o pesquisador com seu problema.
 Afaste todos os quatro navios piratas.
 Afaste os três navios piratas restantes.
 Afaste os dois navios piratas restantes.
 Rapidamente, afaste o último navio pirata.
 Diga ao pesquisador que os navios foram afastados.
-Missão concluída!
 Converse com o mecânico e descubra o que há de errado.
 Concorde em ajudar a consertar o booster quebrado.
 Peça a Rusty para consertar o booster quebrado para você.
 Leve o novo booster de volta ao mecânico.
-Missão concluída!
 Vá para Skull Mountain e fale com o pirata do céu.
 Concorde em ajudar o pirata do céu com seu problema.
 Dê ao pirata do céu a pluma de rajada que ele pediu.
-Missão concluída!
 Vá e investigue a caverna em questão.
 Concorde em cuidar do taganso de estimação da garota.
 Mostre à garota que seu taganso atingiu o nível 40.
-Missão concluída!
 Vá para Yule e fale com a mulher.
 Ouça o pedido da mulher.
 Vá e fale com o designer em Enseada Naufrágio.
 Encontre a gaivota a oeste da Enseada Naufrágio.
 Dê o maiô para a mulher no Yule.
-Missão concluída!
 Vá e fale com o tomte em questão.
 Concorde em ajudar o tomte a encontrar seu filho.
 Reúna informações sobre a criança desaparecida do tomte.
 Vá para a Gruta Brilhante!
 Traga o menino tomte de volta para sua mãe.
-Missão concluída!
 Vá falar com a garota.
 Concorde em ajudar a garota.
 Vá para Motorville e pegue uma flor de uma garota local.
 Use um magia para restaurar a vida da flor murcha.
 Mostre a flor para a garota.
 Traga a flor de volta para a garota em Perdida.
-Missão concluída!
 Descubra o que há de errado com o velho.
 Concorde em ajudar o velho.
 Vá buscar uma compressa fria no Yule.
@@ -31364,43 +31130,33 @@ Derrote cinco esculumino usando uma lâmina flamejante.
 Derrote <quest_exb009:qs0023> mais esculumino.
 Reporte ao tomte.
 Leve a compressa fria para o velho em Perdida.
-Missão concluída!
 Faça uma visita à llapaca em questão.
 Concorde em ajudar a llapaca obcecada por comida.
 Dê à llapaca obcecada por comida uma babana.
 Dê à llapaca obcecada por comida um camarão brilhante.
 Dê à llapaca obcecada por comida uma trufa negra.
 Dê à llapaca obcecada por comida um rabanete de neve.
-Missão concluída!
 Descubra o que o porteiro perdeu.
 Concorde em ajudar o porteiro.
 Siga as pegadas e recupere os Bigodes do Gato.
 Traga os Bigodes do Gato de volta ao porteiro.
-Missão concluída!
 Vá falar com o pintor e descubra o que há de errado.
 Concorde em ajudar o pintor.
 Encontre "uma menina, selvagem como as colinas e florestas".
 Apresente o pintor à garota.
-Missão concluída!
 Descubra o que está incomodando o dono da barraca de curry.
 Concorde em ajudar a entregar alguns curry.
 Entregue um curry para o Sheik dos Temperos.
 Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry para o figurão da Enseada Naufrágio.
-Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry ao vendedor de tudo sob o sol.
-Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry para alguém que é só ossos.
-Diga a Raj que você entregou o curry com sucesso.
 Entregue um curry na floresta a oeste de Ding Dong Dell.
-Diga a Raj que você entregou o curry com sucesso.
-Missão concluída!
 Descubra por que o homem está tão sonolento.
 Concorde em ajudar o homem sonolento.
 Traga-lhe um sleep-be-gon conforme solicitado.
 Traga-lhe um cappuccino conforme solicitado.
 Traga a ele uma criatura adequada conforme solicitado.
-Missão concluída!
 Vá para Bosque Dourado e fale com a fada.
 Concorde em procurar seus amigos desaparecidos.
 Vá e procure a primeira fada desaparecida.
@@ -31408,7 +31164,6 @@ Vá e procure a segunda fada desaparecida.
 Vá e procure a terceira fada desaparecida.
 Vá e procure a quarta fada desaparecida.
 Vá e procure a quinta fada desaparecida.
-Missão concluída!
 Pergunte ao menino se você pode olhar o mapa do tesouro dele.
 Ofereça-se para investigar os locais no mapa.
 Pergunte às pessoas locais sobre os Náufragos Corsários.
@@ -31422,107 +31177,45 @@ Informe o garoto em Enseada Naufrágio.
 Decodifique o Nazcaan que foi escrito nos monumentos.
 Vá falar com Kublai Khan.
 Procure uma ilha que não pode ser alcançada de barco.
-Informe o garoto em Enseada Naufrágio.
-Missão concluída!
 Vá e veja o que o homem tem a dizer.
 Concorde em ajudar Derwin com sua pesquisa.
 Traga a Derwin as criaturas que ele pediu para ver.
-Missão concluída!
 Vá e veja o que Derwin tem a dizer.
-Concorde em ajudar Derwin com sua pesquisa.
-Traga a Derwin as criaturas que ele pediu para ver.
-Missão concluída!
-Vá e veja o que Derwin tem a dizer.
-Concorde em ajudar Derwin com sua pesquisa.
-Traga a Derwin as criaturas que ele pediu para ver.
-Missão concluída!
-Vá e veja o que Derwin tem a dizer.
-Concorde em ajudar Derwin com sua pesquisa.
-Traga a Derwin as criaturas que ele pediu para ver.
-Missão concluída!
-Vá e veja o que Derwin tem a dizer.
-Concorde em ajudar Derwin com sua pesquisa.
 Derrote o fug sujo.
 Reporte-se a Derwin.
 Derrote o collum áurico.
-Reporte-se a Derwin.
 Derrote o shellmet.
-Reporte-se a Derwin.
-Missão concluída!
-Vá falar com a garota.
 Concorde em mostrar à garota um pouco de alquimia.
 Crie um cortador de velas e mostre para a garota.
-Missão concluída!
 Vá e fale com os moradores da floresta.
 Aprenda a criar uma lança real em seu caldeirão.
 Crie uma lança real e mostre-a aos habitantes da floresta.
-Missão concluída!
 Vá e faça uma visita à caverna do velho.
 Aprenda técnicas alquimia com o Alquimista.
 Crie um machado de demônio e mostre-o ao Alquimista.
 Crie um machado do deus da guerra e mostre-o ao Alquimista.
-Missão concluída!
 Vá falar com o homem e veja o que ele perdeu.
 Concorde em procurar o diário perdido.
 Procure o diário no local indicado.
 Leve o diário de volta para o cavalheiro.
-Missão concluída!
+Concorde calmamente em procurar o diário perdido mais uma vez.
+Procure pelo maldito diário no local indicado.
+De quem era o diário mesmo? É melhor devolvê-lo, então...
 Vá falar com o homem e veja o que ele perdeu.
-Concorde em procurar o diário perdido.
-Procure o diário no local indicado.
-Leve o diário de volta para o cavalheiro.
-Missão concluída!
-Vá falar com o homem e veja o que ele perdeu.
-Concorde em procurar o diário perdido.
-Procure o diário no local indicado.
-Leve o diário de volta para o cavalheiro.
-Missão concluída!
-Vá falar com o homem e veja o que ele perdeu.
-Concorde em procurar o diário perdido.
-Procure o diário no local indicado.
-Leve o diário de volta para o cavalheiro.
-Missão concluída!
-Vá falar com o homem e veja o que ele perdeu.
-Concorde em procurar o diário perdido.
-Procure o diário no local indicado.
-Leve o diário de volta para o cavalheiro.
-Missão concluída!
-Vá falar com o homem e veja o que ele perdeu.
-Concorde em procurar o diário perdido.
-Procure o diário no local indicado.
-Leve o diário de volta para o cavalheiro.
-Missão concluída!
-Vá falar com o homem e veja o que ele perdeu.
-Calmamente, concorde em procurar o diário desaparecido mais uma vez.
-Procure o diário infernal no local indicado.
-De quem era o diário? Melhor devolver então...
-Missão concluída!
-Vá e fale com essa pessoa misteriosa.
-Concorde em ajudá-lo, se você quer saber a verdade...
+Concorde em ajudá-lo - se você quiser saber a verdade...
 Derrote os monstros que vêm das fendas.
 Reporte ao Condutor.
 Derrote os monstros que vêm das fendas.
-Reporte ao Condutor.
-Derrote o monstro que vem da fenda.
-Reporte ao Condutor.
-Derrote o monstro que vem da fenda.
-Reporte ao Condutor.
 Abra a porta e descubra o que está por trás dela!
-Reporte ao Condutor.
 Abra a porta novamente!
-Missão concluída!
 Vá ver quem está esperando no Ara Memoriae.
 Ouça o que Horace tem a dizer.
 Diga o nome da varinha que o Rei Mago selou.
 Vá e fale com o Sábio das Eras novamente.
 Nomeie a poderosa cobra que serviu ao Rei Mago.
-Vá e fale com o Sábio das Eras novamente.
 Digite o nome da pessoa cujo futuro está previsto.
-Vá e fale com o Sábio das Eras novamente.
 Decodifique a inscrição Nazcaan na varinha.
-Vá e fale com o Sábio das Eras novamente.
 Nomeie o livro que o Sábio das Eras escreveu.
-Missão concluída!
 Vá e fale com os cavaleiros.
 Concorde em ouvir o pedido dos cavaleiros.
 Encontre os quatro magicechs e derrote-os.
@@ -31533,13 +31226,10 @@ Informe os cavaleiros na Torre de Marfim.
 Derrote os três mestres magicech.
 Derrote os dois mestres mágicos restantes.
 Derrote o único mestre magimech restante.
-Informe os cavaleiros na Torre de Marfim.
-Missão concluída!
 Faça uma visita à loja de armas de Hilário e Zangado.
 Concorde em ajudar Hilário e Zangado.
 Vá e encontre algumas ideias para novas armas.
 Vá e encontre uma ideia para uma nova arma.
-Missão concluída!
 Sudeste de Ding Dong Dell (Terras do Verão)
 Norte de Bosque Dourado (The Colinas Rolantes, Terras do Verão)
 Nas Terras Altas ao Sul de Bosque Dourado (Terras do Verão)
@@ -31586,7 +31276,6 @@ Nos Pântanos de  Miasma (Outono)
 Em Nunca Mais (Outono)
 No Ara Memoriae (Nazcaa)
 Nas Mesas do Gigante (Terras do Verão)<NL>
-Na Ilha dos Cisnes (Norte das Terras do Verão)
 Perto do fuso (Outonia Oriental)<NL>
 Nas Montanhas Fumegantes (Terras do Verão)
 
@@ -32015,8 +31704,6 @@ Mau hálito
 Barragem de parafuso
 Viledriver
 Biolência
-Alakaz...um...
-Hubble-Bolha
 Varredura
 Desespero
 Fim do mundo
@@ -32032,13 +31719,11 @@ Pigshot
 Porcos
 Rolo de salsicha
 Sobras de Porco
-Al Khombo
 Chá de bebê
 Duplicata
 Parafuso Estelar
 Pilares da Escuridão
-Estrela caída
-Prometida Obscura
+Nightshade
 Chifres angustiantes
 Aniquilação
 Corrida Colérica
@@ -32050,13 +31735,9 @@ Suspiro de tristeza
 Olhar Perfurante
 Caos
 Choque
-Pilares da Escuridão
 Sobrecarga
 O grande divisor
-Lanterna maluca
-Pigshot
-Porcos
-Fatia e Dados
+Corte e Fatie
 Golpe Esmagador
 Rechonchudo
 Barriga Buster
@@ -32141,8 +31822,7 @@ Raio da vida
 Hora de brilhar
 Enligh<->dez
 Escuridão<->acena
-Ver estrelas
-Despeito
+Rancor
 Gotas Sonolentas
 Alma<->escudo
 Nuvem negra
@@ -32184,121 +31864,35 @@ Morto<->tiro
 Claro<->tiro
 Trishot
 Melodia Chirpy
-Estrela caída
-Anulação
-Cinzas da Ressurreição
-Ver estrelas
-Parafuso do azul
-Furtar
 Am<->nésia
-Círculos do inferno
-Explosão do além
-Parafuso do Julgamento
-Terra Infirma
-Tridente de fogo
 Absoluto<->luto Zero
 Vento<->queda
 Incrível<->Ulk
 Rato<->fogo
 Cauda<->giro
 Sempre<->lâmina
-Golpe Selvagem
-Coração duro
-Palava
 Devas<->tação
-Selo da Alma
-Mangual da cauda
 Rugido<->vulcânico
-Al Khombo
-Porco Salvo
-Canhão de gamão
 Dragão<->respiração
-Escamas de dragão
-Respiração vil
-Vile Rugido
-Chuva cruel
-Rancor
-Chuva de terror
-Nevasca Uivante
-Guarda glacial
-Pedra fria
 Golpe da<->Serpente
-Parafuso preto
 Respiração<->ardente
-Pira
-Solstício de inverno
-Vento Caiu
-Estrela Vespertina
-Explosão de Barril
 Em<->massacre
-Aegis Sombria
 Mega<->explosão
-Grilhão
 Presunto<->hack simulado
 Swash<->broquel
-Porco assado
 Fogo<->fluxo
-Breu
-Lanterna maluca
-Vaia!
-Abaixo
 Cabeça<->longa corrida
-Alvoroço
-Fumaça Suja
-A mente sobre a matéria
-Pesadelo
-Má vontade
 Alakaz...<->um...
-Hubble-Bolha
-Porco da estrada
-Exterminar
-Pilhagem
-Chocalho da morte
 Descanse<->menos sono
-Derramamento de óleo
-Mau hálito
-Barragem de parafuso
 Vil<->motorista
-Violência
-Alakaz...<->um...
-Hubble-Bolha
-Varredura
-Desespero
-Fim do mundo
-Rugido real
-Garras loucas
-Coceira Coceira
-Tapa de gato
-Bufo arrogante
-Corrida Real
-Huffy Huff
-Vaca voadora
-Pigshot
-Porcos
-Rolo de salsicha
-Sobras de Porco
-Al Khombo
-Chá de bebê
-Duplicata
-Parafuso Estelar
-Pilares da Escuridão
-Estrela caída
 Noite<->sombra
 Chifres<->angustiantes
 Aniquilação<->ação
 Ira<->Ataque total
-Gota Mortal
-Salto de fé
-Incitar
 Cofre<->Celestial
-suspiro de tristeza
 Olhar<->Penetrante
-Caos
 Choque<->explosão
-Pilares da Escuridão
 Sobre<->carga
-O grande divisor
-Lanterna maluca
 Porco<->tiro
 Porcos<->vão
 Força interior
@@ -32370,11 +31964,9 @@ Alô, alô, alô, jovem Oliver!<NL>Sou seu simpático representante do Repouso d
 Se algum de seus Familiares estiver se mostrando um fardo, avise-nos! Podemos levar até 400 dos pequenos malditos aos nossos cuidados!
 Também estamos aqui para todas as suas necessidades de conteúdo para download! Temos uma conexão discada super rápida direto para o outro mundo!
 E hoje, como visitante de primeira viagem, você tem direito a tudo que foi disponibilizado até agora, seu sortudo! Aproveite, aproveite, aproveite!
-Alô, alô, alô, jovem Oliver!<NL>Sou seu simpático representante do Repouso dos Familiares<NL>! Um prazer, tenho certeza!
 Conseguimos colocar as mãos em todo o conteúdo para download que você perdeu até agora, seu sortudo! Aproveite, aproveite, aproveite!
 Olá, olá, olá!<NL>Como posso ajudá-lo hoje?
 Olá, olá, olá!<NL>Sou seu simpático representante do Repouso dos Familiares<NL>! Um prazer, tenho certeza!
-Se algum de seus Familiares estiver se mostrando um fardo, avise-nos! Podemos levar até 400 dos pequenos malditos aos nossos cuidados!
 Hoje, como visitante pela primeira vez, você tem direito a um presente introdutório muito especial, seu sortudo! Aproveite, aproveite, aproveite!
 Alô, alô, alô, jovem Oliver!<NL>Você derrotou Shadar, não foi! Bom para você!
 Você deixou a porta entreaberta quando entrou na sala do trono, então dei uma espiada no corredor. Que batalha! Ora, eu quase morri de emoção!
@@ -32448,7 +32040,6 @@ Você cumpriu as condições da seguinte tarefa:<NL><QUEST_NAME:START_MSG_ARG1><
 [ico_coin] 1 guilder
 <ITEM_ICON> <NUM_I> <Cap><PLR_I_NAME>
 <ITEM_ICON> <Cap><INDEF_ART_SGL_I_NAME>
-Você ganhou a seguinte recompensa:<NL><QUEST_REWARD>
 Beleza! Parece que a porta da <color:#1>Sala Rosa</color> foi destrancada!
 Beleza! Parece que a porta da <color:#1>Sala Tulipa</color> foi destrancada!
 Beleza! Parece que a porta da <color:#1>Sala Narciso</color> foi destrancada!
@@ -32634,37 +32225,27 @@ Fibra mais fina
 Ops! Essa não é a resposta certa!
 Alface Crocante
 Alface
-Desculpe. Essa não é a resposta certa.
 5
-Desculpe. Essa não é a resposta certa.
 Flor de nevasca
 Flores de nevasca
-Desculpe. Essa não é a resposta certa.
 Jabal al-Dukhan
 Jabal Al Dukhan
 Velho Fumacento
-Desculpe. Essa não é a resposta certa.
 Invocar
-Desculpe. Essa não é a resposta certa.
-Robes de feiticeiro
-Robes de feiticeiros
-Roupas para magos
+Robes de Magos
+Robes de Magos
+Robes de Magos
 Não é isso...
 Estrela da Manhã
-Não é isso...
 Aapep
-Não é isso...
 Cassiopeia
 Pea
 A Bruxa Branca
-Bruxa branca
-Não é isso...
+Bruxa Branca
 TRAZER ESPERANÇA
 trazer esperança
 Traga Esperança
-Não é isso...
 Companheiro do Mago
-Não é isso...
 Decifre o código esculpido nos monumentos!
 Kublai 3
 Kublai Três
@@ -32690,7 +32271,6 @@ Libertar <DEF_ART_C_NAME>?
 <Cap><DEF_ART_C_NAME> se tornará seu familiar.<NL>Por favor, digite um nome.
 Tela de Repouso dos Familiares
 Tela de entrada de nome
-Dê ao seu familiar um nome de animal de estimação!
 Tem certeza de que está satisfeito com o nome <INPUT_NAME>?
 <PANDORA_REWARD>
 <buttonGuide>
@@ -32707,7 +32287,6 @@ Perdida
 Terra das Fadas
 A Floresta Tenebrosa Oculta
 Ding Dong bem
-Velho Fumacento
 O cofre das lágrimas
 A trilha da lápide
 A Gruta Brilhante
@@ -32721,25 +32300,17 @@ Montanha da Caveira
 O Serpe de Ferro
 Barriga da Múmia
 O Cassino da Cripta
-???
 Soluções Rápidas
 Camas de Gato
 Loja de Cawtermaster
 Hootique
-Camas de Gato
-o mercado negro
-Camas de Gato
+O Mercado Negro
 Mercante
-Camas de Gato
-Quadro de recados
+Quadro de Missões
 Caixa
 Raj Mahal
 Mem-O-Vision
 Hilário e Zangado
-Soluções Rápidas
-Loja de Cawtermaster
-Hootique
-???
 Gêngis
 Sr. Gêngis, senhor
 Shadar
@@ -32766,10 +32337,9 @@ Zangado
 Horace
 Sábio Supremo Solomon
 Jogador: {PLAYER_NAME}<NL>Nível de Oliver: {CHARA_LEVEL}<NL>Localização: {SAVE_PLACE}<NL>Meta atual: {PURPOSE}<NL>Tempo de jogo: {HH99:02}:{MM:02}<NL>{CLEAR}
-Nível do Oliver: {CHARA_LEVEL} Localização: {SAVE_PLACE}
-Nível de Oliver: {CHARA_LEVEL}<NL>Local: {SAVE_PLACE}<NL>Meta atual: {PURPOSE}<NL>Tempo de jogo: {HH99:02}:{MM:02}<NL>{CLEAR}
-★ Jogo salvo concluído
-Ni no Kuni Wrath of the White Witch™ Remastered
+Nível de Oliver: {CHARA_LEVEL}<NL>Localização: {SAVE_PLACE}<NL>Meta atual: {PURPOSE}<NL>Tempo de jogo: {HH99:02}:{MM:02}<NL>{CLEAR}
+★ Salvamento de Jogo Concluído
+Ni no Kuni: A Ira da Bruxa Branca
 Novos dados salvos
 Esses dados salvos pertencem a outro usuário.<NL>Se você continuar, não poderá salvar seu progresso.<NL>Além disso, troféus não podem ser ganhos e conteúdo online não pode ser acessado ao jogar um jogo usando os dados salvos de outro usuário.
 Esses dados salvos são para uma versão diferente do jogo.
@@ -32794,11 +32364,8 @@ Você não tem os direitos corretos para acessar este jogo, portanto não pode c
 Os dados do jogo não foram instalados corretamente.<NL>Pressione o botão PS para fechar o jogo.
 Não há espaço livre suficiente na unidade de disco rígido. Atualmente, há {NOW_SIZE}{NOW_UNIT} de espaço livre, mas pelo menos {NEED_SIZE}{NEED_UNIT} de espaço livre é necessário para jogar.<NL>Pressione o botão PS para fechar o jogo e exclua alguns dados indesejados.
 Falha na instalação.<NL>Os dados podem estar corrompidos.<NL>Pressione o botão PS para fechar o jogo e exclua os dados do jogo antes de instalá-lo novamente.
-Download de dados do jogo em andamento. Aguarde até que o jogo esteja completamente instalado para prosseguir.
-Não há espaço livre suficiente na unidade de disco rígido. Atualmente, há {NOW_SIZE}{NOW_UNIT} de espaço livre, mas pelo menos {NEED_SIZE}{NEED_UNIT} de espaço livre é necessário para jogar.<NL>Pressione o botão PS para fechar o jogo e exclua alguns dados indesejados.
-carregando dados do troféu...
+Carregando dados do troféu...
 Ocorreu um erro ao carregar os dados do troféu.
-Ni no Kuni Wrath of the White Witch™ Remastered
 Não há espaço livre suficiente na unidade de disco rígido.<NL>Pelo menos {NEED_SIZE}{NEED_UNIT} de espaço livre é necessário para jogar.<NL>Pressione o botão PS para fechar o jogo e exclua alguns dados indesejados .
 Conectando...
 [ico_war]Não foi possível estabelecer uma conexão.
@@ -32809,7 +32376,6 @@ Nenhum novo conteúdo foi encontrado.
 <color:472100>A próxima data de atualização de conteúdo ainda não está definida.</color>
 <color:472100>Atualmente não há planos para oferecer novos conteúdos para este jogo.</color>
 Conteúdo fornecido em <month>/<day>/<year>
-Nenhum novo conteúdo foi encontrado.
 <VAL_STR><VAL_SKI><VAL_DEF><VAL_TOU><VAL_AGI><VAL_DEX>
 <PARAM_ICO>+<NUM_VAL><space:6>
 <PARAM_ICO><color:DF4545>-<NUM_VAL></color><space:6>
